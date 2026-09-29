@@ -1,0 +1,2595 @@
+{
+ "id": "cf",
+ "sigla": "CF",
+ "nome": "Constituição Federal",
+ "norma": "Constituição da República Federativa do Brasil de 1988",
+ "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+ "urn": "urn:lex:br:federal:constituicao:1988-10-05;1988",
+ "verificado_em": "2026-09-29T11:17:48+00:00",
+ "fonte": "Planalto",
+ "fonte_dados": "https://tchunarus.github.io/mapa-normativo/data/diplomas/cf.json",
+ "capturado_em": "2026-09-29T12:14:39+00:00",
+ "sha256": "c166325071dbfde860f581c1ab951af50864e698c4cc5ebeb0e533e7df486d86",
+ "artigos": {
+  "14": {
+   "r": "Art. 14",
+   "h": "TÍTULO II Dos Direitos e Garantias Fundamentais › CAPÍTULO IV DOS DIREITOS POLÍTICOS",
+   "l": [
+    [
+     "Art. 14. A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:",
+     ""
+    ],
+    [
+     "I - plebiscito;",
+     ""
+    ],
+    [
+     "II - referendo;",
+     ""
+    ],
+    [
+     "III - iniciativa popular.",
+     ""
+    ],
+    [
+     "§ 1º O alistamento eleitoral e o voto são:",
+     ""
+    ],
+    [
+     "I - obrigatórios para os maiores de dezoito anos;",
+     ""
+    ],
+    [
+     "II - facultativos para:",
+     ""
+    ],
+    [
+     "a) os analfabetos;",
+     ""
+    ],
+    [
+     "b) os maiores de setenta anos;",
+     ""
+    ],
+    [
+     "c) os maiores de dezesseis e menores de dezoito anos.",
+     ""
+    ],
+    [
+     "§ 2º Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.",
+     ""
+    ],
+    [
+     "§ 3º São condições de elegibilidade, na forma da lei:",
+     ""
+    ],
+    [
+     "I - a nacionalidade brasileira;",
+     ""
+    ],
+    [
+     "II - o pleno exercício dos direitos políticos;",
+     ""
+    ],
+    [
+     "III - o alistamento eleitoral;",
+     ""
+    ],
+    [
+     "IV - o domicílio eleitoral na circunscrição;",
+     ""
+    ],
+    [
+     "V - a filiação partidária; Regulamento",
+     ""
+    ],
+    [
+     "VI - a idade mínima de:",
+     ""
+    ],
+    [
+     "a) trinta e cinco anos para Presidente e Vice-Presidente da República e Senador;",
+     ""
+    ],
+    [
+     "b) trinta anos para Governador e Vice-Governador de Estado e do Distrito Federal;",
+     ""
+    ],
+    [
+     "c) vinte e um anos para Deputado Federal, Deputado Estadual ou Distrital, Prefeito, Vice-Prefeito e juiz de paz;",
+     ""
+    ],
+    [
+     "d) dezoito anos para Vereador.",
+     ""
+    ],
+    [
+     "§ 4º São inelegíveis os inalistáveis e os analfabetos.",
+     ""
+    ],
+    [
+     "§ 5º O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um único período subseqüente.",
+     "Redação dada pela Emenda Constitucional nº 16, de 1997"
+    ],
+    [
+     "§ 6º Para concorrerem a outros cargos, o Presidente da República, os Governadores de Estado e do Distrito Federal e os Prefeitos devem renunciar aos respectivos mandatos até seis meses antes do pleito.",
+     ""
+    ],
+    [
+     "§ 7º São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consangüíneos ou afins, até o segundo grau ou por adoção, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído dentro dos seis meses anteriores ao pleito, salvo se já titular de mandato eletivo e candidato à reeleição.",
+     ""
+    ],
+    [
+     "§ 8º O militar alistável é elegível, atendidas as seguintes condições:",
+     ""
+    ],
+    [
+     "I - se contar menos de dez anos de serviço, deverá afastar-se da atividade;",
+     ""
+    ],
+    [
+     "II - se contar mais de dez anos de serviço, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade.",
+     ""
+    ],
+    [
+     ".",
+     ""
+    ],
+    [
+     "§ 9º Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa, a moralidade para exercício de mandato considerada vida pregressa do candidato, e a normalidade e legitimidade das eleições contra a influência do poder econômico ou o abuso do exercício de função, cargo ou emprego na administração direta ou indireta.",
+     "Redação dada pela Emenda Constitucional de Revisão nº 4, de 1994"
+    ],
+    [
+     "§ 10 - O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude.",
+     ""
+    ],
+    [
+     "§ 11 - A ação de impugnação de mandato tramitará em segredo de justiça, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé.",
+     ""
+    ],
+    [
+     "§ 12. Serão realizadas concomitantemente às eleições municipais as consultas populares sobre questões locais aprovadas pelas Câmaras Municipais e encaminhadas à Justiça Eleitoral até 90 (noventa) dias antes da data das eleições, observados os limites operacionais relativos ao número de quesitos.",
+     "Incluído pela Emenda Constitucional nº 111, de 2021"
+    ],
+    [
+     "§ 13. As manifestações favoráveis e contrárias às questões submetidas às consultas populares nos termos do § 12 ocorrerão durante as campanhas eleitorais, sem a utilização de propaganda gratuita no rádio e na televisão.",
+     "Incluído pela Emenda Constitucional nº 111, de 2021"
+    ]
+   ],
+   "rev": false,
+   "hash": "7691ddddba83"
+  },
+  "144": {
+   "r": "Art. 144",
+   "h": "TÍTULO V Da Defesa do Estado e Das Instituições Democráticas › CAPÍTULO III DA SEGURANÇA PÚBLICA",
+   "l": [
+    [
+     "Art. 144. A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos:",
+     ""
+    ],
+    [
+     "I - polícia federal;",
+     ""
+    ],
+    [
+     "II - polícia rodoviária federal;",
+     ""
+    ],
+    [
+     "III - polícia ferroviária federal;",
+     ""
+    ],
+    [
+     "IV - polícias civis;",
+     ""
+    ],
+    [
+     "V - polícias militares e corpos de bombeiros militares.",
+     ""
+    ],
+    [
+     "VI - polícias penais federal, estaduais e distrital.",
+     "Redação dada pela Emenda Constitucional nº 104, de 2019"
+    ],
+    [
+     "§ 1º A polícia federal, instituída por lei como órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se a:",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "I - apurar infrações penais contra a ordem política e social ou em detrimento de bens, serviços e interesses da União ou de suas entidades autárquicas e empresas públicas, assim como outras infrações cuja prática tenha repercussão interestadual ou internacional e exija repressão uniforme, segundo se dispuser em lei;",
+     ""
+    ],
+    [
+     "II - prevenir e reprimir o tráfico ilícito de entorpecentes e drogas afins, o contrabando e o descaminho, sem prejuízo da ação fazendária e de outros órgãos públicos nas respectivas áreas de competência;",
+     ""
+    ],
+    [
+     "III - exercer as funções de polícia marítima, aeroportuária e de fronteiras;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "IV - exercer, com exclusividade, as funções de polícia judiciária da União.",
+     ""
+    ],
+    [
+     "§ 2º A polícia rodoviária federal, órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se, na forma da lei, ao patrulhamento ostensivo das rodovias federais.",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     ".",
+     ""
+    ],
+    [
+     "§ 3º A polícia ferroviária federal, órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se, na forma da lei, ao patrulhamento ostensivo das ferrovias federais.",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 4º Às polícias civis, dirigidas por delegados de polícia de carreira, incumbem, ressalvada a competência da União, as funções de polícia judiciária e a apuração de infrações penais, exceto as militares.",
+     ""
+    ],
+    [
+     "§ 5º Às polícias militares cabem a polícia ostensiva e a preservação da ordem pública; aos corpos de bombeiros militares, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil.",
+     ""
+    ],
+    [
+     "§ 5º-A. Às polícias penais, vinculadas ao órgão administrador do sistema penal da unidade federativa a que pertencem, cabe a segurança dos estabelecimentos penais.",
+     "Redação dada pela Emenda Constitucional nº 104, de 2019"
+    ],
+    [
+     "§ 6º As polícias militares e os corpos de bombeiros militares, forças auxiliares e reserva do Exército subordinam-se, juntamente com as polícias civis e as polícias penais estaduais e distrital, aos Governadores dos Estados, do Distrito Federal e dos Territórios.",
+     "Redação dada pela Emenda Constitucional nº 104, de 2019"
+    ],
+    [
+     "§ 7º A lei disciplinará a organização e o funcionamento dos órgãos responsáveis pela segurança pública, de maneira a garantir a eficiência de suas atividades. Vigência",
+     "Vide Lei nº 13.675, de 2018"
+    ],
+    [
+     "§ 8º Os Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei.",
+     "Vide Lei nº 13.022, de 2014"
+    ],
+    [
+     "§ 9º A remuneração dos servidores policiais integrantes dos órgãos relacionados neste artigo será fixada na forma do § 4º do art. 39.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 10. A segurança viária, exercida para a preservação da ordem pública e da incolumidade das pessoas e do seu patrimônio nas vias públicas:",
+     "Incluído pela Emenda Constitucional nº 82, de 2014"
+    ],
+    [
+     "I - compreende a educação, engenharia e fiscalização de trânsito, além de outras atividades previstas em lei, que assegurem ao cidadão o direito à mobilidade urbana eficiente; e",
+     "Incluído pela Emenda Constitucional nº 82, de 2014"
+    ],
+    [
+     "II - compete, no âmbito dos Estados, do Distrito Federal e dos Municípios, aos respectivos órgãos ou entidades executivos e seus agentes de trânsito, estruturados em Carreira, na forma da lei.",
+     "Incluído pela Emenda Constitucional nº 82, de 2014"
+    ]
+   ],
+   "rev": false,
+   "hash": "34ff275dcf2c"
+  },
+  "150": {
+   "r": "Art. 150",
+   "h": "TÍTULO VI Da Tributação e do Orçamento › CAPÍTULO I DO SISTEMA TRIBUTÁRIO NACIONAL › Seção II DAS LIMITAÇÕES DO PODER DE TRIBUTAR",
+   "l": [
+    [
+     "Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:",
+     ""
+    ],
+    [
+     "I - exigir ou aumentar tributo sem lei que o estabeleça;",
+     ""
+    ],
+    [
+     "II - instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos;",
+     ""
+    ],
+    [
+     "III - cobrar tributos:",
+     ""
+    ],
+    [
+     "a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado;",
+     ""
+    ],
+    [
+     "b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou;",
+     "Vide Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea b;",
+     "Incluído pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "IV - utilizar tributo com efeito de confisco;",
+     ""
+    ],
+    [
+     "V - estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público;",
+     ""
+    ],
+    [
+     "VI - instituir impostos sobre:",
+     "Vide Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "a) patrimônio, renda ou serviços, uns dos outros;",
+     ""
+    ],
+    [
+     "b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes;",
+     "Redação dada pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "c) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei;",
+     ""
+    ],
+    [
+     "d) livros, jornais, periódicos e o papel destinado a sua impressão.",
+     ""
+    ],
+    [
+     "e) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a laser.",
+     "Incluída pela Emenda Constitucional nº 75, de 15.10.2013"
+    ],
+    [
+     "§ 1º A vedação do inciso III, b, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, IV e V; e 154, II; e a vedação do inciso III, c, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, III e V; e 154, II, nem à fixação da base de cálculo dos impostos previstos nos arts. 155, III, e 156, I.",
+     "Redação dada pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "§ 2º A vedação do inciso VI, \"a\", é extensiva às autarquias e às fundações instituídas e mantidas pelo poder público e à empresa pública prestadora de serviço postal, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes.",
+     "Redação dada pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "§ 3º - As vedações do inciso VI, \"a\", e do parágrafo anterior não se aplicam ao patrimônio, à renda e aos serviços, relacionados com exploração de atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados, ou em que haja contraprestação ou pagamento de preços ou tarifas pelo usuário, nem exonera o promitente comprador da obrigação de pagar imposto relativamente ao bem imóvel.",
+     ""
+    ],
+    [
+     "§ 4º - As vedações expressas no inciso VI, alíneas \"b\" e \"c\", compreendem somente o patrimônio, a renda e os serviços, relacionados com as finalidades essenciais das entidades nelas mencionadas.",
+     ""
+    ],
+    [
+     "§ 5º - A lei determinará medidas para que os consumidores sejam esclarecidos acerca dos impostos que incidam sobre mercadorias e serviços.",
+     ""
+    ],
+    [
+     "§ 6º Qualquer subsídio ou isenção, redução de base de cálculo, concessão de crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições, só poderá ser concedido mediante lei específica, federal, estadual ou municipal, que regule exclusivamente as matérias acima enumeradas ou o correspondente tributo ou contribuição, sem prejuízo do disposto no art. 155, § 2.º, XII, g.",
+     "Redação dada pela Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "§ 7º A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido.",
+     "Incluído pela Emenda Constitucional nº 3, de 1993"
+    ]
+   ],
+   "rev": false,
+   "hash": "8af4eb3f0f49"
+  },
+  "153": {
+   "r": "Art. 153",
+   "h": "TÍTULO VI Da Tributação e do Orçamento › CAPÍTULO I DO SISTEMA TRIBUTÁRIO NACIONAL › Seção III DOS IMPOSTOS DA UNIÃO",
+   "l": [
+    [
+     "Art. 153. Compete à União instituir impostos sobre:",
+     ""
+    ],
+    [
+     "I - importação de produtos estrangeiros;",
+     ""
+    ],
+    [
+     "II - exportação, para o exterior, de produtos nacionais ou nacionalizados;",
+     ""
+    ],
+    [
+     "III - renda e proventos de qualquer natureza;",
+     ""
+    ],
+    [
+     "IV - produtos industrializados;",
+     ""
+    ],
+    [
+     "V - operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários;",
+     ""
+    ],
+    [
+     "VI - propriedade territorial rural;",
+     ""
+    ],
+    [
+     "VII - grandes fortunas, nos termos de lei complementar.",
+     ""
+    ],
+    [
+     "VIII - produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, nos termos de lei complementar.",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "§ 1º É facultado ao Poder Executivo, atendidas as condições e os limites estabelecidos em lei, alterar as alíquotas dos impostos enumerados nos incisos I, II, IV e V.",
+     ""
+    ],
+    [
+     "§ 2º O imposto previsto no inciso III:",
+     ""
+    ],
+    [
+     "I - será informado pelos critérios da generalidade, da universalidade e da progressividade, na forma da lei;",
+     ""
+    ],
+    [
+     ".",
+     "Revogado pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "§ 3º O imposto previsto no inciso IV:",
+     ""
+    ],
+    [
+     "I - será seletivo, em função da essencialidade do produto;",
+     ""
+    ],
+    [
+     "II - será não-cumulativo, compensando-se o que for devido em cada operação com o montante cobrado nas anteriores;",
+     ""
+    ],
+    [
+     "III - não incidirá sobre produtos industrializados destinados ao exterior.",
+     ""
+    ],
+    [
+     "IV - terá reduzido seu impacto sobre a aquisição de bens de capital pelo contribuinte do imposto, na forma da lei.",
+     "Incluído pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "§ 4º O imposto previsto no inciso VI do capu t:",
+     "Redação dada pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "I - será progressivo e terá suas alíquotas fixadas de forma a desestimular a manutenção de propriedades improdutivas;",
+     "Incluído pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "II - não incidirá sobre pequenas glebas rurais, definidas em lei, quando as explore o proprietário que não possua outro imóvel;",
+     "Incluído pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "III - será fiscalizado e cobrado pelos Municípios que assim optarem, na forma da lei, desde que não implique redução do imposto ou qualquer outra forma de renúncia fiscal.",
+     "Incluído pela Emenda Constitucional nº 42, de 19.12.2003; Regulamento"
+    ],
+    [
+     "§ 5º O ouro, quando definido em lei como ativo financeiro ou instrumento cambial, sujeita-se exclusivamente à incidência do imposto de que trata o inciso V do \"caput\" deste artigo, devido na operação de origem; a alíquota mínima será de um por cento, assegurada a transferência do montante da arrecadação nos seguintes termos:",
+     "Vide Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "I - trinta por cento para o Estado, o Distrito Federal ou o Território, conforme a origem;",
+     ""
+    ],
+    [
+     "II - setenta por cento para o Município de origem.",
+     ""
+    ],
+    [
+     "§ 6º O imposto previsto no inciso VIII do caput deste artigo:",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "I - não incidirá sobre as exportações nem sobre as operações com energia elétrica e com telecomunicações;",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "II - incidirá uma única vez sobre o bem ou serviço;",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "III - não integrará sua própria base de cálculo;",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "IV - integrará a base de cálculo dos tributos previstos nos arts. 155, II, 156, III, 156-A e 195, V;",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "V - poderá ter o mesmo fato gerador e base de cálculo de outros tributos;",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "VI - terá suas alíquotas fixadas em lei ordinária, podendo ser específicas, por unidade de medida adotada, ou ad valorem;",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "VII - na extração, o imposto será cobrado independentemente da destinação, caso em que a alíquota máxima corresponderá a 1% (um por cento) do valor de mercado do produto.",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ]
+   ],
+   "rev": false,
+   "hash": "04c883e2e43d"
+  },
+  "155": {
+   "r": "Art. 155",
+   "h": "TÍTULO VI Da Tributação e do Orçamento › CAPÍTULO I DO SISTEMA TRIBUTÁRIO NACIONAL › Seção IV DOS IMPOSTOS DOS ESTADOS E DO DISTRITO FEDERAL",
+   "l": [
+    [
+     "Art. 155. Compete aos Estados e ao Distrito Federal instituir impostos sobre:",
+     "Redação dada pela Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "I - transmissão causa mortis e doação, de quaisquer bens ou direitos;",
+     "Redação dada pela Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "II - operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior; Vigência",
+     "Redação dada pela Emenda Constitucional nº 3, de 1993; Vide Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "III - propriedade de veículos automotores.",
+     "Redação dada pela Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "§ 1º O imposto previsto no inciso I:",
+     "Redação dada pela Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "I - relativamente a bens imóveis e respectivos direitos, compete ao Estado da situação do bem, ou ao Distrito Federal;",
+     ""
+    ],
+    [
+     "II - relativamente a bens móveis, títulos e créditos, compete ao Estado onde era domiciliado ode cujus, ou tiver domicílio o doador, ou ao Distrito Federal;",
+     "Redação dada pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "III - terá competência para sua instituição regulada por lei complementar:",
+     ""
+    ],
+    [
+     "a) se o doador tiver domicilio ou residência no exterior;",
+     ""
+    ],
+    [
+     "b) se o de cujus possuía bens, era residente ou domiciliado ou teve o seu inventário processado no exterior;",
+     ""
+    ],
+    [
+     "IV - terá suas alíquotas máximas fixadas pelo Senado Federal;",
+     ""
+    ],
+    [
+     "V - não incidirá sobre as doações destinadas, no âmbito do Poder Executivo da União, a projetos socioambientais ou destinados a mitigar os efeitos das mudanças climáticas e às instituições federais de ensino.",
+     "Incluído pela Emenda Constituicional nº 126, de 2022"
+    ],
+    [
+     "VI - será progressivo em razão do valor do quinhão, do legado ou da doação;",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "VII - não incidirá sobre as transmissões e as doações para as instituições sem fins lucrativos com finalidade de relevância pública e social, inclusive as organizações assistenciais e beneficentes de entidades religiosas e institutos científicos e tecnológicos, e por elas realizadas na consecução dos seus objetivos sociais, observadas as condições estabelecidas em lei complementar.",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "§ 2º",
+     ""
+    ],
+    [
+     "§ 2º O imposto previsto no inciso II atenderá ao seguinte: Vigência",
+     "Redação dada pela Emenda Constitucional nº 3, de 1993; Vide Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "I - será não-cumulativo, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços com o montante cobrado nas anteriores pelo mesmo ou outro Estado ou pelo Distrito Federal;",
+     ""
+    ],
+    [
+     "II - a isenção ou não-incidência, salvo determinação em contrário da legislação:",
+     ""
+    ],
+    [
+     "a) não implicará crédito para compensação com o montante devido nas operações ou prestações seguintes;",
+     ""
+    ],
+    [
+     "b) acarretará a anulação do crédito relativo às operações anteriores;",
+     ""
+    ],
+    [
+     "III - poderá ser seletivo, em função da essencialidade das mercadorias e dos serviços;",
+     ""
+    ],
+    [
+     "IV - resolução do Senado Federal, de iniciativa do Presidente da República ou de um terço dos Senadores, aprovada pela maioria absoluta de seus membros, estabelecerá as alíquotas aplicáveis às operações e prestações, interestaduais e de exportação;",
+     ""
+    ],
+    [
+     "V - é facultado ao Senado Federal:",
+     ""
+    ],
+    [
+     "a) estabelecer alíquotas mínimas nas operações internas, mediante resolução de iniciativa de um terço e aprovada pela maioria absoluta de seus membros;",
+     ""
+    ],
+    [
+     "b) fixar alíquotas máximas nas mesmas operações para resolver conflito específico que envolva interesse de Estados, mediante resolução de iniciativa da maioria absoluta e aprovada por dois terços de seus membros;",
+     ""
+    ],
+    [
+     "VI - salvo deliberação em contrário dos Estados e do Distrito Federal, nos termos do disposto no inciso XII, \"g\", as alíquotas internas, nas operações relativas à circulação de mercadorias e nas prestações de serviços, não poderão ser inferiores às previstas para as operações interestaduais;",
+     ""
+    ],
+    [
+     "VII - nas operações e prestações que destinem bens e serviços a consumidor final, contribuinte ou não do imposto, localizado em outro Estado, adotar-se-á a alíquota interestadual e caberá ao Estado de localização do destinatário o imposto correspondente à diferença entre a alíquota interna do Estado destinatário e a alíquota interestadual;",
+     "Redação dada pela Emenda Constitucional nº 87, de 2015; Produção de efeito"
+    ],
+    [
+     "a) (revogada);",
+     "Redação dada pela Emenda Constitucional nº 87, de 2015"
+    ],
+    [
+     "b) (revogada);",
+     "Redação dada pela Emenda Constitucional nº 87, de 2015"
+    ],
+    [
+     "VIII - a responsabilidade pelo recolhimento do imposto correspondente à diferença entre a alíquota interna e a interestadual de que trata o inciso VII será atribuída:",
+     "Redação dada pela Emenda Constitucional nº 87, de 2015; Produção de efeito"
+    ],
+    [
+     "a) ao destinatário, quando este for contribuinte do imposto;",
+     "Incluído pela Emenda Constitucional nº 87, de 2015"
+    ],
+    [
+     "b) ao remetente, quando o destinatário não for contribuinte do imposto;",
+     "Incluído pela Emenda Constitucional nº 87, de 2015"
+    ],
+    [
+     "IX - incidirá também:",
+     ""
+    ],
+    [
+     "a) sobre a entrada de bem ou mercadoria importados do exterior por pessoa física ou jurídica, ainda que não seja contribuinte habitual do imposto, qualquer que seja a sua finalidade, assim como sobre o serviço prestado no exterior, cabendo o imposto ao Estado onde estiver situado o domicílio ou o estabelecimento do destinatário da mercadoria, bem ou serviço;",
+     "Redação dada pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "b) sobre o valor total da operação, quando mercadorias forem fornecidas com serviços não compreendidos na competência tributária dos Municípios;",
+     ""
+    ],
+    [
+     "X - não incidirá:",
+     ""
+    ],
+    [
+     "a) sobre operações que destinem mercadorias para o exterior, nem sobre serviços prestados a destinatários no exterior, assegurada a manutenção e o aproveitamento do montante do imposto cobrado nas operações e prestações anteriores;",
+     "Redação dada pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "b) sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia elétrica;",
+     ""
+    ],
+    [
+     "c) sobre o ouro, nas hipóteses definidas no art. 153, § 5º;",
+     ""
+    ],
+    [
+     "d) nas prestações de serviço de comunicação nas modalidades de radiodifusão sonora e de sons e imagens de recepção livre e gratuita;",
+     "Incluído pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "XI - não compreenderá, em sua base de cálculo, o montante do imposto sobre produtos industrializados, quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configure fato gerador dos dois impostos;",
+     ""
+    ],
+    [
+     "XII - cabe à lei complementar:",
+     ""
+    ],
+    [
+     "a) definir seus contribuintes;",
+     ""
+    ],
+    [
+     "b) dispor sobre substituição tributária;",
+     ""
+    ],
+    [
+     "c) disciplinar o regime de compensação do imposto;",
+     ""
+    ],
+    [
+     "d) fixar, para efeito de sua cobrança e definição do estabelecimento responsável, o local das operações relativas à circulação de mercadorias e das prestações de serviços;",
+     ""
+    ],
+    [
+     "e) excluir da incidência do imposto, nas exportações para o exterior, serviços e outros produtos além dos mencionados no inciso X, \"a\"",
+     ""
+    ],
+    [
+     "f) prever casos de manutenção de crédito, relativamente à remessa para outro Estado e exportação para o exterior, de serviços e de mercadorias;",
+     ""
+    ],
+    [
+     "g) regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados.",
+     ""
+    ],
+    [
+     "h) definir os combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese em que não se aplicará o disposto no inciso X, b ;",
+     "Incluída pela Emenda Constitucional nº 33, de 2001; Vide Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "i) fixar a base de cálculo, de modo que o montante do imposto a integre, também na importação do exterior de bem, mercadoria ou serviço.",
+     "Incluída pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "Vigência",
+     "Vide Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "§ 3º À exceção dos impostos de que tratam o inciso II do caput deste artigo e os arts. 153, I e II, e 156-A, nenhum outro imposto poderá incidir sobre operações relativas a energia elétrica e serviços de telecomunicações e, à exceção destes e do previsto no art. 153, VIII, nenhum outro imposto poderá incidir sobre operações relativas a derivados de petróleo, combustíveis e minerais do País.",
+     "Redação dada pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "§ 4º Na hipótese do inciso XII, h , observar-se-á o seguinte: Vigência",
+     "Incluído pela Emenda Constitucional nº 33, de 2001; Vide Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "I - nas operações com os lubrificantes e combustíveis derivados de petróleo, o imposto caberá ao Estado onde ocorrer o consumo;",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "II - nas operações interestaduais, entre contribuintes, com gás natural e seus derivados, e lubrificantes e combustíveis não incluídos no inciso I deste parágrafo, o imposto será repartido entre os Estados de origem e de destino, mantendo-se a mesma proporcionalidade que ocorre nas operações com as demais mercadorias;",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "III - nas operações interestaduais com gás natural e seus derivados, e lubrificantes e combustíveis não incluídos no inciso I deste parágrafo, destinadas a não contribuinte, o imposto caberá ao Estado de origem;",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "IV - as alíquotas do imposto serão definidas mediante deliberação dos Estados e Distrito Federal, nos termos do § 2º, XII, g , observando-se o seguinte:",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "a) serão uniformes em todo o território nacional, podendo ser diferenciadas por produto;",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "b) poderão ser específicas, por unidade de medida adotada, ou ad valorem , incidindo sobre o valor da operação ou sobre o preço que o produto ou seu similar alcançaria em uma venda em condições de livre concorrência;",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "c) poderão ser reduzidas e restabelecidas, não se lhes aplicando o disposto no art. 150, III, b .",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "§ 5º As regras necessárias à aplicação do disposto no § 4º, inclusive as relativas à apuração e à destinação do imposto, serão estabelecidas mediante deliberação dos Estados e do Distrito Federal, nos termos do § 2º, XII, g . Vigência",
+     "Incluído pela Emenda Constitucional nº 33, de 2001; Vide Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "§ 6º O imposto previsto no inciso III:",
+     "Incluído pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "I - terá alíquotas mínimas fixadas pelo Senado Federal;",
+     "Incluído pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "II - poderá ter alíquotas diferenciadas em função do tipo, do valor, da utilização e do impacto ambiental;",
+     "Redação dada pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "III - incidirá sobre a propriedade de veículos automotores terrestres, aquáticos e aéreos, excetuados:",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "a) aeronaves agrícolas e de operador certificado para prestar serviços aéreos a terceiros;",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "b) embarcações de pessoa jurídica que detenha outorga para prestar serviços de transporte aquaviário ou de pessoa física ou jurídica que pratique pesca industrial, artesanal, científica ou de subsistência;",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "c) plataformas suscetíveis de se locomoverem na água por meios próprios, inclusive aquelas cuja finalidade principal seja a exploração de atividades econômicas em águas territoriais e na zona econômica exclusiva e embarcações que tenham essa mesma finalidade principal;",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "d) tratores e máquinas agrícolas. e) veículos terrestres de passageiros, caminhonetes e mistos com 20 (vinte) anos ou mais de fabricação, excetuados os micro-ônibus, ônibus, reboques e semirreboques.",
+     "Incluído pela Emenda Constitucional nº 132, de 2023; Incluído pela Emenda Constitucional nº 137, de 2025"
+    ]
+   ],
+   "rev": false,
+   "hash": "c3593e6b50c5"
+  },
+  "156": {
+   "r": "Art. 156",
+   "h": "TÍTULO VI Da Tributação e do Orçamento › CAPÍTULO I DO SISTEMA TRIBUTÁRIO NACIONAL › Seção V DOS IMPOSTOS DOS MUNICÍPIOS",
+   "l": [
+    [
+     "Art. 156. Compete aos Municípios instituir impostos sobre:",
+     ""
+    ],
+    [
+     "I - propriedade predial e territorial urbana;",
+     ""
+    ],
+    [
+     "II - transmissão \"inter vivos\", a qualquer título, por ato oneroso, de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como cessão de direitos a sua aquisição;",
+     ""
+    ],
+    [
+     "III - serviços de qualquer natureza, não compreendidos no art. 155, II, definidos em lei complementar. Vigência",
+     "Redação dada pela Emenda Constitucional nº 3, de 1993; Vide Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "",
+     "Revogado pela Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "§ 1º Sem prejuízo da progressividade no tempo a que se refere o art. 182, § 4º, inciso II, o imposto previsto no inciso I poderá:",
+     "Redação dada pela Emenda Constitucional nº 29, de 2000"
+    ],
+    [
+     "I - ser progressivo em razão do valor do imóvel; e",
+     "Incluído pela Emenda Constitucional nº 29, de 2000"
+    ],
+    [
+     "II - ter alíquotas diferentes de acordo com a localização e o uso do imóvel.",
+     "Incluído pela Emenda Constitucional nº 29, de 2000"
+    ],
+    [
+     "III - ter sua base de cálculo atualizada pelo Poder Executivo, conforme critérios estabelecidos em lei municipal.",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "§ 1º-A O imposto previsto no inciso I do caput deste artigo não incide sobre templos de qualquer culto, ainda que as entidades abrangidas pela imunidade de que trata a alínea \"b\" do inciso VI do caput do art. 150 desta Constituição sejam apenas locatárias do bem imóvel.",
+     "Incluído pela Emenda Constitucional nº 116, de 2022"
+    ],
+    [
+     "§ 2º O imposto previsto no inciso II:",
+     ""
+    ],
+    [
+     "I - não incide sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital, nem sobre a transmissão de bens ou direitos decorrente de fusão, incorporação, cisão ou extinção de pessoa jurídica, salvo se, nesses casos, a atividade preponderante do adquirente for a compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento mercantil;",
+     ""
+    ],
+    [
+     "II - compete ao Município da situação do bem.",
+     ""
+    ],
+    [
+     "§ 3º Em relação ao imposto previsto no inciso III do caput deste artigo, cabe à lei complementar: Vigência",
+     "Redação dada pela Emenda Constitucional nº 37, de 2002; Vide Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "I - fixar as suas alíquotas máximas e mínimas;",
+     "Redação dada pela Emenda Constitucional nº 37, de 2002"
+    ],
+    [
+     "II - excluir da sua incidência exportações de serviços para o exterior.",
+     "Incluído pela Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "III - regular a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos e revogados.",
+     "Incluído pela Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "",
+     "Revogado pela Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "",
+     "Revogado pela Emenda Constitucional nº 3, de 1993"
+    ],
+    [
+     "",
+     "Revogado pela Emenda Constitucional nº 3, de 1993"
+    ]
+   ],
+   "rev": false,
+   "hash": "85e0cd7a8131"
+  },
+  "165": {
+   "r": "Art. 165",
+   "h": "TÍTULO VI Da Tributação e do Orçamento › CAPÍTULO II DAS FINANÇAS PÚBLICAS › Seção II DOS ORÇAMENTOS",
+   "l": [
+    [
+     "Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:",
+     ""
+    ],
+    [
+     "I - o plano plurianual;",
+     ""
+    ],
+    [
+     "II - as diretrizes orçamentárias;",
+     ""
+    ],
+    [
+     "III - os orçamentos anuais.",
+     ""
+    ],
+    [
+     "§ 1º A lei que instituir o plano plurianual estabelecerá, de forma regionalizada, as diretrizes, objetivos e metas da administração pública federal para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada.",
+     ""
+    ],
+    [
+     "§ 2º A lei de diretrizes orçamentárias compreenderá as metas e prioridades da administração pública federal, estabelecerá as diretrizes de política fiscal e respectivas metas, em consonância com trajetória sustentável da dívida pública, orientará a elaboração da lei orçamentária anual, disporá sobre as alterações na legislação tributária e estabelecerá a política de aplicação das agências financeiras oficiais de fomento.",
+     "Redação dada pela Emenda Constitucional nº 109, de 2021"
+    ],
+    [
+     "§ 3º O Poder Executivo publicará, até trinta dias após o encerramento de cada bimestre, relatório resumido da execução orçamentária.",
+     "Vide Emenda constitucional nº 106, de 2020"
+    ],
+    [
+     "§ 4º Os planos e programas nacionais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o plano plurianual e apreciados pelo Congresso Nacional.",
+     ""
+    ],
+    [
+     "§ 5º A lei orçamentária anual compreenderá:",
+     ""
+    ],
+    [
+     "I - o orçamento fiscal referente aos Poderes da União, seus fundos, órgãos e entidades da administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público;",
+     ""
+    ],
+    [
+     "II - o orçamento de investimento das empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto;",
+     ""
+    ],
+    [
+     "III - o orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculados, da administração direta ou indireta, bem como os fundos e fundações instituídos e mantidos pelo Poder Público.",
+     ""
+    ],
+    [
+     "§ 6º O projeto de lei orçamentária será acompanhado de demonstrativo regionalizado do efeito, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia.",
+     ""
+    ],
+    [
+     "§ 7º Os orçamentos previstos no § 5º, I e II, deste artigo, compatibilizados com o plano plurianual, terão entre suas funções a de reduzir desigualdades inter-regionais, segundo critério populacional.",
+     ""
+    ],
+    [
+     "§ 8º A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei.",
+     ""
+    ],
+    [
+     "§ 9º Cabe à lei complementar:",
+     ""
+    ],
+    [
+     "I - dispor sobre o exercício financeiro, a vigência, os prazos, a elaboração e a organização do plano plurianual, da lei de diretrizes orçamentárias e da lei orçamentária anual;",
+     ""
+    ],
+    [
+     "II - estabelecer normas de gestão financeira e patrimonial da administração direta e indireta bem como condições para a instituição e funcionamento de fundos.",
+     ""
+    ],
+    [
+     "III - dispor sobre critérios para a execução equitativa, além de procedimentos que serão adotados quando houver impedimentos legais e técnicos, cumprimento de restos a pagar e limitação das programações de caráter obrigatório, para a realização do disposto nos §§ 11 e 12 do art. 166 .",
+     "Redação dada pela Emenda Constitucional nº 100, de 2019; Produção de efeito; Vide ADI 7697"
+    ],
+    [
+     "§ 10. A administração tem o dever de executar as programações orçamentárias, adotando os meios e as medidas necessários, com o propósito de garantir a efetiva entrega de bens e serviços à sociedade.",
+     "Incluído pela Emenda Constitucional nº 100, de 2019; Produção de efeito; Vide ADI 7697"
+    ],
+    [
+     "§ 11. O disposto no § 10 deste artigo, nos termos da lei de diretrizes orçamentárias:",
+     "Incluído pela Emenda Constitucional nº 102, de 2019; Produção de efeito"
+    ],
+    [
+     "I - subordina-se ao cumprimento de dispositivos constitucionais e legais que estabeleçam metas fiscais ou limites de despesas e não impede o cancelamento necessário à abertura de créditos adicionais;",
+     ""
+    ],
+    [
+     "II - não se aplica nos casos de impedimentos de ordem técnica devidamente justificados;",
+     ""
+    ],
+    [
+     "III - aplica-se exclusivamente às despesas primárias discricionárias.",
+     ""
+    ],
+    [
+     "§ 12. Integrará a lei de diretrizes orçamentárias, para o exercício a que se refere e, pelo menos, para os 2 (dois) exercícios subsequentes, anexo com previsão de agregados fiscais e a proporção dos recursos para investimentos que serão alocados na lei orçamentária anual para a continuidade daqueles em andamento.",
+     "Incluído pela Emenda Constitucional nº 102, de 2019; Produção de efeito"
+    ],
+    [
+     "§ 13. O disposto no inciso III do § 9º e nos §§ 10, 11 e 12 deste artigo aplica-se exclusivamente aos orçamentos fiscal e da seguridade social da União.",
+     "Incluído pela Emenda Constitucional nº 102, de 2019; Produção de efeito"
+    ],
+    [
+     "§ 14. A lei orçamentária anual poderá conter previsões de despesas para exercícios seguintes, com a especificação dos investimentos plurianuais e daqueles em andamento.",
+     "Incluído pela Emenda Constitucional nº 102, de 2019; Produção de efeito"
+    ],
+    [
+     "§ 15. A União organizará e manterá registro centralizado de projetos de investimento contendo, por Estado ou Distrito Federal, pelo menos, análises de viabilidade, estimativas de custos e informações sobre a execução física e financeira.",
+     "Incluído pela Emenda Constitucional nº 102, de 2019; Produção de efeito"
+    ],
+    [
+     "§ 16. As leis de que trata este artigo devem observar, no que couber, os resultados do monitoramento e da avaliação das políticas públicas previstos no § 16 do art. 37 desta Constituição.",
+     "Incluído pela Emenda Constitucional nº 109, de 2021"
+    ],
+    [
+     "§ 17. Para o cumprimento do disposto no inciso I do § 11 deste artigo, o Poder Executivo poderá reduzir ou limitar, na elaboração e na execução das leis orçamentárias, as despesas com a concessão de subsídios, subvenções e benefícios de natureza financeira, inclusive os relativos a indenizações e restituições por perdas econômicas, observado o ato jurídico perfeito.",
+     "Incluído pela Emenda Constitucional nº 135, de 2024"
+    ],
+    [
+     "§ 18. A partir do exercício financeiro de 2026, serão excluídas do limite individualizado do Poder Executivo estabelecido na lei complementar de que trata o art. 6º da Emenda Constitucional nº 126, de 21 de dezembro de 2022, as despesas com precatórios e requisições de pequeno valor.",
+     "Incluído pela Emenda Constitucional nº 136, de 2025"
+    ],
+    [
+     "§ 19. A partir de 2026, o limite individualizado para o Poder Executivo é aquele estabelecido nos termos da lei complementar de que trata o art. 6º da Emenda Constitucional nº 126, de 21 de dezembro de 2022, considerados os créditos suplementares e especiais incorporados ao limite de despesa de 2025, e deduzido do valor correspondente ao limite de que trata o art. 107-A do Ato das Disposições Constitucionais Transitórias considerado para elaboração do projeto de lei orçamentária anual de 2025, corrigido pelo IPCA, nos termos da referida lei complementar.",
+     "Incluído pela Emenda Constitucional nº 136, de 2025"
+    ],
+    [
+     "§ 20. O disposto nos §§ 18 e 19 deste artigo não implicará revisão da base de cálculo dos limites individualizados estabelecidos na lei complementar de que trata o art. 6º da Emenda Constitucional nº 126, de 21 de dezembro de 2022.",
+     "Incluído pela Emenda Constitucional nº 136, de 2025"
+    ],
+    [
+     "§ 21. A partir de 2027, as despesas anuais da União com precatórios e requisições de pequeno valor, decorrentes de decisões judiciais transitadas em julgado, de que trata o art. 100 desta Constituição, serão incorporadas gradualmente na apuração da meta de resultado primário estabelecida na lei de diretrizes orçamentárias, de forma cumulativa a cada exercício, em, no mínimo, 10% (dez por cento) do montante previsto dessas despesas.",
+     "Incluído pela Emenda Constitucional nº 136, de 2025"
+    ],
+    [
+     "§ 22. Para o exercício financeiro de 2026, não será computado na meta de resultado primário estabelecida na lei de diretrizes orçamentárias o valor excedente ao limite de que trata o art. 107-A do Ato das Disposições Constitucionais Transitórias.",
+     "Incluído pela Emenda Constitucional nº 136, de 2025"
+    ]
+   ],
+   "rev": false,
+   "hash": "2694c9729abd"
+  },
+  "166": {
+   "r": "Art. 166",
+   "h": "TÍTULO VI Da Tributação e do Orçamento › CAPÍTULO II DAS FINANÇAS PÚBLICAS › Seção II DOS ORÇAMENTOS",
+   "l": [
+    [
+     "Art. 166. Os projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais serão apreciados pelas duas Casas do Congresso Nacional, na forma do regimento comum.",
+     ""
+    ],
+    [
+     "§ 1º Caberá a uma Comissão mista permanente de Senadores e Deputados:",
+     ""
+    ],
+    [
+     "I - examinar e emitir parecer sobre os projetos referidos neste artigo e sobre as contas apresentadas anualmente pelo Presidente da República;",
+     ""
+    ],
+    [
+     "II - examinar e emitir parecer sobre os planos e programas nacionais, regionais e setoriais previstos nesta Constituição e exercer o acompanhamento e a fiscalização orçamentária, sem prejuízo da atuação das demais comissões do Congresso Nacional e de suas Casas, criadas de acordo com o art. 58.",
+     ""
+    ],
+    [
+     "§ 2º As emendas serão apresentadas na Comissão mista, que sobre elas emitirá parecer, e apreciadas, na forma regimental, pelo Plenário das duas Casas do Congresso Nacional.",
+     ""
+    ],
+    [
+     "§ 3º As emendas ao projeto de lei do orçamento anual ou aos projetos que o modifiquem somente podem ser aprovadas caso:",
+     ""
+    ],
+    [
+     "I - sejam compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias;",
+     ""
+    ],
+    [
+     "II - indiquem os recursos necessários, admitidos apenas os provenientes de anulação de despesa, excluídas as que incidam sobre:",
+     ""
+    ],
+    [
+     "a) dotações para pessoal e seus encargos;",
+     ""
+    ],
+    [
+     "b) serviço da dívida;",
+     ""
+    ],
+    [
+     "c) transferências tributárias constitucionais para Estados, Municípios e Distrito Federal; ou",
+     ""
+    ],
+    [
+     "III - sejam relacionadas:",
+     ""
+    ],
+    [
+     "a) com a correção de erros ou omissões; ou",
+     ""
+    ],
+    [
+     "b) com os dispositivos do texto do projeto de lei.",
+     ""
+    ],
+    [
+     "§ 4º As emendas ao projeto de lei de diretrizes orçamentárias não poderão ser aprovadas quando incompatíveis com o plano plurianual.",
+     ""
+    ],
+    [
+     "§ 5º O Presidente da República poderá enviar mensagem ao Congresso Nacional para propor modificação nos projetos a que se refere este artigo enquanto não iniciada a votação, na Comissão mista, da parte cuja alteração é proposta.",
+     ""
+    ],
+    [
+     "§ 6º Os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual serão enviados pelo Presidente da República ao Congresso Nacional, nos termos da lei complementar a que se refere o art. 165, § 9º.",
+     ""
+    ],
+    [
+     "§ 7º Aplicam-se aos projetos mencionados neste artigo, no que não contrariar o disposto nesta seção, as demais normas relativas ao processo legislativo.",
+     ""
+    ],
+    [
+     "§ 8º Os recursos que, em decorrência de veto, emenda ou rejeição do projeto de lei orçamentária anual, ficarem sem despesas correspondentes poderão ser utilizados, conforme o caso, mediante créditos especiais ou suplementares, com prévia e específica autorização legislativa.",
+     ""
+    ],
+    [
+     "§ 9º As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 2% (dois por cento) da receita corrente líquida do exercício anterior ao do encaminhamento do projeto, observado que a metade desse percentual será destinada a ações e serviços públicos de saúde.",
+     "Redação dada pela Emenda Constitucional nº 126, de 2022; Vide ADI 7697"
+    ],
+    [
+     "§ 9º-A Do limite a que se refere o § 9º deste artigo, 1,55% (um inteiro e cinquenta e cinco centésimos por cento) caberá às emendas de Deputados e 0,45% (quarenta e cinco centésimos por cento) às de Senadores.",
+     "Incluído pela Emenda Constitucional nº 126, de 2022; Vide ADI 7697"
+    ],
+    [
+     "§ 10. A execução do montante destinado a ações e serviços públicos de saúde previsto no § 9º, inclusive custeio, será computada para fins do cumprimento do inciso I do § 2º do art. 198, vedada a destinação para pagamento de pessoal ou encargos sociais.",
+     "Incluído pela Emenda Constitucional nº 86, de 2015; Vide ADI 7697"
+    ],
+    [
+     "§ 11. É obrigatória a execução orçamentária e financeira das programações oriundas de emendas individuais, em montante correspondente ao limite a que se refere o § 9º deste artigo, conforme os critérios para a execução equitativa da programação definidos na lei complementar prevista no § 9º do art. 165 desta Constituição, observado o disposto no § 9º-A deste artigo.",
+     "Redação dada pela Emenda Constitucional nº 126, de 2022; Vide ADI 7697"
+    ],
+    [
+     "§ 12. A garantia de execução de que trata o § 11 deste artigo aplica-se também às programações incluídas por todas as emendas de iniciativa de bancada de parlamentares de Estado ou do Distrito Federal, no montante de até 1% (um por cento) da receita corrente líquida realizada no exercício anterior.",
+     "Redação dada pela Emenda Constitucional nº 100, de 2019; Produção de efeito; Vide; Vide; Vide ADI 7697"
+    ],
+    [
+     "§ 13. As programações orçamentárias previstas nos §§ 11 e 12 deste artigo não serão de execução obrigatória nos casos dos impedimentos de ordem técnica.",
+     "Redação dada pela Emenda Constitucional nº 100, de 2019; Produção de efeito; Vide ADI 7697"
+    ],
+    [
+     "§ 14. Para fins de cumprimento do disposto nos §§ 11 e 12 deste artigo, os órgãos de execução deverão observar, nos termos da lei de diretrizes orçamentárias, cronograma para análise e verificação de eventuais impedimentos das programações e demais procedimentos necessários à viabilização da execução dos respectivos montantes.",
+     "Redação dada pela Emenda Constitucional nº 100, de 2019; Produção de efeito; Vide ADI 7697"
+    ],
+    [
+     "I - (revogado);",
+     "Redação dada pela Emenda Constitucional nº 100, de 2019; Produção de efeito"
+    ],
+    [
+     "II - (revogado);",
+     "Redação dada pela Emenda Constitucional nº 100, de 2019; Produção de efeito"
+    ],
+    [
+     "III - (revogado);",
+     "Redação dada pela Emenda Constitucional nº 100, de 2019; Produção de efeito"
+    ],
+    [
+     "IV - (revogado).",
+     "Redação dada pela Emenda Constitucional nº 100, de 2019; Produção de efeito"
+    ],
+    [
+     "§ 15.",
+     "Revogado; Redação dada pela Emenda Constitucional nº 100, de 2019; Produção de efeito"
+    ],
+    [
+     "§ 16. Quando a transferência obrigatória da União para a execução da programação prevista nos §§ 11 e 12 deste artigo for destinada a Estados, ao Distrito Federal e a Municípios, independerá da adimplência do ente federativo destinatário e não integrará a base de cálculo da receita corrente líquida para fins de aplicação dos limites de despesa de pessoal de que trata o caput do art. 169.",
+     "Redação dada pela Emenda Constitucional nº 100, de 2019; Produção de efeito; Vide ADI 7697"
+    ],
+    [
+     "§ 17. Os restos a pagar provenientes das programações orçamentárias previstas nos §§ 11 e 12 deste artigo poderão ser considerados para fins de cumprimento da execução financeira até o limite de 1% (um por cento) da receita corrente líquida do exercício anterior ao do encaminhamento do projeto de lei orçamentária, para as programações das emendas individuais, e até o limite de 0,5% (cinco décimos por cento), para as programações das emendas de iniciativa de bancada de parlamentares de Estado ou do Distrito Federal.",
+     "Redação dada pela Emenda Constitucional nº 126, de 2022; Vide ADI 7697"
+    ],
+    [
+     "§ 18. Se for verificado que a reestimativa da receita e da despesa poderá resultar no não cumprimento da meta de resultado fiscal estabelecida na lei de diretrizes orçamentárias, os montantes previstos nos §§ 11 e 12 deste artigo poderão ser reduzidos em até a mesma proporção da limitação incidente sobre o conjunto das demais despesas discricionárias.",
+     "Redação dada pela Emenda Constitucional nº 100, de 2019; Produção de efeito; Vide ADI 7697"
+    ],
+    [
+     "§ 19. Considera-se equitativa a execução das programações de caráter obrigatório que observe critérios objetivos e imparciais e que atenda de forma igualitária e impessoal às emendas apresentadas, independentemente da autoria, observado o disposto no § 9º-A deste artigo.",
+     "Redação dada pela Emenda Constitucional nº 126, de 2022; Vide ADI 7697"
+    ],
+    [
+     "§ 20. As programações de que trata o § 12 deste artigo, quando versarem sobre o início de investimentos com duração de mais de 1 (um) exercício financeiro ou cuja execução já tenha sido iniciada, deverão ser objeto de emenda pela mesma bancada estadual, a cada exercício, até a conclusão da obra ou do empreendimento.",
+     "Incluído pela Emenda Constitucional nº 100, de 2019; Produção de efeito; Vide ADI 7697"
+    ]
+   ],
+   "rev": false,
+   "hash": "a2ac33c84949"
+  },
+  "22": {
+   "r": "Art. 22",
+   "h": "TÍTULO III Da Organização do Estado › CAPÍTULO II DA UNIÃO",
+   "l": [
+    [
+     "Art. 22. Compete privativamente à União legislar sobre:",
+     ""
+    ],
+    [
+     "I - direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho;",
+     ""
+    ],
+    [
+     "II - desapropriação;",
+     ""
+    ],
+    [
+     "III - requisições civis e militares, em caso de iminente perigo e em tempo de guerra;",
+     ""
+    ],
+    [
+     "IV - águas, energia, informática, telecomunicações e radiodifusão;",
+     ""
+    ],
+    [
+     "V - serviço postal;",
+     ""
+    ],
+    [
+     "VI - sistema monetário e de medidas, títulos e garantias dos metais;",
+     ""
+    ],
+    [
+     "VII - política de crédito, câmbio, seguros e transferência de valores;",
+     ""
+    ],
+    [
+     "VIII - comércio exterior e interestadual;",
+     ""
+    ],
+    [
+     "IX - diretrizes da política nacional de transportes;",
+     ""
+    ],
+    [
+     "X - regime dos portos, navegação lacustre, fluvial, marítima, aérea e aeroespacial;",
+     ""
+    ],
+    [
+     "XI - trânsito e transporte;",
+     ""
+    ],
+    [
+     "XII - jazidas, minas, outros recursos minerais e metalurgia;",
+     ""
+    ],
+    [
+     "XIII - nacionalidade, cidadania e naturalização;",
+     ""
+    ],
+    [
+     "XIV - populações indígenas;",
+     ""
+    ],
+    [
+     "XV - emigração e imigração, entrada, extradição e expulsão de estrangeiros;",
+     ""
+    ],
+    [
+     "XVI - organização do sistema nacional de emprego e condições para o exercício de profissões;",
+     ""
+    ],
+    [
+     "XVII - organização judiciária, do Ministério Público do Distrito Federal e dos Territórios e da Defensoria Pública dos Territórios, bem como organização administrativa destes;",
+     "Redação dada pela Emenda Constitucional nº 69, de 2012; Produção de efeito"
+    ],
+    [
+     "XVIII - sistema estatístico, sistema cartográfico e de geologia nacionais;",
+     ""
+    ],
+    [
+     "XIX - sistemas de poupança, captação e garantia da poupança popular;",
+     ""
+    ],
+    [
+     "XX - sistemas de consórcios e sorteios;",
+     ""
+    ],
+    [
+     "XXI - normas gerais de organização, efetivos, material bélico, garantias, convocação, mobilização, inatividades e pensões das polícias militares e dos corpos de bombeiros militares;",
+     "Redação dada pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "XXII - competência da polícia federal e das polícias rodoviária e ferroviária federais;",
+     ""
+    ],
+    [
+     "XXIII - seguridade social;",
+     ""
+    ],
+    [
+     "XXIV - diretrizes e bases da educação nacional;",
+     ""
+    ],
+    [
+     "XXV - registros públicos;",
+     ""
+    ],
+    [
+     "XXVI - atividades nucleares de qualquer natureza;",
+     ""
+    ],
+    [
+     "XXVII - normas gerais de licitação e contratação, em todas as modalidades, para as administrações públicas diretas, autárquicas e fundacionais da União, Estados, Distrito Federal e Municípios, obedecido o disposto no art. 37, XXI, e para as empresas públicas e sociedades de economia mista, nos termos do art. 173, § 1°, III;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "XXVIII - defesa territorial, defesa aeroespacial, defesa marítima, defesa civil e mobilização nacional;",
+     ""
+    ],
+    [
+     "XXIX - propaganda comercial.",
+     ""
+    ],
+    [
+     "XXX - proteção e tratamento de dados pessoais.",
+     "Incluído pela Emenda Constitucional nº 115, de 2022"
+    ],
+    [
+     "Parágrafo único. Lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas neste artigo.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "2225e31e6c81"
+  },
+  "23": {
+   "r": "Art. 23",
+   "h": "TÍTULO III Da Organização do Estado › CAPÍTULO II DA UNIÃO",
+   "l": [
+    [
+     "Art. 23. É competência comum da União, dos Estados, do Distrito Federal e dos Municípios:",
+     ""
+    ],
+    [
+     "I - zelar pela guarda da Constituição, das leis e das instituições democráticas e conservar o patrimônio público;",
+     ""
+    ],
+    [
+     "II - cuidar da saúde e assistência pública, da proteção e garantia das pessoas portadoras de deficiência;",
+     "Vide ADPF 672"
+    ],
+    [
+     "III - proteger os documentos, as obras e outros bens de valor histórico, artístico e cultural, os monumentos, as paisagens naturais notáveis e os sítios arqueológicos;",
+     ""
+    ],
+    [
+     "IV - impedir a evasão, a destruição e a descaracterização de obras de arte e de outros bens de valor histórico, artístico ou cultural;",
+     ""
+    ],
+    [
+     "V - proporcionar os meios de acesso à cultura, à educação, à ciência, à tecnologia, à pesquisa e à inovação;",
+     "Redação dada pela Emenda Constitucional nº 85, de 2015"
+    ],
+    [
+     "VI - proteger o meio ambiente e combater a poluição em qualquer de suas formas;",
+     ""
+    ],
+    [
+     "VII - preservar as florestas, a fauna e a flora;",
+     ""
+    ],
+    [
+     "VIII - fomentar a produção agropecuária e organizar o abastecimento alimentar;",
+     ""
+    ],
+    [
+     "IX - promover programas de construção de moradias e a melhoria das condições habitacionais e de saneamento básico;",
+     "Vide ADPF 672"
+    ],
+    [
+     "X - combater as causas da pobreza e os fatores de marginalização, promovendo a integração social dos setores desfavorecidos;",
+     ""
+    ],
+    [
+     "XI - registrar, acompanhar e fiscalizar as concessões de direitos de pesquisa e exploração de recursos hídricos e minerais em seus territórios;",
+     ""
+    ],
+    [
+     "XII - estabelecer e implantar política de educação para a segurança do trânsito.",
+     ""
+    ],
+    [
+     "Parágrafo único. Leis complementares fixarão normas para a cooperação entre a União e os Estados, o Distrito Federal e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional.",
+     "Redação dada pela Emenda Constitucional nº 53, de 2006"
+    ]
+   ],
+   "rev": false,
+   "hash": "edca82c3673c"
+  },
+  "24": {
+   "r": "Art. 24",
+   "h": "TÍTULO III Da Organização do Estado › CAPÍTULO II DA UNIÃO",
+   "l": [
+    [
+     "Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:",
+     ""
+    ],
+    [
+     "I - direito tributário, financeiro, penitenciário, econômico e urbanístico;",
+     "Vide Lei nº 13.874, de 2019"
+    ],
+    [
+     "II - orçamento;",
+     ""
+    ],
+    [
+     "III - juntas comerciais;",
+     ""
+    ],
+    [
+     "IV - custas dos serviços forenses;",
+     ""
+    ],
+    [
+     "V - produção e consumo;",
+     ""
+    ],
+    [
+     "VI - florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e dos recursos naturais, proteção do meio ambiente e controle da poluição;",
+     ""
+    ],
+    [
+     "VII - proteção ao patrimônio histórico, cultural, artístico, turístico e paisagístico;",
+     ""
+    ],
+    [
+     "VIII - responsabilidade por dano ao meio ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico;",
+     ""
+    ],
+    [
+     "IX - educação, cultura, ensino, desporto, ciência, tecnologia, pesquisa, desenvolvimento e inovação;",
+     "Redação dada pela Emenda Constitucional nº 85, de 2015"
+    ],
+    [
+     "X - criação, funcionamento e processo do juizado de pequenas causas;",
+     ""
+    ],
+    [
+     "XI - procedimentos em matéria processual;",
+     ""
+    ],
+    [
+     "XII - previdência social, proteção e defesa da saúde;",
+     "Vide ADPF 672"
+    ],
+    [
+     "XIII - assistência jurídica e Defensoria pública;",
+     ""
+    ],
+    [
+     "XIV - proteção e integração social das pessoas portadoras de deficiência;",
+     ""
+    ],
+    [
+     "XV - proteção à infância e à juventude;",
+     ""
+    ],
+    [
+     "XVI - organização, garantias, direitos e deveres das polícias civis.",
+     ""
+    ],
+    [
+     "§ 1º No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer normas gerais.",
+     "Vide Lei nº 13.874, de 2019"
+    ],
+    [
+     "§ 2º A competência da União para legislar sobre normas gerais não exclui a competência suplementar dos Estados.",
+     "Vide Lei nº 13.874, de 2019"
+    ],
+    [
+     "§ 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para atender a suas peculiaridades.",
+     "Vide Lei nº 13.874, de 2019"
+    ],
+    [
+     "§ 4º A superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário.",
+     "Vide Lei nº 13.874, de 2019"
+    ]
+   ],
+   "rev": false,
+   "hash": "dd28fde17120"
+  },
+  "25": {
+   "r": "Art. 25",
+   "h": "TÍTULO III Da Organização do Estado › CAPÍTULO III DOS ESTADOS FEDERADOS",
+   "l": [
+    [
+     "Art. 25. Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição.",
+     ""
+    ],
+    [
+     "§ 1º São reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição.",
+     ""
+    ],
+    [
+     "§ 2º Cabe aos Estados explorar diretamente, ou mediante concessão, os serviços locais de gás canalizado, na forma da lei, vedada a edição de medida provisória para a sua regulamentação.",
+     "Redação dada pela Emenda Constitucional nº 5, de 1995"
+    ],
+    [
+     "§ 3º Os Estados poderão, mediante lei complementar, instituir regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de municípios limítrofes, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "9b0da6a84258"
+  },
+  "27": {
+   "r": "Art. 27",
+   "h": "TÍTULO III Da Organização do Estado › CAPÍTULO III DOS ESTADOS FEDERADOS",
+   "l": [
+    [
+     "Art. 27. O número de Deputados à Assembléia Legislativa corresponderá ao triplo da representação do Estado na Câmara dos Deputados e, atingido o número de trinta e seis, será acrescido de tantos quantos forem os Deputados Federais acima de doze.",
+     ""
+    ],
+    [
+     "§ 1º Será de quatro anos o mandato dos Deputados Estaduais, aplicando- sê-lhes as regras desta Constituição sobre sistema eleitoral, inviolabilidade, imunidades, remuneração, perda de mandato, licença, impedimentos e incorporação às Forças Armadas.",
+     ""
+    ],
+    [
+     "§ 2º O subsídio dos Deputados Estaduais será fixado por lei de iniciativa da Assembléia Legislativa, na razão de, no máximo, setenta e cinco por cento daquele estabelecido, em espécie, para os Deputados Federais, observado o que dispõem os arts. 39, § 4º, 57, § 7º, 150, II, 153, III, e 153, § 2º, I.",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 3º Compete às Assembléias Legislativas dispor sobre seu regimento interno, polícia e serviços administrativos de sua secretaria, e prover os respectivos cargos.",
+     ""
+    ],
+    [
+     "§ 4º A lei disporá sobre a iniciativa popular no processo legislativo estadual.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "7c67e39ebbb3"
+  },
+  "28": {
+   "r": "Art. 28",
+   "h": "TÍTULO III Da Organização do Estado › CAPÍTULO III DOS ESTADOS FEDERADOS",
+   "l": [
+    [
+     "Art. 28. A eleição do Governador e do Vice-Governador de Estado, para mandato de 4 (quatro) anos, realizar-se-á no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato de seus antecessores, e a posse ocorrerá em 6 de janeiro do ano subsequente, observado, quanto ao mais, o disposto no art. 77 desta Constituição.",
+     "Redação dada pela Emenda Constitucional nº 111, de 2021"
+    ],
+    [
+     "§ 1º Perderá o mandato o Governador que assumir outro cargo ou função na administração pública direta ou indireta, ressalvada a posse em virtude de concurso público e observado o disposto no art. 38, I, IV e V.",
+     "Renumerado do parágrafo único, pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 2º Os subsídios do Governador, do Vice-Governador e dos Secretários de Estado serão fixados por lei de iniciativa da Assembléia Legislativa, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ]
+   ],
+   "rev": false,
+   "hash": "d6edaf987fca"
+  },
+  "29": {
+   "r": "Art. 29",
+   "h": "TÍTULO III Da Organização do Estado › CAPÍTULO IV Dos Municípios",
+   "l": [
+    [
+     "Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do respectivo Estado e os seguintes preceitos:",
+     ""
+    ],
+    [
+     "I - eleição do Prefeito, do Vice-Prefeito e dos Vereadores, para mandato de quatro anos, mediante pleito direto e simultâneo realizado em todo o País;",
+     ""
+    ],
+    [
+     "II - eleição do Prefeito e do Vice-Prefeito realizada no primeiro domingo de outubro do ano anterior ao término do mandato dos que devam suceder, aplicadas as regras do art. 77, no caso de Municípios com mais de duzentos mil eleitores;",
+     "Redação dada pela Emenda Constitucional nº 16, de 1997"
+    ],
+    [
+     "III - posse do Prefeito e do Vice-Prefeito no dia 1º de janeiro do ano subseqüente ao da eleição;",
+     ""
+    ],
+    [
+     "IV - para a composição das Câmaras Municipais, será observado o limite máximo de:",
+     "Redação dada pela Emenda Constituição Constitucional nº 58, de 2009; Produção de efeito; Vide ADIN 4307"
+    ],
+    [
+     "a) 9 (nove) Vereadores, nos Municípios de até 15.000 (quinze mil) habitantes;",
+     "Redação dada pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "b) 11 (onze) Vereadores, nos Municípios de mais de 15.000 (quinze mil) habitantes e de até 30.000 (trinta mil) habitantes;",
+     "Redação dada pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "c) 13 (treze) Vereadores, nos Municípios com mais de 30.000 (trinta mil) habitantes e de até 50.000 (cinquenta mil) habitantes;",
+     "Redação dada pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "d) 15 (quinze) Vereadores, nos Municípios de mais de 50.000 (cinquenta mil) habitantes e de até 80.000 (oitenta mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "e) 17 (dezessete) Vereadores, nos Municípios de mais de 80.000 (oitenta mil) habitantes e de até 120.000 (cento e vinte mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "f) 19 (dezenove) Vereadores, nos Municípios de mais de 120.000 (cento e vinte mil) habitantes e de até 160.000 (cento sessenta mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "g) 21 (vinte e um) Vereadores, nos Municípios de mais de 160.000 (cento e sessenta mil) habitantes e de até 300.000 (trezentos mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "h) 23 (vinte e três) Vereadores, nos Municípios de mais de 300.000 (trezentos mil) habitantes e de até 450.000 (quatrocentos e cinquenta mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "i) 25 (vinte e cinco) Vereadores, nos Municípios de mais de 450.000 (quatrocentos e cinquenta mil) habitantes e de até 600.000 (seiscentos mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "j) 27 (vinte e sete) Vereadores, nos Municípios de mais de 600.000 (seiscentos mil) habitantes e de até 750.000 (setecentos cinquenta mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "k) 29 (vinte e nove) Vereadores, nos Municípios de mais de 750.000 (setecentos e cinquenta mil) habitantes e de até 900.000 (novecentos mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "l) 31 (trinta e um) Vereadores, nos Municípios de mais de 900.000 (novecentos mil) habitantes e de até 1.050.000 (um milhão e cinquenta mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "m) 33 (trinta e três) Vereadores, nos Municípios de mais de 1.050.000 (um milhão e cinquenta mil) habitantes e de até 1.200.000 (um milhão e duzentos mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "n) 35 (trinta e cinco) Vereadores, nos Municípios de mais de 1.200.000 (um milhão e duzentos mil) habitantes e de até 1.350.000 (um milhão e trezentos e cinquenta mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "o) 37 (trinta e sete) Vereadores, nos Municípios de 1.350.000 (um milhão e trezentos e cinquenta mil) habitantes e de até 1.500.000 (um milhão e quinhentos mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "p) 39 (trinta e nove) Vereadores, nos Municípios de mais de 1.500.000 (um milhão e quinhentos mil) habitantes e de até 1.800.000 (um milhão e oitocentos mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "q) 41 (quarenta e um) Vereadores, nos Municípios de mais de 1.800.000 (um milhão e oitocentos mil) habitantes e de até 2.400.000 (dois milhões e quatrocentos mil) habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "r) 43 (quarenta e três) Vereadores, nos Municípios de mais de 2.400.000 (dois milhões e quatrocentos mil) habitantes e de até 3.000.000 (três milhões) de habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "s) 45 (quarenta e cinco) Vereadores, nos Municípios de mais de 3.000.000 (três milhões) de habitantes e de até 4.000.000 (quatro milhões) de habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "t) 47 (quarenta e sete) Vereadores, nos Municípios de mais de 4.000.000 (quatro milhões) de habitantes e de até 5.000.000 (cinco milhões) de habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "u) 49 (quarenta e nove) Vereadores, nos Municípios de mais de 5.000.000 (cinco milhões) de habitantes e de até 6.000.000 (seis milhões) de habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "v) 51 (cinquenta e um) Vereadores, nos Municípios de mais de 6.000.000 (seis milhões) de habitantes e de até 7.000.000 (sete milhões) de habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "w) 53 (cinquenta e três) Vereadores, nos Municípios de mais de 7.000.000 (sete milhões) de habitantes e de até 8.000.000 (oito milhões) de habitantes; e",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "x) 55 (cinquenta e cinco) Vereadores, nos Municípios de mais de 8.000.000 (oito milhões) de habitantes;",
+     "Incluída pela Emenda Constituição Constitucional nº 58, de 2009"
+    ],
+    [
+     "V - subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais fixados por lei de iniciativa da Câmara Municipal, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I;",
+     "Redação dada pela Emenda constitucional nº 19, de 1998"
+    ],
+    [
+     "VI - o subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais em cada legislatura para a subseqüente, observado o que dispõe esta Constituição, observados os critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos:",
+     "Redação dada pela Emenda Constitucional nº 25, de 2000"
+    ],
+    [
+     "a) em Municípios de até dez mil habitantes, o subsídio máximo dos Vereadores corresponderá a vinte por cento do subsídio dos Deputados Estaduais;",
+     "Incluído pela Emenda Constitucional nº 25, de 2000"
+    ],
+    [
+     "b) em Municípios de dez mil e um a cinqüenta mil habitantes, o subsídio máximo dos Vereadores corresponderá a trinta por cento do subsídio dos Deputados Estaduais;",
+     "Incluído pela Emenda Constitucional nº 25, de 2000"
+    ],
+    [
+     "c) em Municípios de cinqüenta mil e um a cem mil habitantes, o subsídio máximo dos Vereadores corresponderá a quarenta por cento do subsídio dos Deputados Estaduais;",
+     "Incluído pela Emenda Constitucional nº 25, de 2000"
+    ],
+    [
+     "d) em Municípios de cem mil e um a trezentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a cinqüenta por cento do subsídio dos Deputados Estaduais;",
+     "Incluído pela Emenda Constitucional nº 25, de 2000"
+    ],
+    [
+     "e) em Municípios de trezentos mil e um a quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a sessenta por cento do subsídio dos Deputados Estaduais;",
+     "Incluído pela Emenda Constitucional nº 25, de 2000"
+    ],
+    [
+     "f) em Municípios de mais de quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a setenta e cinco por cento do subsídio dos Deputados Estaduais;",
+     "Incluído pela Emenda Constitucional nº 25, de 2000"
+    ],
+    [
+     "VII - o total da despesa com a remuneração dos Vereadores não poderá ultrapassar o montante de cinco por cento da receita do Município;",
+     "Incluído pela Emenda Constitucional nº 1, de 1992"
+    ],
+    [
+     "VIII - inviolabilidade dos Vereadores por suas opiniões, palavras e votos no exercício do mandato e na circunscrição do Município;",
+     "Renumerado do inciso VI, pela Emenda Constitucional nº 1, de 1992"
+    ],
+    [
+     "IX - proibições e incompatibilidades, no exercício da vereança, similares, no que couber, ao disposto nesta Constituição para os membros do Congresso Nacional e na Constituição do respectivo Estado para os membros da Assembléia Legislativa;",
+     "Renumerado do inciso VII, pela Emenda Constitucional nº 1, de 1992"
+    ],
+    [
+     "X - julgamento do Prefeito perante o Tribunal de Justiça;",
+     "Renumerado do inciso VIII, pela Emenda Constitucional nº 1, de 1992"
+    ],
+    [
+     "XI - organização das funções legislativas e fiscalizadoras da Câmara Municipal;",
+     "Renumerado do inciso IX, pela Emenda Constitucional nº 1, de 1992"
+    ],
+    [
+     "XII - cooperação das associações representativas no planejamento municipal;",
+     "Renumerado do inciso X, pela Emenda Constitucional nº 1, de 1992"
+    ],
+    [
+     "XIII - iniciativa popular de projetos de lei de interesse específico do Município, da cidade ou de bairros, através de manifestação de, pelo menos, cinco por cento do eleitorado;",
+     "Renumerado do inciso XI, pela Emenda Constitucional nº 1, de 1992"
+    ],
+    [
+     "XIV - perda do mandato do Prefeito, nos termos do art. 28, parágrafo único .",
+     "Renumerado do inciso XII, pela Emenda Constitucional nº 1, de 1992"
+    ]
+   ],
+   "rev": false,
+   "hash": "dd0e1bb5d829"
+  },
+  "30": {
+   "r": "Art. 30",
+   "h": "TÍTULO III Da Organização do Estado › CAPÍTULO IV Dos Municípios",
+   "l": [
+    [
+     "Art. 30. Compete aos Municípios:",
+     ""
+    ],
+    [
+     "I - legislar sobre assuntos de interesse local;",
+     ""
+    ],
+    [
+     "II - suplementar a legislação federal e a estadual no que couber;",
+     "Vide ADPF 672"
+    ],
+    [
+     "III - instituir e arrecadar os tributos de sua competência, bem como aplicar suas rendas, sem prejuízo da obrigatoriedade de prestar contas e publicar balancetes nos prazos fixados em lei;",
+     ""
+    ],
+    [
+     "IV - criar, organizar e suprimir distritos, observada a legislação estadual;",
+     ""
+    ],
+    [
+     "V - organizar e prestar, diretamente ou sob regime de concessão ou permissão, os serviços públicos de interesse local, incluído o de transporte coletivo, que tem caráter essencial;",
+     ""
+    ],
+    [
+     "VI - manter, com a cooperação técnica e financeira da União e do Estado, programas de educação infantil e de ensino fundamental;",
+     "Redação dada pela Emenda Constitucional nº 53, de 2006"
+    ],
+    [
+     "VII - prestar, com a cooperação técnica e financeira da União e do Estado, serviços de atendimento à saúde da população;",
+     ""
+    ],
+    [
+     "VIII - promover, no que couber, adequado ordenamento territorial, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano;",
+     ""
+    ],
+    [
+     "IX - promover a proteção do patrimônio histórico-cultural local, observada a legislação e a ação fiscalizadora federal e estadual.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "f0f603ed985d"
+  },
+  "44": {
+   "r": "Art. 44",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção I DO CONGRESSO NACIONAL",
+   "l": [
+    [
+     "Art. 44. O Poder Legislativo é exercido pelo Congresso Nacional, que se compõe da Câmara dos Deputados e do Senado Federal.",
+     ""
+    ],
+    [
+     "Parágrafo único. Cada legislatura terá a duração de quatro anos.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "ece38f5a9d20"
+  },
+  "45": {
+   "r": "Art. 45",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção I DO CONGRESSO NACIONAL",
+   "l": [
+    [
+     "Art. 45. A Câmara dos Deputados compõe-se de representantes do povo, eleitos, pelo sistema proporcional, em cada Estado, em cada Território e no Distrito Federal.",
+     ""
+    ],
+    [
+     "§ 1º O número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas unidades da Federação tenha menos de oito ou mais de setenta Deputados.",
+     "Vide Lei Complementar nº 78, de 1993"
+    ],
+    [
+     "§ 2º Cada Território elegerá quatro Deputados.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "f94cefdc380c"
+  },
+  "46": {
+   "r": "Art. 46",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção I DO CONGRESSO NACIONAL",
+   "l": [
+    [
+     "Art. 46. O Senado Federal compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário.",
+     ""
+    ],
+    [
+     "§ 1º Cada Estado e o Distrito Federal elegerão três Senadores, com mandato de oito anos.",
+     ""
+    ],
+    [
+     "§ 2º A representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços.",
+     ""
+    ],
+    [
+     "§ 3º Cada Senador será eleito com dois suplentes.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "40fa106debf1"
+  },
+  "47": {
+   "r": "Art. 47",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção I DO CONGRESSO NACIONAL",
+   "l": [
+    [
+     "Art. 47. Salvo disposição constitucional em contrário, as deliberações de cada Casa e de suas Comissões serão tomadas por maioria dos votos, presente a maioria absoluta de seus membros.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "7319fbab91ec"
+  },
+  "48": {
+   "r": "Art. 48",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção II DAS ATRIBUIÇÕES DO CONGRESSO NACIONAL",
+   "l": [
+    [
+     "Art. 48. Cabe ao Congresso Nacional, com a sanção do Presidente da República, não exigida esta para o especificado nos arts. 49, 51 e 52, dispor sobre todas as matérias de competência da União, especialmente sobre:",
+     ""
+    ],
+    [
+     "I - sistema tributário, arrecadação e distribuição de rendas;",
+     ""
+    ],
+    [
+     "II - plano plurianual, diretrizes orçamentárias, orçamento anual, operações de crédito, dívida pública e emissões de curso forçado;",
+     ""
+    ],
+    [
+     "III - fixação e modificação do efetivo das Forças Armadas;",
+     ""
+    ],
+    [
+     "IV - planos e programas nacionais, regionais e setoriais de desenvolvimento;",
+     ""
+    ],
+    [
+     "V - limites do território nacional, espaço aéreo e marítimo e bens do domínio da União;",
+     ""
+    ],
+    [
+     "VI - incorporação, subdivisão ou desmembramento de áreas de Territórios ou Estados, ouvidas as respectivas Assembléias Legislativas;",
+     ""
+    ],
+    [
+     "VII - transferência temporária da sede do Governo Federal;",
+     ""
+    ],
+    [
+     "VIII - concessão de anistia;",
+     ""
+    ],
+    [
+     "IX - organização administrativa, judiciária, do Ministério Público e da Defensoria Pública da União e dos Territórios e organização judiciária e do Ministério Público do Distrito Federal;",
+     "Redação dada pela Emenda Constitucional nº 69, de 2012; Produção de efeito"
+    ],
+    [
+     "X - criação, transformação e extinção de cargos, empregos e funções públicas, observado o que estabelece o art. 84, VI, b ;",
+     "Redação dada pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "XI - criação e extinção de Ministérios e órgãos da administração pública;",
+     "Redação dada pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "XII - telecomunicações e radiodifusão;",
+     ""
+    ],
+    [
+     "XIII - matéria financeira, cambial e monetária, instituições financeiras e suas operações;",
+     ""
+    ],
+    [
+     "XIV - moeda, seus limites de emissão, e montante da dívida mobiliária federal.",
+     ""
+    ],
+    [
+     "XV - fixação do subsídio dos Ministros do Supremo Tribunal Federal, observado o que dispõem os arts. 39, § 4º; 150, II; 153, III; e 153, § 2º, I.",
+     "Redação dada pela Emenda Constitucional nº 41, 19.12.2003"
+    ]
+   ],
+   "rev": false,
+   "hash": "bf3328cd5331"
+  },
+  "51": {
+   "r": "Art. 51",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção III DA CÂMARA DOS DEPUTADOS",
+   "l": [
+    [
+     "Art. 51. Compete privativamente à Câmara dos Deputados:",
+     ""
+    ],
+    [
+     "I - autorizar, por dois terços de seus membros, a instauração de processo contra o Presidente e o Vice-Presidente da República e os Ministros de Estado;",
+     ""
+    ],
+    [
+     "II - proceder à tomada de contas do Presidente da República, quando não apresentadas ao Congresso Nacional dentro de sessenta dias após a abertura da sessão legislativa;",
+     ""
+    ],
+    [
+     "III - elaborar seu regimento interno;",
+     ""
+    ],
+    [
+     "IV - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "V - eleger membros do Conselho da República, nos termos do art. 89, VII.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "27bc638291c3"
+  },
+  "52": {
+   "r": "Art. 52",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção IV DO SENADO FEDERAL",
+   "l": [
+    [
+     "Art. 52. Compete privativamente ao Senado Federal:",
+     ""
+    ],
+    [
+     "I - processar e julgar o Presidente e o Vice-Presidente da República nos crimes de responsabilidade, bem como os Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica nos crimes da mesma natureza conexos com aqueles;",
+     "Redação dada pela Emenda Constitucional nº 23, de 1999"
+    ],
+    [
+     "II processar e julgar os Ministros do Supremo Tribunal Federal, os membros do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público, o Procurador-Geral da República e o Advogado-Geral da União nos crimes de responsabilidade;",
+     "Redação dada pela Emenda Constitucional nº 45, de 2004"
+    ],
+    [
+     "III - aprovar previamente, por voto secreto, após argüição pública, a escolha de:",
+     ""
+    ],
+    [
+     "a) Magistrados, nos casos estabelecidos nesta Constituição;",
+     ""
+    ],
+    [
+     "b) Ministros do Tribunal de Contas da União indicados pelo Presidente da República;",
+     ""
+    ],
+    [
+     "c) Governador de Território;",
+     ""
+    ],
+    [
+     "d) Presidente e diretores do banco central;",
+     ""
+    ],
+    [
+     "e) Procurador-Geral da República;",
+     ""
+    ],
+    [
+     "f) titulares de outros cargos que a lei determinar;",
+     ""
+    ],
+    [
+     "IV - aprovar previamente, por voto secreto, após argüição em sessão secreta, a escolha dos chefes de missão diplomática de caráter permanente;",
+     ""
+    ],
+    [
+     "V - autorizar operações externas de natureza financeira, de interesse da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios;",
+     ""
+    ],
+    [
+     "VI - fixar, por proposta do Presidente da República, limites globais para o montante da dívida consolidada da União, dos Estados, do Distrito Federal e dos Municípios;",
+     ""
+    ],
+    [
+     "VII - dispor sobre limites globais e condições para as operações de crédito externo e interno da União, dos Estados, do Distrito Federal e dos Municípios, de suas autarquias e demais entidades controladas pelo Poder Público federal;",
+     ""
+    ],
+    [
+     "VIII - dispor sobre limites e condições para a concessão de garantia da União em operações de crédito externo e interno;",
+     ""
+    ],
+    [
+     "IX - estabelecer limites globais e condições para o montante da dívida mobiliária dos Estados, do Distrito Federal e dos Municípios;",
+     ""
+    ],
+    [
+     "X - suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal;",
+     ""
+    ],
+    [
+     "XI - aprovar, por maioria absoluta e por voto secreto, a exoneração, de ofício, do Procurador-Geral da República antes do término de seu mandato;",
+     ""
+    ],
+    [
+     "XII - elaborar seu regimento interno;",
+     ""
+    ],
+    [
+     "XIII - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "XIV - eleger membros do Conselho da República, nos termos do art. 89, VII.",
+     ""
+    ],
+    [
+     "XV - avaliar periodicamente a funcionalidade do Sistema Tributário Nacional, em sua estrutura e seus componentes, e o desempenho das administrações tributárias da União, dos Estados e do Distrito Federal e dos Municípios.",
+     "Incluído pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "Parágrafo único. Nos casos previstos nos incisos I e II, funcionará como Presidente o do Supremo Tribunal Federal, limitando-se a condenação, que somente será proferida por dois terços dos votos do Senado Federal, à perda do cargo, com inabilitação, por oito anos, para o exercício de função pública, sem prejuízo das demais sanções judiciais cabíveis.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "7843681d41b7"
+  },
+  "59": {
+   "r": "Art. 59",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção VIII DO PROCESSO LEGISLATIVO › Subseção I Disposição Geral",
+   "l": [
+    [
+     "Art. 59. O processo legislativo compreende a elaboração de:",
+     ""
+    ],
+    [
+     "I - emendas à Constituição;",
+     ""
+    ],
+    [
+     "II - leis complementares;",
+     ""
+    ],
+    [
+     "III - leis ordinárias;",
+     ""
+    ],
+    [
+     "IV - leis delegadas;",
+     ""
+    ],
+    [
+     "V - medidas provisórias;",
+     ""
+    ],
+    [
+     "VI - decretos legislativos;",
+     ""
+    ],
+    [
+     "VII - resoluções.",
+     ""
+    ],
+    [
+     "Parágrafo único. Lei complementar disporá sobre a elaboração, redação, alteração e consolidação das leis.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "e81b983e104f"
+  },
+  "60": {
+   "r": "Art. 60",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção VIII DO PROCESSO LEGISLATIVO › Subseção II Da Emenda à Constituição",
+   "l": [
+    [
+     "Art. 60. A Constituição poderá ser emendada mediante proposta:",
+     ""
+    ],
+    [
+     "I - de um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal;",
+     ""
+    ],
+    [
+     "II - do Presidente da República;",
+     ""
+    ],
+    [
+     "III - de mais da metade das Assembléias Legislativas das unidades da Federação, manifestando-se, cada uma delas, pela maioria relativa de seus membros.",
+     ""
+    ],
+    [
+     "§ 1º A Constituição não poderá ser emendada na vigência de intervenção federal, de estado de defesa ou de estado de sítio.",
+     ""
+    ],
+    [
+     "§ 2º A proposta será discutida e votada em cada Casa do Congresso Nacional, em dois turnos, considerando-se aprovada se obtiver, em ambos, três quintos dos votos dos respectivos membros.",
+     ""
+    ],
+    [
+     "§ 3º A emenda à Constituição será promulgada pelas Mesas da Câmara dos Deputados e do Senado Federal, com o respectivo número de ordem.",
+     ""
+    ],
+    [
+     "§ 4º Não será objeto de deliberação a proposta de emenda tendente a abolir:",
+     ""
+    ],
+    [
+     "I - a forma federativa de Estado;",
+     ""
+    ],
+    [
+     "II - o voto direto, secreto, universal e periódico;",
+     ""
+    ],
+    [
+     "III - a separação dos Poderes;",
+     ""
+    ],
+    [
+     "IV - os direitos e garantias individuais.",
+     ""
+    ],
+    [
+     "§ 5º A matéria constante de proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "914f96eb16dc"
+  },
+  "61": {
+   "r": "Art. 61",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção VIII DO PROCESSO LEGISLATIVO › Subseção III Das Leis",
+   "l": [
+    [
+     "Art. 61. A iniciativa das leis complementares e ordinárias cabe a qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da República, ao Supremo Tribunal Federal, aos Tribunais Superiores, ao Procurador-Geral da República e aos cidadãos, na forma e nos casos previstos nesta Constituição.",
+     ""
+    ],
+    [
+     "§ 1º São de iniciativa privativa do Presidente da República as leis que:",
+     ""
+    ],
+    [
+     "I - fixem ou modifiquem os efetivos das Forças Armadas;",
+     ""
+    ],
+    [
+     "II - disponham sobre:",
+     ""
+    ],
+    [
+     "a) criação de cargos, funções ou empregos públicos na administração direta e autárquica ou aumento de sua remuneração;",
+     ""
+    ],
+    [
+     "b) organização administrativa e judiciária, matéria tributária e orçamentária, serviços públicos e pessoal da administração dos Territórios;",
+     ""
+    ],
+    [
+     "c) servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria;",
+     "Redação dada pela Emenda Constitucional nº 18, de 1998"
+    ],
+    [
+     "d) organização do Ministério Público e da Defensoria Pública da União, bem como normas gerais para a organização do Ministério Público e da Defensoria Pública dos Estados, do Distrito Federal e dos Territórios;",
+     ""
+    ],
+    [
+     "e) criação e extinção de Ministérios e órgãos da administração pública, observado o disposto no art. 84, VI;",
+     "Redação dada pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "f) militares das Forças Armadas, seu regime jurídico, provimento de cargos, promoções, estabilidade, remuneração, reforma e transferência para a reserva.",
+     "Incluída pela Emenda Constitucional nº 18, de 1998"
+    ],
+    [
+     "§ 2º A iniciativa popular pode ser exercida pela apresentação à Câmara dos Deputados de projeto de lei subscrito por, no mínimo, um por cento do eleitorado nacional, distribuído pelo menos por cinco Estados, com não menos de três décimos por cento dos eleitores de cada um deles.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "67c78d5727fd"
+  },
+  "62": {
+   "r": "Art. 62",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção VIII DO PROCESSO LEGISLATIVO › Subseção III Das Leis",
+   "l": [
+    [
+     "Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional.",
+     "Redação dada pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 1º É vedada a edição de medidas provisórias sobre matéria:",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "I - relativa a:",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral;",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "b) direito penal, processual penal e processual civil;",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "c) organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros;",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no art. 167, § 3º;",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "II - que vise a detenção ou seqüestro de bens, de poupança popular ou qualquer outro ativo financeiro;",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "III - reservada a lei complementar;",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "IV - já disciplinada em projeto de lei aprovado pelo Congresso Nacional e pendente de sanção ou veto do Presidente da República.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 2º Medida provisória que implique instituição ou majoração de impostos, exceto os previstos nos arts. 153, I, II, IV, V, e 154, II, só produzirá efeitos no exercício financeiro seguinte se houver sido convertida em lei até o último dia daquele em que foi editada.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 3º As medidas provisórias, ressalvado o disposto nos §§ 11 e 12 perderão eficácia, desde a edição, se não forem convertidas em lei no prazo de sessenta dias, prorrogável, nos termos do § 7º, uma vez por igual período, devendo o Congresso Nacional disciplinar, por decreto legislativo, as relações jurídicas delas decorrentes.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 4º O prazo a que se refere o § 3º contar-se-á da publicação da medida provisória, suspendendo-se durante os períodos de recesso do Congresso Nacional.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 5º A deliberação de cada uma das Casas do Congresso Nacional sobre o mérito das medidas provisórias dependerá de juízo prévio sobre o atendimento de seus pressupostos constitucionais.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 6º Se a medida provisória não for apreciada em até quarenta e cinco dias contados de sua publicação, entrará em regime de urgência, subseqüentemente, em cada uma das Casas do Congresso Nacional, ficando sobrestadas, até que se ultime a votação, todas as demais deliberações legislativas da Casa em que estiver tramitando.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 7º Prorrogar-se-á uma única vez por igual período a vigência de medida provisória que, no prazo de sessenta dias, contado de sua publicação, não tiver a sua votação encerrada nas duas Casas do Congresso Nacional.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 8º As medidas provisórias terão sua votação iniciada na Câmara dos Deputados.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 9º Caberá à comissão mista de Deputados e Senadores examinar as medidas provisórias e sobre elas emitir parecer, antes de serem apreciadas, em sessão separada, pelo plenário de cada uma das Casas do Congresso Nacional.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 10. É vedada a reedição, na mesma sessão legislativa, de medida provisória que tenha sido rejeitada ou que tenha perdido sua eficácia por decurso de prazo.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 11. Não editado o decreto legislativo a que se refere o § 3º até sessenta dias após a rejeição ou perda de eficácia de medida provisória, as relações jurídicas constituídas e decorrentes de atos praticados durante sua vigência conservar-se-ão por ela regidas.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 12. Aprovado projeto de lei de conversão alterando o texto original da medida provisória, esta manter-se-á integralmente em vigor até que seja sancionado ou vetado o projeto.",
+     "Incluído pela Emenda Constitucional nº 32, de 2001"
+    ]
+   ],
+   "rev": false,
+   "hash": "dfeaf07064e7"
+  },
+  "64": {
+   "r": "Art. 64",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção VIII DO PROCESSO LEGISLATIVO › Subseção III Das Leis",
+   "l": [
+    [
+     "Art. 64. A discussão e votação dos projetos de lei de iniciativa do Presidente da República, do Supremo Tribunal Federal e dos Tribunais Superiores terão início na Câmara dos Deputados.",
+     ""
+    ],
+    [
+     "§ 1º - O Presidente da República poderá solicitar urgência para apreciação de projetos de sua iniciativa.",
+     ""
+    ],
+    [
+     "§ 2º Se, no caso do § 1º, a Câmara dos Deputados e o Senado Federal não se manifestarem sobre a proposição, cada qual sucessivamente, em até quarenta e cinco dias, sobrestar-se-ão todas as demais deliberações legislativas da respectiva Casa, com exceção das que tenham prazo constitucional determinado, até que se ultime a votação.",
+     "Redação dada pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 3º A apreciação das emendas do Senado Federal pela Câmara dos Deputados far-se-á no prazo de dez dias, observado quanto ao mais o disposto no parágrafo anterior.",
+     ""
+    ],
+    [
+     "§ 4º Os prazos do § 2º não correm nos períodos de recesso do Congresso Nacional, nem se aplicam aos projetos de código.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "723bb158eaae"
+  },
+  "65": {
+   "r": "Art. 65",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção VIII DO PROCESSO LEGISLATIVO › Subseção III Das Leis",
+   "l": [
+    [
+     "Art. 65. O projeto de lei aprovado por uma Casa será revisto pela outra, em um só turno de discussão e votação, e enviado à sanção ou promulgação, se a Casa revisora o aprovar, ou arquivado, se o rejeitar.",
+     ""
+    ],
+    [
+     "Parágrafo único. Sendo o projeto emendado, voltará à Casa iniciadora.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "d55b05505b0e"
+  },
+  "66": {
+   "r": "Art. 66",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção VIII DO PROCESSO LEGISLATIVO › Subseção III Das Leis",
+   "l": [
+    [
+     "Art. 66. A Casa na qual tenha sido concluída a votação enviará o projeto de lei ao Presidente da República, que, aquiescendo, o sancionará.",
+     ""
+    ],
+    [
+     "§ 1º Se o Presidente da República considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, vetá-lo-á total ou parcialmente, no prazo de quinze dias úteis, contados da data do recebimento, e comunicará, dentro de quarenta e oito horas, ao Presidente do Senado Federal os motivos do veto.",
+     ""
+    ],
+    [
+     "§ 2º O veto parcial somente abrangerá texto integral de artigo, de parágrafo, de inciso ou de alínea.",
+     ""
+    ],
+    [
+     "§ 3º Decorrido o prazo de quinze dias, o silêncio do Presidente da República importará sanção.",
+     ""
+    ],
+    [
+     "§ 4º O veto será apreciado em sessão conjunta, dentro de trinta dias a contar de seu recebimento, só podendo ser rejeitado pelo voto da maioria absoluta dos Deputados e Senadores.",
+     "Redação dada pela Emenda Constitucional nº 76, de 2013"
+    ],
+    [
+     "§ 5º Se o veto não for mantido, será o projeto enviado, para promulgação, ao Presidente da República.",
+     ""
+    ],
+    [
+     "§ 6º Esgotado sem deliberação o prazo estabelecido no § 4º, o veto será colocado na ordem do dia da sessão imediata, sobrestadas as demais proposições, até sua votação final.",
+     "Redação dada pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "§ 7º Se a lei não for promulgada dentro de quarenta e oito horas pelo Presidente da República, nos casos dos § 3º e § 5º, o Presidente do Senado a promulgará, e, se este não o fizer em igual prazo, caberá ao Vice-Presidente do Senado fazê-lo.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "cc4e711a4555"
+  },
+  "69": {
+   "r": "Art. 69",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção VIII DO PROCESSO LEGISLATIVO › Subseção III Das Leis",
+   "l": [
+    [
+     "Art. 69. As leis complementares serão aprovadas por maioria absoluta.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "3690a9984abd"
+  },
+  "76": {
+   "r": "Art. 76",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO II DO PODER EXECUTIVO › Seção I DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA",
+   "l": [
+    [
+     "Art. 76. O Poder Executivo é exercido pelo Presidente da República, auxiliado pelos Ministros de Estado.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "a4901f9fa148"
+  },
+  "77": {
+   "r": "Art. 77",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO II DO PODER EXECUTIVO › Seção I DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA",
+   "l": [
+    [
+     "Art. 77. A eleição do Presidente e do Vice-Presidente da República realizar-se-á, simultaneamente, no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato presidencial vigente.",
+     "Redação dada pela Emenda Constitucional nº 16, de 1997"
+    ],
+    [
+     "§ 1º A eleição do Presidente da República importará a do Vice-Presidente com ele registrado.",
+     ""
+    ],
+    [
+     "§ 2º Será considerado eleito Presidente o candidato que, registrado por partido político, obtiver a maioria absoluta de votos, não computados os em branco e os nulos.",
+     ""
+    ],
+    [
+     "§ 3º Se nenhum candidato alcançar maioria absoluta na primeira votação, far-se-á nova eleição em até vinte dias após a proclamação do resultado, concorrendo os dois candidatos mais votados e considerando-se eleito aquele que obtiver a maioria dos votos válidos.",
+     ""
+    ],
+    [
+     "§ 4º Se, antes de realizado o segundo turno, ocorrer morte, desistência ou impedimento legal de candidato, convocar-se-á, dentre os remanescentes, o de maior votação.",
+     ""
+    ],
+    [
+     "§ 5º Se, na hipótese dos parágrafos anteriores, remanescer, em segundo lugar, mais de um candidato com a mesma votação, qualificar-se-á o mais idoso.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "b842a048b656"
+  },
+  "82": {
+   "r": "Art. 82",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO II DO PODER EXECUTIVO › Seção I DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA",
+   "l": [
+    [
+     "Art. 82. O mandato do Presidente da República é de 4 (quatro) anos e terá início em 5 de janeiro do ano seguinte ao de sua eleição.",
+     "Redação dada pela Emenda Constitucional nº 111, de 2021"
+    ]
+   ],
+   "rev": false,
+   "hash": "c5ae7c4b768a"
+  },
+  "84": {
+   "r": "Art. 84",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO II DO PODER EXECUTIVO › Seção II Das Atribuições do Presidente da República",
+   "l": [
+    [
+     "Art. 84. Compete privativamente ao Presidente da República:",
+     ""
+    ],
+    [
+     "I - nomear e exonerar os Ministros de Estado;",
+     ""
+    ],
+    [
+     "II - exercer, com o auxílio dos Ministros de Estado, a direção superior da administração federal;",
+     ""
+    ],
+    [
+     "III - iniciar o processo legislativo, na forma e nos casos previstos nesta Constituição;",
+     ""
+    ],
+    [
+     "IV - sancionar, promulgar e fazer publicar as leis, bem como expedir decretos e regulamentos para sua fiel execução;",
+     ""
+    ],
+    [
+     "V - vetar projetos de lei, total ou parcialmente;",
+     ""
+    ],
+    [
+     "VI - dispor, mediante decreto, sobre:",
+     "Redação dada pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "a) organização e funcionamento da administração federal, quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos;",
+     "Incluída pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "b) extinção de funções ou cargos públicos, quando vagos;",
+     "Incluída pela Emenda Constitucional nº 32, de 2001"
+    ],
+    [
+     "VII - manter relações com Estados estrangeiros e acreditar seus representantes diplomáticos;",
+     ""
+    ],
+    [
+     "VIII - celebrar tratados, convenções e atos internacionais, sujeitos a referendo do Congresso Nacional;",
+     ""
+    ],
+    [
+     "IX - decretar o estado de defesa e o estado de sítio;",
+     ""
+    ],
+    [
+     "X - decretar e executar a intervenção federal;",
+     ""
+    ],
+    [
+     "XI - remeter mensagem e plano de governo ao Congresso Nacional por ocasião da abertura da sessão legislativa, expondo a situação do País e solicitando as providências que julgar necessárias;",
+     ""
+    ],
+    [
+     "XII - conceder indulto e comutar penas, com audiência, se necessário, dos órgãos instituídos em lei;",
+     ""
+    ],
+    [
+     "XIII - exercer o comando supremo das Forças Armadas, nomear os Comandantes da Marinha, do Exército e da Aeronáutica, promover seus oficiais-generais e nomeá-los para os cargos que lhes são privativos;",
+     "Redação dada pela Emenda Constitucional nº 23, de 1999"
+    ],
+    [
+     "XIV - nomear, após aprovação pelo Senado Federal, os Ministros do Supremo Tribunal Federal e dos Tribunais Superiores, os Governadores de Territórios, o Procurador-Geral da República, o presidente e os diretores do banco central e outros servidores, quando determinado em lei;",
+     ""
+    ],
+    [
+     "XV - nomear, observado o disposto no art. 73, os Ministros do Tribunal de Contas da União;",
+     ""
+    ],
+    [
+     "XVI - nomear os magistrados, nos casos previstos nesta Constituição, e o Advogado-Geral da União;",
+     ""
+    ],
+    [
+     "XVII - nomear membros do Conselho da República, nos termos do art. 89, VII;",
+     ""
+    ],
+    [
+     "XVIII - convocar e presidir o Conselho da República e o Conselho de Defesa Nacional;",
+     ""
+    ],
+    [
+     "XIX - declarar guerra, no caso de agressão estrangeira, autorizado pelo Congresso Nacional ou referendado por ele, quando ocorrida no intervalo das sessões legislativas, e, nas mesmas condições, decretar, total ou parcialmente, a mobilização nacional;",
+     ""
+    ],
+    [
+     "XX - celebrar a paz, autorizado ou com o referendo do Congresso Nacional;",
+     ""
+    ],
+    [
+     "XXI - conferir condecorações e distinções honoríficas;",
+     ""
+    ],
+    [
+     "XXII - permitir, nos casos previstos em lei complementar, que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente;",
+     ""
+    ],
+    [
+     "XXIII - enviar ao Congresso Nacional o plano plurianual, o projeto de lei de diretrizes orçamentárias e as propostas de orçamento previstos nesta Constituição;",
+     ""
+    ],
+    [
+     "XXIV - prestar, anualmente, ao Congresso Nacional, dentro de sessenta dias após a abertura da sessão legislativa, as contas referentes ao exercício anterior;",
+     ""
+    ],
+    [
+     "XXV - prover e extinguir os cargos públicos federais, na forma da lei;",
+     ""
+    ],
+    [
+     "XXVI - editar medidas provisórias com força de lei, nos termos do art. 62;",
+     ""
+    ],
+    [
+     "XXVII - exercer outras atribuições previstas nesta Constituição.",
+     ""
+    ],
+    [
+     "XXVIII - propor ao Congresso Nacional a decretação do estado de calamidade pública de âmbito nacional previsto nos arts. 167-B, 167-C, 167-D, 167-E, 167-F e 167-G desta Constituição.",
+     "Incluído pela Emenda Constitucional nº 109, de 2021"
+    ],
+    [
+     "Parágrafo único. O Presidente da República poderá delegar as atribuições mencionadas nos incisos VI, XII e XXV, primeira parte, aos Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União, que observarão os limites traçados nas respectivas delegações.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "4c352df2a2d0"
+  }
+ }
+}

@@ -1,0 +1,896 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow"><meta name="mapa-dados" content="data/">
+<title>Mapa Eleitoral</title>
+<meta name="description" content="Mapa Eleitoral do Guedes Pinto Advogados: cargos em disputa, candidaturas, propostas e competência de cada cargo.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+<style>:root{box-sizing:border-box}body{margin:0;padding:0;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}img{max-width:100%}[hidden]{display:none!important}</style>
+<style>
+/* Base visual do Guedes Pinto Advogados (tokens, tipografia e componentes), a mesma identidade
+   usada nas demais ferramentas do escritório. */
+:root{
+  color-scheme: dark;
+  --bg:#282826; --bg-2:#302f2c; --bg-3:#363531; --line:#45433f; --line-soft:#383734;
+  --ink:#F6F3EE; --ink-2:#BDB5B1; --ink-3:#8f8a85;
+  --gold:#B39262; --gold-ink:#c9ab7d; --gold-wash:rgba(179,146,98,.14);
+  --warn:#d9826b; --warn-wash:rgba(217,130,107,.12); --ok:#8fae84; --mid:#c9ab7d;
+  --serif:'Icone LT', Georgia, 'Times New Roman', serif;
+  --sans:'PP Neue Montreal','Helvetica Neue', Helvetica, Arial, sans-serif;
+  --mono:'IBM Plex Mono', ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: light){
+  :root:not([data-theme="dark"]){
+    color-scheme: light;
+    --bg:#F6F3EE; --bg-2:#EEE9E1; --bg-3:#E6E0D6; --line:#d6cfc8; --line-soft:#e4ded6;
+    --ink:#282826; --ink-2:#55524e; --ink-3:#6B6967;
+    --gold:#9a7a4c; --gold-ink:#86683c; --gold-wash:rgba(179,146,98,.16);
+    --warn:#a8513b; --warn-wash:rgba(168,81,59,.09); --ok:#4f7445; --mid:#86683c;
+  }
+}
+:root[data-theme="light"]{
+  color-scheme: light;
+  --bg:#F6F3EE; --bg-2:#EEE9E1; --bg-3:#E6E0D6; --line:#d6cfc8; --line-soft:#e4ded6;
+  --ink:#282826; --ink-2:#55524e; --ink-3:#6B6967;
+  --gold:#9a7a4c; --gold-ink:#86683c; --gold-wash:rgba(179,146,98,.16);
+  --warn:#a8513b; --warn-wash:rgba(168,81,59,.09); --ok:#4f7445; --mid:#86683c;
+}
+/* O Mapa Eleitoral usa o fundo claro por padrão; o escuro vale pela preferência do sistema ou pelo botão. */
+:root{
+  color-scheme: light;
+  --bg:#F6F3EE; --bg-2:#EEE9E1; --bg-3:#E6E0D6; --line:#d6cfc8; --line-soft:#e4ded6;
+  --ink:#282826; --ink-2:#55524e; --ink-3:#6B6967;
+  --gold:#9a7a4c; --gold-ink:#86683c; --gold-wash:rgba(179,146,98,.16);
+  --warn:#a8513b; --warn-wash:rgba(168,81,59,.09); --ok:#4f7445; --mid:#86683c;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+  color-scheme: dark;
+  --bg:#282826; --bg-2:#302f2c; --bg-3:#363531; --line:#45433f; --line-soft:#383734;
+  --ink:#F6F3EE; --ink-2:#BDB5B1; --ink-3:#8f8a85;
+  --gold:#B39262; --gold-ink:#c9ab7d; --gold-wash:rgba(179,146,98,.14);
+  --warn:#d9826b; --warn-wash:rgba(217,130,107,.12); --ok:#8fae84; --mid:#c9ab7d;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme: dark;
+  --bg:#282826; --bg-2:#302f2c; --bg-3:#363531; --line:#45433f; --line-soft:#383734;
+  --ink:#F6F3EE; --ink-2:#BDB5B1; --ink-3:#8f8a85;
+  --gold:#B39262; --gold-ink:#c9ab7d; --gold-wash:rgba(179,146,98,.14);
+  --warn:#d9826b; --warn-wash:rgba(217,130,107,.12); --ok:#8fae84; --mid:#c9ab7d;
+  }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+button,input,select,textarea{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--gold);outline-offset:2px;border-radius:2px}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:clamp(16px,3vw,32px);padding-block:0 56px}
+
+/* Masthead */
+.mast{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;flex-wrap:wrap;padding-block:26px 18px;border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:center;gap:16px;text-decoration:none}
+.brand img{width:44px;height:auto;display:block}
+.eyebrow{font-size:11px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);margin:0}
+h1{font-family:var(--serif);font-weight:300;font-size:clamp(28px,4vw,40px);letter-spacing:.02em;line-height:1.05;margin:2px 0 0}
+h1 em{font-style:italic;color:var(--gold-ink)}
+.status{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:12px;color:var(--ink-2)}
+.status b{color:var(--ink);font-weight:500}
+.pulse{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--ok);margin-right:6px;vertical-align:1px}
+.pulse.off{background:var(--warn)}
+nav.tabs-scroll{overflow-x:auto;border-bottom:1px solid var(--line);scrollbar-width:thin}
+.tabs{display:flex;gap:2px;min-width:max-content}
+.tab{background:none;border:0;border-bottom:2px solid transparent;color:var(--ink-2);font-size:14px;padding:10px 12px 9px;cursor:pointer;margin-bottom:-1px;white-space:nowrap;text-decoration:none}
+.tab:hover{color:var(--ink)}
+.tab[aria-current="page"]{color:var(--ink);border-bottom-color:var(--gold);font-weight:500}
+.tab .n{font-family:var(--mono);font-size:11px;color:var(--ink-3);margin-left:4px}
+
+/* Typography */
+h2{font-family:var(--serif);font-weight:400;font-size:24px;margin:0;letter-spacing:.01em;text-wrap:balance}
+h3{font-family:var(--serif);font-weight:400;font-size:19px;margin:0;text-wrap:balance}
+.page-head{padding-block:28px 6px}
+.page-head h2{font-size:clamp(26px,3.4vw,34px);font-weight:300}
+.crumbs{font-size:12px;color:var(--ink-3);letter-spacing:.06em;text-transform:uppercase;margin:0 0 6px;display:flex;gap:8px;flex-wrap:wrap}
+.crumbs a{text-decoration:none;color:var(--gold-ink)}
+.lede{font-size:16px;color:var(--ink);max-width:72ch;margin:12px 0 0}
+.muted{color:var(--ink-3)}
+.small{font-size:13px}
+.mono{font-family:var(--mono)}
+section.blk{margin-top:36px}
+.sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:12px;flex-wrap:wrap;border-bottom:1px solid var(--line-soft);padding-bottom:8px}
+.sec-note{font-size:12px;color:var(--ink-3)}
+.grid2{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:40px}
+@media (max-width:960px){.grid2{grid-template-columns:1fr;gap:28px}}
+aside.side{display:flex;flex-direction:column;gap:30px}
+
+/* Badges */
+.badge{display:inline-flex;align-items:center;gap:5px;font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;padding:2px 7px;border-radius:3px;border:1px solid var(--line);color:var(--ink-3);white-space:nowrap}
+.badge.gold{border-color:var(--gold);color:var(--gold-ink)}
+.badge.solid{background:var(--gold);border-color:var(--gold);color:var(--bg)}
+.badge.warn{border-color:var(--warn);color:var(--warn)}
+.badge.ok{border-color:var(--ok);color:var(--ok)}
+.badge.ia::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--gold)}
+.chip{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;padding:3px 10px;border-radius:99px;border:1px solid var(--line);background:none;color:var(--ink-2);cursor:pointer;text-decoration:none;white-space:nowrap}
+.chip:hover{border-color:var(--gold);color:var(--ink)}
+.chip.p{border-style:dashed}
+.chip.c{border-style:dotted}
+.chip[aria-pressed="true"]{background:var(--gold-wash);border-color:var(--gold);color:var(--ink)}
+.chip.dis{opacity:.5;cursor:default}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.ref{color:var(--gold-ink);text-decoration:none;border-bottom:1px solid transparent}
+.ref:hover{border-bottom-color:var(--gold)}
+
+/* Search */
+.hero{padding-block:44px 8px;max-width:820px}
+.hero h2{font-size:clamp(28px,4vw,40px);font-weight:300;line-height:1.15}
+.hero p{color:var(--ink-2);margin:10px 0 0;max-width:62ch}
+form.search{margin-top:22px;display:flex;align-items:center;gap:10px;border:1px solid var(--line);border-radius:6px;padding:4px 6px 4px 14px;background:var(--bg-2)}
+form.search:focus-within{border-color:var(--gold)}
+form.search input{flex:1;min-width:0;background:none;border:0;font-size:16px;padding:11px 0;outline:none}
+form.search svg{flex:none;color:var(--ink-3)}
+.btn{appearance:none;text-decoration:none;display:inline-block;border:1px solid var(--gold);background:var(--gold);color:var(--bg);font-size:13.5px;font-weight:500;padding:8px 14px;border-radius:4px;cursor:pointer;white-space:nowrap}
+.btn:hover{filter:brightness(1.07)}
+.btn.ghost{background:none;color:var(--gold-ink)}
+.btn.quiet{background:none;border-color:var(--line);color:var(--ink-2);font-weight:400}
+.btn.quiet:hover{border-color:var(--gold);color:var(--ink)}
+.btn[disabled]{opacity:.5;cursor:default}
+.examples{margin-top:12px;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.examples span{font-size:12px;color:var(--ink-3);margin-right:4px}
+
+/* Home cards */
+.areas{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.area{padding:14px 16px;border-right:1px solid var(--line-soft);border-bottom:1px solid var(--line-soft);text-decoration:none;display:flex;flex-direction:column;gap:3px}
+.area:hover{background:var(--bg-2)}
+.area b{font-weight:500;font-size:15px}
+.area span{font-size:12px;color:var(--ink-3);font-family:var(--mono)}
+.area.soon b{color:var(--ink-3)}
+.list{list-style:none;margin:0;padding:0}
+.list li{border-bottom:1px solid var(--line-soft)}
+.row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:14px;padding:12px 0;text-decoration:none;align-items:baseline}
+.row:hover .rt{color:var(--gold-ink)}
+.rt{font-family:var(--serif);font-size:17.5px;line-height:1.3}
+.rs{font-size:13px;color:var(--ink-2);margin-top:3px;max-width:78ch}
+.rm{font-family:var(--mono);font-size:11px;color:var(--ink-3);white-space:nowrap}
+
+/* Legal text */
+.lex{border-left:2px solid var(--gold);padding:4px 0 4px 18px;margin:0}
+.lex p{margin:0 0 6px;max-width:78ch}
+.lex p.cap{font-size:15.5px}
+.lex p.sub{padding-left:18px;color:var(--ink)}
+.lex .nt{display:block;font-family:var(--mono);font-size:10.5px;color:var(--ink-3);margin-top:1px}
+.lex .nt.new{color:var(--gold-ink)}
+.srcline{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:10px;font-size:12px;color:var(--ink-3)}
+.srcline a{color:var(--gold-ink)}
+
+/* Tables */
+.tbl-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:6px}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line-soft)}
+th{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);font-weight:500;background:var(--bg-2)}
+tr:last-child td{border-bottom:0}
+td.k{color:var(--ink-3);white-space:nowrap}
+.cmp td{min-width:220px}
+.cmp td.k{min-width:140px}
+
+/* Alerts */
+.alert{border:1px solid var(--warn);background:var(--warn-wash);border-radius:6px;padding:14px 16px;margin-bottom:12px}
+.alert .lab{font-family:var(--mono);font-size:11px;letter-spacing:.12em;color:var(--warn);text-transform:uppercase}
+.alert h3{font-size:18px;margin:4px 0 6px}
+.alert p{margin:6px 0 0;font-size:14px;max-width:78ch}
+.alert .rep{color:var(--ink-2);font-size:13.5px}
+
+/* Relations list */
+.rel{display:grid;grid-template-columns:170px minmax(0,1fr);gap:14px;padding:12px 0;border-bottom:1px solid var(--line-soft)}
+.rel .l{display:flex;flex-direction:column;gap:6px}
+.rel .l a{font-family:var(--serif);font-size:16.5px;text-decoration:none}
+.rel .l a:hover{color:var(--gold-ink)}
+.rel p{margin:0;font-size:13.5px;color:var(--ink-2);max-width:72ch}
+@media (max-width:560px){.rel{grid-template-columns:1fr}}
+
+/* Notes */
+.note{padding:10px 0;border-bottom:1px solid var(--line-soft)}
+.note .who{font-size:12px;color:var(--ink-3);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.note p{margin:4px 0 0;font-size:14px;white-space:pre-wrap;max-width:78ch}
+form.nf{display:grid;gap:8px;margin-top:12px}
+textarea,input[type=text],select{background:var(--bg-2);border:1px solid var(--line);border-radius:4px;padding:9px 10px;font-size:14px;width:100%}
+textarea{min-height:80px;resize:vertical}
+textarea:focus,input[type=text]:focus,select:focus{border-color:var(--gold);outline:none}
+.frow{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.frow > *{flex:1 1 180px}
+.frow .btn{flex:0 0 auto}
+
+/* Actions bar */
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px;align-items:center}
+.pop{position:relative}
+.menu{position:absolute;z-index:5;top:calc(100% + 6px);left:0;min-width:240px;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:6px;box-shadow:0 8px 24px rgba(0,0,0,.25)}
+.menu button{display:block;width:100%;text-align:left;background:none;border:0;padding:7px 9px;border-radius:4px;cursor:pointer;font-size:13.5px}
+.menu button:hover{background:var(--bg-2)}
+.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(20px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:4px;font-size:13.5px;z-index:20}
+
+.side-box h3{font-size:17px;margin-bottom:10px}
+.kv{display:grid;grid-template-columns:auto minmax(0,1fr);gap:4px 12px;font-size:13px}
+.kv dt{color:var(--ink-3)}
+.kv dd{margin:0}
+.empty{padding:22px 0;color:var(--ink-3);font-size:14px}
+.foot{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;font-size:12.5px;color:var(--ink-3)}
+.foot p{margin:0;max-width:74ch}
+.theme-btn{background:none;border:1px solid var(--line);color:var(--ink-2);font-size:12px;padding:4px 10px;border-radius:4px;cursor:pointer;align-self:flex-start}
+.art-row{display:grid;grid-template-columns:110px minmax(0,1fr) auto;gap:12px;padding:9px 0;border-bottom:1px solid var(--line-soft);text-decoration:none;align-items:baseline}
+.art-row:hover b{color:var(--gold-ink)}
+.art-row b{font-family:var(--mono);font-size:12.5px;font-weight:500}
+.art-row span{font-size:13.5px;color:var(--ink-2);overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+@media (max-width:560px){.art-row{grid-template-columns:1fr}.row{grid-template-columns:1fr}}
+.hgroup{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);margin:22px 0 4px}
+.loading{padding:60px 0;color:var(--ink-3);font-family:var(--mono);font-size:13px}
+@media (prefers-reduced-motion:no-preference){.pulse{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.35}}}
+</style>
+<style>
+/* Mapa Eleitoral: usa os mesmos tokens do Mapa Normativo (cores, fontes, espaçamento). */
+.el-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:16px}
+.el-card{border:1px solid var(--line);border-radius:6px;padding:16px 18px;background:var(--bg);display:flex;flex-direction:column;gap:6px}
+.el-card h3{font-size:20px;margin-top:6px}
+.el-card.fora{border-style:dashed;background:var(--bg-2)}
+.el-card-top{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.el-funcao{font-size:14px;margin:6px 0 0;color:var(--ink)}
+.el-mini{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3);margin:12px 0 4px;font-weight:500}
+.el-comps{margin:0;padding-left:18px;font-size:13.5px;color:var(--ink-2)}
+.el-comps li{margin:3px 0}
+.el-card-foot{margin-top:auto;padding-top:12px;border-top:1px solid var(--line-soft);display:flex;flex-direction:column;gap:6px}
+.el-card-foot .btn{align-self:flex-start;margin-top:6px}
+.el-kv{font-size:13px;color:var(--ink-2)}
+.el-kv span:first-child{color:var(--ink-3);margin-right:6px}
+.el-kv b{font-family:var(--mono);font-weight:500;color:var(--ink)}
+.el-datas{margin:12px 0 0;padding-left:18px;font-size:13.5px;color:var(--ink-2);max-width:78ch}
+.el-busca{max-width:760px}
+.el-municipal .el-card{opacity:.95}
+.el-fixture{border:1px dashed var(--warn);background:var(--warn-wash);border-radius:6px;padding:10px 14px;margin-top:18px}
+.el-fixture .lab{font-family:var(--mono);font-size:11px;letter-spacing:.12em;color:var(--warn)}
+.el-fixture p{margin:4px 0 0;font-size:13.5px;max-width:80ch}
+.el-filtros{display:grid;grid-template-columns:2fr 1.2fr .8fr 1.4fr 1.4fr;gap:10px;margin-bottom:14px}
+.el-filtros label{display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--ink-3)}
+.el-filtros label span{letter-spacing:.06em;text-transform:uppercase;font-size:10.5px}
+#elFiltrosProp{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media (max-width:860px){.el-filtros,#elFiltrosProp{grid-template-columns:1fr 1fr}}
+@media (max-width:520px){.el-filtros,#elFiltrosProp{grid-template-columns:1fr}}
+.el-row .rs .mono{color:var(--ink)}
+.el-pager{display:flex;gap:12px;align-items:center;justify-content:center;margin-top:16px}
+.el-cand-head{display:grid;grid-template-columns:120px minmax(0,1fr);gap:22px;align-items:start;margin-top:8px}
+@media (max-width:560px){.el-cand-head{grid-template-columns:1fr}}
+.el-foto{width:120px;height:160px;object-fit:cover;border-radius:4px;border:1px solid var(--line);background:var(--bg-2);display:block}
+.el-foto.vazia{display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-size:44px;color:var(--ink-3)}
+.el-abas{margin-top:22px}
+.el-bio{grid-template-columns:minmax(140px,auto) minmax(0,1fr);gap:8px 18px;font-size:14px;max-width:760px}
+.el-props{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.el-prop{border:1px solid var(--line);border-radius:6px;padding:14px 16px;background:var(--bg)}
+.el-prop .el-mini{margin-top:0}
+.el-prop h4{font-family:var(--serif);font-weight:400;font-size:18px;margin:2px 0 6px}
+.el-prop h4 a{text-decoration:none}
+.el-prop h4 a:hover{color:var(--gold-ink)}
+.el-prop p{margin:0}
+.el-tom{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:var(--gold);vertical-align:0}
+.el-tom.ok{background:var(--ok)}.el-tom.warn{background:var(--warn)}.el-tom.mute{background:var(--ink-3)}
+.el-veredito{border:1px solid var(--line);border-left:3px solid var(--gold);border-radius:6px;padding:16px 18px;background:var(--bg-2)}
+.el-veredito.ok{border-left-color:var(--ok)}.el-veredito.warn{border-left-color:var(--warn)}.el-veredito.mute{border-left-color:var(--ink-3)}
+.el-veredito .lab{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3);margin:0}
+.el-veredito h3{font-size:22px;margin:4px 0 6px}
+.el-veredito > p{margin:0;max-width:74ch;color:var(--ink-2);font-size:14.5px}
+.el-fatos{display:grid;grid-template-columns:auto minmax(0,1fr);gap:6px 16px;margin:14px 0 0;font-size:14px}
+.el-fatos dt{color:var(--ink-3)}
+.el-fatos dd{margin:0;font-weight:500}
+.el-obs{margin:10px 0 0;padding-left:18px;color:var(--ink-2)}
+.el-etapas{list-style:none;margin:6px 0 0;padding:0;counter-reset:et;position:relative}
+.el-etapas li{position:relative;padding:4px 0 12px 30px;counter-increment:et;font-size:14px}
+.el-etapas li::before{content:counter(et);position:absolute;left:0;top:4px;width:20px;height:20px;border-radius:50%;border:1px solid var(--gold);font-family:var(--mono);font-size:11px;display:flex;align-items:center;justify-content:center;color:var(--gold-ink)}
+.el-etapas li.cond::before{border-style:dashed;border-color:var(--ink-3);color:var(--ink-3)}
+.el-etapas li .el-mini{margin:0 0 2px}
+.el-alt{border-top:1px solid var(--line-soft);padding-top:10px;margin-top:6px}
+.el-alt p{margin:4px 0}
+.chip.el-eu{border-color:var(--gold);background:var(--gold-wash);color:var(--ink)}
+.el-dep{padding:10px 0}
+.el-dep p{margin:3px 0 0;color:var(--ink-2);max-width:74ch}
+.el-trecho{margin:8px 0 0;padding:8px 12px;border-left:2px solid var(--gold);background:var(--bg-2);font-size:13.5px;max-width:78ch}
+.el-trecho .nt{display:block;font-family:var(--mono);font-size:10.5px;color:var(--ink-3);margin-top:4px}
+.el-afirm{padding:10px 0;border-bottom:1px solid var(--line-soft)}
+.el-afirm > p{margin:0 0 6px;font-size:14px}
+.el-afirm.div > p{color:var(--warn)}
+.el-fontes{list-style:none;margin:0;padding:0;font-size:13.5px}
+.el-fontes li{padding:5px 0}
+.el-admin{margin:0;padding-left:18px;color:var(--ink-2)}
+.el-fora{border-bottom:1px dotted var(--ink-3)}
+.el-admin li{margin:3px 0;overflow-wrap:anywhere}
+</style>
+
+</head><body>
+<div class="wrap">
+  <header class="mast">
+    <a class="brand" href="#/">
+      <img src="data:image/png;base64,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" alt="Guedes Pinto Advogados" width="44" height="33">
+      <div>
+        <p class="eyebrow">Guedes Pinto Advogados</p>
+        <h1>Mapa <em>Eleitoral</em></h1>
+      </div>
+    </a>
+    <div class="status" id="status" aria-live="polite"><span><span class="pulse off"></span>Carregando</span></div>
+  </header>
+  <nav class="tabs-scroll" aria-label="Seções"><div class="tabs" id="tabs"></div></nav>
+  <main id="app"><p class="loading">Carregando o Mapa Eleitoral…</p></main>
+  <footer class="foot">
+    <p>Candidaturas conforme os dados oficiais do Tribunal Superior Eleitoral, sincronizados e armazenados (a página não consulta o TSE a cada visita). Fundamentos jurídicos com o texto vigente conferido pelo Mapa Normativo a partir da compilação oficial do Planalto. As análises de competência são automatizadas, indicam seu status de revisão e não constituem parecer jurídico. O Mapa Eleitoral não recomenda voto, não classifica candidatos e não faz previsões.</p>
+    <button class="theme-btn" id="themeBtn" type="button">Alternar tema</button>
+  </footer>
+</div>
+
+<script>
+/* Mapa Eleitoral: funções puras de rota, filtro, paginação e busca.
+   Sem acesso ao DOM, para poderem ser testadas com Node (testes/js/). Na página, ficam em
+   window.MapaEleitoralFiltros; no Node, em module.exports. */
+(function (raiz) {
+  "use strict";
+  const norm = s => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().trim();
+  const POR_PAGINA = 40;
+  const SITUACOES_ATIVAS = ["DEFERIDO", "DEFERIDO_COM_RECURSO", "AGUARDANDO_JULGAMENTO", "INDEFERIDO_COM_RECURSO"];
+
+  function lerQuery(qs) {
+    const out = {};
+    String(qs || "").split("&").filter(Boolean).forEach(par => {
+      const i = par.indexOf("=");
+      const k = decodeURIComponent(i < 0 ? par : par.slice(0, i));
+      const v = i < 0 ? "" : decodeURIComponent(par.slice(i + 1).replace(/\+/g, " "));
+      if (k) out[k] = v;
+    });
+    return out;
+  }
+  function montarQuery(f) {
+    const pares = Object.keys(f || {}).filter(k => f[k] !== undefined && f[k] !== null && f[k] !== "" && !(k === "p" && +f[k] === 1))
+      .sort().map(k => encodeURIComponent(k) + "=" + encodeURIComponent(f[k]));
+    return pares.length ? "?" + pares.join("&") : "";
+  }
+
+  /* "#/2026/sc/governador?partido=PL&p=2" -> {v:"cargo", eleicao:"2026", cargo:"sc/governador", filtros:{...}} */
+  function parseRota(hash) {
+    let h = String(hash || "").replace(/^#/, "");
+    try { h = decodeURI(h); } catch (e) { /* mantém como veio */ }
+    const iq = h.indexOf("?");
+    const filtros = iq >= 0 ? lerQuery(h.slice(iq + 1)) : {};
+    const r = (iq >= 0 ? h.slice(0, iq) : h).split("/").filter(Boolean);
+    if (!r.length || (r.length === 1 && r[0] === "inicio")) return { v: "inicio", filtros };
+    if (r[0] === "candidato" && r[1]) return { v: "candidato", id: r[1], aba: r[2] || "visao-geral", filtros };
+    if (r[0] === "proposta" && r[1]) return { v: "proposta", id: r[1], filtros };
+    if (r[0] === "municipios" && r[1]) return { v: "municipio", id: r[1], filtros };
+    if (r[0] === "propostas") return { v: "propostas", filtros };
+    if (r[0] === "admin") return { v: "admin", filtros };
+    if (r.length === 1) return { v: "eleicao", eleicao: r[0], filtros };
+    return { v: "cargo", eleicao: r[0], cargo: r.slice(1).join("/"), filtros };
+  }
+  function montarRota(r) {
+    const q = montarQuery(r.filtros);
+    switch (r.v) {
+      case "inicio": return "#/" + q;
+      case "candidato": return "#/candidato/" + r.id + (r.aba && r.aba !== "visao-geral" ? "/" + r.aba : "") + q;
+      case "proposta": return "#/proposta/" + r.id + q;
+      case "municipio": return "#/municipios/" + r.id + q;
+      case "propostas": return "#/propostas" + q;
+      case "admin": return "#/admin" + q;
+      case "eleicao": return "#/" + r.eleicao + q;
+      case "cargo": return "#/" + r.eleicao + "/" + r.cargo + q;
+      default: return "#/";
+    }
+  }
+
+  /* linhas no formato compacto de cargos/<id>.json; colunas nomeiam as posições */
+  function filtrarCandidaturas(linhas, colunas, f) {
+    const c = {}; (colunas || []).forEach((n, i) => c[n] = i);
+    const q = norm(f && f.q), partido = norm(f && f.partido), numero = String((f && f.numero) || "").replace(/\D/g, "");
+    const sit = (f && f.situacao) || "ativas";
+    return (linhas || []).filter(l => {
+      if (q && !q.split(/\s+/).every(t => l[c.busca].includes(t))) return false;
+      if (partido && norm(l[c.partido]) !== partido) return false;
+      if (numero && !String(l[c.numero]).startsWith(numero)) return false;
+      if (sit === "ativas" && SITUACOES_ATIVAS.indexOf(l[c.situacao]) < 0) return false;
+      if (sit !== "ativas" && sit !== "todas" && l[c.situacao] !== sit) return false;
+      return true;
+    });
+  }
+  function paginar(lista, pagina, por) {
+    por = por || POR_PAGINA;
+    const total = (lista || []).length, paginas = Math.max(1, Math.ceil(total / por));
+    const p = Math.min(Math.max(1, parseInt(pagina, 10) || 1), paginas);
+    return { itens: (lista || []).slice((p - 1) * por, p * por), pagina: p, paginas, total, de: total ? (p - 1) * por + 1 : 0, ate: Math.min(total, p * por) };
+  }
+  function opcoes(linhas, colunas, campo) {
+    const i = (colunas || []).indexOf(campo), cont = {};
+    (linhas || []).forEach(l => { const v = l[i]; if (v !== "" && v !== null && v !== undefined) cont[v] = (cont[v] || 0) + 1; });
+    return Object.keys(cont).sort((a, b) => a.localeCompare(b, "pt-BR")).map(v => ({ valor: v, n: cont[v] }));
+  }
+
+  /* índice propostas.json: filtros por classificação, instrumento, tema, cargo, nível e eleição */
+  function filtrarPropostas(idx, f) {
+    const c = {}; (idx.colunas || []).forEach((n, i) => c[n] = i);
+    const q = norm(f && f.q);
+    return (idx.propostas || []).filter(p => {
+      if (f.classificacao && p[c.classificacao] !== f.classificacao) return false;
+      if (f.instrumento && p[c.instrumento_id] !== f.instrumento) return false;
+      if (f.tema && (p[c.temas] || []).indexOf(f.tema) < 0) return false;
+      if (f.cargo && p[c.cargo_id] !== f.cargo) return false;
+      if (f.nivel && p[c.nivel] !== f.nivel) return false;
+      if (f.eleicao && p[c.eleicao_id] !== f.eleicao) return false;
+      if (q && !norm(p[c.titulo] + " " + p[c.candidato]).includes(q)) return false;
+      return true;
+    });
+  }
+
+  /* busca.json: itens [tipo, id, rotulo, sub, busca, fixture]; todos os termos precisam aparecer */
+  function buscar(itens, consulta, limite, comFixtures) {
+    const termos = norm(consulta).split(/[^a-z0-9]+/).filter(t => t.length > 1);
+    if (!termos.length) return [];
+    const peso = { cargo: 4, tema: 3, partido: 3, candidato: 2, proposta: 1 };
+    return (itens || []).filter(i => (comFixtures || !i[5]) && termos.every(t => i[4].includes(t)))
+      .map(i => ({ i, s: (peso[i[0]] || 0) + (norm(i[2]).startsWith(termos[0]) ? 2 : 0) }))
+      .sort((a, b) => b.s - a.s || a.i[2].localeCompare(b.i[2], "pt-BR")).slice(0, limite || 12).map(x => x.i);
+  }
+
+  const api = { norm, lerQuery, montarQuery, parseRota, montarRota, filtrarCandidaturas, paginar, opcoes, filtrarPropostas, buscar, POR_PAGINA, SITUACOES_ATIVAS };
+  if (typeof module !== "undefined" && module.exports) module.exports = api; else raiz.MapaEleitoralFiltros = api;
+})(typeof window !== "undefined" ? window : this);
+
+</script>
+<script>
+/* Mapa Eleitoral: casca da página (roteamento por hash, abas, tema e utilitários).
+   O conteúdo de cada rota vem do módulo registrado em web/eleitoral.js. */
+(() => {
+"use strict";
+const DATA = (document.querySelector('meta[name="mapa-dados"]') || {}).content || "data/";
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const norm = s => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const FMT = d => { if (!d) return ""; const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(d); return m ? `${m[3]}/${m[2]}/${m[1]}` : d; };
+const FMTH = d => { if (!d) return ""; const t = new Date(d); if (isNaN(t)) return FMT(d); return t.toLocaleString("pt-BR", { day: "2-digit", month: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit" }); };
+const ls = { get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } }, set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} } };
+async function getJSON(p) { const r = await fetch(DATA + p, { cache: "no-cache" }); if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }
+const app = $("#app");
+let mod = null;
+
+function renderAbas() {
+  const F = window.MapaEleitoralFiltros, r = F.parseRota(location.hash) || { v: "inicio" };
+  const demo = r.v === "eleicao" && r.eleicao === "demonstracao" || r.v === "cargo" && r.eleicao === "demonstracao";
+  const abas = [["#/", "Eleições 2026", !demo && ["inicio", "eleicao", "cargo", "candidato", "proposta"].includes(r.v)],
+    ["#/propostas", "Propostas", r.v === "propostas"], ["#/municipios/florianopolis", "Municípios", r.v === "municipio"],
+    ["#/demonstracao", "Demonstração", demo], ["#/admin", "Painel", r.v === "admin"]];
+  $("#tabs").innerHTML = abas.map(([h, t, ativo]) => `<a class="tab" href="${h}" ${ativo ? 'aria-current="page"' : ""}>${t}</a>`).join("");
+}
+function render(soft) {
+  if (!mod) return;
+  const y = window.scrollY; let html = "";
+  try { html = mod.render(location.hash.replace(/^#/, "")); }
+  catch (e) { console.error(e); html = `<div class="empty">Não foi possível montar esta página (${esc(e.message)}).</div>`; }
+  app.innerHTML = html; renderAbas();
+  if (soft) window.scrollTo(0, y); else window.scrollTo(0, 0);
+  if (mod.depois) try { mod.depois(); } catch (e) { console.error(e); }
+}
+function status(html) { $("#status").innerHTML = html; }
+function initTheme() {
+  const saved = ls.get("theme", null); if (saved) document.documentElement.setAttribute("data-theme", saved);
+  $("#themeBtn").addEventListener("click", () => { const cur = document.documentElement.getAttribute("data-theme") || (matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+    const n = cur === "light" ? "dark" : "light"; document.documentElement.setAttribute("data-theme", n); ls.set("theme", n); });
+}
+window.AppEleitoral = { registrar(m) { mod = m; render(); }, render, util: { esc, norm, FMT, FMTH, ls, getJSON, status } };
+window.addEventListener("hashchange", () => render());
+initTheme();
+})();
+
+</script>
+<script>
+/* Mapa Eleitoral: interface. Lê docs/data/ (gerado por coletor/publicar.py) e se registra
+   na casca da página (web/app.js).
+   Nenhuma regra jurídica é decidida aqui: classificações, explicações, fundamentos e
+   dependências vêm prontos dos dados publicados. */
+(() => {
+"use strict";
+const MN = window.AppEleitoral, F = window.MapaEleitoralFiltros;
+if (!MN || !F) return;
+const { esc, FMT, FMTH, getJSON, ls } = MN.util;
+const BASE = "";
+const C = { dados: {}, carregando: {}, erro: {} };
+
+// ------------------------------------------------------------ dados (carga sob demanda, com cache)
+function dado(arquivo) {
+  if (C.dados[arquivo]) return C.dados[arquivo];
+  if (!C.carregando[arquivo] && !C.erro[arquivo]) {
+    C.carregando[arquivo] = getJSON(BASE + arquivo)
+      .then(d => { C.dados[arquivo] = d; })
+      .catch(e => { C.erro[arquivo] = e.message || String(e); })
+      .finally(() => { delete C.carregando[arquivo]; MN.render(true); });
+  }
+  return null;
+}
+const carregando = (msg) => `<p class="loading">${esc(msg || "Carregando o Mapa Eleitoral…")}</p>`;
+function falha(arquivo) {
+  return C.erro[arquivo] ? `<div class="empty">Não foi possível carregar os dados (${esc(C.erro[arquivo])}). <a class="ref" href="#/">Voltar ao início</a></div>` : null;
+}
+
+// ------------------------------------------------------------ utilitários de exibição
+const IDX = () => C.dados["index.json"];
+const rot = (grupo, v) => ((IDX().rotulos || {})[grupo] || {})[v] || v || "";
+const cargoDe = id => (IDX().cargos || {})[id] || {};
+const eleicaoPorRota = r => (IDX().eleicoes || []).find(e => e.rota === r);
+const eleicaoPorId = id => (IDX().eleicoes || []).find(e => e.id === id);
+const cargoEleicao = (el, rota) => (el.cargos || []).find(c => c.rota === rota);
+const hrefCargo = (el, ce) => F.montarRota({ v: "cargo", eleicao: el.rota, cargo: ce.rota });
+const hrefCand = id => F.montarRota({ v: "candidato", id });
+const hrefProp = id => F.montarRota({ v: "proposta", id });
+const plural = (n, s, p) => `${n.toLocaleString("pt-BR")} ${n === 1 ? s : p}`;
+function situacaoBadge(s, oficial) {
+  const ativa = F.SITUACOES_ATIVAS.indexOf(s) >= 0 && s !== "INDEFERIDO_COM_RECURSO";
+  const cls = s === "DEFERIDO" ? "ok" : ativa ? "gold" : "warn";
+  return `<span class="badge ${cls}" title="Situação oficial no TSE: ${esc(oficial || rot("situacao", s))}">${esc(oficial || rot("situacao", s))}</span>`;
+}
+function regraLink(r) {
+  if (!r) return "";
+  if (r.fora_da_base) return `<a class="ref el-fora" href="${esc(r.url)}" target="_blank" rel="noopener" title="${esc(r.observacao || "Texto ainda não incorporado ao Mapa Normativo")}">${esc(r.rotulo)}*</a>`;
+  return `<a class="ref" href="${esc(r.url_mapa_normativo)}" target="_blank" rel="noopener" title="Abrir o artigo no Mapa Normativo">${esc(r.rotulo)}</a>`;
+}
+function fonteLink(f, curta) {
+  if (!f) return "";
+  const tipo = `<span class="badge">${esc(rot("tipo_fonte", f.tipo))}</span>`;
+  const fx = f.fixture ? ` <span class="badge warn">fictícia</span>` : "";
+  return `${tipo}${fx} <a class="ref" href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.titulo)}</a>` +
+    (curta ? "" : `<span class="small muted"> · ${esc(f.publicador)} · acesso em ${esc(FMTH(f.acessado_em))}${f.sha256 ? ` · <span class="mono" title="SHA-256 da resposta original">${esc(f.sha256.slice(0, 12))}</span>` : ""}</span>`);
+}
+function afirmacaoBloco(a) {
+  return `<div class="el-afirm${a.divergencia ? " div" : ""}"><p>${esc(a.texto)}${a.divergencia ? ` <span class="badge warn">fontes divergentes</span>` : ""}</p>
+    <ul class="el-fontes">${a.fontes.map(x => `<li><span class="badge ${x.relacao === "SUPPORTS" ? "" : "warn"}">${esc(rot("relacao", x.relacao))}</span> ${fonteLink(x.fonte)}${x.localizador ? `<span class="small muted"> · ${esc(x.localizador)}</span>` : ""}${x.trecho ? `<blockquote class="el-trecho">${esc(x.trecho)}</blockquote>` : ""}</li>`).join("")}</ul></div>`;
+}
+const fixtureAviso = () => `<div class="el-fixture" role="note"><span class="lab">DEVELOPMENT_FIXTURE</span><p>Dados fictícios de demonstração. Candidaturas, propostas e fontes desta página foram inventadas para testar a análise de competência e não correspondem a pessoas ou documentos reais.</p></div>`;
+const crumbs = (itens) => `<p class="crumbs"><a href="#/">Mapa Eleitoral</a>${itens.map(([t, h]) => h ? `<a href="${esc(h)}">${esc(t)}</a>` : `<span>${esc(t)}</span>`).join("")}</p>`;
+
+// ------------------------------------------------------------ componentes
+function OfficeCard(el, ce) {
+  const c = cargoDe(ce.cargo_id);
+  const comps = (c.competencias || []).filter(x => x.destaque).slice(0, 4);
+  const vagas = ce.vagas ? `<div class="el-kv"><span>Vagas em disputa</span><b>${ce.vagas.n}</b> <span class="small muted" title="${esc(ce.vagas.afirmacao.texto)}">(${esc(ce.vagas.afirmacao.fontes.map(f => f.fonte.tipo === "LEGISLATION" ? "CF, " + (f.localizador || "") : f.fonte.publicador).join("; "))})</span></div>` : "";
+  return `<article class="el-card">
+    <div class="el-card-top"><span class="badge gold">${esc(rot("esfera", c.esfera))}</span><span class="badge">Poder ${esc(rot("poder", c.poder))}</span><span class="badge">${esc(rot("sistema", c.sistema))}</span></div>
+    <h3>${esc(c.nome)}</h3><p class="small muted" style="margin:2px 0 0">${esc(ce.ente_nome)} · mandato de ${c.mandato_anos} anos</p>
+    <p class="el-funcao">${esc(c.funcao_resumo)}</p>
+    ${comps.length ? `<p class="el-mini">Principais competências</p><ul class="el-comps">${comps.map(x => `<li>${esc(x.descricao)} <span class="small">${regraLink(x.regra)}</span></li>`).join("")}</ul>` : ""}
+    <div class="el-card-foot">${vagas}<div class="el-kv"><span>Candidaturas</span><b>${ce.n_ativas.toLocaleString("pt-BR")}</b>${ce.n_candidaturas !== ce.n_ativas ? ` <span class="small muted">de ${ce.n_candidaturas.toLocaleString("pt-BR")} registradas</span>` : ""}</div>
+      ${ce.observacao && !ce.vagas ? `<p class="small muted" style="margin:6px 0 0">${esc(ce.observacao)}</p>` : ""}
+      ${comps.some(x => x.regra && x.regra.fora_da_base) ? `<p class="small muted" style="margin:0">* Constituição do Estado, ainda não incorporada ao Mapa Normativo.</p>` : ""}
+      <a class="btn" href="${hrefCargo(el, ce)}">Ver candidatos</a></div>
+  </article>`;
+}
+function CandidateRow(l, col) {
+  return `<li><a class="row el-row" href="${hrefCand(l[col.id])}"><div><div class="rt">${esc(l[col.nome])}</div>
+    <div class="rs"><span class="mono">${esc(l[col.numero])}</span> · ${esc(l[col.partido] || "sem partido informado")}${l[col.n_propostas] ? ` · ${plural(l[col.n_propostas], "proposta analisada", "propostas analisadas")}` : ""}${l[col.ausente] ? ` · <span class="badge warn">não consta mais da fonte</span>` : ""}</div></div>
+    <span class="rm">${situacaoBadge(l[col.situacao], l[col.situacao_oficial])}</span></a></li>`;
+}
+function ProposalCard(p) {
+  const tema = (p.temas || [])[0];
+  const cls = p.classificacao && IDX().classificacoes[p.classificacao];
+  return `<article class="el-prop"><p class="el-mini">${esc(tema ? tema.nome : "Sem tema")}</p>
+    <h4><a href="${hrefProp(p.id)}">${esc(p.titulo)}</a></h4><p class="small">${esc(p.descricao)}</p>
+    ${cls ? `<p class="small" style="margin:6px 0 0"><span class="el-tom ${cls.tom}"></span>${esc(cls.titulo)}: <b>${esc(cls.subtitulo)}</b></p>` : ""}
+    <div class="srcline">${p.fonte ? `Fonte: ${fonteLink(p.fonte, true)}` : ""}${p.fonte ? `<a href="${esc(p.fonte.url)}" target="_blank" rel="noopener">Ver documento original</a>` : ""}<a href="${hrefProp(p.id)}">Abrir análise →</a></div></article>`;
+}
+function Veredito(an, cargo) {
+  const t = an.rotulo;
+  return `<div class="el-veredito ${t.tom}"><p class="lab">${esc(t.titulo)}</p><h3>${esc(t.subtitulo)}</h3><p>${esc(t.resumo)}</p>
+    <dl class="el-fatos"><dt>Competência direta do ${esc(cargo.nome_curto)}?</dt><dd>${esc(rot("sim_nao", an.competencia_direta))}</dd>
+    <dt>Pode iniciar o processo?</dt><dd>${esc(rot("sim_nao", an.pode_iniciar))}</dd>
+    ${an.instrumento ? `<dt>Instrumento necessário</dt><dd>${esc(an.instrumento.nome)} (${esc(an.instrumento.nome_curto)})</dd>` : ""}</dl></div>`;
+}
+function Etapas(instr, cargo) {
+  if (!instr || !instr.etapas || !instr.etapas.length) return "";
+  const grupos = {}; instr.etapas.forEach(e => (grupos[e.ordem] = grupos[e.ordem] || []).push(e));
+  return `<ol class="el-etapas">${Object.keys(grupos).sort((a, b) => a - b).map(k => {
+    const es = grupos[k], ou = es.length > 1 && es[0].papel === "INITIATIVE";
+    return `<li class="${es.every(e => e.condicional) ? "cond" : ""}"><p class="el-mini">${esc(rot("papel_etapa", es[0].papel))}${es.every(e => e.condicional) ? " · se for o caso" : ""}</p>
+      ${es.map((e, i) => `${i && ou ? '<span class="small muted"> ou </span>' : i ? "<br>" : ""}<b>${esc(e.instituicao)}</b>${e.instituicao === cargo.instituicao ? ' <span class="badge gold">o próprio cargo</span>' : ""}<span class="small muted"> · ${esc(e.descricao)}${e.regra ? ` (${e.url ? `<a class="ref" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.regra)}</a>` : esc(e.regra)})` : ""}</span>`).join("")}</li>`;
+  }).join("")}</ol>`;
+}
+function Participantes(instr, cargo) {
+  if (!instr) return "";
+  const vistos = [];
+  instr.etapas.filter(e => !e.condicional && !(e.papel === "INITIATIVE" && instr.etapas.filter(x => x.ordem === e.ordem).length > 1 && e.instituicao !== cargo.instituicao))
+    .forEach(e => { if (vistos.indexOf(e.instituicao) < 0) vistos.push(e.instituicao); });
+  return vistos.map(n => `<span class="chip${n === cargo.instituicao ? " el-eu" : ""}">${esc(n)}</span>`).join("");
+}
+function Fundamento(r) {
+  return `<div class="rel"><div class="l">${regraLink(r)}<span class="chips"><span class="badge">${esc(rot("papel_fundamento", r.papel))}</span>${r.alterado_desde_analise ? '<span class="badge warn">texto alterado depois da análise</span>' : ""}</span></div>
+    <div><p>${esc(r.resumo)}</p>${r.trecho && r.trecho.length ? `<blockquote class="el-trecho">${r.trecho.map(esc).join("<br>")}<span class="nt">Texto vigente, conforme a compilação oficial do Planalto${conferido(r)}</span></blockquote>` : ""}${r.fora_da_base ? `<p class="small muted">${esc(r.observacao || "")}</p>` : ""}</div></div>`;
+}
+// data da última conferência do texto pelo Mapa Normativo, registrada no snapshot (estado/normativo/)
+function conferido(r) {
+  return r.verificado_em ? `, conferida pelo Mapa Normativo em ${esc(FMTH(r.verificado_em))}` : "";
+}
+function statusRevisao(an) {
+  const rev = an.status_revisao === "REVIEWED" || an.status_revisao === "CORRECTED";
+  return `<span class="badge ${rev ? "ok" : "warn"}">${esc(rot("status_revisao", an.status_revisao))}</span>`;
+}
+
+// ------------------------------------------------------------ páginas
+function pEleicao(rotaEleicao, filtros) {
+  const idx = IDX();
+  const el = eleicaoPorRota(rotaEleicao) || idx.eleicoes.find(e => e.tipo === "GENERAL");
+  if (!el) return `<div class="empty">Eleição não encontrada.</div>`;
+  const principal = el.tipo === "GENERAL";
+  const municipal = idx.eleicoes.find(e => e.tipo === "MUNICIPAL");
+  const demo = idx.eleicoes.find(e => e.tipo === "DEMONSTRATION");
+  const datas = (el.afirmacoes || []).map(a => `<li>${esc(a.texto)} <span class="small muted">(${a.fontes.map(f => `<a class="ref" href="${esc(f.fonte.url)}" target="_blank" rel="noopener">${esc(f.fonte.publicador)}${f.localizador ? ", " + esc(f.localizador) : ""}</a>`).join("; ")})</span></li>`).join("");
+  const sinc = (idx.sincronizacoes || []).map(s => `<dt>${esc(s.rotulo)}</dt><dd class="small">${esc(FMTH(s.concluido_em || s.iniciado_em))} · ${s.fetched} lidos, ${s.created} novos, ${s.updated} atualizados${s.errors ? `, <b>${s.errors} erro(s)</b>` : ""}</dd>`).join("");
+  const cardsMun = municipal ? ["prefeito", "vereador"].map(cid => { const c = cargoDe(cid); return `<article class="el-card fora"><div class="el-card-top"><span class="badge warn">Não votamos nisso em 2026</span><span class="badge">Poder ${esc(rot("poder", c.poder))}</span></div>
+      <h3>${esc(c.nome)}</h3><p class="el-funcao">${esc(c.funcao_resumo)}</p><p class="small muted">${(c.regras || []).slice(0, 2).map(regraLink).join(" · ")}</p></article>`; }).join("") : "";
+  return `${el.fixture ? fixtureAviso() : ""}<div class="page-head">${crumbs(principal ? [] : [[el.nome, null]])}
+      <h2>${esc(principal ? "Eleições " + el.ano : el.nome)}</h2>
+      <p class="lede">${esc(el.descricao || "")} Para cada proposta, o mapa responde: o que o candidato propôs, se o cargo tem competência para realizar a medida e, se não puder fazê-lo sozinho, de quem depende.</p>
+      ${datas ? `<ul class="el-datas">${datas}</ul>` : ""}
+      ${principal ? `<form class="search el-busca" id="elBuscaForm" role="search"><input id="elBusca" type="text" autocomplete="off" aria-label="Pesquisar no Mapa Eleitoral" placeholder="Pesquisar candidato, partido, número, proposta ou tema" value="${esc(filtros.q || "")}"><button class="btn" type="submit">Pesquisar</button></form><div id="elBuscaRes">${buscaInline(filtros.q)}</div>` : ""}
+    </div>
+    <div class="grid2" style="margin-top:28px"><div>
+    <section class="blk" style="margin-top:0"><div class="sec-head"><h3>Em quais cargos votamos?</h3><span class="sec-note">${esc(principal ? "Santa Catarina" : "")}</span></div>
+      <div class="el-cards">${(el.cargos || []).map(ce => OfficeCard(el, ce)).join("")}</div></section>
+    ${principal && municipal ? `<section class="blk el-municipal"><div class="sec-head"><h3>E os municípios?</h3><span class="sec-note">fora da eleição de 2026</span></div>
+      <p class="small" style="max-width:74ch;margin:0 0 12px">Prefeitos e Vereadores não são escolhidos em 2026. ${(municipal.afirmacoes || []).map(a => esc(a.texto)).join(" ")}</p>
+      <div class="el-cards">${cardsMun}</div>
+      <p class="el-mini" style="margin-top:16px">Municípios acompanhados</p><div class="chips">${(idx.municipios || []).map(m => `<a class="chip" href="${F.montarRota({ v: "municipio", id: m.id })}">${esc(m.nome)}</a>`).join("")}</div></section>` : ""}
+    </div><aside class="side">
+      <div class="side-box"><h3>Explorar</h3><ul class="list">
+        <li><a class="row" href="${F.montarRota({ v: "propostas" })}"><div class="rt" style="font-size:16px">Propostas por classificação</div><span class="rm">→</span></a></li>
+        ${demo && principal ? `<li><a class="row" href="${F.montarRota({ v: "eleicao", eleicao: demo.rota })}"><div><div class="rt" style="font-size:16px">Demonstração da análise</div><div class="rs">propostas fictícias, marcadas como tal</div></div><span class="rm">→</span></a></li>` : ""}
+        <li><a class="row" href="${F.montarRota({ v: "admin" })}"><div class="rt" style="font-size:16px">Painel de conferência</div><span class="rm">→</span></a></li></ul></div>
+      <div class="side-box"><h3>Última sincronização</h3><dl class="kv">${sinc || '<dt class="muted">Nenhuma</dt><dd></dd>'}</dl></div>
+      <div class="side-box"><h3>Fontes</h3><ul class="small" style="margin:0;padding-left:18px">${(el.fontes || []).map(f => `<li>${fonteLink(f, true)}</li>`).join("")}</ul>
+        <p class="small muted" style="margin:10px 0 0">Candidaturas conforme os dados oficiais do TSE. O mapa não recomenda voto, não classifica candidatos e não faz previsões.</p></div>
+    </aside></div>`;
+}
+
+function buscaInline(q) {
+  if (!q) return "";
+  const b = dado("busca.json"); if (!b) return falha("busca.json") || carregando("Carregando o índice…");
+  const res = F.buscar(b.itens, q, 20, false);
+  if (!res.length) return `<p class="empty">Nada encontrado para “${esc(q)}”.</p>`;
+  return `<ul class="list" style="margin-top:8px">${res.map(itemBusca).join("")}</ul>`;
+}
+function itemBusca(i) {
+  const [tipo, id, rotulo, sub] = i;
+  const idx = IDX();
+  let href = "#/";
+  if (tipo === "candidato") href = hrefCand(id);
+  else if (tipo === "proposta") href = hrefProp(id);
+  else if (tipo === "tema") href = F.montarRota({ v: "propostas", filtros: { tema: id } });
+  else if (tipo === "partido") href = F.montarRota({ v: "propostas", filtros: { q: rotulo.split(" · ")[0] } });
+  else if (tipo === "cargo") { for (const el of idx.eleicoes) { const ce = el.cargos.find(c => c.id === id); if (ce) href = hrefCargo(el, ce); } }
+  const nome = { candidato: "candidatura", proposta: "proposta", tema: "tema", partido: "partido", cargo: "cargo" }[tipo];
+  return `<li><a class="row" href="${esc(href)}"><div><div class="rt" style="font-size:16px">${esc(rotulo)}</div><div class="rs">${esc(sub)}</div></div><span class="rm">${esc(nome)}</span></a></li>`;
+}
+
+function pCargo(r) {
+  const idx = IDX();
+  const el = eleicaoPorRota(r.eleicao); const ce = el && cargoEleicao(el, r.cargo);
+  if (!ce) return `<div class="empty">Página não encontrada. <a class="ref" href="#/">Voltar ao início</a></div>`;
+  const dados = dado(ce.arquivo); if (!dados) return falha(ce.arquivo) || carregando("Carregando candidaturas…");
+  const c = cargoDe(ce.cargo_id), col = {}; dados.colunas.forEach((n, i) => col[n] = i);
+  const f = Object.assign({ situacao: "ativas" }, r.filtros);
+  const lista = F.filtrarCandidaturas(dados.candidaturas, dados.colunas, f);
+  const pag = F.paginar(lista, f.p);
+  const partidos = F.opcoes(dados.candidaturas, dados.colunas, "partido");
+  const situacoes = F.opcoes(dados.candidaturas, dados.colunas, "situacao");
+  const link = p => F.montarRota({ v: "cargo", eleicao: r.eleicao, cargo: r.cargo, filtros: Object.assign({}, r.filtros, { p }) });
+  const pager = pag.paginas > 1 ? `<nav class="el-pager" aria-label="Páginas">${pag.pagina > 1 ? `<a class="btn quiet" href="${link(pag.pagina - 1)}">← anterior</a>` : ""}<span class="small muted">página ${pag.pagina} de ${pag.paginas}</span>${pag.pagina < pag.paginas ? `<a class="btn quiet" href="${link(pag.pagina + 1)}">próxima →</a>` : ""}</nav>` : "";
+  return `${el.fixture ? fixtureAviso() : ""}<div class="page-head">${crumbs([[el.nome, F.montarRota({ v: "eleicao", eleicao: el.rota })], [c.nome + " · " + ce.ente_nome, null]])}
+    <h2>${esc(c.nome)}</h2><p class="lede">${esc(c.funcao_resumo)}</p>
+    <div class="el-card-top" style="margin-top:12px"><span class="badge gold">${esc(rot("esfera", c.esfera))}</span><span class="badge">Poder ${esc(rot("poder", c.poder))}</span><span class="badge">${esc(rot("sistema", c.sistema))}</span><span class="badge">mandato de ${c.mandato_anos} anos</span>${ce.vagas ? `<span class="badge">${ce.vagas.n} vaga(s) em disputa</span>` : ""}</div></div>
+  <section class="blk"><div class="sec-head"><h3>Candidaturas</h3><span class="sec-note">${pag.total ? `${pag.de} a ${pag.ate} de ${plural(pag.total, "resultado", "resultados")}` : "nenhum resultado"}</span></div>
+    <form class="el-filtros" id="elFiltros" data-rota="${esc(JSON.stringify({ eleicao: r.eleicao, cargo: r.cargo }))}" onsubmit="return false">
+      <label><span>Nome</span><input type="text" name="q" value="${esc(f.q || "")}" autocomplete="off" placeholder="Nome de urna ou completo"></label>
+      <label><span>Partido</span><select name="partido"><option value="">Todos</option>${partidos.map(o => `<option value="${esc(o.valor)}" ${o.valor === f.partido ? "selected" : ""}>${esc(o.valor)} (${o.n})</option>`).join("")}</select></label>
+      <label><span>Número</span><input type="text" name="numero" inputmode="numeric" value="${esc(f.numero || "")}" autocomplete="off" placeholder="Ex.: 25"></label>
+      <label><span>Situação</span><select name="situacao"><option value="ativas" ${f.situacao === "ativas" ? "selected" : ""}>Candidaturas em disputa</option><option value="todas" ${f.situacao === "todas" ? "selected" : ""}>Todas</option>${situacoes.map(o => `<option value="${esc(o.valor)}" ${o.valor === f.situacao ? "selected" : ""}>${esc(rot("situacao", o.valor))} (${o.n})</option>`).join("")}</select></label>
+      <label><span>Cargo</span><select name="cargo">${el.cargos.map(x => `<option value="${esc(x.rota)}" ${x.rota === r.cargo ? "selected" : ""}>${esc(cargoDe(x.cargo_id).nome)}</option>`).join("")}</select></label>
+    </form>
+    ${pag.itens.length ? `<ul class="list">${pag.itens.map(l => CandidateRow(l, col)).join("")}</ul>` : `<p class="empty">Nenhuma candidatura corresponde aos filtros.</p>`}
+    ${pager}
+    <p class="small muted" style="margin-top:14px">Lista ordenada por nome, com as candidaturas em disputa primeiro. Dados do TSE sincronizados em ${esc(FMTH(dados.gerado_em))}; a página não consulta o TSE a cada visita.</p></section>`;
+}
+
+function pCandidato(r) {
+  const arq = `candidaturas/${r.id}.json`;
+  const d = dado(arq); if (!d) return falha(arq) || carregando("Carregando candidatura…");
+  const el = eleicaoPorId(d.candidatura.eleicao_id) || {}, c = cargoDe(d.cargo_id);
+  const ce = (el.cargos || []).find(x => x.id === d.candidatura.cargo_eleicao_id);
+  const cd = d.candidatura, p = d.pessoa;
+  const abas = [["visao-geral", "Visão geral"], ["propostas", "Propostas"], ["competencia", "Competência"], ["historico", "Histórico"], ["fontes", "Fontes"]];
+  const aba = abas.some(a => a[0] === r.aba) ? r.aba : "visao-geral";
+  let corpo = "";
+  if (aba === "visao-geral") {
+    corpo = `<dl class="kv el-bio">${[["Nome completo", p.nome_completo], ["Ocupação", p.ocupacao], ["Grau de instrução", p.grau_instrucao], ["Naturalidade", p.naturalidade],
+      ["Partido", d.partido.nome ? `${d.partido.sigla} · ${d.partido.nome}` : d.partido.sigla], ["Coligação ou federação", cd.coligacao], ["Composição", cd.composicao_coligacao],
+      ["Candidatura à reeleição", cd.reeleicao === true ? "Sim" : cd.reeleicao === false ? "Não" : null], ["Situação na totalização", cd.totalizacao_oficial],
+      ["Processo de registro", cd.tse_processo]].filter(x => x[1]).map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>
+      ${(cd.vices || []).length ? `<p class="el-mini" style="margin-top:18px">${esc(c.id === "senador" ? "Suplentes" : "Vice")}</p><ul class="small" style="margin:4px 0 0;padding-left:18px">${cd.vices.map(v => `<li>${esc(v.nome_urna)} · ${esc(v.cargo || "")} · ${esc(v.partido || "")}</li>`).join("")}</ul>` : ""}
+      ${!cd.detalhada ? `<p class="small muted" style="margin-top:14px">Ficha resumida: para este cargo, a sincronização atual traz os dados da lista oficial de candidaturas. Os dados detalhados estão na ficha do TSE indicada em Fontes.</p>` : ""}`;
+  } else if (aba === "propostas") {
+    corpo = d.propostas.length ? `<div class="el-props">${d.propostas.map(ProposalCard).join("")}</div>` :
+      `<div class="empty"><p style="margin:0 0 8px">Nenhuma proposta desta candidatura foi processada e analisada até agora.</p>${d.proposta_governo ? `<p style="margin:0">Documento oficial: ${fonteLink(d.proposta_governo)}. <a class="ref" href="${esc(d.proposta_governo.url)}" target="_blank" rel="noopener">Ver documento original</a></p>` : `<p class="small" style="margin:0">${cd.detalhada ? "A ficha oficial desta candidatura não lista proposta de governo registrada." : "A sincronização atual deste cargo não inclui os documentos da candidatura; consulte a ficha do TSE indicada em Fontes."}</p>`}</div>`;
+  } else if (aba === "competencia") {
+    const cont = {}; d.propostas.forEach(x => { if (x.classificacao) cont[x.classificacao] = (cont[x.classificacao] || 0) + 1; });
+    corpo = `<p style="max-width:74ch;margin:0 0 12px">${esc(c.funcao_resumo)}</p>
+      <ul class="el-comps">${(c.competencias || []).map(x => `<li>${esc(x.descricao)} <span class="small">${regraLink(x.regra)}</span>${x.modo === "PARTICIPATES" ? ' <span class="badge">decisão coletiva</span>' : ""}</li>`).join("")}</ul>
+      ${Object.keys(cont).length ? `<p class="el-mini" style="margin-top:18px">Propostas desta candidatura, por resultado da análise</p><ul class="list">${Object.entries(cont).map(([k, n]) => `<li><div class="row"><div class="rt" style="font-size:16px">${esc(IDX().classificacoes[k].subtitulo)}</div><span class="rm">${n}</span></div></li>`).join("")}</ul>` : ""}
+      <p class="small muted" style="margin-top:12px">Fundamentos: ${(c.regras || []).map(regraLink).join(" · ")}</p>`;
+  } else if (aba === "historico") {
+    corpo = `<div class="empty">Em preparação. Esta aba reunirá candidaturas anteriores, mandatos exercidos e votações, sempre com fonte oficial.</div>`;
+  } else {
+    const fontes = [d.fonte, d.proposta_governo].filter(Boolean);
+    d.propostas.forEach(x => { if (x.fonte && !fontes.some(f => f.id === x.fonte.id)) fontes.push(x.fonte); });
+    corpo = `<ul class="el-fontes">${fontes.map(f => `<li>${fonteLink(f)}${f.descricao ? `<div class="small muted">${esc(f.descricao)}</div>` : ""}${f.snapshot ? `<div class="small muted mono">${esc(f.snapshot)}</div>` : ""}</li>`).join("")}</ul>
+      ${(d.afirmacoes || []).map(afirmacaoBloco).join("")}`;
+  }
+  const foto = cd.foto_url ? `<img class="el-foto" src="${esc(cd.foto_url)}" alt="Foto oficial de ${esc(p.nome_urna)}" width="120" height="160" loading="lazy" decoding="async" referrerpolicy="no-referrer">` : `<div class="el-foto vazia" aria-hidden="true">${esc((p.nome_urna || "?").slice(0, 1))}</div>`;
+  return `${d.fixture ? fixtureAviso() : ""}<div class="page-head">${crumbs([[el.nome || "", F.montarRota({ v: "eleicao", eleicao: el.rota })], [c.nome, ce ? hrefCargo(el, ce) : null], [p.nome_urna, null]])}
+    <div class="el-cand-head">${foto}<div><h2>${esc(p.nome_urna)}</h2>
+      <p class="lede" style="margin-top:6px">${esc(c.nome)} · ${esc(d.ente_nome)}</p>
+      <div class="el-card-top" style="margin-top:10px"><span class="badge gold">${esc(d.partido.sigla || "")}</span><span class="badge mono">${esc(cd.numero)}</span>${situacaoBadge(cd.situacao, cd.situacao_oficial)}${cd.ausente_desde ? `<span class="badge warn">não consta mais da fonte desde ${esc(FMT(cd.ausente_desde))}</span>` : ""}</div>
+      ${d.fonte ? `<p class="small muted" style="margin:10px 0 0">Fonte: <a class="ref" href="${esc(d.fonte.url)}" target="_blank" rel="noopener">${esc(d.fonte.titulo)}</a> · acesso em ${esc(FMTH(d.fonte.acessado_em))}</p>` : ""}</div></div></div>
+  <nav class="tabs-scroll el-abas" aria-label="Seções da candidatura"><div class="tabs">${abas.map(([id, t]) => `<a class="tab" href="${F.montarRota({ v: "candidato", id: r.id, aba: id })}" ${id === aba ? 'aria-current="page"' : ""}>${t}${id === "propostas" && d.propostas.length ? `<span class="n">${d.propostas.length}</span>` : ""}</a>`).join("")}</div></nav>
+  <section class="blk" style="margin-top:20px">${corpo}</section>`;
+}
+
+function pProposta(r) {
+  const arq = `propostas/${r.id}.json`;
+  const d = dado(arq); if (!d) return falha(arq) || carregando("Carregando proposta…");
+  const c = cargoDe(d.cargo_id), cand = d.candidatura, an = d.analise;
+  const el = eleicaoPorId(cand.eleicao_id) || {};
+  const principal = (d.afirmacoes || []).find(a => a.tipo === "PROPOSAL");
+  const fonte = principal && principal.fontes.find(f => f.relacao === "SUPPORTS");
+  const outras = (d.afirmacoes || []).filter(a => a !== principal);
+  const deps = an ? an.dependencias.filter(x => !x.condicional) : [], cond = an ? an.dependencias.filter(x => x.condicional) : [];
+  const alt = deps.filter(x => x.alternativa), obrig = deps.filter(x => !x.alternativa);
+  return `${d.fixture ? fixtureAviso() : ""}<div class="page-head">${crumbs([[el.nome || "", F.montarRota({ v: "eleicao", eleicao: el.rota })], [cand.nome, hrefCand(cand.id)], ["Proposta", null]])}
+    <p class="el-mini">${(d.temas || []).map(t => esc(t.nome)).join(" · ") || "Sem tema"}</p>
+    <h2>${esc(d.titulo)}</h2><p class="lede">${esc(d.descricao)}</p>
+    <p class="small muted" style="margin:10px 0 0">Proposta de <a class="ref" href="${hrefCand(cand.id)}">${esc(cand.nome)}</a>, candidatura a ${esc(c.nome)}${d.materia ? ` · matéria: ${esc(d.materia.nome)} (${esc(rot("nivel", d.materia.nivel))})` : ""} · ${esc(rot("natureza_medida", d.natureza_medida))}</p></div>
+  <div class="grid2"><div>
+    <section class="blk" style="margin-top:22px"><div class="sec-head"><h3>Fonte original</h3></div>
+      ${fonte ? `<p style="margin:0">${fonteLink(fonte.fonte)}${fonte.localizador ? `<span class="small muted"> · ${esc(fonte.localizador)}</span>` : ""}</p><div class="actions"><a class="btn quiet" href="${esc(fonte.fonte.url)}" target="_blank" rel="noopener">Ver documento original</a></div>` : ""}</section>
+    ${an ? `<section class="blk"><div class="sec-head"><h3>O cargo pode fazer isso?</h3>${statusRevisao(an)}</div>${Veredito(an, c)}</section>
+    <section class="blk"><div class="sec-head"><h3>Por quê?</h3></div><p style="max-width:78ch;margin:0">${esc(an.explicacao)}</p>
+      ${(an.observacoes || []).length ? `<ul class="small el-obs">${an.observacoes.map(o => `<li>${esc(o)}</li>`).join("")}</ul>` : ""}
+      ${an.aviso_texto_alterado ? `<div class="alert" style="margin-top:12px"><span class="lab">Fundamento alterado</span><p>O texto de ${esc(an.aviso_texto_alterado.join(", "))} mudou depois desta análise. A conclusão precisa ser conferida.</p></div>` : ""}</section>
+    ${an.instrumento ? `<section class="blk"><div class="sec-head"><h3>O que seria necessário?</h3></div>
+      <p style="margin:0"><b>${esc(an.instrumento.nome)}</b> <span class="badge">${esc(an.instrumento.nome_curto)}</span></p><p class="small" style="max-width:74ch">${esc(an.instrumento.descricao)}${an.instrumento.quorum ? ` Quórum: ${esc(an.instrumento.quorum)}` : ""}</p>
+      <p class="el-mini">Participam</p><div class="chips">${Participantes(an.instrumento, c)}</div>
+      <p class="el-mini" style="margin-top:14px">Etapas</p>${Etapas(an.instrumento, c)}
+      ${an.alternativas.length ? `<p class="el-mini" style="margin-top:14px">Outro caminho</p>${an.alternativas.map(a => `<div class="el-alt"><b>${esc(a.nome)}</b> <span class="badge">${esc(a.nome_curto)}</span><p class="small">${esc(a.nota || a.descricao)}</p>${Etapas(a, c)}</div>`).join("")}` : ""}</section>` : ""}
+    <section class="blk"><div class="sec-head"><h3>De quem depende?</h3></div>
+      ${obrig.length || alt.length ? `<ul class="list">${obrig.map(x => `<li class="el-dep"><b>${esc(x.instituicao)}</b>${x.cargo_integra ? ' <span class="badge gold">o cargo integra, decisão coletiva</span>' : ""}<p class="small">${esc(x.explicacao.replace(/\.$/, ""))}${x.regra ? ` (${regraLink(x.regra)})` : ""}.</p></li>`).join("")}
+        ${alt.length ? `<li class="el-dep"><b>Iniciativa de um destes:</b> ${alt.map(x => esc(x.instituicao)).join(", ")}<p class="small">${esc(alt[0].explicacao)}</p></li>` : ""}</ul>` : `<p class="empty">A medida não depende de aprovação de outro órgão.</p>`}
+      ${cond.length ? `<p class="el-mini" style="margin-top:10px">Se for o caso</p><ul class="small" style="margin:4px 0 0;padding-left:18px">${cond.map(x => `<li>${esc(x.instituicao)}: ${esc(x.explicacao)}</li>`).join("")}</ul>` : ""}</section>
+    <section class="blk"><div class="sec-head"><h3>Fundamento jurídico</h3><span class="sec-note">clique para abrir o artigo no Mapa Normativo</span></div>${an.fundamentos.map(Fundamento).join("")}</section>` :
+      `<section class="blk"><p class="empty">Análise de competência ainda não gerada para esta proposta.</p></section>`}
+    <section class="blk"><div class="sec-head"><h3>Fontes utilizadas</h3></div>${(d.afirmacoes || []).map(afirmacaoBloco).join("")}</section>
+  </div><aside class="side">
+    ${an ? `<div class="side-box"><h3>Sobre esta análise</h3><dl class="kv"><dt>Situação</dt><dd>${statusRevisao(an)}</dd><dt>Confiança</dt><dd>${esc(rot("confianca", an.confianca))}</dd><dt>Método</dt><dd class="small">${esc(an.analisador)} · ${esc(an.versao_analisador)}</dd><dt>Atualizada em</dt><dd class="small">${esc(FMTH(an.atualizado_em))}</dd></dl>
+      <p class="small muted" style="margin:10px 0 0">Classificação gerada por regras a partir das competências e dos instrumentos cadastrados, com fundamento conferido contra a redação vigente. Não constitui parecer jurídico.</p></div>` : ""}
+    ${d.grupo && d.grupo.propostas.length ? `<div class="side-box"><h3>Propostas semelhantes</h3><p class="small muted" style="margin:0 0 6px">${esc(d.grupo.titulo)}</p><ul class="list">${d.grupo.propostas.map(q => `<li><a class="row" href="${hrefProp(q.id)}"><div><div class="rt" style="font-size:15.5px">${esc(q.titulo)}</div><div class="rs">${esc(q.candidatura.nome)} · ${esc(cargoDe(q.candidatura.cargo_id).nome)}</div></div></a></li>`).join("")}</ul></div>` : ""}
+    ${outras.length ? `<div class="side-box"><h3>Outras afirmações</h3>${outras.map(afirmacaoBloco).join("")}</div>` : ""}
+  </aside></div>`;
+}
+
+function pMunicipio(r) {
+  const idx = IDX(); const m = (idx.municipios || []).find(x => x.id === r.id);
+  if (!m) return `<div class="empty">Município não acompanhado. <a class="ref" href="#/">Voltar</a></div>`;
+  const el = eleicaoPorId(m.eleicao_id) || {};
+  const floripa = m.ente === "SC/Florianópolis";
+  return `<div class="page-head">${crumbs([[m.nome, null]])}<h2>${esc(m.nome)}</h2>
+    <p class="lede">O Município elege Prefeito, Vice-Prefeito e Vereadores. Esses cargos não fazem parte das Eleições Gerais de 2026. ${(el.afirmacoes || []).map(a => esc(a.texto)).join(" ")}</p></div>
+  <section class="blk"><div class="sec-head"><h3>Cargos municipais</h3><span class="badge warn">Não votamos nisso em 2026</span></div>
+    <div class="el-cards">${m.cargos.map(cid => { const c = cargoDe(cid); return `<article class="el-card fora"><h3>${esc(c.nome)}</h3><p class="el-funcao">${esc(c.funcao_resumo)}</p>
+      <ul class="el-comps">${(c.competencias || []).map(x => `<li>${esc(x.descricao)} <span class="small">${regraLink(x.regra)}</span></li>`).join("")}</ul><p class="small muted">${(c.regras || []).map(regraLink).join(" · ")}</p></article>`; }).join("")}</div></section>
+  <section class="blk"><div class="sec-head"><h3>Legislação municipal no Mapa Normativo</h3></div>
+    ${floripa ? `<p class="small" style="margin:0">O Código Tributário do Município está disponível no Mapa Normativo: <a class="ref" href="${esc(idx.mapa_normativo.url)}#dip.floripa_ctm" target="_blank" rel="noopener">Código Tributário de Florianópolis</a>.</p>` :
+      `<p class="small" style="margin:0">O Código Tributário de São José ainda não está no Mapa Normativo: a Câmara Municipal só disponibiliza o texto original de 2005, sem as alterações posteriores.</p>`}
+    <p class="small muted" style="margin:10px 0 0">Esta página será ampliada com candidaturas e propostas quando houver eleição municipal.</p></section>`;
+}
+
+function pPropostas(r) {
+  const idx = IDX(); const d = dado("propostas.json"); if (!d) return falha("propostas.json") || carregando();
+  const f = r.filtros || {};
+  const col = {}; d.colunas.forEach((n, i) => col[n] = i);
+  const lista = F.filtrarPropostas(d, f);
+  const pag = F.paginar(lista, f.p);
+  const sel = (nome, rotulo, opcoes) => `<label><span>${rotulo}</span><select name="${nome}"><option value="">Todas</option>${opcoes.map(([v, t]) => `<option value="${esc(v)}" ${f[nome] === v ? "selected" : ""}>${esc(t)}</option>`).join("")}</select></label>`;
+  const link = p => F.montarRota({ v: "propostas", filtros: Object.assign({}, f, { p }) });
+  return `<div class="page-head">${crumbs([["Propostas", null]])}<h2>Propostas analisadas</h2>
+    <p class="lede">Filtre por resultado da análise, instrumento necessário, tema ou nível da matéria: por exemplo, propostas que exigem PEC ou propostas que tratam de assunto municipal.</p></div>
+  <section class="blk"><form class="el-filtros" id="elFiltrosProp" onsubmit="return false">
+    <label><span>Texto</span><input type="text" name="q" value="${esc(f.q || "")}" autocomplete="off" placeholder="Título ou candidatura"></label>
+    ${sel("classificacao", "Resultado", Object.entries(idx.classificacoes).map(([k, v]) => [k, v.subtitulo]))}
+    ${sel("instrumento", "Instrumento", idx.instrumentos.map(i => [i.id, i.nome]))}
+    ${sel("tema", "Tema", idx.temas.map(t => [t.id, t.nome]))}
+    ${sel("nivel", "Nível da matéria", Object.entries(idx.rotulos.nivel))}
+    ${sel("eleicao", "Eleição", idx.eleicoes.map(e => [e.id, e.nome]))}
+  </form>
+  <div class="sec-head" style="margin-top:14px"><h3>${plural(pag.total, "proposta", "propostas")}</h3>${lista.some(p => p[col.fixture]) ? '<span class="badge warn">inclui dados fictícios de demonstração</span>' : ""}</div>
+  ${pag.itens.length ? `<ul class="list">${pag.itens.map(p => { const cl = idx.classificacoes[p[col.classificacao]]; return `<li><a class="row" href="${hrefProp(p[col.id])}"><div><div class="rt">${esc(p[col.titulo])}</div><div class="rs">${esc(p[col.candidato])} · ${esc(cargoDe(p[col.cargo_id]).nome)}${p[col.fixture] ? " · fictícia" : ""}</div></div><span class="rm">${cl ? `<span class="el-tom ${cl.tom}"></span>${esc(cl.subtitulo)}` : ""}</span></a></li>`; }).join("")}</ul>` :
+    `<p class="empty">Nenhuma proposta corresponde aos filtros. As propostas reais das candidaturas de 2026 ainda não foram processadas; a demonstração usa dados fictícios.</p>`}
+  ${pag.paginas > 1 ? `<nav class="el-pager">${pag.pagina > 1 ? `<a class="btn quiet" href="${link(pag.pagina - 1)}">← anterior</a>` : ""}<span class="small muted">página ${pag.pagina} de ${pag.paginas}</span>${pag.pagina < pag.paginas ? `<a class="btn quiet" href="${link(pag.pagina + 1)}">próxima →</a>` : ""}</nav>` : ""}</section>`;
+}
+
+function pAdmin() {
+  const d = dado("admin.json"); if (!d) return falha("admin.json") || carregando("Carregando o painel…");
+  const lista = (titulo, itens, fmt, vazio) => `<section class="blk"><div class="sec-head"><h3>${esc(titulo)}</h3><span class="sec-note">${itens.length}</span></div>${itens.length ? `<ul class="small el-admin">${itens.map(x => `<li>${fmt(x)}</li>`).join("")}</ul>` : `<p class="empty">${esc(vazio || "Nada a conferir.")}</p>`}</section>`;
+  const ingest = d.ingestoes.map(l => `<tr><td>${esc(l.rotulo)}<div class="small muted">${esc(l.fonte)} · ${esc(l.transporte)}</div></td><td class="mono small">${esc(FMTH(l.concluido_em || l.iniciado_em))}</td><td class="mono">${l.fetched ?? ""}</td><td class="mono">${l.created ?? ""}</td><td class="mono">${l.updated ?? ""}</td><td class="mono">${l.unchanged ?? ""}</td><td class="mono">${l.missing ?? ""}</td><td class="mono">${l.errors ? `<b>${l.errors}</b>` : 0}</td></tr>
+    ${(l.erros || []).length ? `<tr><td colspan="8" class="small" style="color:var(--warn)">${l.erros.slice(0, 5).map(esc).join("<br>")}</td></tr>` : ""}`).join("");
+  return `<div class="page-head">${crumbs([["Painel de conferência", null]])}<h2>Painel de conferência</h2>
+    <p class="lede">Estado das sincronizações, da integridade dos dados e das análises que aguardam revisão. Gerado em ${esc(FMTH(d.gerado_em))}.</p></div>
+  <section class="blk"><div class="sec-head"><h3>Sincronizações</h3></div><div class="tbl-wrap"><table><thead><tr><th>Fonte</th><th>Quando</th><th>Lidos</th><th>Novos</th><th>Atualizados</th><th>Inalterados</th><th>Ausentes</th><th>Erros</th></tr></thead><tbody>${ingest}</tbody></table></div></section>
+  ${lista("Erros de integridade", d.erros_integridade.concat(d.erros_fundamentos), esc, "Nenhum erro: todas as chaves, enumerações e fundamentos conferem.")}
+  ${lista("Análises pendentes de revisão", d.analises_pendentes, a => `<a class="ref" href="${hrefProp(a.proposta_id)}">${esc(a.proposta_id)}</a> · ${esc(a.classificacao)} · ${esc(a.status)}${a.fixture ? " · fictícia" : ""}`)}
+  ${lista("Fundamentos alterados depois da análise", d.fundamentos_alterados, x => `${esc(x.analise_id)}: ${esc(x.regra)}`)}
+  ${lista("Afirmações sem fonte (não publicadas)", d.afirmacoes_sem_fonte, a => `${esc(a.id)}: ${esc(a.texto)}${a.fixture ? " · fictícia" : ""}`)}
+  ${lista("Propostas não publicadas", d.propostas_nao_publicadas, esc)}
+  ${lista("Fontes divergentes", d.divergencias, a => `${esc(a.id)}: ${esc(a.texto)}`)}
+  ${lista("Duplicidades", d.duplicidades, esc)}
+  ${lista("Outros avisos", d.avisos_integridade.filter(a => d.duplicidades.indexOf(a) < 0), esc)}
+  ${lista("Fundamentos fora da base normativa", d.regras_fora_da_base, esc)}
+  ${lista("Mudanças recentes nos dados do TSE", d.mudancas_recentes.filter(m => m.tipo !== "criado").slice(0, 40), m => `${esc(FMTH(m.em))} · ${esc(m.tipo)} · ${esc(m.tabela)}.${esc(m.id)}${m.campos ? " · " + esc(m.campos.join(", ")) : ""}`, "Nenhuma alteração registrada além da carga inicial.")}
+  <section class="blk"><div class="sec-head"><h3>Registros por tabela</h3></div><dl class="kv">${Object.entries(d.contagens).filter(x => x[1]).map(([k, v]) => `<dt class="mono small">${esc(k)}</dt><dd class="mono small">${v}</dd>`).join("")}</dl></section>`;
+}
+
+// ------------------------------------------------------------ registro no Mapa Normativo
+function render(h) {
+  const r = F.parseRota("#" + h) || { v: "inicio", filtros: {} };
+  const idx = dado("index.json"); if (!idx) return falha("index.json") || carregando();
+  switch (r.v) {
+    case "inicio": return pEleicao(null, r.filtros);
+    case "eleicao": return pEleicao(r.eleicao, r.filtros);
+    case "cargo": return pCargo(r);
+    case "candidato": return pCandidato(r);
+    case "proposta": return pProposta(r);
+    case "municipio": return pMunicipio(r);
+    case "propostas": return pPropostas(r);
+    case "admin": return pAdmin();
+    default: return `<div class="empty">Página não encontrada. <a class="ref" href="#/">Voltar ao início</a></div>`;
+  }
+}
+
+let foco = null, espera;
+function aplicarFiltros(form, rotaBase) {
+  const f = {}; new FormData(form).forEach((v, k) => { if (v !== "" && k !== "cargo" && !(k === "situacao" && v === "ativas")) f[k] = String(v); });
+  const r = F.parseRota(location.hash);
+  const cargo = form.elements.cargo ? form.elements.cargo.value : null;
+  const nova = rotaBase === "propostas" ? F.montarRota({ v: "propostas", filtros: f }) : F.montarRota({ v: "cargo", eleicao: r.eleicao, cargo: cargo || r.cargo, filtros: cargo && cargo !== r.cargo ? {} : f });
+  if (nova === location.hash) return;
+  history.replaceState(null, "", nova);
+  MN.render(true);
+}
+function depois() {
+  const idx = C.dados["index.json"];
+  if (idx) {
+    const tse = (idx.sincronizacoes || []).find(x => x.rotulo === "TSE Candidates");
+    MN.util.status(`<span><span class="pulse${tse && tse.errors ? " off" : ""}"></span>Dados do TSE de <b>${esc(FMTH(tse ? tse.concluido_em || tse.iniciado_em : idx.gerado_em))}</b></span><span><b>${idx.contagens.candidaturas.toLocaleString("pt-BR")}</b> candidaturas</span>`);
+  }
+  const bf = document.getElementById("elBuscaForm");
+  if (bf) {
+    const inp = document.getElementById("elBusca");
+    const atualiza = () => { const r = F.parseRota(location.hash) || { v: "inicio" }; const nova = F.montarRota({ v: r.v === "eleicao" ? "eleicao" : "inicio", eleicao: r.eleicao, filtros: inp.value.trim() ? { q: inp.value.trim() } : {} });
+      history.replaceState(null, "", nova); document.getElementById("elBuscaRes").innerHTML = buscaInline(inp.value.trim()); };
+    bf.addEventListener("submit", e => { e.preventDefault(); atualiza(); });
+    inp.addEventListener("input", () => { clearTimeout(espera); espera = setTimeout(atualiza, 250); });
+  }
+  ["elFiltros", "elFiltrosProp"].forEach(id => {
+    const form = document.getElementById(id); if (!form) return;
+    const base = id === "elFiltrosProp" ? "propostas" : "cargo";
+    form.querySelectorAll("select").forEach(s => s.addEventListener("change", () => { foco = null; aplicarFiltros(form, base); }));
+    form.querySelectorAll("input").forEach(i => i.addEventListener("input", () => { clearTimeout(espera); foco = i.name; espera = setTimeout(() => aplicarFiltros(form, base), 250); }));
+    if (foco && form.elements[foco]) { const i = form.elements[foco]; i.focus(); i.setSelectionRange(i.value.length, i.value.length); }
+  });
+  document.querySelectorAll("img.el-foto").forEach(img => img.addEventListener("error", () => { img.replaceWith(Object.assign(document.createElement("div"), { className: "el-foto vazia", textContent: (img.alt.replace("Foto oficial de ", "") || "?").slice(0, 1) })); }));
+}
+
+MN.registrar({ render, depois });
+})();
+
+</script>
+</body></html>
