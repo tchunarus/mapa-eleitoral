@@ -1,0 +1,206 @@
+{
+ "candidatura_id": "tse-240002541913",
+ "fonte_id": "tse-documento-240017140305",
+ "verificado_em": "2026-10-19T12:00:00+00:00",
+ "propostas": [
+  {
+   "id": "dobrar-orcamento-saude",
+   "tema": "saude",
+   "subtema": "financiamento da saúde",
+   "titulo": "Dobrar o orçamento estadual da saúde",
+   "resumo": "Dobrar o orçamento estadual da saúde para acabar com as filas, inclusive de médicos especialistas.",
+   "pagina": 32,
+   "materia": "orcamento-estadual",
+   "natureza": "BUDGET_ALLOCATION",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "O plano não indica a fonte dos recursos; a ampliação depende da aprovação do orçamento pela Assembleia Legislativa e da receita disponível.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "trecho": "A. Dobrar o orçamento estadual da Saúde para dotá-lo das condições necessárias para oferecer atendimento de qualidade e acabar com as filas, inclusive de médicos especialistas."
+  },
+  {
+   "id": "dobrar-orcamento-educacao",
+   "tema": "educacao",
+   "subtema": "financiamento da educação",
+   "titulo": "Dobrar o orçamento estadual da educação",
+   "resumo": "Dobrar o orçamento estadual da educação para garantir vagas com qualidade em creches e escolas públicas.",
+   "pagina": 33,
+   "materia": "orcamento-estadual",
+   "natureza": "BUDGET_ALLOCATION",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "O plano não indica a fonte dos recursos; a Constituição fixa o mínimo de 25% da receita de impostos, e a ampliação depende do orçamento aprovado.",
+     "regra_id": "cf-212"
+    }
+   ],
+   "trecho": "B. Dobrar o orçamento estadual da Educação no estado para garantir vagas para todas as crianças também com qualidade, nas creches e escolas públicas."
+  },
+  {
+   "id": "estadualizar-acafe",
+   "tema": "educacao",
+   "subtema": "ensino superior",
+   "titulo": "Estadualização do Sistema ACAFE e incorporação à UDESC",
+   "resumo": "Estadualizar as instituições do Sistema ACAFE e incorporá-las à UDESC.",
+   "pagina": 25,
+   "materia": "ensino-superior-estadual",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "As instituições do sistema são fundações com personalidade própria, várias municipais; a incorporação exige lei e, conforme o caso, acordo com os Municípios instituidores."
+    },
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "trecho": "o Sistema ACAFE deve ser estadualizado e incorporado a UDESC."
+  },
+  {
+   "id": "rumo-tarifa-zero",
+   "tema": "mobilidade",
+   "subtema": "transporte coletivo",
+   "titulo": "Tarifa única e redução rumo à tarifa zero",
+   "resumo": "Adotar tarifa única válida para o dia todo, reduzir a tarifa rumo à tarifa zero, criar linhas e garantir integração intermunicipal nas regiões metropolitanas.",
+   "pagina": 38,
+   "materia": "transporte-coletivo-municipal",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "O transporte urbano é serviço municipal; o Estado responde pelo transporte intermunicipal e pode cofinanciar sistemas integrados."
+    }
+   ],
+   "trecho": "A. Tarifa única valendo para o dia todo. Redução da tarifa, rumo à tarifa zero. Criação de mais linhas e horários. Garantir integração intermunicipal nas regiões metropolitanas."
+  },
+  {
+   "id": "rodovia-contorno-viario",
+   "tema": "infraestrutura",
+   "subtema": "rodovias estaduais",
+   "titulo": "Nova rodovia do norte do Estado ao Contorno Viário",
+   "resumo": "Construir nova rodovia ligando o norte do Estado ao Contorno Viário de Florianópolis.",
+   "pagina": 38,
+   "materia": "infraestrutura-estadual",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "Obra exige projeto, licenciamento ambiental e licitação.",
+     "regra_id": "cf-175"
+    }
+   ],
+   "trecho": "A. Construção de nova rodovia ligando o norte do estado ao Contorno Viário de Florianópolis."
+  },
+  {
+   "id": "fim-pedagios",
+   "tema": "infraestrutura",
+   "subtema": "pedágios",
+   "titulo": "Fim dos pedágios e reversão de privatizações de rodovias",
+   "resumo": "Acabar com os pedágios e reverter as privatizações de rodovias.",
+   "pagina": 39,
+   "materia": "infraestrutura-federal",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "As rodovias pedagiadas em Santa Catarina são em grande parte federais, concedidas pela União.",
+     "regra_id": "cf-21-xxi"
+    },
+    {
+     "tipo": "LEGAL",
+     "texto": "O encerramento antecipado de concessões envolve indenização ao concessionário.",
+     "regra_id": "cf-175"
+    }
+   ],
+   "trecho": "Fim dos pedágios e a reversão dos processos de privatização das rodovias!"
+  },
+  {
+   "id": "desmilitarizacao-pm",
+   "tema": "seguranca",
+   "subtema": "polícias",
+   "titulo": "Desmilitarização da PM e polícia civil unificada",
+   "resumo": "Desmilitarizar a Polícia Militar e criar uma polícia civil unificada, com direito de organização sindical para policiais.",
+   "pagina": 44,
+   "materia": "texto-constitucional",
+   "natureza": "CONSTITUTIONAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "O caráter militar das polícias militares e sua condição de forças auxiliares e reserva do Exército estão na Constituição; a mudança exige emenda.",
+     "regra_id": "cf-144-p6"
+    }
+   ],
+   "trecho": "B. Desmilitarização da polícia militar e criação de uma polícia civil unificada com controle democrático dos trabalhadores e do povo pobre; e direito de organização sindical para os policiais."
+  },
+  {
+   "id": "estatais-100-publicas",
+   "tema": "economia",
+   "subtema": "estatais",
+   "titulo": "Celesc, Casan e demais estatais 100% públicas",
+   "resumo": "Manter Celesc, Casan, SC Gás, Ciasc, Epagri e Cidasc integralmente públicas, sob controle dos trabalhadores.",
+   "pagina": 27,
+   "materia": "estatais-estaduais",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Recomprar participações privadas em sociedade de economia mista depende de autorização legal e de recursos orçamentários.",
+     "regra_id": "cf-37-xix"
+    }
+   ],
+   "trecho": "Defendemos CELESC, CASAN, SC GÁS, CIASC, EPAGRI e CIDASC 100% públicas e sob controle dos trabalhadores."
+  },
+  {
+   "id": "restaurantes-populares",
+   "tema": "direitos-sociais",
+   "subtema": "segurança alimentar",
+   "titulo": "Restaurantes populares nos bairros vulneráveis",
+   "resumo": "Instituir cesta básica mensal para famílias necessitadas e restaurantes populares nos bairros vulneráveis.",
+   "pagina": 37,
+   "materia": "assistencia-social",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "Assistência social é competência comum, em regra executada com os Municípios.",
+     "regra_id": "cf-23-x"
+    }
+   ],
+   "trecho": "J. Emergencialmente instituir uma cesta básica mensal para as famílias que necessitam, e restaurantes populares nos bairros vulneráveis socialmente."
+  }
+ ],
+ "data": "2026-08-06"
+}

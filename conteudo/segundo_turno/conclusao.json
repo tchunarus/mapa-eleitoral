@@ -1,0 +1,190 @@
+{
+ "resumo": "Pela rubrica, Lula tem nota igual ou maior em todos os critérios, mas a distância varia muito: é grande em experiência administrativa e em compromisso com as instituições, intermediária em impactos, integridade, economia e coerência, pequena em governabilidade e nula em propostas, em que os dois planos têm fragilidades semelhantes por razões diferentes. Parte da diferença decorre de uma assimetria estrutural: Lula é avaliado por um histórico extenso de governo, com resultados positivos e também deterioração fiscal documentada, enquanto Flávio é avaliado sobretudo por votos, declarações e promessas; em impactos, a evidência sobre ele é insuficiente. Como os pesos apenas redistribuem a importância dos critérios, a ordem só muda no simulador se a pessoa alterar as notas; fatores que estes critérios não capturam, como a alternância no poder ou preferências programáticas, ficam fora da comparação e cabem a cada eleitor.",
+ "distincoes": [
+  {
+   "titulo": "Resultados comprovados e promessas",
+   "texto": "Indicadores oficiais de 2003 a 2010 e de 2023 a 2026 medem o que o governo Lula entregou, inclusive o aumento da dívida. No caso de Flávio, não há gestão executiva; suas propostas são avaliadas por detalhamento, competência do cargo e consistência, não por resultado. Resultados do governo de Jair Bolsonaro aparecem só como contexto."
+  },
+  {
+   "titulo": "Competência administrativa e popularidade",
+   "texto": "O desempenho no 1º turno (47,03% para Flávio, 45,16% para Lula) e as pesquisas não entram em nenhuma nota. Popularidade mede preferência do eleitorado, não capacidade de gestão."
+  },
+  {
+   "titulo": "Responsabilidade jurídica e controvérsia política",
+   "texto": "Decisões judiciais são separadas por estágio: definitiva, não definitiva, anulação sem mérito, arquivamento e investigação em curso. Nenhum dos dois tem condenação vigente. Investigação não é culpa; acusações de adversários e alegações de fonte única não sustentam as notas."
+  },
+  {
+   "titulo": "Avaliação objetiva e escolha de valores",
+   "texto": "Experiência, resultados econômicos, integridade e governabilidade se apoiam sobretudo em registros verificáveis. Propostas, impactos, democracia e coerência envolvem juízo sobre o que é desejável ou viável; por isso estão sinalizados e podem ter peso reduzido no simulador."
+  }
+ ],
+ "dimensoes": [
+  {
+   "id": "experiencia",
+   "titulo": "Experiência e competência administrativa",
+   "criterio": "experiencia",
+   "por_candidato": {
+    "lula": {
+     "vantagens": "Três mandatos presidenciais e programas de grande escala implantados.",
+     "fragilidades": "Os resultados do terceiro mandato são mistos, com deterioração fiscal documentada.",
+     "riscos": "Repetição de escolhas de gestão já contestadas."
+    },
+    "flavio": {
+     "vantagens": "Vinte e três anos de mandatos legislativos, com produção na Alerj, quatro relatorias de leis federais e presidência de comissão no Senado.",
+     "fragilidades": "Nunca exerceu cargo executivo; nenhum projeto de autoria individual aprovado no Senado.",
+     "riscos": "Curva de aprendizagem na direção de uma administração federal."
+    }
+   },
+   "leitura": "A diferença é grande e apoiada em registros oficiais sobre cargos exercidos; a qualidade dos resultados é tratada nos demais critérios.",
+   "insuficiencias": "Sem lacunas relevantes."
+  },
+  {
+   "id": "economia",
+   "titulo": "Economia e responsabilidade fiscal",
+   "criterio": "economia_fiscal",
+   "por_candidato": {
+    "lula": {
+     "vantagens": "Crescimento contínuo, desemprego no menor nível da série, grau de investimento nos mandatos anteriores.",
+     "fragilidades": "Dívida bruta em alta, inflação acima do teto, metas fiscais rebaixadas e cumpridas com exclusões.",
+     "riscos": "Dívida crescente sem ajuste estrutural, segundo IFI e FMI."
+    },
+    "flavio": {
+     "vantagens": "Votos contrários à PEC da Transição e ao arcabouço; proposta de regra fiscal ancorada na dívida.",
+     "fragilidades": "Sem resultado próprio; voto favorável à PEC dos Precatórios; corte de gastos anunciado sem detalhamento e promessas de 2º turno com custo.",
+     "riscos": "Promessas de desoneração e novos gastos sem fonte indicada."
+    }
+   },
+   "leitura": "Lula tem resultados mistos e mensuráveis; Flávio tem posições, não resultados. A comparação é parcialmente assimétrica.",
+   "insuficiencias": "Parte dos dados oficiais lida em reproduções da imprensa; não há estimativa oficial do custo dos dois planos."
+  },
+  {
+   "id": "propostas",
+   "titulo": "Propostas",
+   "criterio": "propostas",
+   "por_candidato": {
+    "lula": {
+     "vantagens": "Continuidade de programas existentes, o que aumenta a viabilidade; meta trabalhista já aprovada.",
+     "fragilidades": "Poucas metas e nenhuma fonte de custeio indicada; Ministério da Segurança dependente de PEC; passe livre anunciado fora do plano.",
+     "riscos": "Custo fiscal das novas medidas estimado por analistas."
+    },
+    "flavio": {
+     "vantagens": "Plano mais quantificado, com metas e prazos.",
+     "fragilidades": "Nenhuma estimativa de custo; várias medidas dependem de emenda constitucional; compromissos de 2º turno fora do plano.",
+     "riscos": "Conta fiscal que economistas de linhas diversas consideram inconsistente."
+    }
+   },
+   "leitura": "Notas iguais: o plano de Flávio é mais quantificado e o de Lula apoia-se mais em programas existentes; ambos carecem de custeio e têm compromissos de campanha fora do plano.",
+   "insuficiencias": "Seleção de 18 propostas por candidato; sem avaliação oficial do custo total."
+  },
+  {
+   "id": "integridade",
+   "titulo": "Integridade e transparência",
+   "criterio": "integridade",
+   "por_candidato": {
+    "lula": {
+     "vantagens": "Nenhuma condenação vigente nem investigação em curso contra o próprio candidato nas fontes consultadas.",
+     "fragilidades": "Condenações anuladas sem exame de mérito; indicação do ex-advogado ao STF; investigação envolvendo o filho.",
+     "riscos": "Desdobramentos do caso do INSS."
+    },
+    "flavio": {
+     "vantagens": "Nenhuma condenação; o caso das rachadinhas foi encerrado.",
+     "fragilidades": "Encerramento por nulidade, sem mérito; investigado no STF no caso Dark Horse e em outro inquérito de 2026; declarações contraditórias sobre Vorcaro.",
+     "riscos": "Andamento de inquéritos sob sigilo durante eventual mandato."
+    }
+   },
+   "leitura": "A diferença decorre principalmente das investigações em curso em 2026, que não são juízo de culpa.",
+   "insuficiencias": "Inquéritos sob sigilo; sem levantamento de sigilos, cartão corporativo, TCU, bens e prestação de contas."
+  },
+  {
+   "id": "democracia",
+   "titulo": "Instituições e Estado de Direito",
+   "criterio": "democracia",
+   "por_candidato": {
+    "lula": {
+     "vantagens": "Veto à redução de penas do 8 de janeiro; reconhecimento de resultados; declaração de que aceitará a derrota.",
+     "fragilidades": "Peças de campanha suspensas pelo TSE por falta de base fática e direito de resposta concedido ao adversário; propostas de regulação das redes que dividem avaliações.",
+     "riscos": "Tensão entre regulação de plataformas e liberdade de expressão."
+    },
+    "flavio": {
+     "vantagens": "Declarou que aceitará o resultado e reconheceu o 1º turno; defende liberdade de imprensa em episódios específicos.",
+     "fragilidades": "Ataques verbais ao STF; agradecimento a Trump no dia do anúncio das tarifas e pedido de sanção a ministro do STF; defesa de anistia aos condenados pela trama golpista; alegação desmentida sobre urnas; publicação falsa removida por ordem do TSE.",
+     "riscos": "Redução da responsabilização por ataques às instituições e conflito entre Poderes."
+    }
+   },
+   "leitura": "Um dos critérios com maior distância, apoiado em atos e declarações datados; o peso do tema varia conforme os valores de cada pessoa.",
+   "insuficiencias": "Decisões do TSE sobre propaganda são liminares; votos nominais de Flávio na dosimetria não confirmados."
+  },
+  {
+   "id": "governabilidade",
+   "titulo": "Articulação e governabilidade",
+   "criterio": "governabilidade",
+   "por_candidato": {
+    "lula": {
+     "vantagens": "Aprovou reformas estruturais (arcabouço, tributária, IR) e converteu em lei proporção de projetos maior que o governo anterior.",
+     "fragilidades": "Derrotas expressivas: vetos derrubados, medidas provisórias caducadas, rejeição de indicado ao STF.",
+     "riscos": "Dependência de coalizões instáveis em votações relevantes."
+    },
+    "flavio": {
+     "vantagens": "Ampla coalizão de 2º turno, com 12 governadores e partidos de centro-direita.",
+     "fragilidades": "Sem histórico documentado de aprovação de agenda própria; 1º turno sem coligação.",
+     "riscos": "Coalizão heterogênea formada em período eleitoral."
+    }
+   },
+   "leitura": "Distância pequena; o histórico de Lula é real e misto, e a base de Flávio é potencial.",
+   "insuficiencias": "A composição do Congresso eleito em 2026 não foi levantada."
+  },
+  {
+   "id": "impactos",
+   "titulo": "Impactos sociais, econômicos e ambientais",
+   "criterio": "impactos",
+   "por_candidato": {
+    "lula": {
+     "vantagens": "Queda da pobreza, da desigualdade e do desmatamento documentada por IBGE, Ipea e INPE.",
+     "fragilidades": "Custo fiscal das políticas; licença na Foz do Amazonas.",
+     "riscos": "Sustentabilidade fiscal dos programas."
+    },
+    "flavio": {
+     "vantagens": "Compromisso de manter o Bolsa Família e meta de zerar o desmatamento ilegal até 2029.",
+     "fragilidades": "Ampliação de 500 mil vagas prisionais com elementos do modelo de El Salvador e, segundo reportagem, plano da equipe de revogar o Estatuto do Desarmamento, associados a riscos por especialistas; voto favorável à lei de licenciamento, controversa.",
+     "riscos": "Efeitos de políticas sem histórico de implementação pelo candidato."
+    }
+   },
+   "leitura": "Comparação estruturalmente assimétrica (resultados versus promessas) e fortemente valorativa.",
+   "insuficiencias": "Evidência insuficiente para Flávio; recomenda-se leitura cautelosa."
+  },
+  {
+   "id": "coerencia",
+   "titulo": "Coerência e veracidade",
+   "criterio": "coerencia",
+   "por_candidato": {
+    "lula": {
+     "vantagens": "Cumpriu a promessa sobre a política de preços da Petrobras (evidência de peso baixo); no debate de 18/10 teve poucas falas falsas nas agências.",
+     "fragilidades": "Promessa de mandato único descumprida; contradição sobre emendas; erros recorrentes em dados fiscais.",
+     "riscos": "Uso de dados fiscais imprecisos na campanha."
+    },
+    "flavio": {
+     "vantagens": "Parte das falas sobre dívida e vetos foi confirmada pelas agências.",
+     "fragilidades": "Mudanças de posição sobre a 6x1, Petrobras e tributária; 43 declarações enganosas sobre Vorcaro; maior proporção de falas falsas nas agências.",
+     "riscos": "Instabilidade de compromissos assumidos em campanha."
+    }
+   },
+   "leitura": "As agências apontam mais declarações falsas de Flávio; um levantamento de método próprio aponta o inverso no debate. A amostra não é aleatória.",
+   "insuficiencias": "Amostras definidas pelas agências; checagens do AFP, UOL e Boatos.org não localizadas diretamente."
+  }
+ ],
+ "metodologia": {
+  "limites": "A pesquisa foi feita em 19/10/2026 por seis frentes temáticas com o mesmo roteiro para os dois candidatos, com limite de buscas que deixou lacunas declaradas (financiamento de campanha, composição do Congresso eleito, bens, TCU). O portal do TSE recusa acesso automatizado, e parte das informações eleitorais vem de notícias do próprio TSE e da imprensa. Os links foram testados automaticamente (298 de 317 responderam; os demais bloqueiam robôs ou não responderam a tempo).",
+  "tipos": {
+   "FATO_COMPROVADO": "Fato documentado por fonte primária ou por fontes jornalísticas convergentes.",
+   "DADO_OFICIAL": "Número de órgão oficial (IBGE, Banco Central, Tesouro, INPE, Câmara, Senado).",
+   "DECISAO_JUDICIAL_DEFINITIVA": "Decisão sem recurso pendente conhecido.",
+   "DECISAO_JUDICIAL_NAO_DEFINITIVA": "Decisão sujeita a recurso, ou liminar.",
+   "INVESTIGACAO_OU_DENUNCIA": "Inquérito ou denúncia sem julgamento; não implica culpa.",
+   "ALEGACAO": "Afirmação de parte interessada ou de fonte única não confirmada.",
+   "INTERPRETACAO": "Análise jornalística, acadêmica ou de agência de checagem.",
+   "OPINIAO": "Declaração de posição do próprio candidato ou de terceiro.",
+   "PROMESSA": "Compromisso futuro, em plano ou discurso.",
+   "INCONCLUSIVO": "Informação que não pôde ser confirmada."
+  }
+ }
+}

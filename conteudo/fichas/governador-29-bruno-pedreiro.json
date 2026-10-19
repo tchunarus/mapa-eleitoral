@@ -1,0 +1,166 @@
+{
+ "candidatura_id": "tse-240002553718",
+ "fonte_id": "tse-documento-240017123645",
+ "verificado_em": "2026-10-19T12:00:00+00:00",
+ "propostas": [
+  {
+   "id": "jornada-35-horas",
+   "tema": "direitos-sociais",
+   "temas_extras": [
+    "economia"
+   ],
+   "subtema": "trabalho",
+   "titulo": "Jornada máxima de 35 horas semanais",
+   "resumo": "Reduzir a jornada de trabalho para no máximo 7 horas por dia, 5 dias por semana, sem redução salarial.",
+   "pagina": 2,
+   "materia": "direito-trabalho",
+   "natureza": "CONSTITUTIONAL_CHANGE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "O limite constitucional de jornada é de 44 horas semanais; reduzi-lo para todos exige mudança no texto da Constituição ou lei federal mais protetiva.",
+     "regra_id": "cf-7-xiii"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "Direito do trabalho é competência privativa da União.",
+     "regra_id": "cf-22-i"
+    }
+   ],
+   "observacao": "O programa registrado é o documento nacional do partido (São Paulo, agosto de 2026), usado pela candidatura estadual; a maioria das medidas é de competência federal.",
+   "trecho": "Redução da jornada de trabalho para o máximo de 7 horas por dia, 5 dias por semana (35 horas semanais)"
+  },
+  {
+   "id": "salario-minimo-7500",
+   "tema": "economia",
+   "subtema": "salário mínimo",
+   "titulo": "Salário mínimo de R$ 7.500",
+   "resumo": "Fixar o salário mínimo em valor suficiente para as necessidades do trabalhador e de sua família, que segundo o programa não poderia ser menor que R$ 7.500.",
+   "pagina": 2,
+   "materia": "salario-minimo",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "O salário mínimo é fixado em lei federal, nacionalmente unificado.",
+     "regra_id": "cf-7-iv"
+    },
+    {
+     "tipo": "FISCAL",
+     "texto": "O valor impacta benefícios previdenciários e assistenciais vinculados ao salário mínimo e as folhas de pagamento públicas."
+    }
+   ],
+   "observacao": "O programa registrado é o documento nacional do partido (São Paulo, agosto de 2026), usado pela candidatura estadual; a maioria das medidas é de competência federal.",
+   "trecho": "imo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500)"
+  },
+  {
+   "id": "dissolucao-policia-militar",
+   "tema": "seguranca",
+   "subtema": "polícias",
+   "titulo": "Dissolução da Polícia Militar",
+   "resumo": "Dissolver a polícia militar e todo o aparato repressivo, com comitês de autodefesa dos trabalhadores.",
+   "pagina": 5,
+   "materia": "texto-constitucional",
+   "natureza": "CONSTITUTIONAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "As polícias militares estão previstas na Constituição como órgãos de segurança pública subordinados aos Governadores; sua extinção exige emenda constitucional.",
+     "regra_id": "cf-144-v"
+    }
+   ],
+   "observacao": "O programa registrado é o documento nacional do partido (São Paulo, agosto de 2026), usado pela candidatura estadual; a maioria das medidas é de competência federal.",
+   "trecho": "Dissolução da polícia militar e de todo o aparato repressivo"
+  },
+  {
+   "id": "fim-do-stf",
+   "tema": "instituicoes-politicas",
+   "subtema": "Judiciário",
+   "titulo": "Fim do Supremo Tribunal Federal e eleição de juízes",
+   "resumo": "Extinguir o Supremo Tribunal Federal e eleger juízes e procuradores pelo voto popular, com mandatos revogáveis.",
+   "pagina": 6,
+   "materia": "texto-constitucional",
+   "natureza": "CONSTITUTIONAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "O Supremo Tribunal Federal e a forma de escolha de seus ministros estão na Constituição; a separação dos Poderes é limite material ao poder de emenda.",
+     "regra_id": "cf-60-p4"
+    }
+   ],
+   "observacao": "O programa registrado é o documento nacional do partido (São Paulo, agosto de 2026), usado pela candidatura estadual; a maioria das medidas é de competência federal.",
+   "trecho": "Fim do Supremo Tribunal Federal (STF); eleição de todos os juízes e procuradores pelo voto popular e com mandatos revogáveis."
+  },
+  {
+   "id": "combustiveis-50",
+   "tema": "economia",
+   "subtema": "combustíveis",
+   "titulo": "Redução imediata de 50% no preço dos combustíveis",
+   "resumo": "Reduzir imediatamente em 50% o preço dos combustíveis e acabar com a política de paridade com o dólar.",
+   "pagina": 3,
+   "materia": "estatais-federais",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A política de preços da Petrobras é definida pela empresa, controlada pela União; o Estado atua apenas sobre o ICMS dos combustíveis.",
+     "regra_id": "cf-177-i"
+    }
+   ],
+   "observacao": "O programa registrado é o documento nacional do partido (São Paulo, agosto de 2026), usado pela candidatura estadual; a maioria das medidas é de competência federal.",
+   "trecho": "Redução imediata do preço dos combustíveis em 50%. Fim da política de paridade com o dólar"
+  },
+  {
+   "id": "fim-lrf-teto",
+   "tema": "administracao-publica",
+   "subtema": "regras fiscais",
+   "titulo": "Fim do teto de gastos e da Lei de Responsabilidade Fiscal",
+   "resumo": "Revogar o teto de gastos e a Lei de Responsabilidade Fiscal.",
+   "pagina": 4,
+   "materia": "regras-fiscais",
+   "natureza": "COMPLEMENTARY_LAW_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Normas gerais de finanças públicas são fixadas em lei complementar federal.",
+     "regra_id": "cf-163-i"
+    }
+   ],
+   "observacao": "O programa registrado é o documento nacional do partido (São Paulo, agosto de 2026), usado pela candidatura estadual; a maioria das medidas é de competência federal.",
+   "trecho": "Fim do teto de gastos e da Lei de Responsabilidade Fiscal"
+  },
+  {
+   "id": "piso-professores-8500",
+   "tema": "educacao",
+   "subtema": "professores",
+   "titulo": "Piso nacional dos professores de R$ 8,5 mil",
+   "resumo": "Fixar o piso salarial nacional dos professores em pelo menos R$ 8,5 mil.",
+   "pagina": 5,
+   "materia": "piso-magisterio",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "O piso nacional é fixado em lei federal; o impacto recai sobre as folhas de Estados e Municípios.",
+     "regra_id": "cf-206-viii"
+    }
+   ],
+   "observacao": "O programa registrado é o documento nacional do partido (São Paulo, agosto de 2026), usado pela candidatura estadual; a maioria das medidas é de competência federal.",
+   "trecho": "Piso salarial nacional dos professores de, pelo menos, R$8,5 mil"
+  }
+ ]
+}

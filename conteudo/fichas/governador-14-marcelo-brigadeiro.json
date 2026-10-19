@@ -1,0 +1,281 @@
+{
+ "candidatura_id": "tse-240002544118",
+ "fonte_id": "tse-documento-240017031822",
+ "verificado_em": "2026-09-29T18:00:00+00:00",
+ "propostas": [
+  {
+   "id": "presidio-seguranca-maxima",
+   "tema": "seguranca",
+   "subtema": "sistema prisional",
+   "titulo": "Presídio estadual de segurança máxima no Meio-Oeste",
+   "resumo": "Construir um presídio de segurança máxima no Meio-Oeste catarinense, destinado a lideranças de organizações criminosas e presos de alta periculosidade, com isolamento e monitoramento contínuo.",
+   "pagina": 16,
+   "materia": "sistema-prisional-estadual",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "LEGAL",
+     "texto": "O regime de cumprimento de pena e o isolamento de presos seguem normas de direito penitenciário, matéria de legislação concorrente com normas gerais da União.",
+     "regra_id": "cf-24-i"
+    }
+   ],
+   "trecho": "2.15.1 Construção do “Inferno Catarina”, um presídio de segurança máxima no Meio-Oeste catarinense voltado para lideranças de organizações criminosas e presos de alta periculosidade, que ficarão isolados e monitorados 24h por dia;"
+  },
+  {
+   "id": "cirurgias-60-dias",
+   "tema": "saude",
+   "subtema": "filas e cirurgias",
+   "titulo": "Cirurgias do SUS estadual em até 60 dias",
+   "resumo": "Criar o programa Tempo é Vida, para que cirurgias indicadas pela rede pública sejam realizadas em até 60 dias, inclusive com contratação complementar de capacidade ociosa da rede privada.",
+   "pagina": 14,
+   "materia": "servicos-saude",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "A contratação de serviços da rede privada exige contrato ou convênio precedido do procedimento de seleção cabível."
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A rede do SUS é regionalizada e integrada com os Municípios; a meta depende da regulação conjunta das filas.",
+     "regra_id": "cf-198"
+    }
+   ],
+   "trecho": "2.14.1 Criação do Programa Tempo é Vida, por meio do qual qualquer cirurgia indicada pelo sistema público de saúde deverá ser realizada em, no máximo, 60 (sessenta) dias, inclusive mediante contratação complementar da capacidade ociosa de unidades privadas de saúde, em horários de menor demanda;"
+  },
+  {
+   "id": "tempo-integral-2030",
+   "tema": "educacao",
+   "subtema": "educação básica",
+   "titulo": "Tempo integral em todas as escolas estaduais até 2030",
+   "resumo": "Implantar a educação em tempo integral em todas as escolas estaduais até 2030, com contraturno de reforço escolar, leitura, matemática, lógica e inglês.",
+   "pagina": 11,
+   "materia": "rede-estadual-ensino",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "A ampliação da jornada exige professores e estrutura física adicionais; a admissão de pessoal efetivo depende de concurso.",
+     "regra_id": "cf-37-ii"
+    }
+   ],
+   "trecho": "2.9.1 Implementar a educação em tempo integral em todas as escolas estaduais catarinenses até 2030, ampliando as atividades no contraturno orientado ao reforço escolar, com oficinas de leitura e interpretação de texto, lógica, matemática e inglês;"
+  },
+  {
+   "id": "reduzir-comissionados-25",
+   "tema": "administracao-publica",
+   "subtema": "estrutura do governo",
+   "titulo": "Redução de 25% dos cargos comissionados",
+   "resumo": "Reduzir em 25% o número de cargos comissionados na administração direta e indireta do Estado.",
+   "pagina": 5,
+   "materia": "cargos-comissao-estaduais",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Deixar cargos vagos ou exonerar ocupantes é ato do Governador; a extinção definitiva dos cargos depende de lei.",
+     "regra_id": "cf-37-v"
+    }
+   ],
+   "trecho": "2.1.2 Redução do número de cargos comissionados em 25% na administração pública direta e indireta do Governo Estadual;"
+  },
+  {
+   "id": "privatizar-celesc-casan",
+   "tema": "economia",
+   "subtema": "estatais",
+   "titulo": "Privatização da Celesc e da Casan",
+   "resumo": "Privatizar empresas estatais consideradas eficientes, superavitárias ou ainda úteis, citando a Celesc e a Casan, com metas e avaliação de desempenho.",
+   "pagina": 11,
+   "materia": "estatais-estaduais",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A alienação do controle de sociedade de economia mista depende de autorização em lei estadual.",
+     "regra_id": "cf-37-xix"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A distribuição de energia elétrica é serviço federal prestado por concessão, sujeito à regulação da União; os serviços de saneamento envolvem contratos com os Municípios atendidos.",
+     "regra_id": "cf-21-xii"
+    }
+   ],
+   "trecho": "2.8.2 Privatizar empresas estatais eficientes, superavitárias ou ainda úteis, com metas estabelecidas e sistemas de avaliação de desempenho, tais como CELESC e CASAN;"
+  },
+  {
+   "id": "lei-regionalizacao-saneamento",
+   "tema": "infraestrutura",
+   "temas_extras": [
+    "meio-ambiente"
+   ],
+   "subtema": "saneamento",
+   "titulo": "Lei de Regionalização do Saneamento e universalização até 2033",
+   "resumo": "Enviar à Assembleia Legislativa e aprovar a Lei de Regionalização do Saneamento, formando unidades regionais para viabilizar investimentos em municípios menores, com a meta de universalizar o saneamento até 2033.",
+   "pagina": 14,
+   "materia": "saneamento-regional",
+   "natureza": "COMPLEMENTARY_LAW_CHANGE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A instituição de microrregiões ou unidades regionais depende de lei complementar estadual.",
+     "regra_id": "cf-25-p3"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A prestação regionalizada exige articulação com os Municípios integrantes de cada unidade."
+    }
+   ],
+   "trecho": "2.12.4 Elaborar, enviar e aprovar na Assembleia Legislativa a Lei de Regionalização do Saneamento em Santa Catarina, formando as unidades regionais e viabilizando tecnicamente os investimentos privados em municípios de menor porte;"
+  },
+  {
+   "id": "hub-socioassistencial",
+   "tema": "direitos-sociais",
+   "subtema": "população em situação de rua",
+   "titulo": "Hub Socioassistencial para a população em situação de rua",
+   "resumo": "Criar, nas maiores cidades, um equipamento único de atendimento à população em situação de rua, com alimentação, higiene, documentos, acolhimento e triagem, com permanência máxima de 72 horas.",
+   "pagina": 6,
+   "materia": "assistencia-social",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A assistência social é competência comum; os serviços de acolhimento são em regra prestados pelos Municípios, com cofinanciamento estadual.",
+     "regra_id": "cf-23-x"
+    }
+   ],
+   "trecho": "2.3.1 Hub Socioassistencial, equipamento único e aglutinador criado nos principais polos de concentração de população em situação de rua das maiores cidades catarinenses, que centraliza os atendimentos básicos, alimentação, banho, higiene, guarda de pertences, emissão de documentos, acolhimento e triagem, com permanência máxima de 72 horas, atuando como porta de entrada e central de [...]"
+  },
+  {
+   "id": "reduzir-carga-tributaria",
+   "tema": "tributacao",
+   "subtema": "ICMS",
+   "titulo": "Redução da carga tributária estadual",
+   "resumo": "Reduzir a carga tributária para aumentar a competitividade do setor produtivo catarinense.",
+   "pagina": 9,
+   "materia": "icms-beneficios",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "LOW",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Redução de base de cálculo, isenção ou crédito presumido exigem lei específica.",
+     "regra_id": "cf-150-p6"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "Benefícios de ICMS seguem a deliberação entre os Estados prevista em lei complementar.",
+     "regra_id": "cf-155-p2-xii-g"
+    },
+    {
+     "tipo": "FISCAL",
+     "texto": "Renúncia de receita exige estimativa de impacto e medidas de compensação pelas regras de responsabilidade fiscal."
+    }
+   ],
+   "observacao": "A proposta não indica tributo, alíquota ou setor; a análise considera o ICMS, principal imposto estadual.",
+   "trecho": "2.5.3 Reduzir a carga tributária para aumentar a competitividade do setor produtivo catarinense;"
+  },
+  {
+   "id": "duplicar-rodovias-estaduais",
+   "tema": "infraestrutura",
+   "subtema": "rodovias estaduais",
+   "titulo": "Duplicação de trechos prioritários de rodovias estaduais",
+   "resumo": "Iniciar programa de recuperação e ampliação da capacidade das rodovias estaduais, com duplicação ou quadruplicação de trechos prioritários.",
+   "pagina": 13,
+   "materia": "infraestrutura-estadual",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "Obras dependem de projeto, licenciamento ambiental e licitação.",
+     "regra_id": "cf-175"
+    }
+   ],
+   "trecho": "2.11.3 Iniciar programa de recuperação e de ampliação da capacidade das rodovias estaduais, mediante duplicação ou quadruplicação dos trechos prioritários, conforme critérios técnicos;"
+  },
+  {
+   "id": "cobrar-duplicacao-brs",
+   "tema": "infraestrutura",
+   "subtema": "rodovias federais",
+   "titulo": "Cobrança ao Governo Federal pela duplicação de rodovias federais",
+   "resumo": "Cobrar do Governo Federal a duplicação das BRs 153, 280, 282 e 470.",
+   "pagina": 13,
+   "materia": "infraestrutura-federal",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "As rodovias federais integram o sistema nacional de viação, a cargo da União; o Estado pode atuar por articulação ou convênio.",
+     "regra_id": "cf-21-xxi"
+    }
+   ],
+   "trecho": "2.11.2 Cobrar com firmeza o Governo Federal para a duplicação das BRs 153, 280, 282 e 470;"
+  },
+  {
+   "id": "travessia-itajai-navegantes",
+   "tema": "mobilidade",
+   "temas_extras": [
+    "infraestrutura"
+   ],
+   "subtema": "travessias",
+   "titulo": "Novos pontos de travessia entre Itajaí e Navegantes",
+   "resumo": "Criar novos pontos de travessia entre Itajaí e Navegantes para ampliar a concorrência e reduzir o preço das passagens.",
+   "pagina": 13,
+   "materia": "infraestrutura-estadual",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "A outorga de novos serviços de travessia exige concessão ou permissão precedida de licitação.",
+     "regra_id": "cf-175"
+    }
+   ],
+   "trecho": "2.11.7 Criação de novos pontos de travessia entre os municípios de Itajaí e Navegantes, a fim de acabar com o monopólio e reduzir o preço das passagens."
+  }
+ ]
+}

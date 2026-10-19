@@ -1,0 +1,54 @@
+{
+ "eleicao": "2026-geral",
+ "turno": 2,
+ "data_turno": "2026-10-25",
+ "situacao": {
+  "texto": "O TSE confirmou que Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) disputam o 2º turno da eleição presidencial em 25 de outubro de 2026. No 1º turno (4 de outubro), Flávio Bolsonaro obteve 47,03% e Lula 45,16% dos votos válidos.",
+  "fontes": [
+   {
+    "titulo": "Flávio Bolsonaro (PL) e Lula (PT) vão disputar o 2º turno para a Presidência da República",
+    "veiculo": "Tribunal Superior Eleitoral",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
+    "data": "2026-10-05",
+    "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "TSE encerra apuração do 1º turno",
+    "veiculo": "CartaCapital",
+    "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio Bolsonaro e Lula disputarão segundo turno das Eleições 2026",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/465831/flavio-bolsonaro-e-lula-disputarao-segundo-turno-das-eleicoes-2026",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ "candidatos": [
+  {
+   "id": "lula",
+   "nome": "Luiz Inácio Lula da Silva",
+   "nome_urna": "Lula",
+   "partido": "PT",
+   "numero": 13,
+   "candidatura_id": "tse-280002542548",
+   "cor": "ca",
+   "resultado_1t": 45.16
+  },
+  {
+   "id": "flavio",
+   "nome": "Flávio Nantes Bolsonaro",
+   "nome_urna": "Flavio Bolsonaro",
+   "partido": "PL",
+   "numero": 22,
+   "candidatura_id": "tse-280002551544",
+   "cor": "cb",
+   "resultado_1t": 47.03
+  }
+ ],
+ "nota_cores": "As cores de cada candidatura (verde-azulado e violeta) foram escolhidas fora das cores partidárias e seguem a ordem do número na urna."
+}

@@ -1,0 +1,173 @@
+{
+ "candidatura_id": "tse-240002552157",
+ "fonte_id": "tse-documento-240017109691",
+ "verificado_em": "2026-10-19T12:00:00+00:00",
+ "propostas": [
+  {
+   "id": "duplicacao-br-282",
+   "tema": "infraestrutura",
+   "subtema": "rodovias federais",
+   "titulo": "Duplicação da BR-282 por concessão com pedágio",
+   "resumo": "Tratar a duplicação da BR-282 como prioridade, por concessão ou parceria público-privada com edital nacional ou internacional e pedágio como fonte de custeio.",
+   "pagina": 11,
+   "materia": "infraestrutura-federal",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A BR-282 é rodovia federal; a concessão pelo Estado depende de delegação ou convênio com a União.",
+     "regra_id": "cf-21-xxi"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "Concessão ou parceria público-privada exige licitação e modelagem aprovada.",
+     "regra_id": "cf-175"
+    }
+   ],
+   "trecho": "Assumir a duplicação da BR-282 como prioridade número um e obsessão de gestão, realizando concessão e/ou parceria público-privada por edital de concorrência nacional/internacional com pedágio como fonte compensatória de custeio."
+  },
+  {
+   "id": "secretaria-logistica-ferrovia",
+   "tema": "infraestrutura",
+   "subtema": "ferrovias",
+   "titulo": "Secretaria de Logística e Ferrovia do Frango",
+   "resumo": "Criar a Secretaria de Logística para integrar os modais e viabilizar a Ferrovia do Frango, ligando o Oeste aos portos.",
+   "pagina": 11,
+   "materia": "estrutura-administrativa-estadual",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A criação de secretaria depende de lei estadual de iniciativa do Governador.",
+     "regra_id": "ce-sc"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "Ferrovia integrada à malha nacional ou que transponha limites do Estado é serviço da União.",
+     "regra_id": "cf-21-xii"
+    }
+   ],
+   "trecho": "Integrar os modais de transporte criando a Secretaria de Logística, viabilizar a implantação da Ferrovia do Frango para ligação logística do Oeste aos portos;"
+  },
+  {
+   "id": "hospital-queimados",
+   "tema": "saude",
+   "subtema": "rede hospitalar",
+   "titulo": "Residência oficial convertida em hospital de queimados",
+   "resumo": "Transformar a residência oficial do Governador em hospital e centro estadual de referência para crianças, mulheres e idosos vítimas de queimaduras, integrado ao Hospital Infantil Joana de Gusmão.",
+   "pagina": 9,
+   "materia": "servicos-saude",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "A adaptação do imóvel exige projeto, licenciamento sanitário e habilitação do serviço na rede do SUS.",
+     "regra_id": "cf-198"
+    }
+   ],
+   "trecho": "Transformar a residência oficial no Hospital e Centro de Referência Estadual para Crianças, Mulheres e Idosos Vítimas de Queimaduras, integrando-o ao Hospital Infantil Joana de Gusmão e usando seu heliponto para resgates aéreos expeditos."
+  },
+  {
+   "id": "aplicativo-condenados-violencia-mulher",
+   "tema": "seguranca",
+   "temas_extras": [
+    "direitos-sociais"
+   ],
+   "subtema": "violência contra a mulher",
+   "titulo": "Aplicativo público com nomes de condenados por violência contra a mulher",
+   "resumo": "Criar aplicativo gratuito de consulta pública com os nomes dos condenados por violência contra a mulher.",
+   "pagina": 7,
+   "materia": "gestao-publica-estadual",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A divulgação nominal de condenações sujeita-se à legislação federal de proteção de dados e às normas penais e processuais, de competência privativa da União.",
+     "regra_id": "cf-22-i"
+    }
+   ],
+   "trecho": "Criar o Aplicativo Gratuito de Consulta Pública para expor e dar transparência aos nomes dos condenados por violência contra a mulher."
+  },
+  {
+   "id": "cheias-itajai-acu",
+   "tema": "meio-ambiente",
+   "temas_extras": [
+    "infraestrutura"
+   ],
+   "subtema": "defesa civil",
+   "titulo": "Projeto definitivo para as cheias do Rio Itajaí-Açu",
+   "resumo": "Abrir concorrência pública internacional para elaborar e executar projeto definitivo contra as cheias do Rio Itajaí-Açu, inclusive com transposição ou desvio do curso do rio.",
+   "pagina": 8,
+   "materia": "infraestrutura-estadual",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "Obras de transposição ou desvio de rio exigem licenciamento ambiental e, conforme o domínio do curso d'água, manifestação federal.",
+     "regra_id": "cf-225"
+    }
+   ],
+   "trecho": "Abrir edital de concorrência pública internacional para elaboração e execução do projeto definitivo de solução para as cheias do Rio Itajaí-Açu, abrangendo obras audaciosas de engenharia como a transposição ou desvio do curso do rio"
+  },
+  {
+   "id": "lei-verbas-comunicacao",
+   "tema": "administracao-publica",
+   "subtema": "transparência",
+   "titulo": "Lei para distribuição das verbas estaduais de comunicação",
+   "resumo": "Regular por lei a distribuição das verbas estaduais de comunicação e imprensa, com critérios objetivos de audiência, visibilidade e proporcionalidade.",
+   "pagina": 19,
+   "materia": "gestao-publica-estadual",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Exige lei estadual aprovada pela Assembleia Legislativa.",
+     "regra_id": "cf-25"
+    }
+   ],
+   "trecho": "Regular a distribuição de verbas estaduais de comunicação/imprensa por meio de lei com critérios objetivos de audiência, visibilidade e proporcionalidade"
+  },
+  {
+   "id": "tempo-integral",
+   "tema": "educacao",
+   "subtema": "educação básica",
+   "titulo": "Ampliação progressiva do tempo integral",
+   "resumo": "Ampliar progressivamente a educação em tempo integral na rede estadual.",
+   "pagina": 10,
+   "materia": "rede-estadual-ensino",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "LOW",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "trecho": "ampliar progressivamente a educação em tempo integral;"
+  }
+ ]
+}

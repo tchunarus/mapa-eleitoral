@@ -1,7 +1,7 @@
 <style>
 /* Mapa Eleitoral: usa os mesmos tokens do Mapa Normativo (cores, fontes, espaçamento). */
 .el-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:16px}
-.el-card{border:1px solid var(--line);border-radius:6px;padding:16px 18px;background:var(--bg);display:flex;flex-direction:column;gap:6px}
+.el-card{border:1px solid var(--line);border-radius:var(--r);padding:18px 20px;background:var(--bg);box-shadow:var(--shadow);transition:border-color .2s,transform .2s;display:flex;flex-direction:column;gap:6px}
 .el-card h3{font-size:20px;margin-top:6px}
 .el-card.fora{border-style:dashed;background:var(--bg-2)}
 .el-card-top{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
@@ -17,7 +17,7 @@
 .el-datas{margin:12px 0 0;padding-left:18px;font-size:13.5px;color:var(--ink-2);max-width:78ch}
 .el-busca{max-width:760px}
 .el-municipal .el-card{opacity:.95}
-.el-fixture{border:1px dashed var(--warn);background:var(--warn-wash);border-radius:6px;padding:10px 14px;margin-top:18px}
+.el-fixture{border:1px dashed var(--warn);background:var(--warn-wash);border-radius:var(--r);padding:10px 14px;margin-top:18px}
 .el-fixture .lab{font-family:var(--mono);font-size:11px;letter-spacing:.12em;color:var(--warn)}
 .el-fixture p{margin:4px 0 0;font-size:13.5px;max-width:80ch}
 .el-filtros{display:grid;grid-template-columns:2fr 1.2fr .8fr 1.4fr 1.4fr;gap:10px;margin-bottom:14px}
@@ -35,7 +35,7 @@
 .el-abas{margin-top:22px}
 .el-bio{grid-template-columns:minmax(140px,auto) minmax(0,1fr);gap:8px 18px;font-size:14px;max-width:760px}
 .el-props{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
-.el-prop{border:1px solid var(--line);border-radius:6px;padding:14px 16px;background:var(--bg)}
+.el-prop{border:1px solid var(--line);border-radius:var(--r);padding:14px 16px;background:var(--bg)}
 .el-prop .el-mini{margin-top:0}
 .el-prop h4{font-family:var(--serif);font-weight:400;font-size:18px;margin:2px 0 6px}
 .el-prop h4 a{text-decoration:none}
@@ -43,7 +43,7 @@
 .el-prop p{margin:0}
 .el-tom{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:var(--gold);vertical-align:0}
 .el-tom.ok{background:var(--ok)}.el-tom.warn{background:var(--warn)}.el-tom.mute{background:var(--ink-3)}
-.el-veredito{border:1px solid var(--line);border-left:3px solid var(--gold);border-radius:6px;padding:16px 18px;background:var(--bg-2)}
+.el-veredito{border:1px solid var(--line);border-left:3px solid var(--gold);border-radius:var(--r);padding:16px 18px;background:var(--bg-2)}
 .el-veredito.ok{border-left-color:var(--ok)}.el-veredito.warn{border-left-color:var(--warn)}.el-veredito.mute{border-left-color:var(--ink-3)}
 .el-veredito .lab{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3);margin:0}
 .el-veredito h3{font-size:22px;margin:4px 0 6px}

@@ -5,12 +5,28 @@
  "norma": "Constituição da República Federativa do Brasil de 1988",
  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
  "urn": "urn:lex:br:federal:constituicao:1988-10-05;1988",
- "verificado_em": "2026-09-29T11:17:48+00:00",
+ "verificado_em": "2026-10-19T12:04:43+00:00",
  "fonte": "Planalto",
  "fonte_dados": "https://tchunarus.github.io/mapa-normativo/data/diplomas/cf.json",
- "capturado_em": "2026-09-29T12:14:39+00:00",
- "sha256": "c166325071dbfde860f581c1ab951af50864e698c4cc5ebeb0e533e7df486d86",
+ "capturado_em": "2026-10-19T12:57:36+00:00",
+ "sha256": "e50cfb6dbac207b1e158ec8c013e200f6110ddfb06e09800365f1ab398377840",
  "artigos": {
+  "101": {
+   "r": "Art. 101",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO III DO PODER JUDICIÁRIO › Seção II DO SUPREMO TRIBUNAL FEDERAL",
+   "l": [
+    [
+     "Art. 101. O Supremo Tribunal Federal compõe-se de onze Ministros, escolhidos dentre cidadãos com mais de trinta e cinco e menos de setenta anos de idade, de notável saber jurídico e reputação ilibada.",
+     "Redação dada pela Emenda Constitucional nº 122, de 2022"
+    ],
+    [
+     "Parágrafo único. Os Ministros do Supremo Tribunal Federal serão nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "d30e8a5e402d"
+  },
   "14": {
    "r": "Art. 14",
    "h": "TÍTULO II Dos Direitos e Garantias Fundamentais › CAPÍTULO IV DOS DIREITOS POLÍTICOS",
@@ -879,6 +895,102 @@
    "rev": false,
    "hash": "85e0cd7a8131"
   },
+  "163": {
+   "r": "Art. 163",
+   "h": "TÍTULO VI Da Tributação e do Orçamento › CAPÍTULO II DAS FINANÇAS PÚBLICAS › Seção I NORMAS GERAIS",
+   "l": [
+    [
+     "Art. 163. Lei complementar disporá sobre:",
+     ""
+    ],
+    [
+     "I - finanças públicas;",
+     ""
+    ],
+    [
+     "II - dívida pública externa e interna, incluída a das autarquias, fundações e demais entidades controladas pelo Poder Público;",
+     ""
+    ],
+    [
+     "III - concessão de garantias pelas entidades públicas;",
+     ""
+    ],
+    [
+     "IV - emissão e resgate de títulos da dívida pública;",
+     ""
+    ],
+    [
+     "V - fiscalização financeira da administração pública direta e indireta;",
+     "Redação dada pela Emenda Constitucional nº 40, de 2003"
+    ],
+    [
+     "VI - operações de câmbio realizadas por órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios;",
+     ""
+    ],
+    [
+     "VII - compatibilização das funções das instituições oficiais de crédito da União, resguardadas as características e condições operacionais plenas das voltadas ao desenvolvimento regional.",
+     ""
+    ],
+    [
+     "VIII - sustentabilidade da dívida, especificando:",
+     "Incluído pela Emenda Constitucional nº 109, de 2021"
+    ],
+    [
+     "a) indicadores de sua apuração;",
+     "Incluído pela Emenda Constitucional nº 109, de 2021"
+    ],
+    [
+     "b) níveis de compatibilidade dos resultados fiscais com a trajetória da dívida;",
+     "Incluído pela Emenda Constitucional nº 109, de 2021"
+    ],
+    [
+     "c) trajetória de convergência do montante da dívida com os limites definidos em legislação;",
+     "Incluído pela Emenda Constitucional nº 109, de 2021"
+    ],
+    [
+     "d) medidas de ajuste, suspensões e vedações;",
+     "Incluído pela Emenda Constitucional nº 109, de 2021"
+    ],
+    [
+     "e) planejamento de alienação de ativos com vistas à redução do montante da dívida.",
+     "Incluído pela Emenda Constitucional nº 109, de 2021"
+    ],
+    [
+     "IX - condições e limites para concessão, ampliação ou prorrogação de incentivo ou benefício de natureza tributária.",
+     "Incluído pela Emenda Constitucional nº 135, de 2024"
+    ],
+    [
+     "Parágrafo único. A lei complementar de que trata o inciso VIII do caput deste artigo pode autorizar a aplicação das vedações previstas no art. 167-A desta Constituição.",
+     "Incluído pela Emenda Constitucional nº 109, de 2021"
+    ]
+   ],
+   "rev": false,
+   "hash": "a356878ce9cf"
+  },
+  "164": {
+   "r": "Art. 164",
+   "h": "TÍTULO VI Da Tributação e do Orçamento › CAPÍTULO II DAS FINANÇAS PÚBLICAS › Seção I NORMAS GERAIS",
+   "l": [
+    [
+     "Art. 164. A competência da União para emitir moeda será exercida exclusivamente pelo banco central.",
+     ""
+    ],
+    [
+     "§ 1º É vedado ao banco central conceder, direta ou indiretamente, empréstimos ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira.",
+     ""
+    ],
+    [
+     "§ 2º O banco central poderá comprar e vender títulos de emissão do Tesouro Nacional, com o objetivo de regular a oferta de moeda ou a taxa de juros.",
+     ""
+    ],
+    [
+     "§ 3º As disponibilidades de caixa da União serão depositadas no banco central; as dos Estados, do Distrito Federal, dos Municípios e dos órgãos ou entidades do Poder Público e das empresas por ele controladas, em instituições financeiras oficiais, ressalvados os casos previstos em lei.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "e517aef0e14e"
+  },
   "165": {
    "r": "Art. 165",
    "h": "TÍTULO VI Da Tributação e do Orçamento › CAPÍTULO II DAS FINANÇAS PÚBLICAS › Seção II DOS ORÇAMENTOS",
@@ -1179,6 +1291,914 @@
    "rev": false,
    "hash": "a2ac33c84949"
   },
+  "169": {
+   "r": "Art. 169",
+   "h": "TÍTULO VI Da Tributação e do Orçamento › CAPÍTULO II DAS FINANÇAS PÚBLICAS › Seção II DOS ORÇAMENTOS",
+   "l": [
+    [
+     "Art. 169. A despesa com pessoal ativo e inativo e pensionistas da União, dos Estados, do Distrito Federal e dos Municípios não pode exceder os limites estabelecidos em lei complementar.",
+     "Redação dada pela Emenda Constitucional nº 109, de 2021"
+    ],
+    [
+     "§ 1º A concessão de qualquer vantagem ou aumento de remuneração, a criação de cargos, empregos e funções ou alteração de estrutura de carreiras, bem como a admissão ou contratação de pessoal, a qualquer título, pelos órgãos e entidades da administração direta ou indireta, inclusive fundações instituídas e mantidas pelo poder público, só poderão ser feitas:",
+     "Renumerado do parágrafo único, pela Emenda Constitucional nº 19, de 1998; Vide Emenda constitucional nº 106, de 2020"
+    ],
+    [
+     "I - se houver prévia dotação orçamentária suficiente para atender às projeções de despesa de pessoal e aos acréscimos dela decorrentes;",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "II - se houver autorização específica na lei de diretrizes orçamentárias, ressalvadas as empresas públicas e as sociedades de economia mista.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 2º Decorrido o prazo estabelecido na lei complementar referida neste artigo para a adaptação aos parâmetros ali previstos, serão imediatamente suspensos todos os repasses de verbas federais ou estaduais aos Estados, ao Distrito Federal e aos Municípios que não observarem os referidos limites.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 3º Para o cumprimento dos limites estabelecidos com base neste artigo, durante o prazo fixado na lei complementar referida no caput, a União, os Estados, o Distrito Federal e os Municípios adotarão as seguintes providências:",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "I - redução em pelo menos vinte por cento das despesas com cargos em comissão e funções de confiança;",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "II - exoneração dos servidores não estáveis.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998; Vide Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 4º Se as medidas adotadas com base no parágrafo anterior não forem suficientes para assegurar o cumprimento da determinação da lei complementar referida neste artigo, o servidor estável poderá perder o cargo, desde que ato normativo motivado de cada um dos Poderes especifique a atividade funcional, o órgão ou unidade administrativa objeto da redução de pessoal.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 5º O servidor que perder o cargo na forma do parágrafo anterior fará jus a indenização correspondente a um mês de remuneração por ano de serviço.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 6º O cargo objeto da redução prevista nos parágrafos anteriores será considerado extinto, vedada a criação de cargo, emprego ou função com atribuições iguais ou assemelhadas pelo prazo de quatro anos.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 7º Lei federal disporá sobre as normas gerais a serem obedecidas na efetivação do disposto no § 4º.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ]
+   ],
+   "rev": false,
+   "hash": "34b986ed1854"
+  },
+  "173": {
+   "r": "Art. 173",
+   "h": "TÍTULO VII Da Ordem Econômica e Financeira › CAPÍTULO I DOS PRINCÍPIOS GERAIS DA ATIVIDADE ECONÔMICA",
+   "l": [
+    [
+     "Art. 173. Ressalvados os casos previstos nesta Constituição, a exploração direta de atividade econômica pelo Estado só será permitida quando necessária aos imperativos da segurança nacional ou a relevante interesse coletivo, conforme definidos em lei.",
+     ""
+    ],
+    [
+     ".",
+     ""
+    ],
+    [
+     "§ 1º A lei estabelecerá o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços, dispondo sobre:",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "I - sua função social e formas de fiscalização pelo Estado e pela sociedade;",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "II - a sujeição ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários;",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "III - licitação e contratação de obras, serviços, compras e alienações, observados os princípios da administração pública;",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "IV - a constituição e o funcionamento dos conselhos de administração e fiscal, com a participação de acionistas minoritários;",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "V - os mandatos, a avaliação de desempenho e a responsabilidade dos administradores.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 2º As empresas públicas e as sociedades de economia mista não poderão gozar de privilégios fiscais não extensivos às do setor privado.",
+     ""
+    ],
+    [
+     "§ 3º A lei regulamentará as relações da empresa pública com o Estado e a sociedade.",
+     ""
+    ],
+    [
+     "§ 4º A lei reprimirá o abuso do poder econômico que vise à dominação dos mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros.",
+     ""
+    ],
+    [
+     "§ 5º A lei, sem prejuízo da responsabilidade individual dos dirigentes da pessoa jurídica, estabelecerá a responsabilidade desta, sujeitando-a às punições compatíveis com sua natureza, nos atos praticados contra a ordem econômica e financeira e contra a economia popular.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "f6dafcb6ad48"
+  },
+  "174": {
+   "r": "Art. 174",
+   "h": "TÍTULO VII Da Ordem Econômica e Financeira › CAPÍTULO I DOS PRINCÍPIOS GERAIS DA ATIVIDADE ECONÔMICA",
+   "l": [
+    [
+     "Art. 174. Como agente normativo e regulador da atividade econômica, o Estado exercerá, na forma da lei, as funções de fiscalização, incentivo e planejamento, sendo este determinante para o setor público e indicativo para o setor privado.",
+     "Vide Lei nº 13.874, de 2019"
+    ],
+    [
+     "§ 1º A lei estabelecerá as diretrizes e bases do planejamento do desenvolvimento nacional equilibrado, o qual incorporará e compatibilizará os planos nacionais e regionais de desenvolvimento.",
+     ""
+    ],
+    [
+     "§ 2º A lei apoiará e estimulará o cooperativismo e outras formas de associativismo.",
+     ""
+    ],
+    [
+     "§ 3º O Estado favorecerá a organização da atividade garimpeira em cooperativas, levando em conta a proteção do meio ambiente e a promoção econômico-social dos garimpeiros.",
+     ""
+    ],
+    [
+     "§ 4º As cooperativas a que se refere o parágrafo anterior terão prioridade na autorização ou concessão para pesquisa e lavra dos recursos e jazidas de minerais garimpáveis, nas áreas onde estejam atuando, e naquelas fixadas de acordo com o art. 21, XXV, na forma da lei.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "003003cd32ad"
+  },
+  "175": {
+   "r": "Art. 175",
+   "h": "TÍTULO VII Da Ordem Econômica e Financeira › CAPÍTULO I DOS PRINCÍPIOS GERAIS DA ATIVIDADE ECONÔMICA",
+   "l": [
+    [
+     "Art. 175. Incumbe ao Poder Público, na forma da lei, diretamente ou sob regime de concessão ou permissão, sempre através de licitação, a prestação de serviços públicos.",
+     ""
+    ],
+    [
+     "Parágrafo único. A lei disporá sobre:",
+     ""
+    ],
+    [
+     "I - o regime das empresas concessionárias e permissionárias de serviços públicos, o caráter especial de seu contrato e de sua prorrogação, bem como as condições de caducidade, fiscalização e rescisão da concessão ou permissão;",
+     ""
+    ],
+    [
+     "II - os direitos dos usuários;",
+     ""
+    ],
+    [
+     "III - política tarifária;",
+     ""
+    ],
+    [
+     "IV - a obrigação de manter serviço adequado.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "b920a55a7e89"
+  },
+  "177": {
+   "r": "Art. 177",
+   "h": "TÍTULO VII Da Ordem Econômica e Financeira › CAPÍTULO I DOS PRINCÍPIOS GERAIS DA ATIVIDADE ECONÔMICA",
+   "l": [
+    [
+     "Art. 177. Constituem monopólio da União:",
+     ""
+    ],
+    [
+     "I - a pesquisa e a lavra das jazidas de petróleo e gás natural e outros hidrocarbonetos fluidos;",
+     "Vide Emenda Constitucional nº 9, de 1995"
+    ],
+    [
+     "II - a refinação do petróleo nacional ou estrangeiro;",
+     ""
+    ],
+    [
+     "III - a importação e exportação dos produtos e derivados básicos resultantes das atividades previstas nos incisos anteriores;",
+     ""
+    ],
+    [
+     "IV - o transporte marítimo do petróleo bruto de origem nacional ou de derivados básicos de petróleo produzidos no País, bem assim o transporte, por meio de conduto, de petróleo bruto, seus derivados e gás natural de qualquer origem;",
+     ""
+    ],
+    [
+     "V - a pesquisa, a lavra, o enriquecimento, o reprocessamento, a industrialização e o comércio de minérios e minerais nucleares e seus derivados, com exceção dos radioisótopos cuja produção, comercialização e utilização poderão ser autorizadas sob regime de permissão, conforme as alíneas b e c do inciso XXIII do caput do art. 21 desta Constituição Federal.",
+     "Redação dada pela Emenda Constitucional nº 49, de 2006"
+    ],
+    [
+     "§ 1º A União poderá contratar com empresas estatais ou privadas a realização das atividades previstas nos incisos I a IV deste artigo observadas as condições estabelecidas em lei.",
+     "Redação dada pela Emenda Constitucional nº 9, de 1995; Vide Emenda Constitucional nº 9, de 1995"
+    ],
+    [
+     "§ 2º A lei a que se refere o § 1º disporá sobre:",
+     "Incluído pela Emenda Constitucional nº 9, de 1995; Vide Emenda Constitucional nº 9, de 1995"
+    ],
+    [
+     "I - a garantia do fornecimento dos derivados de petróleo em todo o território nacional;",
+     "Incluído pela Emenda Constitucional nº 9, de 1995"
+    ],
+    [
+     "II - as condições de contratação;",
+     "Incluído pela Emenda Constitucional nº 9, de 1995"
+    ],
+    [
+     "III - a estrutura e atribuições do órgão regulador do monopólio da União;",
+     "Incluído pela Emenda Constitucional nº 9, de 1995"
+    ],
+    [
+     "§ 3º A lei disporá sobre o transporte e a utilização de materiais radioativos no território nacional.",
+     "Renumerado de § 2º para 3º pela Emenda Constitucional nº 9, de 1995"
+    ],
+    [
+     "§ 4º A lei que instituir contribuição de intervenção no domínio econômico relativa às atividades de importação ou comercialização de petróleo e seus derivados, gás natural e seus derivados e álcool combustível deverá atender aos seguintes requisitos:",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "I - a alíquota da contribuição poderá ser:",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "a) diferenciada por produto ou uso;",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "b)reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o disposto no art. 150,III, b ;",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "II - os recursos arrecadados serão destinados:",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "a) ao pagamento de subsídios a preços ou transporte de álcool combustível, gás natural e seus derivados e derivados de petróleo;",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "b) ao financiamento de projetos ambientais relacionados com a indústria do petróleo e do gás;",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "c) ao financiamento de programas de infra-estrutura de transportes.",
+     "Incluído pela Emenda Constitucional nº 33, de 2001"
+    ],
+    [
+     "d) ao pagamento de subsídios a tarifas de transporte público coletivo de passageiros.",
+     "Incluído pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     ";",
+     ""
+    ],
+    [
+     ".",
+     ""
+    ],
+    [
+     "§ 3º",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "e2870a454cad"
+  },
+  "179": {
+   "r": "Art. 179",
+   "h": "TÍTULO VII Da Ordem Econômica e Financeira › CAPÍTULO I DOS PRINCÍPIOS GERAIS DA ATIVIDADE ECONÔMICA",
+   "l": [
+    [
+     "Art. 179. A União, os Estados, o Distrito Federal e os Municípios dispensarão às microempresas e às empresas de pequeno porte, assim definidas em lei, tratamento jurídico diferenciado, visando a incentivá-las pela simplificação de suas obrigações administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação ou redução destas por meio de lei.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "fcda8305d718"
+  },
+  "184": {
+   "r": "Art. 184",
+   "h": "TÍTULO VII Da Ordem Econômica e Financeira › CAPÍTULO III DA POLÍTICA AGRÍCOLA E FUNDIÁRIA E DA REFORMA AGRÁRIA Regulamento",
+   "l": [
+    [
+     "Art. 184. Compete à União desapropriar por interesse social, para fins de reforma agrária, o imóvel rural que não esteja cumprindo sua função social, mediante prévia e justa indenização em títulos da dívida agrária, com cláusula de preservação do valor real, resgatáveis no prazo de até vinte anos, a partir do segundo ano de sua emissão, e cuja utilização será definida em lei.",
+     ""
+    ],
+    [
+     "§ 1º As benfeitorias úteis e necessárias serão indenizadas em dinheiro.",
+     ""
+    ],
+    [
+     "§ 2º O decreto que declarar o imóvel como de interesse social, para fins de reforma agrária, autoriza a União a propor a ação de desapropriação.",
+     ""
+    ],
+    [
+     "§ 3º Cabe à lei complementar estabelecer procedimento contraditório especial, de rito sumário, para o processo judicial de desapropriação.",
+     ""
+    ],
+    [
+     "§ 4º O orçamento fixará anualmente o volume total de títulos da dívida agrária, assim como o montante de recursos para atender ao programa de reforma agrária no exercício.",
+     ""
+    ],
+    [
+     "§ 5º São isentas de impostos federais, estaduais e municipais as operações de transferência de imóveis desapropriados para fins de reforma agrária.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "80f4f5ad0f63"
+  },
+  "196": {
+   "r": "Art. 196",
+   "h": "TÍTULO VIII Da Ordem Social › CAPÍTULO II DA SEGURIDADE SOCIAL › Seção II DA SAÚDE",
+   "l": [
+    [
+     "Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "550b53643ca0"
+  },
+  "198": {
+   "r": "Art. 198",
+   "h": "TÍTULO VIII Da Ordem Social › CAPÍTULO II DA SEGURIDADE SOCIAL › Seção II DA SAÚDE",
+   "l": [
+    [
+     "Art. 198. As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único, organizado de acordo com as seguintes diretrizes:",
+     "Vide ADPF 672"
+    ],
+    [
+     "I - descentralização, com direção única em cada esfera de governo;",
+     ""
+    ],
+    [
+     "II - atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais;",
+     ""
+    ],
+    [
+     "III - participação da comunidade.",
+     ""
+    ],
+    [
+     "IV - atuação obrigatória e permanente de agentes comunitários de saúde e de agentes de combate às endemias, cuja atividade é essencial ao sistema único de saúde e exclusiva de Estado.",
+     "Incluído pela Emenda Constitucional nº 140, de 2026"
+    ],
+    [
+     "§ 1º. O sistema único de saúde será financiado, nos termos do art. 195, com recursos do orçamento da seguridade social, da União, dos Estados, do Distrito Federal e dos Municípios, além de outras fontes. (Parágrafo único renumerado para § 1º pela Emenda Constitucional nº 29, de 2000)",
+     ""
+    ],
+    [
+     "§ 2º A União, os Estados, o Distrito Federal e os Municípios aplicarão, anualmente, em ações e serviços públicos de saúde recursos mínimos derivados da aplicação de percentuais calculados sobre:",
+     "Incluído pela Emenda Constitucional nº 29, de 2000"
+    ],
+    [
+     "I - no caso da União, a receita corrente líquida do respectivo exercício financeiro, não podendo ser inferior a 15% (quinze por cento);",
+     "Redação dada pela Emenda Constitucional nº 86, de 2015"
+    ],
+    [
+     "II - no caso dos Estados e do Distrito Federal, o produto da arrecadação dos impostos a que se referem os arts. 155 e 156-A e dos recursos de que tratam os arts. 157 e 159, I, \"a\", e II, deduzidas as parcelas que forem transferidas aos respectivos Municípios;",
+     "Redação dada pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "III - no caso dos Municípios e do Distrito Federal, o produto da arrecadação dos impostos a que se referem os arts. 156 e 156-A e dos recursos de que tratam os arts. 158 e 159, I, \"b\", e § 3º.",
+     "Redação dada pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "§ 3º Lei complementar, que será reavaliada pelo menos a cada cinco anos, estabelecerá: Regulamento",
+     "Incluído pela Emenda Constitucional nº 29, de 2000"
+    ],
+    [
+     "I - os percentuais de que tratam os incisos II e III do § 2º;",
+     "Redação dada pela Emenda Constitucional nº 86, de 2015"
+    ],
+    [
+     "II - os critérios de rateio dos recursos da União vinculados à saúde destinados aos Estados, ao Distrito Federal e aos Municípios, e dos Estados destinados a seus respectivos Municípios, objetivando a progressiva redução das disparidades regionais;",
+     "Incluído pela Emenda Constitucional nº 29, de 2000"
+    ],
+    [
+     "III - as normas de fiscalização, avaliação e controle das despesas com saúde nas esferas federal, estadual, distrital e municipal;",
+     "Incluído pela Emenda Constitucional nº 29, de 2000"
+    ],
+    [
+     "IV - (revogado) .",
+     "Redação dada pela Emenda Constitucional nº 86, de 2015"
+    ],
+    [
+     "§ 4º Os gestores locais do sistema único de saúde poderão admitir agentes comunitários de saúde e agentes de combate às endemias por meio de processo seletivo público, de acordo com a natureza e complexidade de suas atribuições e requisitos específicos para sua atuação.",
+     "Incluído pela Emenda Constitucional nº 51, de 2006"
+    ],
+    [
+     "§ 4º-A. É vedada a contratação temporária ou terceirizada de agentes comunitários de saúde e de agentes de combate às endemias, salvo a hipótese de emergência em saúde pública, na forma da lei.",
+     "Incluído pela Emenda Constitucional nº 140, de 2026"
+    ],
+    [
+     "§ 4º-B. Os agentes de que trata o § 4º deste artigo submetem-se ao regime jurídico dos servidores nomeados para cargo de provimento efetivo.",
+     "Incluído pela Emenda Constitucional nº 140, de 2026"
+    ],
+    [
+     "§ 5º Lei federal disporá sobre o regime jurídico, o piso salarial profissional nacional, as diretrizes para os Planos de Carreira e a regulamentação das atividades de agente comunitário de saúde e agente de combate às endemias, competindo à União, nos termos da lei, prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios, para o cumprimento do referido piso salarial. Regulamento",
+     "Redação dada pela Emenda Constitucional nº 63, de 2010"
+    ],
+    [
+     "§ 6º Além das hipóteses previstas no § 1º do art. 41 e no § 4º do art. 169 da Constituição Federal, o servidor que exerça funções equivalentes às de agente comunitário de saúde ou de agente de combate às endemias poderá perder o cargo em caso de descumprimento dos requisitos específicos, fixados em lei, para o seu exercício.",
+     "Incluído pela Emenda Constitucional nº 51, de 2006"
+    ],
+    [
+     "§ 7º O vencimento dos agentes comunitários de saúde e dos agentes de combate às endemias fica sob responsabilidade da União, e cabe aos Estados, ao Distrito Federal e aos Municípios estabelecer, além de outros consectários e vantagens, incentivos, auxílios, gratificações e indenizações, a fim de valorizar o trabalho desses profissionais.",
+     "Incluído pela Emenda Constitucional nº 120, de 2022"
+    ],
+    [
+     "§ 8º Os recursos destinados ao pagamento do vencimento dos agentes comunitários de saúde e dos agentes de combate às endemias serão consignados no orçamento geral da União com dotação própria e exclusiva.",
+     "Incluído pela Emenda Constitucional nº 120, de 2022"
+    ],
+    [
+     "§ 9º O vencimento dos agentes comunitários de saúde e dos agentes de combate às endemias não será inferior a 2 (dois) salários mínimos, repassados pela União aos Municípios, aos Estados e ao Distrito Federal.",
+     "Incluído pela Emenda Constitucional nº 120, de 2022"
+    ],
+    [
+     "§ 10. Os agentes comunitários de saúde e os agentes de combate às endemias terão, em razão dos riscos inerentes às funções desempenhadas, direito à aposentadoria mediante requisitos diferenciados, na forma do § 5º-A do art. 40 e do § 8º-A do art. 201 desta Constituição, e ao adicional de insalubridade.",
+     "Redação dada pela Emenda Constitucional nº 140, de 2026"
+    ],
+    [
+     "§ 11. Os recursos financeiros repassados pela União aos Estados, ao Distrito Federal e aos Municípios para pagamento do vencimento ou de qualquer outra vantagem dos agentes comunitários de saúde e dos agentes de combate às endemias não serão objeto de inclusão no cálculo para fins do limite de despesa com pessoal.",
+     "Incluído pela Emenda Constitucional nº 120, de 2022"
+    ],
+    [
+     "§ 12. Lei federal instituirá pisos salariais profissionais nacionais para o enfermeiro, o técnico de enfermagem, o auxiliar de enfermagem e a parteira, a serem observados por pessoas jurídicas de direito público e de direito privado.",
+     "Incluído pela Emenda Constitucional nº 124, de 2022"
+    ],
+    [
+     "§ 13. A União, os Estados, o Distrito Federal e os Municípios, até o final do exercício financeiro em que for publicada a lei de que trata o § 12 deste artigo, adequarão a remuneração dos cargos ou dos respectivos planos de carreiras, quando houver, de modo a atender aos pisos estabelecidos para cada categoria profissional.",
+     "Incluído pela Emenda Constitucional nº 124, de 2022"
+    ],
+    [
+     "§ 14. Compete à União, nos termos da lei, prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios e às entidades filantrópicas, bem como aos prestadores de serviços contratualizados que atendam, no mínimo, 60% (sessenta por cento) de seus pacientes pelo sistema único de saúde, para o cumprimento dos pisos salariais de que trata o § 12 deste artigo.",
+     "Incluído pela Emenda Constitucional nº 127, de 2022"
+    ],
+    [
+     "§ 15. Os recursos federais destinados aos pagamentos da assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios e às entidades filantrópicas, bem como aos prestadores de serviços contratualizados que atendam, no mínimo, 60% (sessenta por cento) de seus pacientes pelo sistema único de saúde, para o cumprimento dos pisos salariais de que trata o § 12 deste artigo serão consignados no orçamento geral da União com dotação própria e exclusiva.",
+     "Incluído pela Emenda Constitucional nº 127, de 2022"
+    ]
+   ],
+   "rev": false,
+   "hash": "134813f4d75a"
+  },
+  "201": {
+   "r": "Art. 201",
+   "h": "TÍTULO VIII Da Ordem Social › CAPÍTULO II DA SEGURIDADE SOCIAL › Seção III DA PREVIDÊNCIA SOCIAL",
+   "l": [
+    [
+     "Art. 201. A previdência social será organizada sob a forma do Regime Geral de Previdência Social, de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial, e atenderá, na forma da lei, a:",
+     "Redação dada pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "I - cobertura dos eventos de incapacidade temporária ou permanente para o trabalho e idade avançada;",
+     "Redação dada pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "II - proteção à maternidade, especialmente à gestante;",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "III - proteção ao trabalhador em situação de desemprego involuntário;",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "IV - salário-família e auxílio-reclusão para os dependentes dos segurados de baixa renda;",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "V - pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, observado o disposto no § 2º.",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "§ 1º É vedada a adoção de requisitos ou critérios diferenciados para concessão de benefícios, ressalvada, nos termos de lei complementar, a possibilidade de previsão de idade e tempo de contribuição distintos da regra geral para concessão de aposentadoria exclusivamente em favor dos segurados:",
+     "Redação dada pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "I - com deficiência, previamente submetidos a avaliação biopsicossocial realizada por equipe multiprofissional e interdisciplinar;",
+     "Incluído pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "II - cujas atividades sejam exercidas com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes, vedada a caracterização por categoria profissional ou ocupação.",
+     "Incluído pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 2º Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salário mínimo.",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "§ 3º Todos os salários de contribuição considerados para o cálculo de benefício serão devidamente atualizados, na forma da lei.",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "§ 4º É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios definidos em lei.",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "§ 5º É vedada a filiação ao regime geral de previdência social, na qualidade de segurado facultativo, de pessoa participante de regime próprio de previdência.",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "§ 6º A gratificação natalina dos aposentados e pensionistas terá por base o valor dos proventos do mês de dezembro de cada ano.",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "§ 7º É assegurada aposentadoria no regime geral de previdência social, nos termos da lei, obedecidas as seguintes condições:",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "I - 65 (sessenta e cinco) anos de idade, se homem, e 62 (sessenta e dois) anos de idade, se mulher, observado tempo mínimo de contribuição;",
+     "Redação dada pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "II - 60 (sessenta) anos de idade, se homem, e 55 (cinquenta e cinco) anos de idade, se mulher, para os trabalhadores rurais e para os que exerçam suas atividades em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o pescador artesanal.",
+     "Redação dada pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 8º O requisito de idade a que se refere o inciso I do § 7º será reduzido em 5 (cinco) anos, para o professor que comprove tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio fixado em lei complementar.",
+     "Redação dada pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 8º-A. O requisito de idade a que se refere o inciso I do § 7º deste artigo será de 57 (cinquenta e sete) anos de idade, se mulher, e 60 (sessenta) anos de idade, se homem, para o agente comunitário de saúde e o agente de combate às endemias que comprovem o mínimo de 25 (vinte e cinco) anos de tempo de contribuição e de efetivo exercício na respectiva atividade profissional.",
+     "Incluído pela Emenda Constitucional nº 140, de 2026"
+    ],
+    [
+     "§ 9º Para fins de aposentadoria, será assegurada a contagem recíproca do tempo de contribuição entre o Regime Geral de Previdência Social e os regimes próprios de previdência social, e destes entre si, observada a compensação financeira, de acordo com os critérios estabelecidos em lei.",
+     "Redação dada pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 9º-A. O tempo de serviço militar exercido nas atividades de que tratam os arts. 42, 142 e 143 e o tempo de contribuição ao Regime Geral de Previdência Social ou a regime próprio de previdência social terão contagem recíproca para fins de inativação militar ou aposentadoria, e a compensação financeira será devida entre as receitas de contribuição referentes aos militares e as receitas de contribuição aos demais regimes.",
+     "Incluído pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 10. Lei complementar poderá disciplinar a cobertura de benefícios não programados, inclusive os decorrentes de acidente do trabalho, a ser atendida concorrentemente pelo Regime Geral de Previdência Social e pelo setor privado.",
+     "Redação dada pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 11. Os ganhos habituais do empregado, a qualquer título, serão incorporados ao salário para efeito de contribuição previdenciária e conseqüente repercussão em benefícios, nos casos e na forma da lei.",
+     "Incluído dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "§ 12. Lei instituirá sistema especial de inclusão previdenciária, com alíquotas diferenciadas, para atender aos trabalhadores de baixa renda, inclusive os que se encontram em situação de informalidade, e àqueles sem renda própria que se dediquem exclusivamente ao trabalho doméstico no âmbito de sua residência, desde que pertencentes a famílias de baixa renda.",
+     "Redação dada pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 13. A aposentadoria concedida ao segurado de que trata o § 12 terá valor de 1 (um) salário-mínimo.",
+     "Redação dada pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 14. É vedada a contagem de tempo de contribuição fictício para efeito de concessão dos benefícios previdenciários e de contagem recíproca.",
+     "Incluído pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 15. Lei complementar estabelecerá vedações, regras e condições para a acumulação de benefícios previdenciários.",
+     "Incluído pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 16. Os empregados dos consórcios públicos, das empresas públicas, das sociedades de economia mista e das suas subsidiárias serão aposentados compulsoriamente, observado o cumprimento do tempo mínimo de contribuição, ao atingir a idade máxima de que trata o inciso II do § 1º do art. 40, na forma estabelecida em lei.",
+     "Incluído pela Emenda Constitucional nº 103, de 2019"
+    ]
+   ],
+   "rev": false,
+   "hash": "aaab1fe5ae18"
+  },
+  "203": {
+   "r": "Art. 203",
+   "h": "TÍTULO VIII Da Ordem Social › CAPÍTULO II DA SEGURIDADE SOCIAL › Seção IV DA ASSISTÊNCIA SOCIAL",
+   "l": [
+    [
+     "Art. 203. A assistência social será prestada a quem dela necessitar, independentemente de contribuição à seguridade social, e tem por objetivos:",
+     ""
+    ],
+    [
+     "I - a proteção à família, à maternidade, à infância, à adolescência e à velhice;",
+     ""
+    ],
+    [
+     "II - o amparo às crianças e adolescentes carentes;",
+     ""
+    ],
+    [
+     "III - a promoção da integração ao mercado de trabalho;",
+     ""
+    ],
+    [
+     "IV - a habilitação e reabilitação das pessoas portadoras de deficiência e a promoção de sua integração à vida comunitária;",
+     ""
+    ],
+    [
+     "V - a garantia de um salário mínimo de benefício mensal à pessoa portadora de deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, conforme dispuser a lei.",
+     ""
+    ],
+    [
+     "VI - a redução da vulnerabilidade socioeconômica de famílias em situação de pobreza ou de extrema pobreza.",
+     "Incluído pela Emenda Constitucional nº 114, de 2021"
+    ]
+   ],
+   "rev": false,
+   "hash": "25874e5d0de6"
+  },
+  "206": {
+   "r": "Art. 206",
+   "h": "TÍTULO VIII Da Ordem Social › CAPÍTULO III DA EDUCAÇÃO, DA CULTURA E DO DESPORTO › Seção I DA EDUCAÇÃO",
+   "l": [
+    [
+     "Art. 206. O ensino será ministrado com base nos seguintes princípios:",
+     ""
+    ],
+    [
+     "I - igualdade de condições para o acesso e permanência na escola;",
+     ""
+    ],
+    [
+     "II - liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte e o saber;",
+     ""
+    ],
+    [
+     "III - pluralismo de idéias e de concepções pedagógicas, e coexistência de instituições públicas e privadas de ensino;",
+     ""
+    ],
+    [
+     "IV - gratuidade do ensino público em estabelecimentos oficiais;",
+     ""
+    ],
+    [
+     "V - valorização dos profissionais da educação escolar, garantidos, na forma da lei, planos de carreira, com ingresso exclusivamente por concurso público de provas e títulos, aos das redes públicas;",
+     "Redação dada pela Emenda Constitucional nº 53, de 2006; Vide Lei nº 14.817, de 2024"
+    ],
+    [
+     "VI - gestão democrática do ensino público, na forma da lei;",
+     ""
+    ],
+    [
+     "VII - garantia de padrão de qualidade.",
+     ""
+    ],
+    [
+     "VIII - piso salarial profissional nacional para os profissionais da educação escolar pública, nos termos de lei federal.",
+     "Incluído pela Emenda Constitucional nº 53, de 2006"
+    ],
+    [
+     "IX - garantia do direito à educação e à aprendizagem ao longo da vida.",
+     "Incluído pela Emenda Constitucional nº 108, de 2020"
+    ],
+    [
+     "Parágrafo único. A lei disporá sobre as categorias de trabalhadores considerados profissionais da educação básica e sobre a fixação de prazo para a elaboração ou adequação de seus planos de carreira, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.",
+     "Incluído pela Emenda Constitucional nº 53, de 2006"
+    ]
+   ],
+   "rev": false,
+   "hash": "d521a298a86b"
+  },
+  "21": {
+   "r": "Art. 21",
+   "h": "TÍTULO III Da Organização do Estado › CAPÍTULO II DA UNIÃO",
+   "l": [
+    [
+     "Art. 21. Compete à União:",
+     ""
+    ],
+    [
+     "I - manter relações com Estados estrangeiros e participar de organizações internacionais;",
+     ""
+    ],
+    [
+     "II - declarar a guerra e celebrar a paz;",
+     ""
+    ],
+    [
+     "III - assegurar a defesa nacional;",
+     ""
+    ],
+    [
+     "IV - permitir, nos casos previstos em lei complementar, que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente;",
+     ""
+    ],
+    [
+     "V - decretar o estado de sítio, o estado de defesa e a intervenção federal;",
+     ""
+    ],
+    [
+     "VI - autorizar e fiscalizar a produção e o comércio de material bélico;",
+     ""
+    ],
+    [
+     "VII - emitir moeda;",
+     ""
+    ],
+    [
+     "VIII - administrar as reservas cambiais do País e fiscalizar as operações de natureza financeira, especialmente as de crédito, câmbio e capitalização, bem como as de seguros e de previdência privada;",
+     ""
+    ],
+    [
+     "IX - elaborar e executar planos nacionais e regionais de ordenação do território e de desenvolvimento econômico e social;",
+     ""
+    ],
+    [
+     "X - manter o serviço postal e o correio aéreo nacional;",
+     ""
+    ],
+    [
+     "XI - explorar, diretamente ou mediante autorização, concessão ou permissão, os serviços de telecomunicações, nos termos da lei, que disporá sobre a organização dos serviços, a criação de um órgão regulador e outros aspectos institucionais;",
+     "Redação dada pela Emenda Constitucional nº 8, de 15/08/95:"
+    ],
+    [
+     "XII - explorar, diretamente ou mediante autorização, concessão ou permissão:",
+     ""
+    ],
+    [
+     "a) os serviços de radiodifusão sonora, e de sons e imagens;",
+     "Redação dada pela Emenda Constitucional nº 8, de 15/08/95:"
+    ],
+    [
+     "b) os serviços e instalações de energia elétrica e o aproveitamento energético dos cursos de água, em articulação com os Estados onde se situam os potenciais hidroenergéticos;",
+     ""
+    ],
+    [
+     "c) a navegação aérea, aeroespacial e a infra-estrutura aeroportuária;",
+     ""
+    ],
+    [
+     "d) os serviços de transporte ferroviário e aquaviário entre portos brasileiros e fronteiras nacionais, ou que transponham os limites de Estado ou Território;",
+     ""
+    ],
+    [
+     "e) os serviços de transporte rodoviário interestadual e internacional de passageiros;",
+     ""
+    ],
+    [
+     "f) os portos marítimos, fluviais e lacustres;",
+     ""
+    ],
+    [
+     "XIII - organizar e manter o Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios;",
+     "Redação dada pela Emenda Constitucional nº 69, de 2012; Produção de efeito"
+    ],
+    [
+     "XIV - organizar e manter a polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do Distrito Federal, bem como prestar assistência financeira ao Distrito Federal para a execução de serviços públicos, por meio de fundo próprio;",
+     "Redação dada pela Emenda Constitucional nº 104, de 2019"
+    ],
+    [
+     "XV - organizar e manter os serviços oficiais de estatística, geografia, geologia e cartografia de âmbito nacional;",
+     ""
+    ],
+    [
+     "XVI - exercer a classificação, para efeito indicativo, de diversões públicas e de programas de rádio e televisão;",
+     ""
+    ],
+    [
+     "XVII - conceder anistia;",
+     ""
+    ],
+    [
+     "XVIII - planejar e promover a defesa permanente contra as calamidades públicas, especialmente as secas e as inundações;",
+     ""
+    ],
+    [
+     "XIX - instituir sistema nacional de gerenciamento de recursos hídricos e definir critérios de outorga de direitos de seu uso; ( Regulamento )",
+     ""
+    ],
+    [
+     "XX - instituir diretrizes para o desenvolvimento urbano, inclusive habitação, saneamento básico e transportes urbanos;",
+     ""
+    ],
+    [
+     "XXI - estabelecer princípios e diretrizes para o sistema nacional de viação;",
+     ""
+    ],
+    [
+     "XXII - executar os serviços de polícia marítima, aeroportuária e de fronteiras;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "XXIII - explorar os serviços e instalações nucleares de qualquer natureza e exercer monopólio estatal sobre a pesquisa, a lavra, o enriquecimento e reprocessamento, a industrialização e o comércio de minérios nucleares e seus derivados, atendidos os seguintes princípios e condições:",
+     ""
+    ],
+    [
+     "a) toda atividade nuclear em território nacional somente será admitida para fins pacíficos e mediante aprovação do Congresso Nacional;",
+     ""
+    ],
+    [
+     "b) sob regime de permissão, são autorizadas a comercialização e a utilização de radioisótopos para pesquisa e uso agrícolas e industriais;",
+     "Redação dada pela Emenda Constitucional nº 118, de 2022"
+    ],
+    [
+     "c) sob regime de permissão, são autorizadas a produção, a comercialização e a utilização de radioisótopos para pesquisa e uso médicos;",
+     "Redação dada pela Emenda Constitucional nº 118, de 2022"
+    ],
+    [
+     "d) a responsabilidade civil por danos nucleares independe da existência de culpa;",
+     "Incluída pela Emenda Constitucional nº 49, de 2006"
+    ],
+    [
+     "XXIV - organizar, manter e executar a inspeção do trabalho;",
+     ""
+    ],
+    [
+     "XXV - estabelecer as áreas e as condições para o exercício da atividade de garimpagem, em forma associativa.",
+     ""
+    ],
+    [
+     "XXVI - organizar e fiscalizar a proteção e o tratamento de dados pessoais, nos termos da lei.",
+     "Incluído pela Emenda Constitucional nº 115, de 2022"
+    ]
+   ],
+   "rev": false,
+   "hash": "1ef86eadce60"
+  },
+  "211": {
+   "r": "Art. 211",
+   "h": "TÍTULO VIII Da Ordem Social › CAPÍTULO III DA EDUCAÇÃO, DA CULTURA E DO DESPORTO › Seção I DA EDUCAÇÃO",
+   "l": [
+    [
+     "Art. 211. A União, os Estados, o Distrito Federal e os Municípios organizarão em regime de colaboração seus sistemas de ensino.",
+     ""
+    ],
+    [
+     "§ 1º A União organizará o sistema federal de ensino e o dos Territórios, financiará as instituições de ensino públicas federais e exercerá, em matéria educacional, função redistributiva e supletiva, de forma a garantir equalização de oportunidades educacionais e padrão mínimo de qualidade do ensino mediante assistência técnica e financeira aos Estados, ao Distrito Federal e aos Municípios;",
+     "Redação dada pela Emenda Constitucional nº 14, de 1996"
+    ],
+    [
+     "§ 2º Os Municípios atuarão prioritariamente no ensino fundamental e na educação infantil.",
+     "Redação dada pela Emenda Constitucional nº 14, de 1996"
+    ],
+    [
+     "§ 3º Os Estados e o Distrito Federal atuarão prioritariamente no ensino fundamental e médio.",
+     "Incluído pela Emenda Constitucional nº 14, de 1996"
+    ],
+    [
+     "§ 4º Na organização de seus sistemas de ensino, a União, os Estados, o Distrito Federal e os Municípios definirão formas de colaboração, de forma a assegurar a universalização, a qualidade e a equidade do ensino obrigatório.",
+     "Redação dada pela Emenda Constitucional nº 108, de 2020"
+    ],
+    [
+     "§ 5º A educação básica pública atenderá prioritariamente ao ensino regular.",
+     "Incluído pela Emenda Constitucional nº 53, de 2006"
+    ],
+    [
+     "§ 6º A União, os Estados, o Distrito Federal e os Municípios exercerão ação redistributiva em relação a suas escolas.",
+     "Incluído pela Emenda Constitucional nº 108, de 2020"
+    ],
+    [
+     "§ 7º O padrão mínimo de qualidade de que trata o § 1º deste artigo considerará as condições adequadas de oferta e terá como referência o Custo Aluno Qualidade (CAQ), pactuados em regime de colaboração na forma disposta em lei complementar, conforme o parágrafo único do art. 23 desta Constituição.",
+     "Incluído pela Emenda Constitucional nº 108, de 2020"
+    ]
+   ],
+   "rev": false,
+   "hash": "439b7ffe28e8"
+  },
+  "212": {
+   "r": "Art. 212",
+   "h": "TÍTULO VIII Da Ordem Social › CAPÍTULO III DA EDUCAÇÃO, DA CULTURA E DO DESPORTO › Seção I DA EDUCAÇÃO",
+   "l": [
+    [
+     "Art. 212. A União aplicará, anualmente, nunca menos de dezoito, e os Estados, o Distrito Federal e os Municípios vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino.",
+     ""
+    ],
+    [
+     "§ 1º A parcela da arrecadação de impostos transferida pela União aos Estados, ao Distrito Federal e aos Municípios, ou pelos Estados aos respectivos Municípios, não é considerada, para efeito do cálculo previsto neste artigo, receita do governo que a transferir.",
+     ""
+    ],
+    [
+     "§ 2º Para efeito do cumprimento do disposto no \"caput\" deste artigo, serão considerados os sistemas de ensino federal, estadual e municipal e os recursos aplicados na forma do art. 213.",
+     ""
+    ],
+    [
+     "§ 3º A distribuição dos recursos públicos assegurará prioridade ao atendimento das necessidades do ensino obrigatório, no que se refere a universalização, garantia de padrão de qualidade e equidade, nos termos do plano nacional de educação.",
+     "Redação dada pela Emenda Constitucional nº 59, de 2009"
+    ],
+    [
+     "§ 4º Os programas suplementares de alimentação e assistência à saúde previstos no art. 208, VII, serão financiados com recursos provenientes de contribuições sociais e outros recursos orçamentários.",
+     ""
+    ],
+    [
+     "§ 5º A educação básica pública terá como fonte adicional de financiamento a contribuição social do salário-educação, recolhida pelas empresas na forma da lei.",
+     "Redação dada pela Emenda Constitucional nº 53, de 2006; Vide Decreto nº 6.003, de 2006"
+    ],
+    [
+     "§ 6º As cotas estaduais e municipais da arrecadação da contribuição social do salário-educação serão distribuídas proporcionalmente ao número de alunos matriculados na educação básica nas respectivas redes públicas de ensino.",
+     "Incluído pela Emenda Constitucional nº 53, de 2006"
+    ],
+    [
+     "§ 7º É vedado o uso dos recursos referidos no caput e nos §§ 5º e 6º deste artigo para pagamento de aposentadorias e de pensões.",
+     "Incluído pela Emenda Constitucional nº 108, de 2020"
+    ],
+    [
+     "§ 8º Na hipótese de extinção ou de substituição de impostos, serão redefinidos os percentuais referidos no caput deste artigo e no inciso II do caput do art. 212-A, de modo que resultem recursos vinculados à manutenção e ao desenvolvimento do ensino, bem como os recursos subvinculados aos fundos de que trata o art. 212-A desta Constituição, em aplicações equivalentes às anteriormente praticadas.",
+     "Incluído pela Emenda Constitucional nº 108, de 2020"
+    ],
+    [
+     "§ 9º A lei disporá sobre normas de fiscalização, de avaliação e de controle das despesas com educação nas esferas estadual, distrital e municipal.",
+     "Incluído pela Emenda Constitucional nº 108, de 2020"
+    ]
+   ],
+   "rev": false,
+   "hash": "4d797b4a21c3"
+  },
   "22": {
    "r": "Art. 22",
    "h": "TÍTULO III Da Organização do Estado › CAPÍTULO II DA UNIÃO",
@@ -1315,6 +2335,90 @@
    "rev": false,
    "hash": "2225e31e6c81"
   },
+  "225": {
+   "r": "Art. 225",
+   "h": "TÍTULO VIII Da Ordem Social › CAPÍTULO VI DO MEIO AMBIENTE",
+   "l": [
+    [
+     "Art. 225. Todos têm direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao Poder Público e à coletividade o dever de defendê-lo e preservá- lo para as presentes e futuras gerações.",
+     ""
+    ],
+    [
+     "§ 1º Para assegurar a efetividade desse direito, incumbe ao Poder Público:",
+     ""
+    ],
+    [
+     "I - preservar e restaurar os processos ecológicos essenciais e prover o manejo ecológico das espécies e ecossistemas;",
+     "Regulamento"
+    ],
+    [
+     "II - preservar a diversidade e a integridade do patrimônio genético do País e fiscalizar as entidades dedicadas à pesquisa e manipulação de material genético;",
+     "Regulamento; Regulamento; Regulamento; Regulamento"
+    ],
+    [
+     "III - definir, em todas as unidades da Federação, espaços territoriais e seus componentes a serem especialmente protegidos, sendo a alteração e a supressão permitidas somente através de lei, vedada qualquer utilização que comprometa a integridade dos atributos que justifiquem sua proteção;",
+     "Regulamento"
+    ],
+    [
+     "IV - exigir, na forma da lei, para instalação de obra ou atividade potencialmente causadora de significativa degradação do meio ambiente, estudo prévio de impacto ambiental, a que se dará publicidade;",
+     "Regulamento"
+    ],
+    [
+     "V - controlar a produção, a comercialização e o emprego de técnicas, métodos e substâncias que comportem risco para a vida, a qualidade de vida e o meio ambiente;",
+     "Regulamento"
+    ],
+    [
+     "VI - promover a educação ambiental em todos os níveis de ensino e a conscientização pública para a preservação do meio ambiente;",
+     ""
+    ],
+    [
+     "VII - proteger a fauna e a flora, vedadas, na forma da lei, as práticas que coloquem em risco sua função ecológica, provoquem a extinção de espécies ou submetam os animais a crueldade.",
+     "Regulamento"
+    ],
+    [
+     "VIII - manter regime fiscal favorecido para os biocombustíveis e para o hidrogênio de baixa emissão de carbono, na forma de lei complementar, a fim de assegurar-lhes tributação inferior à incidente sobre os combustíveis fósseis, capaz de garantir diferencial competitivo em relação a estes, especialmente em relação às contribuições de que tratam o art. 195, I, \"b\", IV e V, e o art. 239 e aos impostos a que se referem os arts. 155, II, e 156-A.",
+     "Redação dada pela Emenda Constitucional nº 132, de 2023"
+    ],
+    [
+     "§ 2º Aquele que explorar recursos minerais fica obrigado a recuperar o meio ambiente degradado, de acordo com solução técnica exigida pelo órgão público competente, na forma da lei.",
+     ""
+    ],
+    [
+     "§ 3º As condutas e atividades consideradas lesivas ao meio ambiente sujeitarão os infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas, independentemente da obrigação de reparar os danos causados.",
+     ""
+    ],
+    [
+     "§ 4º A Floresta Amazônica brasileira, a Mata Atlântica, a Serra do Mar, o Pantanal Mato-Grossense e a Zona Costeira são patrimônio nacional, e sua utilização far-se-á, na forma da lei, dentro de condições que assegurem a preservação do meio ambiente, inclusive quanto ao uso dos recursos naturais.",
+     "Regulamento; Regulamento"
+    ],
+    [
+     "§ 5º São indisponíveis as terras devolutas ou arrecadadas pelos Estados, por ações discriminatórias, necessárias à proteção dos ecossistemas naturais.",
+     ""
+    ],
+    [
+     "§ 6º As usinas que operem com reator nuclear deverão ter sua localização definida em lei federal, sem o que não poderão ser instaladas.",
+     ""
+    ],
+    [
+     "§ 7º Para fins do disposto na parte final do inciso VII do § 1º deste artigo, não se consideram cruéis as práticas desportivas que utilizem animais, desde que sejam manifestações culturais, conforme o § 1º do art. 215 desta Constituição Federal, registradas como bem de natureza imaterial integrante do patrimônio cultural brasileiro, devendo ser regulamentadas por lei específica que assegure o bem-estar dos animais envolvidos.",
+     "Incluído pela Emenda Constitucional nº 96, de 2017"
+    ]
+   ],
+   "rev": false,
+   "hash": "708063d67082"
+  },
+  "228": {
+   "r": "Art. 228",
+   "h": "TÍTULO VIII Da Ordem Social › CAPÍTULO VII Da Família, da Criança, do Adolescente, do Jovem e do Idoso",
+   "l": [
+    [
+     "Art. 228. São penalmente inimputáveis os menores de dezoito anos, sujeitos às normas da legislação especial.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "9a998337652e"
+  },
   "23": {
    "r": "Art. 23",
    "h": "TÍTULO III Da Organização do Estado › CAPÍTULO II DA UNIÃO",
@@ -1378,6 +2482,46 @@
    ],
    "rev": false,
    "hash": "edca82c3673c"
+  },
+  "231": {
+   "r": "Art. 231",
+   "h": "TÍTULO VIII Da Ordem Social › CAPÍTULO VIII DOS ÍNDIOS",
+   "l": [
+    [
+     "Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens. Regulamento",
+     ""
+    ],
+    [
+     "§ 1º São terras tradicionalmente ocupadas pelos índios as por eles habitadas em caráter permanente, as utilizadas para suas atividades produtivas, as imprescindíveis à preservação dos recursos ambientais necessários a seu bem-estar e as necessárias a sua reprodução física e cultural, segundo seus usos, costumes e tradições.",
+     ""
+    ],
+    [
+     "§ 2º As terras tradicionalmente ocupadas pelos índios destinam-se a sua posse permanente, cabendo-lhes o usufruto exclusivo das riquezas do solo, dos rios e dos lagos nelas existentes.",
+     ""
+    ],
+    [
+     "§ 3º O aproveitamento dos recursos hídricos, incluídos os potenciais energéticos, a pesquisa e a lavra das riquezas minerais em terras indígenas só podem ser efetivados com autorização do Congresso Nacional, ouvidas as comunidades afetadas, ficando-lhes assegurada participação nos resultados da lavra, na forma da lei.",
+     ""
+    ],
+    [
+     "§ 4º As terras de que trata este artigo são inalienáveis e indisponíveis, e os direitos sobre elas, imprescritíveis.",
+     ""
+    ],
+    [
+     "§ 5º É vedada a remoção dos grupos indígenas de suas terras, salvo, \"ad referendum\" do Congresso Nacional, em caso de catástrofe ou epidemia que ponha em risco sua população, ou no interesse da soberania do País, após deliberação do Congresso Nacional, garantido, em qualquer hipótese, o retorno imediato logo que cesse o risco.",
+     ""
+    ],
+    [
+     "§ 6º São nulos e extintos, não produzindo efeitos jurídicos, os atos que tenham por objeto a ocupação, o domínio e a posse das terras a que se refere este artigo, ou a exploração das riquezas naturais do solo, dos rios e dos lagos nelas existentes, ressalvado relevante interesse público da União, segundo o que dispuser lei complementar, não gerando a nulidade e a extinção direito a indenização ou a ações contra a União, salvo, na forma da lei, quanto às benfeitorias derivadas da ocupação de boa fé.",
+     ""
+    ],
+    [
+     "§ 7º Não se aplica às terras indígenas o disposto no art. 174, § 3º e § 4º.",
+     ""
+    ]
+   ],
+   "rev": false,
+   "hash": "ad4a1dcef086"
   },
   "24": {
    "r": "Art. 24",
@@ -1779,6 +2923,206 @@
    "rev": false,
    "hash": "f0f603ed985d"
   },
+  "37": {
+   "r": "Art. 37",
+   "h": "TÍTULO III Da Organização do Estado › CAPÍTULO VII DA ADMINISTRAÇÃO PÚBLICA › Seção I DISPOSIÇÕES GERAIS",
+   "l": [
+    [
+     "Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "I - os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "II - a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "III - o prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período;",
+     ""
+    ],
+    [
+     "IV - durante o prazo improrrogável previsto no edital de convocação, aquele aprovado em concurso público de provas ou de provas e títulos será convocado com prioridade sobre novos concursados para assumir cargo ou emprego, na carreira;",
+     ""
+    ],
+    [
+     "V - as funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "VI - é garantido ao servidor público civil o direito à livre associação sindical;",
+     ""
+    ],
+    [
+     "VII - o direito de greve será exercido nos termos e nos limites definidos em lei específica;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "VIII - a lei reservará percentual dos cargos e empregos públicos para as pessoas portadoras de deficiência e definirá os critérios de sua admissão;",
+     ""
+    ],
+    [
+     "IX - a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público;",
+     "Vide Emenda constitucional nº 106, de 2020"
+    ],
+    [
+     "X - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998; Regulamento"
+    ],
+    [
+     "XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, aplicando-se como limite, nos Municípios, o subsídio do Prefeito, e nos Estados e no Distrito Federal, o subsídio mensal do Governador no âmbito do Poder Executivo, o subsídio dos Deputados Estaduais e Distritais no âmbito do Poder Legislativo e o subsídio dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, no âmbito do Poder Judiciário, aplicável este limite aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos;",
+     "Redação dada pela Emenda Constitucional nº 41, 19.12.2003"
+    ],
+    [
+     "XII - os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo Poder Executivo;",
+     ""
+    ],
+    [
+     "XIII - é vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "XIV - os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "XV - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "XVI - é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, observado em qualquer caso o disposto no inciso XI:",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "a) a de dois cargos de professor;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "b) a de um cargo de professor com outro de qualquer natureza;",
+     "Redação dada pela Emenda Constitucional nº 138, de 2025"
+    ],
+    [
+     "c) a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas;",
+     "Redação dada pela Emenda Constitucional nº 34, de 2001"
+    ],
+    [
+     "XVII - a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "XVIII - a administração fazendária e seus servidores fiscais terão, dentro de suas áreas de competência e jurisdição, precedência sobre os demais setores administrativos, na forma da lei;",
+     ""
+    ],
+    [
+     "XIX - somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "XX - depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada;",
+     ""
+    ],
+    [
+     "XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações.",
+     "Regulamento"
+    ],
+    [
+     "XXII - as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, terão recursos prioritários para a realização de suas atividades e atuarão de forma integrada, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio.",
+     "Incluído pela Emenda Constitucional nº 42, de 19.12.2003"
+    ],
+    [
+     "§ 1º A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos.",
+     ""
+    ],
+    [
+     "§ 2º A não observância do disposto nos incisos II e III implicará a nulidade do ato e a punição da autoridade responsável, nos termos da lei.",
+     ""
+    ],
+    [
+     "§ 3º A lei disciplinará as formas de participação do usuário na administração pública direta e indireta, regulando especialmente:",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "I - as reclamações relativas à prestação dos serviços públicos em geral, asseguradas a manutenção de serviços de atendimento ao usuário e a avaliação periódica, externa e interna, da qualidade dos serviços;",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "II - o acesso dos usuários a registros administrativos e a informações sobre atos de governo, observado o disposto no art. 5º, X e XXXIII;",
+     "Incluído pela Emenda Constitucional nº 19, de 1998; Vide Lei nº 12.527, de 2011"
+    ],
+    [
+     "III - a disciplina da representação contra o exercício negligente ou abusivo de cargo, emprego ou função na administração pública.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 4º Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível.",
+     ""
+    ],
+    [
+     "§ 5º A lei estabelecerá os prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízos ao erário, ressalvadas as respectivas ações de ressarcimento.",
+     ""
+    ],
+    [
+     "§ 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.",
+     ""
+    ],
+    [
+     "§ 7º A lei disporá sobre os requisitos e as restrições ao ocupante de cargo ou emprego da administração direta e indireta que possibilite o acesso a informações privilegiadas.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 8º A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por objeto a fixação de metas de desempenho para o órgão ou entidade, cabendo à lei dispor sobre:",
+     "Incluído pela Emenda Constitucional nº 19, de 1998; Regulamento; Vigência"
+    ],
+    [
+     "I - o prazo de duração do contrato;",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "II - os controles e critérios de avaliação de desempenho, direitos, obrigações e responsabilidade dos dirigentes;",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "III - a remuneração do pessoal.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 9º O disposto no inciso XI aplica-se às empresas públicas e às sociedades de economia mista, e suas subsidiárias, que receberem recursos da União, dos Estados, do Distrito Federal ou dos Municípios para pagamento de despesas de pessoal ou de custeio em geral.",
+     "Incluído pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "§ 10. É vedada a percepção simultânea de proventos de aposentadoria decorrentes do art. 40 ou dos arts. 42 e 142 com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma desta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração.",
+     "Incluído pela Emenda Constitucional nº 20, de 1998; Vide Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "§ 11. Não serão computadas, para efeito dos limites remuneratórios de que trata o inciso XI do caput deste artigo, as parcelas de caráter indenizatório expressamente previstas em lei ordinária, aprovada pelo Congresso Nacional, de caráter nacional, aplicada a todos os Poderes e órgãos constitucionalmente autônomos.",
+     "Redação dada pela Emenda Constitucional nº 135, de 2024"
+    ],
+    [
+     "§ 12. Para os fins do disposto no inciso XI do caput deste artigo, fica facultado aos Estados e ao Distrito Federal fixar, em seu âmbito, mediante emenda às respectivas Constituições e Lei Orgânica, como limite único, o subsídio mensal dos Desembargadores do respectivo Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal dos Ministros do Supremo Tribunal Federal, não se aplicando o disposto neste parágrafo aos subsídios dos Deputados Estaduais e Distritais e dos Vereadores.",
+     "Incluído pela Emenda Constitucional nº 47, de 2005"
+    ],
+    [
+     "§ 13. O servidor público titular de cargo efetivo poderá ser readaptado para exercício de cargo cujas atribuições e responsabilidades sejam compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, enquanto permanecer nesta condição, desde que possua a habilitação e o nível de escolaridade exigidos para o cargo de destino, mantida a remuneração do cargo de origem.",
+     "Incluído pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 14. A aposentadoria concedida com a utilização de tempo de contribuição decorrente de cargo, emprego ou função pública, inclusive do Regime Geral de Previdência Social, acarretará o rompimento do vínculo que gerou o referido tempo de contribuição.",
+     "Incluído pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 15. É vedada a complementação de aposentadorias de servidores públicos e de pensões por morte a seus dependentes que não seja decorrente do disposto nos §§ 14 a 16 do art. 40 ou que não seja prevista em lei que extinga regime próprio de previdência social.",
+     "Incluído pela Emenda Constitucional nº 103, de 2019"
+    ],
+    [
+     "§ 16. Os órgãos e entidades da administração pública, individual ou conjuntamente, devem realizar avaliação das políticas públicas, inclusive com divulgação do objeto a ser avaliado e dos resultados alcançados, na forma da lei.",
+     "Incluído pela Emenda Constitucional nº 109, de 2021"
+    ]
+   ],
+   "rev": false,
+   "hash": "186f2c9925cd"
+  },
   "44": {
    "r": "Art. 44",
    "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção I DO CONGRESSO NACIONAL",
@@ -1922,6 +3266,90 @@
    ],
    "rev": false,
    "hash": "bf3328cd5331"
+  },
+  "49": {
+   "r": "Art. 49",
+   "h": "TÍTULO IV DA ORGANIZAÇÃO DOS PODERES › CAPÍTULO I DO PODER LEGISLATIVO › Seção II DAS ATRIBUIÇÕES DO CONGRESSO NACIONAL",
+   "l": [
+    [
+     "Art. 49. É da competência exclusiva do Congresso Nacional:",
+     ""
+    ],
+    [
+     "I - resolver definitivamente sobre tratados, acordos ou atos internacionais que acarretem encargos ou compromissos gravosos ao patrimônio nacional;",
+     ""
+    ],
+    [
+     "II - autorizar o Presidente da República a declarar guerra, a celebrar a paz, a permitir que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente, ressalvados os casos previstos em lei complementar;",
+     ""
+    ],
+    [
+     "III - autorizar o Presidente e o Vice-Presidente da República a se ausentarem do País, quando a ausência exceder a quinze dias;",
+     ""
+    ],
+    [
+     "IV - aprovar o estado de defesa e a intervenção federal, autorizar o estado de sítio, ou suspender qualquer uma dessas medidas;",
+     ""
+    ],
+    [
+     "V - sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa;",
+     ""
+    ],
+    [
+     "VI - mudar temporariamente sua sede;",
+     ""
+    ],
+    [
+     "VII - fixar idêntico subsídio para os Deputados Federais e os Senadores, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "VIII - fixar os subsídios do Presidente e do Vice-Presidente da República e dos Ministros de Estado, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I;",
+     "Redação dada pela Emenda Constitucional nº 19, de 1998"
+    ],
+    [
+     "IX - julgar anualmente as contas prestadas pelo Presidente da República e apreciar os relatórios sobre a execução dos planos de governo;",
+     ""
+    ],
+    [
+     "X - fiscalizar e controlar, diretamente, ou por qualquer de suas Casas, os atos do Poder Executivo, incluídos os da administração indireta;",
+     ""
+    ],
+    [
+     "XI - zelar pela preservação de sua competência legislativa em face da atribuição normativa dos outros Poderes;",
+     ""
+    ],
+    [
+     "XII - apreciar os atos de concessão e renovação de concessão de emissoras de rádio e televisão;",
+     ""
+    ],
+    [
+     "XIII - escolher dois terços dos membros do Tribunal de Contas da União;",
+     ""
+    ],
+    [
+     "XIV - aprovar iniciativas do Poder Executivo referentes a atividades nucleares;",
+     ""
+    ],
+    [
+     "XV - autorizar referendo e convocar plebiscito;",
+     ""
+    ],
+    [
+     "XVI - autorizar, em terras indígenas, a exploração e o aproveitamento de recursos hídricos e a pesquisa e lavra de riquezas minerais;",
+     ""
+    ],
+    [
+     "XVII - aprovar, previamente, a alienação ou concessão de terras públicas com área superior a dois mil e quinhentos hectares.",
+     ""
+    ],
+    [
+     "XVIII - decretar o estado de calamidade pública de âmbito nacional previsto nos arts. 167-B, 167-C, 167-D, 167-E, 167-F e 167-G desta Constituição.",
+     "Incluído pela Emenda Constitucional nº 109, de 2021"
+    ]
+   ],
+   "rev": false,
+   "hash": "c18e0d04381d"
   },
   "51": {
    "r": "Art. 51",
@@ -2098,6 +3526,22 @@
    ],
    "rev": false,
    "hash": "e81b983e104f"
+  },
+  "6": {
+   "r": "Art. 6º",
+   "h": "TÍTULO II Dos Direitos e Garantias Fundamentais › CAPÍTULO II DOS DIREITOS SOCIAIS",
+   "l": [
+    [
+     "Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.",
+     "Redação dada pela Emenda Constitucional nº 90, de 2015"
+    ],
+    [
+     "Parágrafo único. Todo brasileiro em situação de vulnerabilidade social terá direito a uma renda básica familiar, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária.",
+     "Incluído pela Emenda Constitucional nº 114, de 2021; Vide Lei nº 14.601, de 2023"
+    ]
+   ],
+   "rev": false,
+   "hash": "4990ca88c445"
   },
   "60": {
    "r": "Art. 60",
@@ -2398,6 +3842,186 @@
    ],
    "rev": false,
    "hash": "3690a9984abd"
+  },
+  "7": {
+   "r": "Art. 7º",
+   "h": "TÍTULO II Dos Direitos e Garantias Fundamentais › CAPÍTULO II DOS DIREITOS SOCIAIS",
+   "l": [
+    [
+     "Art. 7º São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:",
+     ""
+    ],
+    [
+     "I - relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos;",
+     ""
+    ],
+    [
+     "II - seguro-desemprego, em caso de desemprego involuntário;",
+     ""
+    ],
+    [
+     "III - fundo de garantia do tempo de serviço;",
+     ""
+    ],
+    [
+     "IV - salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim;",
+     ""
+    ],
+    [
+     "V - piso salarial proporcional à extensão e à complexidade do trabalho;",
+     ""
+    ],
+    [
+     "VI - irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo;",
+     ""
+    ],
+    [
+     "VII - garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável;",
+     ""
+    ],
+    [
+     "VIII - décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria;",
+     ""
+    ],
+    [
+     "IX - remuneração do trabalho noturno superior à do diurno;",
+     ""
+    ],
+    [
+     "X - proteção do salário na forma da lei, constituindo crime sua retenção dolosa;",
+     ""
+    ],
+    [
+     "XI - participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei;",
+     ""
+    ],
+    [
+     "XII - salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei;",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "XIII - duração do trabalho normal não superior a 8 (oito) horas diárias e 40 (quarenta) horas semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho;",
+     "Redação dada pela Emenda Constitucional nº 141, de 2026"
+    ],
+    [
+     "XIV - jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva;",
+     ""
+    ],
+    [
+     "XV - repouso semanal remunerado, preferencialmente aos domingos;",
+     "Vide Emenda Constitucional nº 141, de 2026; Vigência"
+    ],
+    [
+     "XVI - remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal;",
+     "Vide Del 5.452, art. 59 § 1º"
+    ],
+    [
+     "XVII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal;",
+     ""
+    ],
+    [
+     "XVIII - licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias;",
+     ""
+    ],
+    [
+     "XIX - licença-paternidade, nos termos fixados em lei;",
+     ""
+    ],
+    [
+     "XX - proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei;",
+     ""
+    ],
+    [
+     "XXI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei;",
+     ""
+    ],
+    [
+     "XXII - redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança;",
+     ""
+    ],
+    [
+     "XXIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei;",
+     ""
+    ],
+    [
+     "XXIV - aposentadoria;",
+     ""
+    ],
+    [
+     "XXV - assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas;",
+     "Redação dada pela Emenda Constitucional nº 53, de 2006"
+    ],
+    [
+     "XXVI - reconhecimento das convenções e acordos coletivos de trabalho;",
+     ""
+    ],
+    [
+     "XXVII - proteção em face da automação, na forma da lei;",
+     ""
+    ],
+    [
+     "XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa;",
+     ""
+    ],
+    [
+     "a)",
+     ""
+    ],
+    [
+     "b)",
+     ""
+    ],
+    [
+     "XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho;",
+     "Redação dada pela Emenda Constitucional nº 28, de 2000"
+    ],
+    [
+     "a) .",
+     "Revogada; Redação dada pela Emenda Constitucional nº 28, de 2000"
+    ],
+    [
+     "b) .",
+     "Revogada; Redação dada pela Emenda Constitucional nº 28, de 2000"
+    ],
+    [
+     "XXX - proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil;",
+     ""
+    ],
+    [
+     "XXXI - proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador portador de deficiência;",
+     ""
+    ],
+    [
+     "XXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos;",
+     ""
+    ],
+    [
+     "- ;",
+     ""
+    ],
+    [
+     "XXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos;",
+     "Redação dada pela Emenda Constitucional nº 20, de 1998"
+    ],
+    [
+     "XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso",
+     ""
+    ],
+    [
+     "§ 1º São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à previdência social.",
+     "Redação dada pela Emenda Constitucional nº 141, de 2026"
+    ],
+    [
+     "§ 2º Excepcionalmente, convenção ou acordo coletivo de trabalho poderão, inclusive para os trabalhadores sujeitos a regimes diferenciados de trabalho estabelecidos em lei ou norma regulamentadora, estabelecer regime compensatório que assegure, na média, 2 (dois) dias de repouso semanal remunerado dentro do mês-calendário, garantido o gozo de pelo menos 1 (um) dos dias dentro do período máximo de 1 (uma) semana de trabalho.",
+     "Incluído pela Emenda Constitucional nº 141, de 2026"
+    ],
+    [
+     "§ 3º Lei poderá dispor sobre hipóteses e condições em que a duração do trabalho e os dias de repouso semanal remunerado poderão observar regimes diferenciados, respeitados os limites previstos nos incisos XIII, XIV e XV do caput deste artigo.",
+     "Incluído pela Emenda Constitucional nº 141, de 2026"
+    ]
+   ],
+   "rev": false,
+   "hash": "45c335bde962"
   },
   "76": {
    "r": "Art. 76",

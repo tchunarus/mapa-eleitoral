@@ -1,0 +1,307 @@
+{
+ "candidatura_id": "tse-240002537073",
+ "fonte_id": "tse-documento-240017141286",
+ "verificado_em": "2026-09-29T18:00:00+00:00",
+ "propostas": [
+  {
+   "id": "estrada-boa-viamar",
+   "tema": "infraestrutura",
+   "subtema": "rodovias estaduais",
+   "titulo": "Continuidade do Estrada Boa e aceleração da VIAMAR",
+   "resumo": "Dar continuidade às obras de pavimentação, restauração e duplicação da malha estadual e acelerar a VIAMAR, corredor expresso paralelo à BR-101.",
+   "pagina": 15,
+   "materia": "infraestrutura-estadual",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "Obras dependem de projeto, licenciamento ambiental e licitação.",
+     "regra_id": "cf-175"
+    }
+   ],
+   "observacao": "O plano dedica as páginas 2 a 11 ao balanço da gestão atual; as propostas selecionadas estão nos compromissos de continuidade. Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "•Estrada Boa +22: Dar continuidade às obras de pavimentação, restauração pesada e duplicação da malha viária estadual. Acelerar as obras da VIAMAR (corredor expresso paralelo à BR-101)."
+  },
+  {
+   "id": "videomonitoramento-facial",
+   "tema": "seguranca",
+   "subtema": "tecnologia policial",
+   "titulo": "Expansão do videomonitoramento com reconhecimento facial",
+   "resumo": "Expandir o sistema integrado de videomonitoramento com reconhecimento facial e leitura de placas para as maiores cidades catarinenses.",
+   "pagina": 16,
+   "materia": "policiamento-ostensivo",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "LEGAL",
+     "texto": "O tratamento de imagens e dados biométricos sujeita-se à legislação federal de proteção de dados pessoais."
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "•Cerco eletrônico e inteligência total: expandir o Sistema Integrado de Videomonitoramento Inteligente com reconhecimento facial e leitura de placas para as maiores cidades catarinenses."
+  },
+  {
+   "id": "efetivo-policial",
+   "tema": "seguranca",
+   "temas_extras": [
+    "administracao-publica"
+   ],
+   "subtema": "efetivo policial",
+   "titulo": "Recomposição do efetivo policial por concursos",
+   "resumo": "Dar continuidade aos concursos públicos para recompor o efetivo policial, com formação continuada e renovação de equipamentos.",
+   "pagina": 16,
+   "materia": "pessoal-estadual",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "A admissão de pessoal exige prévia dotação orçamentária e autorização na lei de diretrizes orçamentárias.",
+     "regra_id": "cf-169-p1"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "• Valorização e recomposição do efetivo policial: dar continuidade aos concursos públicos, garantindo efetivo qualificado"
+  },
+  {
+   "id": "fila-zero-cirurgias",
+   "tema": "saude",
+   "subtema": "filas e cirurgias",
+   "titulo": "Fila Zero: redução do tempo de espera por cirurgias e exames",
+   "resumo": "Fortalecer a Tabela Catarinense de Cirurgias e o programa de valorização dos hospitais filantrópicos e municipais para reduzir o tempo de espera por exames e cirurgias eletivas.",
+   "pagina": 17,
+   "materia": "servicos-saude",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A rede do SUS é regionalizada e integrada com os Municípios e a rede filantrópica.",
+     "regra_id": "cf-198"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "•Fila Zero: fortalecer a Tabela Catarinense de Cirurgias e o Programa de Valorização dos Hospitais Filantrópicos e Municipais, assegurando as condições para continuar a reduzir ainda mais o tempo de espera por exames e cirurgias eletivas."
+  },
+  {
+   "id": "custeio-leitos-uti",
+   "tema": "saude",
+   "subtema": "rede hospitalar",
+   "titulo": "Custeio de mais de 300 leitos de UTI",
+   "resumo": "Garantir o custeio dos mais de 300 leitos de UTI abertos na gestão atual e prosseguir com a expansão da rede hospitalar.",
+   "pagina": 17,
+   "materia": "servicos-saude",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "•Expansão da Rede Hospitalar e UTIs: garantir o custeio dos mais de 300 novos leitos de UTI abertos na gestão"
+  },
+  {
+   "id": "casa-catarina",
+   "tema": "habitacao",
+   "subtema": "habitação popular",
+   "titulo": "Casa Catarina com adesão de todos os municípios",
+   "resumo": "Ampliar a meta do programa de construção de habitações populares Casa Catarina, com adesão de 100% dos municípios.",
+   "pagina": 17,
+   "materia": "moradia-saneamento",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A execução depende da adesão dos Municípios.",
+     "regra_id": "cf-23-ix"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "•Programa Casa Catarina +22: Ampliar a meta do programa de construção de habitações populares com a adesão de 100% dos municípios, proporcionando teto e dignidade às famílias catarinenses de baixa renda."
+  },
+  {
+   "id": "tempo-integral",
+   "tema": "educacao",
+   "subtema": "educação básica",
+   "titulo": "Ampliação do tempo integral na rede estadual",
+   "resumo": "Ampliar a educação em tempo integral nas escolas públicas estaduais.",
+   "pagina": 18,
+   "materia": "rede-estadual-ensino",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "•Ampliar a educação em tempo integral nas escolas públicas estaduais catarinenses."
+  },
+  {
+   "id": "universidade-gratuita",
+   "tema": "educacao",
+   "subtema": "ensino superior",
+   "titulo": "Manutenção do Universidade Gratuita e do FUMDESC",
+   "resumo": "Manter e qualificar os programas estaduais de acesso ao ensino superior Universidade Gratuita e FUMDESC.",
+   "pagina": 18,
+   "materia": "ensino-superior-estadual",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "• Manter e qualificar os programas Universidade Gratuita e FUMDESC."
+  },
+  {
+   "id": "pronampe-sc",
+   "tema": "economia",
+   "subtema": "crédito",
+   "titulo": "Ampliação do Pronampe SC",
+   "resumo": "Ampliar as linhas de crédito subsidiado do Pronampe SC para micro e pequenas empresas, MEIs e agricultores.",
+   "pagina": 20,
+   "materia": "fomento-economico-estadual",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "LEGAL",
+     "texto": "Subsídio creditício com recursos públicos depende de autorização legal e de previsão orçamentária.",
+     "regra_id": "cf-174"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "•Pronampe SC ampliado: ampliar as linhas de crédito subsidiado para micro e pequenas empresas, MEls e agricultores,"
+  },
+  {
+   "id": "voa-sc",
+   "tema": "mobilidade",
+   "temas_extras": [
+    "infraestrutura"
+   ],
+   "subtema": "aviação regional",
+   "titulo": "Programa VOA+SC de voos regionais",
+   "resumo": "Tornar permanente o programa VOA+SC, para viabilizar voos regionais diários entre cidades do interior e a Capital.",
+   "pagina": 15,
+   "materia": "fomento-economico-estadual",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A navegação aérea e a infraestrutura aeroportuária são serviços da União; o programa estadual atua por incentivo às rotas.",
+     "regra_id": "cf-21-xii"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "• Consolidação do VOA+SC: perenizar o programa VOA+SC para viabilizar voos regionais diários conectando as cidades do interior à Capital."
+  },
+  {
+   "id": "ferrovias-estaduais",
+   "tema": "infraestrutura",
+   "subtema": "ferrovias",
+   "titulo": "Projetos de ferrovias estaduais por parcerias",
+   "resumo": "Acelerar projetos e licenciamentos de ferrovias estaduais entre as regiões catarinenses, com parcerias público-privadas.",
+   "pagina": 15,
+   "materia": "infraestrutura-estadual",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "O transporte ferroviário entre Estados ou que transponha fronteiras é serviço da União.",
+     "regra_id": "cf-21-xii"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "Parcerias público-privadas exigem licitação e autorização legal.",
+     "regra_id": "cf-175"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "•Corredores Ferroviários e intermodais: acelerar a elaboração de projetos e licenciamentos de ferrovias estaduais conectando as regiões catarinenses, viabilizando parcerias público-privadas para diversificar a matriz de transporte."
+  },
+  {
+   "id": "barragens-cheias",
+   "tema": "meio-ambiente",
+   "temas_extras": [
+    "infraestrutura"
+   ],
+   "subtema": "defesa civil",
+   "titulo": "Barragens e desassoreamento para prevenção de cheias",
+   "resumo": "Concluir a modernização das barragens do Alto Vale, executar novas barragens de prevenção de cheias e ampliar o desassoreamento de rios.",
+   "pagina": 16,
+   "materia": "infraestrutura-estadual",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "Obras em cursos d'água exigem licenciamento ambiental.",
+     "regra_id": "cf-225"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "•Proteção e Defesa Civil: concluir a modernização das barragens do Alto Vale e executar as novas barragens de prevenção das cheias. Ampliar o desassoreamento contínuo de rios, em obras diretas do Estado e em parceria com os municípios."
+  }
+ ]
+}

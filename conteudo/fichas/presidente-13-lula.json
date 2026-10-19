@@ -1,0 +1,451 @@
+{
+ "candidatura_id": "tse-280002542548",
+ "fonte_id": "tse-documento-280017016005",
+ "verificado_em": "2026-10-19T12:00:00+00:00",
+ "propostas": [
+  {
+   "id": "arcabouco-fiscal",
+   "tema": "economia",
+   "temas_extras": [
+    "administracao-publica"
+   ],
+   "subtema": "regra fiscal",
+   "titulo": "Manutenção do arcabouço fiscal e busca de queda sustentada dos juros",
+   "resumo": "O plano mantém a regra fiscal vigente desde 2023 e associa a ela a criação de condições para redução sustentada dos juros, com inflação controlada.",
+   "trecho": "vamos criar as condições para uma redução sustentada das taxas de juros, com inflação controlada e assegurando uma política fiscal responsável. Para isso, manteremos o novo arcabouço fiscal, que controlou o crescimento das despesas sem prejudicar as políticas sociais e permitiu uma redução significativa do déficit primário.",
+   "pagina": 49,
+   "materia": "regras-fiscais",
+   "natureza": "COMPLEMENTARY_LAW_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "O regime fiscal está em lei complementar já vigente; mantê-lo não exige nova lei, alterá-lo sim.",
+     "regra_id": "cf-163-i"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "A taxa de juros é decidida pelo Banco Central, autônomo em relação ao Presidente.",
+     "regra_id": "cf-164-p2"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: O plano atribui o resultado fiscal à retomada do crescimento, ao controle do aumento do gasto primário, à justiça tributária e ao combate a privilégios, sem quantificar metas para 2027 a 2030.."
+  },
+  {
+   "id": "novo-pac-2",
+   "tema": "infraestrutura",
+   "temas_extras": [
+    "economia"
+   ],
+   "subtema": "investimento público",
+   "titulo": "Nova edição do Novo PAC com concessões rodoviárias e ferroviárias",
+   "resumo": "Promete nova edição do Novo PAC, mantendo a combinação de obras públicas e concessões, com ritmo nas concessões rodoviárias e intensificação das ferroviárias.",
+   "trecho": "A nova edição do Novo PAC manterá a articulação dos investimentos públicos e privados em infraestrutura logística, dando sequência a obras públicas e concessões. Manteremos o ritmo nas concessões rodoviárias e intensificaremos as de ferrovias em duas frentes: leilão de novos projetos e repactuação dos contratos existentes.",
+   "pagina": 53,
+   "materia": "infraestrutura-federal",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+     "regra_id": "cf-166"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "Concessões exigem licitação e controle do TCU.",
+     "regra_id": "cf-175"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado para a nova edição; o plano informa apenas valores executados na edição atual (R$ 1,3 trilhão até o fim de 2026).."
+  },
+  {
+   "id": "salario-minimo",
+   "tema": "economia",
+   "temas_extras": [
+    "direitos-sociais"
+   ],
+   "subtema": "salário mínimo",
+   "titulo": "Continuidade da política de valorização do salário mínimo",
+   "resumo": "Mantém a política de reajuste do salário mínimo com ganho real, apresentada como instrumento de distribuição de renda.",
+   "trecho": "o novo mandato de Lula dará continuidade à política de valorização do salário mínimo como meio estratégico de distribuição de renda, combate à pobreza e promoção do desenvolvimento econômico e social.",
+   "pagina": 74,
+   "materia": "salario-minimo",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A regra de valorização já está em lei; mantê-la não exige nova lei, alterá-la sim.",
+     "regra_id": "cf-7-iv"
+    },
+    {
+     "tipo": "FISCAL",
+     "texto": "O salário mínimo indexa benefícios previdenciários e assistenciais, com impacto no gasto obrigatório."
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "imposto-seletivo",
+   "tema": "tributacao",
+   "temas_extras": [
+    "saude"
+   ],
+   "subtema": "reforma tributária",
+   "titulo": "Uso do Imposto Seletivo para desestimular produtos nocivos à saúde",
+   "resumo": "Ao regulamentar a reforma tributária do consumo, pretende usar o Imposto Seletivo como instrumento de saúde pública.",
+   "trecho": "Ao regulamentar a reforma tributária, vamos, por meio do Imposto Seletivo, desestimular produtos nocivos à saúde.",
+   "pagina": 59,
+   "materia": "sistema-tributario-federal",
+   "natureza": "COMPLEMENTARY_LAW_CHANGE",
+   "detalhamento": "LOW",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Alíquotas e alcance do Imposto Seletivo dependem de lei aprovada pelo Congresso."
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado (medida arrecadatória; o plano não estima receita).."
+  },
+  {
+   "id": "fndr",
+   "tema": "tributacao",
+   "temas_extras": [
+    "economia"
+   ],
+   "subtema": "desenvolvimento regional",
+   "titulo": "Regulamentação do Fundo Nacional de Desenvolvimento Regional",
+   "resumo": "Regulamentar o fundo criado na reforma tributária para substituir a guerra fiscal do ICMS por investimentos regionais.",
+   "trecho": "No âmbito da reforma tributária foi criado o Fundo Nacional de Desenvolvimento Regional que será regulamentado no próximo período. Seus recursos permitirão apoiar investimentos e políticas redutoras das desigualdades sociais e regionais, em substituição da predatória guerra tributária do ICMS.",
+   "pagina": 56,
+   "materia": "sistema-tributario-federal",
+   "natureza": "COMPLEMENTARY_LAW_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "O fundo transfere recursos aos Estados; a regulamentação depende do Congresso."
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "mcmv",
+   "tema": "habitacao",
+   "temas_extras": [
+    "direitos-sociais"
+   ],
+   "subtema": "habitação popular",
+   "titulo": "Manutenção e ampliação do Minha Casa Minha Vida",
+   "resumo": "Mantém e amplia o MCMV para todas as faixas de renda, com novos instrumentos como o Compra Assistida e uso de imóveis da União.",
+   "trecho": "O MCMV será mantido e ampliado no próximo mandato, para todas as faixas de renda e preservando seu foco nas famílias de mais baixa renda.",
+   "pagina": 45,
+   "materia": "moradia-saneamento",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+     "regra_id": "cf-166"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A execução depende de Municípios e do Conselho Curador do FGTS.",
+     "regra_id": "cf-23-ix"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado; o plano não fixa nova meta de unidades para 2027 a 2030 (a meta citada, 3 milhões, refere-se ao fim de 2026).."
+  },
+  {
+   "id": "fim-6x1",
+   "tema": "direitos-sociais",
+   "temas_extras": [
+    "economia"
+   ],
+   "subtema": "jornada de trabalho",
+   "titulo": "Fim da escala 6x1 e jornada de 40 horas sem redução salarial",
+   "resumo": "Compromisso de atuar no Senado pela aprovação da PEC que reduz a jornada a 40 horas semanais e extingue a escala 6x1.",
+   "trecho": "Manteremos nossa ação junto ao Senado Federal para assegurar o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas, sem redução salarial, nos termos aprovados na Câmara dos Deputados.",
+   "pagina": 75,
+   "materia": "direito-trabalho",
+   "natureza": "CONSTITUTIONAL_CHANGE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Exige emenda constitucional aprovada por três quintos, em dois turnos, nas duas Casas.",
+     "regra_id": "cf-60-p2"
+    }
+   ],
+   "observacao": "O Congresso aprovou e promulgou em 16/10/2026 a emenda constitucional que reduz a jornada para 40 horas e acaba com a escala 6x1; a proposta, portanto, já foi convertida em norma durante a campanha. Fontes: Senado (votação de 14/10/2026, 75 a 1) e Band, 16/10/2026. Custeio indicado no plano: Não indicado (custo recai sobre empregadores; o plano não trata de compensação).."
+  },
+  {
+   "id": "casas-mulher",
+   "tema": "direitos-sociais",
+   "temas_extras": [
+    "seguranca"
+   ],
+   "subtema": "violência contra a mulher",
+   "titulo": "Conclusão de 30 Casas da Mulher Brasileira e 15 Centros de Referência",
+   "resumo": "Amplia a rede de proteção às mulheres, com metas físicas de conclusão de equipamentos e distribuição de kits de monitoramento de agressores aos estados.",
+   "trecho": "Vamos dar sequência ao Pacto, ampliando a rede de proteção às mulheres – concluiremos as 30 Casas da Mulher Brasileira e os 15 Centros de Referência da Mulher Brasileira. Ampliaremos as Salas Lilás e vamos adquirir e distribuir aos Estados kits para aprimorar o monitoramento de agressores.",
+   "pagina": 21,
+   "materia": "assistencia-social",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+     "regra_id": "cf-166"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A gestão dos equipamentos é compartilhada com Estados e Municípios.",
+     "regra_id": "cf-23-x"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "desmatamento-zero",
+   "tema": "meio-ambiente",
+   "subtema": "desmatamento",
+   "titulo": "Desmatamento líquido zero até 2030",
+   "resumo": "Reafirma a meta de desmatamento líquido zero até 2030, com planos de prevenção e controle e o Plano Nacional de Manejo Integrado do Fogo.",
+   "trecho": "No próximo mandato, continuaremos trabalhando para alcançar o desmatamento líquido zero até 2030, meta que reafirmamos.",
+   "pagina": 70,
+   "materia": "politica-ambiental",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "Licenciamento e fiscalização são compartilhados com Estados e Municípios.",
+     "regra_id": "cf-23-vi"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: O plano cita fontes de financiamento climático existentes (Fundo Clima, Eco Invest, Fundo Amazônia, TFFF), sem vincular valores à meta.."
+  },
+  {
+   "id": "petrobras-distribuicao",
+   "tema": "economia",
+   "subtema": "combustíveis",
+   "titulo": "Retorno da Petrobras à distribuição de combustíveis",
+   "resumo": "Defende que a Petrobras volte ao segmento de distribuição, amplie o refino e a atuação da Transpetro em GNL.",
+   "trecho": "A Petrobras deverá retornar ao segmento de distribuição de combustíveis, expandindo sua capacidade de refino e ampliando a atuação da Transpetro para logística de GNL.",
+   "pagina": 67,
+   "materia": "estatais-federais",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "Depende de decisão dos órgãos societários da Petrobras, com acionistas minoritários, e da regulação do setor."
+    },
+    {
+     "tipo": "LEGAL",
+     "texto": "A exploração direta de atividade econômica pelo Estado só é admitida nos casos da Constituição.",
+     "regra_id": "cf-173"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "alfabetizacao-80",
+   "tema": "educacao",
+   "subtema": "alfabetização",
+   "titulo": "Meta de 80% de crianças alfabetizadas na idade certa",
+   "resumo": "Mantém o Compromisso Nacional Criança Alfabetizada, com meta de 80% das crianças alfabetizadas na idade certa.",
+   "trecho": "Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa.",
+   "pagina": 31,
+   "materia": "educacao-federal",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A alfabetização ocorre nas redes estaduais e municipais; a União atua por apoio técnico e financeiro.",
+     "regra_id": "cf-211-p1"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "pe-de-meia",
+   "tema": "educacao",
+   "temas_extras": [
+    "direitos-sociais"
+   ],
+   "subtema": "ensino médio",
+   "titulo": "Continuidade e fortalecimento do Pé-de-Meia",
+   "resumo": "Mantém e fortalece o incentivo financeiro à permanência no ensino médio para jovens em situação de pobreza.",
+   "trecho": "Vamos dar continuidade e fortalecer o Pé-de-Meia. Nenhum jovem em situação de pobreza ou vulnerabilidade social no Brasil deve deixar a escola por falta de renda.",
+   "pagina": 32,
+   "materia": "educacao-federal",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+     "regra_id": "cf-166"
+    },
+    {
+     "tipo": "LEGAL",
+     "texto": "O TCU determinou em 2025 a inclusão integral do programa no orçamento."
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "farmacia-exames",
+   "tema": "saude",
+   "subtema": "assistência farmacêutica",
+   "titulo": "Inclusão de exames laboratoriais no Farmácia Popular",
+   "resumo": "Amplia o Farmácia Popular, mantido 100% gratuito, para incluir exames de diagnóstico e monitoramento de doenças crônicas.",
+   "trecho": "Uma inovação do programa será incluir exames laboratoriais, de diagnóstico e de monitoramento de condições crônicas de saúde, que afetam parcela significativa da população, tais como hipertensão arterial e diabetes.",
+   "pagina": 36,
+   "materia": "servicos-saude",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+     "regra_id": "cf-166"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "fila-unica",
+   "tema": "saude",
+   "subtema": "filas",
+   "titulo": "Fila única digital ordenada por risco clínico na atenção especializada",
+   "resumo": "Aprimorar a regulação do acesso à atenção especializada com fila única digital, uso de inteligência artificial e transporte sanitário.",
+   "trecho": "Aprimoraremos ainda mais a regulação do acesso à atenção especializada, garantindo maior transparência das filas e utilizando inteligência artificial, com fila única digital e ordenada pelo risco clínico, com transporte sanitário em todas as regiões de saúde.",
+   "pagina": 38,
+   "materia": "servicos-saude",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A regulação das filas é feita por Estados e Municípios, com pactuação nas comissões do SUS.",
+     "regra_id": "cf-198"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "ministerio-seguranca",
+   "tema": "seguranca",
+   "temas_extras": [
+    "administracao-publica"
+   ],
+   "subtema": "organização do governo",
+   "titulo": "Criação do Ministério da Segurança Pública após a PEC da Segurança",
+   "resumo": "Condiciona a criação do ministério à aprovação da PEC da Segurança Pública proposta pelo Executivo, para coordenar o SUSP com estados e municípios.",
+   "trecho": "Uma vez aprovada a PEC da Segurança Pública proposta pelo Executivo, criaremos o Ministério da Segurança Pública para coordenar, em articulação com estados e municípios, a execução das políticas nacionais de segurança pública no âmbito do Sistema Único de Segurança Pública (SUSP).",
+   "pagina": 30,
+   "materia": "estrutura-administrativa-federal",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "O plano condiciona a criação à aprovação da PEC da Segurança Pública.",
+     "regra_id": "cf-60-p2"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado; em outra passagem (p. 27 e 28), o plano cita R$ 10 bilhões do FIIS previstos no Programa Brasil Contra o Crime Organizado para estados e municípios.."
+  },
+  {
+   "id": "pacto-execucao-penal",
+   "tema": "seguranca",
+   "subtema": "sistema prisional",
+   "titulo": "Plano Pena Justa e Pacto Nacional de Execução Penal",
+   "resumo": "Cumprir as metas do Plano Pena Justa e instituir um pacto nacional de execução penal voltado ao enfrentamento do crime organizado.",
+   "trecho": "Cumpriremos as metas do Plano Pena Justa e instituiremos o Pacto Nacional de Execução Penal para o Enfrentamento ao Crime Organizado, fortalecendo a governança do sistema prisional e a cooperação entre União, estados e sistema de justiça.",
+   "pagina": 28,
+   "materia": "seguranca-federal",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "LOW",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A maior parte do sistema prisional é estadual; a medida depende de adesão dos Estados e do Judiciário.",
+     "regra_id": "cf-24-i"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "alianca-tfff",
+   "tema": "instituicoes-politicas",
+   "temas_extras": [
+    "meio-ambiente"
+   ],
+   "subtema": "política externa",
+   "titulo": "Prioridade à Aliança Global contra a Fome e ao Fundo Florestas Tropicais para Sempre",
+   "resumo": "Define como prioridades externas a Aliança Global contra a Fome e a Pobreza e a agenda climática, incluindo o TFFF.",
+   "trecho": "Serão prioridades de nossa ação externa a implementação da Aliança Global contra a Fome e a Pobreza e o enfrentamento da emergência climática, inclusive o Fundo Florestas Tropicais para Sempre (TFFF).",
+   "pagina": 81,
+   "materia": "politica-externa",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "LOW",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Compromissos que gerem encargos ao patrimônio nacional dependem do Congresso.",
+     "regra_id": "cf-49-i"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado; o plano informa que o TFFF implementará suas estruturas de governança para iniciar investimentos (p. 71).."
+  },
+  {
+   "id": "emendas",
+   "tema": "instituicoes-politicas",
+   "temas_extras": [
+    "administracao-publica"
+   ],
+   "subtema": "emendas parlamentares",
+   "titulo": "Enfrentamento do sistema de emendas parlamentares",
+   "resumo": "Qualifica o atual sistema de emendas como distorção orçamentária e propõe debatê-lo com a sociedade, sem medida concreta de redução.",
+   "trecho": "Propomos ainda enfrentar uma grave distorção na elaboração e gestão do orçamento federal – o atual sistema de emendas parlamentares. No orçamento de 2026, as emendas somaram R$ 50 bilhões, consumindo aproximadamente um quinto dos recursos discricionários do Poder Executivo.",
+   "pagina": 15,
+   "materia": "texto-constitucional",
+   "natureza": "CONSTITUTIONAL_CHANGE",
+   "detalhamento": "LOW",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Exige emenda constitucional aprovada por três quintos, em dois turnos, nas duas Casas.",
+     "regra_id": "cf-60-p2"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não se aplica (medida de alocação).."
+  }
+ ]
+}

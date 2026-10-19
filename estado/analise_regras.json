@@ -718,5 +718,4016 @@
   "hash_dispositivo": "f0f603ed985d",
   "nota": "Organizar e prestar o transporte coletivo urbano é competência do Município.",
   "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "pr-240002537073-barragens-cheias--governador--ce-sc",
+  "analise_id": "pr-240002537073-barragens-cheias--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-barragens-cheias--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-barragens-cheias--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-barragens-cheias--governador--cf-175",
+  "analise_id": "pr-240002537073-barragens-cheias--governador",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-barragens-cheias--governador--cf-25-p1",
+  "analise_id": "pr-240002537073-barragens-cheias--governador",
+  "regra_id": "cf-25-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Cabem ao Estado as competências que não lhe sejam vedadas, entre elas as obras e a manutenção das rodovias estaduais, executadas pelo Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-casa-catarina--governador--ce-sc",
+  "analise_id": "pr-240002537073-casa-catarina--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-casa-catarina--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-casa-catarina--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-casa-catarina--governador--cf-23-ix",
+  "analise_id": "pr-240002537073-casa-catarina--governador",
+  "regra_id": "cf-23-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Promover programas de moradia e saneamento é competência comum da União, dos Estados e dos Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-custeio-leitos-uti--governador--ce-sc",
+  "analise_id": "pr-240002537073-custeio-leitos-uti--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-custeio-leitos-uti--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-custeio-leitos-uti--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-custeio-leitos-uti--governador--cf-23-ii",
+  "analise_id": "pr-240002537073-custeio-leitos-uti--governador",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; o Estado atua com sua própria rede e em cooperação com os Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-custeio-leitos-uti--governador--cf-30-vii",
+  "analise_id": "pr-240002537073-custeio-leitos-uti--governador",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-efetivo-policial--governador--ce-sc",
+  "analise_id": "pr-240002537073-efetivo-policial--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-efetivo-policial--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-efetivo-policial--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-efetivo-policial--governador--cf-169-p1",
+  "analise_id": "pr-240002537073-efetivo-policial--governador",
+  "regra_id": "cf-169-p1",
+  "papel": "LIMIT",
+  "hash_dispositivo": "34b986ed1854",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-efetivo-policial--governador--cf-37-ii",
+  "analise_id": "pr-240002537073-efetivo-policial--governador",
+  "regra_id": "cf-37-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "186f2c9925cd",
+  "nota": "Abrir concurso e nomear aprovados para cargos já existentes é ato do Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-estrada-boa-viamar--governador--ce-sc",
+  "analise_id": "pr-240002537073-estrada-boa-viamar--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-estrada-boa-viamar--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-estrada-boa-viamar--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-estrada-boa-viamar--governador--cf-175",
+  "analise_id": "pr-240002537073-estrada-boa-viamar--governador",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-estrada-boa-viamar--governador--cf-25-p1",
+  "analise_id": "pr-240002537073-estrada-boa-viamar--governador",
+  "regra_id": "cf-25-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Cabem ao Estado as competências que não lhe sejam vedadas, entre elas as obras e a manutenção das rodovias estaduais, executadas pelo Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-ferrovias-estaduais--governador--ce-sc",
+  "analise_id": "pr-240002537073-ferrovias-estaduais--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-ferrovias-estaduais--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-ferrovias-estaduais--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-ferrovias-estaduais--governador--cf-175",
+  "analise_id": "pr-240002537073-ferrovias-estaduais--governador",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-ferrovias-estaduais--governador--cf-25-p1",
+  "analise_id": "pr-240002537073-ferrovias-estaduais--governador",
+  "regra_id": "cf-25-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Cabem ao Estado as competências que não lhe sejam vedadas, entre elas as obras e a manutenção das rodovias estaduais, executadas pelo Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-fila-zero-cirurgias--governador--ce-sc",
+  "analise_id": "pr-240002537073-fila-zero-cirurgias--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-fila-zero-cirurgias--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-fila-zero-cirurgias--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-fila-zero-cirurgias--governador--cf-23-ii",
+  "analise_id": "pr-240002537073-fila-zero-cirurgias--governador",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; o Estado atua com sua própria rede e em cooperação com os Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-fila-zero-cirurgias--governador--cf-30-vii",
+  "analise_id": "pr-240002537073-fila-zero-cirurgias--governador",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-pronampe-sc--governador--ce-sc",
+  "analise_id": "pr-240002537073-pronampe-sc--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-pronampe-sc--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-pronampe-sc--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-pronampe-sc--governador--cf-174",
+  "analise_id": "pr-240002537073-pronampe-sc--governador",
+  "regra_id": "cf-174",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "003003cd32ad",
+  "nota": "O Estado exerce, na forma da lei, as funções de fiscalização, incentivo e planejamento da atividade econômica.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-pronampe-sc--governador--cf-179",
+  "analise_id": "pr-240002537073-pronampe-sc--governador",
+  "regra_id": "cf-179",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "fcda8305d718",
+  "nota": "União, Estados e Municípios devem tratamento diferenciado às microempresas e empresas de pequeno porte; o Estado pode manter programas próprios de incentivo.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-tempo-integral--governador--ce-sc",
+  "analise_id": "pr-240002537073-tempo-integral--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-tempo-integral--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-tempo-integral--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-tempo-integral--governador--cf-211-p3",
+  "analise_id": "pr-240002537073-tempo-integral--governador",
+  "regra_id": "cf-211-p3",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "439b7ffe28e8",
+  "nota": "Os Estados atuam prioritariamente no ensino fundamental e médio; a gestão da rede estadual cabe ao Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-tempo-integral--governador--cf-212",
+  "analise_id": "pr-240002537073-tempo-integral--governador",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-tempo-integral--governador--cf-22-xxiv",
+  "analise_id": "pr-240002537073-tempo-integral--governador",
+  "regra_id": "cf-22-xxiv",
+  "papel": "LIMIT",
+  "hash_dispositivo": "2225e31e6c81",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-tempo-integral--governador--cf-24-ix",
+  "analise_id": "pr-240002537073-tempo-integral--governador",
+  "regra_id": "cf-24-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla sobre educação e ensino de forma concorrente, observadas as normas gerais federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-universidade-gratuita--governador--ce-sc",
+  "analise_id": "pr-240002537073-universidade-gratuita--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-universidade-gratuita--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-universidade-gratuita--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-universidade-gratuita--governador--cf-212",
+  "analise_id": "pr-240002537073-universidade-gratuita--governador",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-universidade-gratuita--governador--cf-22-xxiv",
+  "analise_id": "pr-240002537073-universidade-gratuita--governador",
+  "regra_id": "cf-22-xxiv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "A União fixa as diretrizes e bases da educação nacional, inclusive do ensino superior.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-universidade-gratuita--governador--cf-23-v",
+  "analise_id": "pr-240002537073-universidade-gratuita--governador",
+  "regra_id": "cf-23-v",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Proporcionar meios de acesso à educação é competência comum; o Estado mantém sua universidade e seus programas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-universidade-gratuita--governador--cf-24-ix",
+  "analise_id": "pr-240002537073-universidade-gratuita--governador",
+  "regra_id": "cf-24-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla de forma concorrente sobre educação e ensino, inclusive sobre programas estaduais de acesso ao ensino superior.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-videomonitoramento-facial--governador--ce-sc",
+  "analise_id": "pr-240002537073-videomonitoramento-facial--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-videomonitoramento-facial--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-videomonitoramento-facial--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "A Polícia Militar, a quem cabem o policiamento ostensivo e a preservação da ordem pública, subordina-se ao Governador.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-voa-sc--governador--ce-sc",
+  "analise_id": "pr-240002537073-voa-sc--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-voa-sc--governador--cf-144-p6",
+  "analise_id": "pr-240002537073-voa-sc--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-voa-sc--governador--cf-174",
+  "analise_id": "pr-240002537073-voa-sc--governador",
+  "regra_id": "cf-174",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "003003cd32ad",
+  "nota": "O Estado exerce, na forma da lei, as funções de fiscalização, incentivo e planejamento da atividade econômica.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002537073-voa-sc--governador--cf-179",
+  "analise_id": "pr-240002537073-voa-sc--governador",
+  "regra_id": "cf-179",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "fcda8305d718",
+  "nota": "União, Estados e Municípios devem tratamento diferenciado às microempresas e empresas de pequeno porte; o Estado pode manter programas próprios de incentivo.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-desmilitarizacao-pm--governador--cf-60-i",
+  "analise_id": "pr-240002541913-desmilitarizacao-pm--governador",
+  "regra_id": "cf-60-i",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta subscrita por um terço, no mínimo, dos Deputados Federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-desmilitarizacao-pm--governador--cf-60-ii",
+  "analise_id": "pr-240002541913-desmilitarizacao-pm--governador",
+  "regra_id": "cf-60-ii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-desmilitarizacao-pm--governador--cf-60-iii",
+  "analise_id": "pr-240002541913-desmilitarizacao-pm--governador",
+  "regra_id": "cf-60-iii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-desmilitarizacao-pm--governador--cf-60-p2",
+  "analise_id": "pr-240002541913-desmilitarizacao-pm--governador",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-desmilitarizacao-pm--governador--cf-60-p3",
+  "analise_id": "pr-240002541913-desmilitarizacao-pm--governador",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-desmilitarizacao-pm--governador--cf-60-p4",
+  "analise_id": "pr-240002541913-desmilitarizacao-pm--governador",
+  "regra_id": "cf-60-p4",
+  "papel": "LIMIT",
+  "hash_dispositivo": "914f96eb16dc",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-dobrar-orcamento-educacao--governador--ce-sc",
+  "analise_id": "pr-240002541913-dobrar-orcamento-educacao--governador",
+  "regra_id": "ce-sc",
+  "papel": "COMPETENCE",
+  "nota": "O orçamento do Estado é aprovado pela Assembleia Legislativa, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-dobrar-orcamento-saude--governador--ce-sc",
+  "analise_id": "pr-240002541913-dobrar-orcamento-saude--governador",
+  "regra_id": "ce-sc",
+  "papel": "COMPETENCE",
+  "nota": "O orçamento do Estado é aprovado pela Assembleia Legislativa, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-estadualizar-acafe--governador--ce-sc",
+  "analise_id": "pr-240002541913-estadualizar-acafe--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-estadualizar-acafe--governador--cf-212",
+  "analise_id": "pr-240002541913-estadualizar-acafe--governador",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-estadualizar-acafe--governador--cf-22-xxiv",
+  "analise_id": "pr-240002541913-estadualizar-acafe--governador",
+  "regra_id": "cf-22-xxiv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "A União fixa as diretrizes e bases da educação nacional, inclusive do ensino superior.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-estadualizar-acafe--governador--cf-23-v",
+  "analise_id": "pr-240002541913-estadualizar-acafe--governador",
+  "regra_id": "cf-23-v",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Proporcionar meios de acesso à educação é competência comum; o Estado mantém sua universidade e seus programas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-estadualizar-acafe--governador--cf-24-ix",
+  "analise_id": "pr-240002541913-estadualizar-acafe--governador",
+  "regra_id": "cf-24-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla de forma concorrente sobre educação e ensino, inclusive sobre programas estaduais de acesso ao ensino superior.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-estadualizar-acafe--governador--cf-25",
+  "analise_id": "pr-240002541913-estadualizar-acafe--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-estatais-100-publicas--governador--ce-sc",
+  "analise_id": "pr-240002541913-estatais-100-publicas--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-estatais-100-publicas--governador--cf-173",
+  "analise_id": "pr-240002541913-estatais-100-publicas--governador",
+  "regra_id": "cf-173",
+  "papel": "LIMIT",
+  "hash_dispositivo": "f6dafcb6ad48",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-estatais-100-publicas--governador--cf-25",
+  "analise_id": "pr-240002541913-estatais-100-publicas--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-estatais-100-publicas--governador--cf-37-xix",
+  "analise_id": "pr-240002541913-estatais-100-publicas--governador",
+  "regra_id": "cf-37-xix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "186f2c9925cd",
+  "nota": "A criação de empresa pública ou sociedade de economia mista depende de lei específica.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-fim-pedagios--governador--cf-175",
+  "analise_id": "pr-240002541913-fim-pedagios--governador",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-fim-pedagios--governador--cf-21-xii",
+  "analise_id": "pr-240002541913-fim-pedagios--governador",
+  "regra_id": "cf-21-xii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "1ef86eadce60",
+  "nota": "Cabe à União explorar, diretamente ou por concessão, serviços como energia elétrica, transporte ferroviário e aquaviário, portos e aeroportos, e estabelecer o sistema nacional de viação, do qual fazem parte as rodovias federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-fim-pedagios--governador--cf-84-ii",
+  "analise_id": "pr-240002541913-fim-pedagios--governador",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-restaurantes-populares--governador--ce-sc",
+  "analise_id": "pr-240002541913-restaurantes-populares--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-restaurantes-populares--governador--cf-144-p6",
+  "analise_id": "pr-240002541913-restaurantes-populares--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-restaurantes-populares--governador--cf-203",
+  "analise_id": "pr-240002541913-restaurantes-populares--governador",
+  "regra_id": "cf-203",
+  "papel": "LIMIT",
+  "hash_dispositivo": "25874e5d0de6",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-restaurantes-populares--governador--cf-23-x",
+  "analise_id": "pr-240002541913-restaurantes-populares--governador",
+  "regra_id": "cf-23-x",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Combater as causas da pobreza é competência comum; o Estado mantém programas próprios e apoia os Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-rodovia-contorno-viario--governador--ce-sc",
+  "analise_id": "pr-240002541913-rodovia-contorno-viario--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-rodovia-contorno-viario--governador--cf-144-p6",
+  "analise_id": "pr-240002541913-rodovia-contorno-viario--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-rodovia-contorno-viario--governador--cf-175",
+  "analise_id": "pr-240002541913-rodovia-contorno-viario--governador",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-rodovia-contorno-viario--governador--cf-25-p1",
+  "analise_id": "pr-240002541913-rodovia-contorno-viario--governador",
+  "regra_id": "cf-25-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Cabem ao Estado as competências que não lhe sejam vedadas, entre elas as obras e a manutenção das rodovias estaduais, executadas pelo Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002541913-rumo-tarifa-zero--governador--cf-30-v",
+  "analise_id": "pr-240002541913-rumo-tarifa-zero--governador",
+  "regra_id": "cf-30-v",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Organizar e prestar o transporte coletivo urbano é competência do Município.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-cirurgias-60-dias--governador--ce-sc",
+  "analise_id": "pr-240002544118-cirurgias-60-dias--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-cirurgias-60-dias--governador--cf-144-p6",
+  "analise_id": "pr-240002544118-cirurgias-60-dias--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-cirurgias-60-dias--governador--cf-23-ii",
+  "analise_id": "pr-240002544118-cirurgias-60-dias--governador",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; o Estado atua com sua própria rede e em cooperação com os Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-cirurgias-60-dias--governador--cf-30-vii",
+  "analise_id": "pr-240002544118-cirurgias-60-dias--governador",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-cobrar-duplicacao-brs--governador--cf-175",
+  "analise_id": "pr-240002544118-cobrar-duplicacao-brs--governador",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-cobrar-duplicacao-brs--governador--cf-21-xii",
+  "analise_id": "pr-240002544118-cobrar-duplicacao-brs--governador",
+  "regra_id": "cf-21-xii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "1ef86eadce60",
+  "nota": "Cabe à União explorar, diretamente ou por concessão, serviços como energia elétrica, transporte ferroviário e aquaviário, portos e aeroportos, e estabelecer o sistema nacional de viação, do qual fazem parte as rodovias federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-cobrar-duplicacao-brs--governador--cf-84-ii",
+  "analise_id": "pr-240002544118-cobrar-duplicacao-brs--governador",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-duplicar-rodovias-estaduais--governador--ce-sc",
+  "analise_id": "pr-240002544118-duplicar-rodovias-estaduais--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-duplicar-rodovias-estaduais--governador--cf-144-p6",
+  "analise_id": "pr-240002544118-duplicar-rodovias-estaduais--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-duplicar-rodovias-estaduais--governador--cf-175",
+  "analise_id": "pr-240002544118-duplicar-rodovias-estaduais--governador",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-duplicar-rodovias-estaduais--governador--cf-25-p1",
+  "analise_id": "pr-240002544118-duplicar-rodovias-estaduais--governador",
+  "regra_id": "cf-25-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Cabem ao Estado as competências que não lhe sejam vedadas, entre elas as obras e a manutenção das rodovias estaduais, executadas pelo Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-hub-socioassistencial--governador--ce-sc",
+  "analise_id": "pr-240002544118-hub-socioassistencial--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-hub-socioassistencial--governador--cf-144-p6",
+  "analise_id": "pr-240002544118-hub-socioassistencial--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-hub-socioassistencial--governador--cf-203",
+  "analise_id": "pr-240002544118-hub-socioassistencial--governador",
+  "regra_id": "cf-203",
+  "papel": "LIMIT",
+  "hash_dispositivo": "25874e5d0de6",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-hub-socioassistencial--governador--cf-23-x",
+  "analise_id": "pr-240002544118-hub-socioassistencial--governador",
+  "regra_id": "cf-23-x",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Combater as causas da pobreza é competência comum; o Estado mantém programas próprios e apoia os Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-lei-regionalizacao-saneamento--governador--ce-sc",
+  "analise_id": "pr-240002544118-lei-regionalizacao-saneamento--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-lei-regionalizacao-saneamento--governador--cf-25",
+  "analise_id": "pr-240002544118-lei-regionalizacao-saneamento--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-lei-regionalizacao-saneamento--governador--cf-25-p3",
+  "analise_id": "pr-240002544118-lei-regionalizacao-saneamento--governador",
+  "regra_id": "cf-25-p3",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "O Estado pode, por lei complementar, instituir regiões metropolitanas, aglomerações urbanas e microrregiões para funções públicas de interesse comum.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-presidio-seguranca-maxima--governador--ce-sc",
+  "analise_id": "pr-240002544118-presidio-seguranca-maxima--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-presidio-seguranca-maxima--governador--cf-144-p5a",
+  "analise_id": "pr-240002544118-presidio-seguranca-maxima--governador",
+  "regra_id": "cf-144-p5a",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "A polícia penal, vinculada ao órgão que administra o sistema penal do Estado, responde pela segurança dos estabelecimentos penais; a gestão do sistema prisional estadual cabe ao Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-presidio-seguranca-maxima--governador--cf-144-p6",
+  "analise_id": "pr-240002544118-presidio-seguranca-maxima--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-privatizar-celesc-casan--governador--ce-sc",
+  "analise_id": "pr-240002544118-privatizar-celesc-casan--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-privatizar-celesc-casan--governador--cf-173",
+  "analise_id": "pr-240002544118-privatizar-celesc-casan--governador",
+  "regra_id": "cf-173",
+  "papel": "LIMIT",
+  "hash_dispositivo": "f6dafcb6ad48",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-privatizar-celesc-casan--governador--cf-25",
+  "analise_id": "pr-240002544118-privatizar-celesc-casan--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-privatizar-celesc-casan--governador--cf-37-xix",
+  "analise_id": "pr-240002544118-privatizar-celesc-casan--governador",
+  "regra_id": "cf-37-xix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "186f2c9925cd",
+  "nota": "A criação de empresa pública ou sociedade de economia mista depende de lei específica.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-carga-tributaria--governador--ce-sc",
+  "analise_id": "pr-240002544118-reduzir-carga-tributaria--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-carga-tributaria--governador--cf-150-p6",
+  "analise_id": "pr-240002544118-reduzir-carga-tributaria--governador",
+  "regra_id": "cf-150-p6",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-carga-tributaria--governador--cf-155-ii",
+  "analise_id": "pr-240002544118-reduzir-carga-tributaria--governador",
+  "regra_id": "cf-155-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "c3593e6b50c5",
+  "nota": "Instituir e alterar o ICMS é competência do Estado, exercida por lei estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-carga-tributaria--governador--cf-155-p2-xii-g",
+  "analise_id": "pr-240002544118-reduzir-carga-tributaria--governador",
+  "regra_id": "cf-155-p2-xii-g",
+  "papel": "LIMIT",
+  "hash_dispositivo": "c3593e6b50c5",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-carga-tributaria--governador--cf-25",
+  "analise_id": "pr-240002544118-reduzir-carga-tributaria--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-comissionados-25--governador--ce-sc",
+  "analise_id": "pr-240002544118-reduzir-comissionados-25--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-comissionados-25--governador--cf-144-p6",
+  "analise_id": "pr-240002544118-reduzir-comissionados-25--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-comissionados-25--governador--cf-169-p1",
+  "analise_id": "pr-240002544118-reduzir-comissionados-25--governador",
+  "regra_id": "cf-169-p1",
+  "papel": "LIMIT",
+  "hash_dispositivo": "34b986ed1854",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-comissionados-25--governador--cf-37-v",
+  "analise_id": "pr-240002544118-reduzir-comissionados-25--governador",
+  "regra_id": "cf-37-v",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "186f2c9925cd",
+  "nota": "O Governador nomeia e exonera os ocupantes de cargos em comissão, destinados apenas a direção, chefia e assessoramento.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-tempo-integral-2030--governador--ce-sc",
+  "analise_id": "pr-240002544118-tempo-integral-2030--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-tempo-integral-2030--governador--cf-144-p6",
+  "analise_id": "pr-240002544118-tempo-integral-2030--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-tempo-integral-2030--governador--cf-211-p3",
+  "analise_id": "pr-240002544118-tempo-integral-2030--governador",
+  "regra_id": "cf-211-p3",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "439b7ffe28e8",
+  "nota": "Os Estados atuam prioritariamente no ensino fundamental e médio; a gestão da rede estadual cabe ao Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-tempo-integral-2030--governador--cf-212",
+  "analise_id": "pr-240002544118-tempo-integral-2030--governador",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-tempo-integral-2030--governador--cf-22-xxiv",
+  "analise_id": "pr-240002544118-tempo-integral-2030--governador",
+  "regra_id": "cf-22-xxiv",
+  "papel": "LIMIT",
+  "hash_dispositivo": "2225e31e6c81",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-tempo-integral-2030--governador--cf-24-ix",
+  "analise_id": "pr-240002544118-tempo-integral-2030--governador",
+  "regra_id": "cf-24-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla sobre educação e ensino de forma concorrente, observadas as normas gerais federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-travessia-itajai-navegantes--governador--ce-sc",
+  "analise_id": "pr-240002544118-travessia-itajai-navegantes--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-travessia-itajai-navegantes--governador--cf-144-p6",
+  "analise_id": "pr-240002544118-travessia-itajai-navegantes--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-travessia-itajai-navegantes--governador--cf-175",
+  "analise_id": "pr-240002544118-travessia-itajai-navegantes--governador",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002544118-travessia-itajai-navegantes--governador--cf-25-p1",
+  "analise_id": "pr-240002544118-travessia-itajai-navegantes--governador",
+  "regra_id": "cf-25-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Cabem ao Estado as competências que não lhe sejam vedadas, entre elas as obras e a manutenção das rodovias estaduais, executadas pelo Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-apoio-tarifa-zero--governador--cf-30-v",
+  "analise_id": "pr-240002548628-apoio-tarifa-zero--governador",
+  "regra_id": "cf-30-v",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Organizar e prestar o transporte coletivo urbano é competência do Município.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-autonomia-udesc--governador--ce-sc",
+  "analise_id": "pr-240002548628-autonomia-udesc--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-autonomia-udesc--governador--cf-212",
+  "analise_id": "pr-240002548628-autonomia-udesc--governador",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-autonomia-udesc--governador--cf-22-xxiv",
+  "analise_id": "pr-240002548628-autonomia-udesc--governador",
+  "regra_id": "cf-22-xxiv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "A União fixa as diretrizes e bases da educação nacional, inclusive do ensino superior.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-autonomia-udesc--governador--cf-23-v",
+  "analise_id": "pr-240002548628-autonomia-udesc--governador",
+  "regra_id": "cf-23-v",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Proporcionar meios de acesso à educação é competência comum; o Estado mantém sua universidade e seus programas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-autonomia-udesc--governador--cf-24-ix",
+  "analise_id": "pr-240002548628-autonomia-udesc--governador",
+  "regra_id": "cf-24-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla de forma concorrente sobre educação e ensino, inclusive sobre programas estaduais de acesso ao ensino superior.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-autonomia-udesc--governador--cf-25",
+  "analise_id": "pr-240002548628-autonomia-udesc--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-cameras-corporais--governador--ce-sc",
+  "analise_id": "pr-240002548628-cameras-corporais--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-cameras-corporais--governador--cf-144-p6",
+  "analise_id": "pr-240002548628-cameras-corporais--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "A Polícia Militar, a quem cabem o policiamento ostensivo e a preservação da ordem pública, subordina-se ao Governador.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-caps-iii--governador--ce-sc",
+  "analise_id": "pr-240002548628-caps-iii--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-caps-iii--governador--cf-144-p6",
+  "analise_id": "pr-240002548628-caps-iii--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-caps-iii--governador--cf-23-ii",
+  "analise_id": "pr-240002548628-caps-iii--governador",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; o Estado atua com sua própria rede e em cooperação com os Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-caps-iii--governador--cf-30-vii",
+  "analise_id": "pr-240002548628-caps-iii--governador",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-centros-regionais-especialidades--governador--ce-sc",
+  "analise_id": "pr-240002548628-centros-regionais-especialidades--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-centros-regionais-especialidades--governador--cf-144-p6",
+  "analise_id": "pr-240002548628-centros-regionais-especialidades--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-centros-regionais-especialidades--governador--cf-23-ii",
+  "analise_id": "pr-240002548628-centros-regionais-especialidades--governador",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; o Estado atua com sua própria rede e em cooperação com os Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-centros-regionais-especialidades--governador--cf-30-vii",
+  "analise_id": "pr-240002548628-centros-regionais-especialidades--governador",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-orgao-habitacao--governador--ce-sc",
+  "analise_id": "pr-240002548628-orgao-habitacao--governador",
+  "regra_id": "ce-sc",
+  "papel": "COMPETENCE",
+  "nota": "A criação e a extinção de secretarias e órgãos do Estado dependem de lei estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-orgao-habitacao--governador--cf-169-p1",
+  "analise_id": "pr-240002548628-orgao-habitacao--governador",
+  "regra_id": "cf-169-p1",
+  "papel": "LIMIT",
+  "hash_dispositivo": "34b986ed1854",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-orgao-habitacao--governador--cf-25",
+  "analise_id": "pr-240002548628-orgao-habitacao--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-reducao-agrotoxicos--governador--ce-sc",
+  "analise_id": "pr-240002548628-reducao-agrotoxicos--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-reducao-agrotoxicos--governador--cf-144-p6",
+  "analise_id": "pr-240002548628-reducao-agrotoxicos--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-reducao-agrotoxicos--governador--cf-225",
+  "analise_id": "pr-240002548628-reducao-agrotoxicos--governador",
+  "regra_id": "cf-225",
+  "papel": "LIMIT",
+  "hash_dispositivo": "708063d67082",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-reducao-agrotoxicos--governador--cf-23-vi",
+  "analise_id": "pr-240002548628-reducao-agrotoxicos--governador",
+  "regra_id": "cf-23-vi",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Proteger o meio ambiente é competência comum; o Estado atua por seus órgãos ambientais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-secretaria-bem-estar-animal--governador--ce-sc",
+  "analise_id": "pr-240002548628-secretaria-bem-estar-animal--governador",
+  "regra_id": "ce-sc",
+  "papel": "COMPETENCE",
+  "nota": "A criação e a extinção de secretarias e órgãos do Estado dependem de lei estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-secretaria-bem-estar-animal--governador--cf-169-p1",
+  "analise_id": "pr-240002548628-secretaria-bem-estar-animal--governador",
+  "regra_id": "cf-169-p1",
+  "papel": "LIMIT",
+  "hash_dispositivo": "34b986ed1854",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002548628-secretaria-bem-estar-animal--governador--cf-25",
+  "analise_id": "pr-240002548628-secretaria-bem-estar-animal--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-cameras-corporais--governador--ce-sc",
+  "analise_id": "pr-240002550544-cameras-corporais--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-cameras-corporais--governador--cf-144-p6",
+  "analise_id": "pr-240002550544-cameras-corporais--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "A Polícia Militar, a quem cabem o policiamento ostensivo e a preservação da ordem pública, subordina-se ao Governador.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-delegacias-mulher-24h--governador--ce-sc",
+  "analise_id": "pr-240002550544-delegacias-mulher-24h--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-delegacias-mulher-24h--governador--cf-144-p4",
+  "analise_id": "pr-240002550544-delegacias-mulher-24h--governador",
+  "regra_id": "cf-144-p4",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "A Polícia Civil, que exerce a polícia judiciária e apura infrações penais, subordina-se ao Governador.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-delegacias-mulher-24h--governador--cf-144-p6",
+  "analise_id": "pr-240002550544-delegacias-mulher-24h--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-eleicao-diretores--governador--ce-sc",
+  "analise_id": "pr-240002550544-eleicao-diretores--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-eleicao-diretores--governador--cf-144-p6",
+  "analise_id": "pr-240002550544-eleicao-diretores--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-eleicao-diretores--governador--cf-211-p3",
+  "analise_id": "pr-240002550544-eleicao-diretores--governador",
+  "regra_id": "cf-211-p3",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "439b7ffe28e8",
+  "nota": "Os Estados atuam prioritariamente no ensino fundamental e médio; a gestão da rede estadual cabe ao Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-eleicao-diretores--governador--cf-212",
+  "analise_id": "pr-240002550544-eleicao-diretores--governador",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-eleicao-diretores--governador--cf-22-xxiv",
+  "analise_id": "pr-240002550544-eleicao-diretores--governador",
+  "regra_id": "cf-22-xxiv",
+  "papel": "LIMIT",
+  "hash_dispositivo": "2225e31e6c81",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-eleicao-diretores--governador--cf-24-ix",
+  "analise_id": "pr-240002550544-eleicao-diretores--governador",
+  "regra_id": "cf-24-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla sobre educação e ensino de forma concorrente, observadas as normas gerais federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-orcamento-participativo--governador--ce-sc",
+  "analise_id": "pr-240002550544-orcamento-participativo--governador",
+  "regra_id": "ce-sc",
+  "papel": "COMPETENCE",
+  "nota": "O orçamento do Estado é aprovado pela Assembleia Legislativa, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-professores-36h--governador--ce-sc",
+  "analise_id": "pr-240002550544-professores-36h--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-professores-36h--governador--cf-169-p1",
+  "analise_id": "pr-240002550544-professores-36h--governador",
+  "regra_id": "cf-169-p1",
+  "papel": "LIMIT",
+  "hash_dispositivo": "34b986ed1854",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-professores-36h--governador--cf-25",
+  "analise_id": "pr-240002550544-professores-36h--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-professores-36h--governador--cf-37-ii",
+  "analise_id": "pr-240002550544-professores-36h--governador",
+  "regra_id": "cf-37-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "186f2c9925cd",
+  "nota": "Cargos, carreiras, jornada e remuneração dos servidores estaduais são fixados em lei, e a investidura depende de concurso público.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-restabelecer-cohab--governador--ce-sc",
+  "analise_id": "pr-240002550544-restabelecer-cohab--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-restabelecer-cohab--governador--cf-173",
+  "analise_id": "pr-240002550544-restabelecer-cohab--governador",
+  "regra_id": "cf-173",
+  "papel": "LIMIT",
+  "hash_dispositivo": "f6dafcb6ad48",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-restabelecer-cohab--governador--cf-25",
+  "analise_id": "pr-240002550544-restabelecer-cohab--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-restabelecer-cohab--governador--cf-37-xix",
+  "analise_id": "pr-240002550544-restabelecer-cohab--governador",
+  "regra_id": "cf-37-xix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "186f2c9925cd",
+  "nota": "A criação de empresa pública ou sociedade de economia mista depende de lei específica.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-revisar-incentivos-fiscais--governador--ce-sc",
+  "analise_id": "pr-240002550544-revisar-incentivos-fiscais--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-revisar-incentivos-fiscais--governador--cf-150-p6",
+  "analise_id": "pr-240002550544-revisar-incentivos-fiscais--governador",
+  "regra_id": "cf-150-p6",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-revisar-incentivos-fiscais--governador--cf-155-ii",
+  "analise_id": "pr-240002550544-revisar-incentivos-fiscais--governador",
+  "regra_id": "cf-155-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "c3593e6b50c5",
+  "nota": "Instituir e alterar o ICMS é competência do Estado, exercida por lei estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-revisar-incentivos-fiscais--governador--cf-155-p2-xii-g",
+  "analise_id": "pr-240002550544-revisar-incentivos-fiscais--governador",
+  "regra_id": "cf-155-p2-xii-g",
+  "papel": "LIMIT",
+  "hash_dispositivo": "c3593e6b50c5",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-revisar-incentivos-fiscais--governador--cf-25",
+  "analise_id": "pr-240002550544-revisar-incentivos-fiscais--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-suspender-universidade-gratuita--governador--ce-sc",
+  "analise_id": "pr-240002550544-suspender-universidade-gratuita--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-suspender-universidade-gratuita--governador--cf-212",
+  "analise_id": "pr-240002550544-suspender-universidade-gratuita--governador",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-suspender-universidade-gratuita--governador--cf-22-xxiv",
+  "analise_id": "pr-240002550544-suspender-universidade-gratuita--governador",
+  "regra_id": "cf-22-xxiv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "A União fixa as diretrizes e bases da educação nacional, inclusive do ensino superior.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-suspender-universidade-gratuita--governador--cf-23-v",
+  "analise_id": "pr-240002550544-suspender-universidade-gratuita--governador",
+  "regra_id": "cf-23-v",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Proporcionar meios de acesso à educação é competência comum; o Estado mantém sua universidade e seus programas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-suspender-universidade-gratuita--governador--cf-24-ix",
+  "analise_id": "pr-240002550544-suspender-universidade-gratuita--governador",
+  "regra_id": "cf-24-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla de forma concorrente sobre educação e ensino, inclusive sobre programas estaduais de acesso ao ensino superior.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002550544-suspender-universidade-gratuita--governador--cf-25",
+  "analise_id": "pr-240002550544-suspender-universidade-gratuita--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-apoio-creches--governador--ce-sc",
+  "analise_id": "pr-240002551001-apoio-creches--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-apoio-creches--governador--cf-144-p6",
+  "analise_id": "pr-240002551001-apoio-creches--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-apoio-creches--governador--cf-211-p3",
+  "analise_id": "pr-240002551001-apoio-creches--governador",
+  "regra_id": "cf-211-p3",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "439b7ffe28e8",
+  "nota": "Os Estados atuam prioritariamente no ensino fundamental e médio; a gestão da rede estadual cabe ao Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-apoio-creches--governador--cf-212",
+  "analise_id": "pr-240002551001-apoio-creches--governador",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-apoio-creches--governador--cf-22-xxiv",
+  "analise_id": "pr-240002551001-apoio-creches--governador",
+  "regra_id": "cf-22-xxiv",
+  "papel": "LIMIT",
+  "hash_dispositivo": "2225e31e6c81",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-apoio-creches--governador--cf-24-ix",
+  "analise_id": "pr-240002551001-apoio-creches--governador",
+  "regra_id": "cf-24-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla sobre educação e ensino de forma concorrente, observadas as normas gerais federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-forca-tarefa-cirurgias--governador--ce-sc",
+  "analise_id": "pr-240002551001-forca-tarefa-cirurgias--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-forca-tarefa-cirurgias--governador--cf-144-p6",
+  "analise_id": "pr-240002551001-forca-tarefa-cirurgias--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-forca-tarefa-cirurgias--governador--cf-23-ii",
+  "analise_id": "pr-240002551001-forca-tarefa-cirurgias--governador",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; o Estado atua com sua própria rede e em cooperação com os Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-forca-tarefa-cirurgias--governador--cf-30-vii",
+  "analise_id": "pr-240002551001-forca-tarefa-cirurgias--governador",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-investimento-15-rcl--governador--ce-sc",
+  "analise_id": "pr-240002551001-investimento-15-rcl--governador",
+  "regra_id": "ce-sc",
+  "papel": "COMPETENCE",
+  "nota": "O orçamento do Estado é aprovado pela Assembleia Legislativa, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-muralha-digital--governador--ce-sc",
+  "analise_id": "pr-240002551001-muralha-digital--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-muralha-digital--governador--cf-144-p6",
+  "analise_id": "pr-240002551001-muralha-digital--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "A Polícia Militar, a quem cabem o policiamento ostensivo e a preservação da ordem pública, subordina-se ao Governador.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-policiais-reserva--governador--ce-sc",
+  "analise_id": "pr-240002551001-policiais-reserva--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-policiais-reserva--governador--cf-144-p6",
+  "analise_id": "pr-240002551001-policiais-reserva--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-policiais-reserva--governador--cf-169-p1",
+  "analise_id": "pr-240002551001-policiais-reserva--governador",
+  "regra_id": "cf-169-p1",
+  "papel": "LIMIT",
+  "hash_dispositivo": "34b986ed1854",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-policiais-reserva--governador--cf-37-ii",
+  "analise_id": "pr-240002551001-policiais-reserva--governador",
+  "regra_id": "cf-37-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "186f2c9925cd",
+  "nota": "Abrir concurso e nomear aprovados para cargos já existentes é ato do Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-tempo-integral-ensino-medio--governador--ce-sc",
+  "analise_id": "pr-240002551001-tempo-integral-ensino-medio--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-tempo-integral-ensino-medio--governador--cf-144-p6",
+  "analise_id": "pr-240002551001-tempo-integral-ensino-medio--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-tempo-integral-ensino-medio--governador--cf-211-p3",
+  "analise_id": "pr-240002551001-tempo-integral-ensino-medio--governador",
+  "regra_id": "cf-211-p3",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "439b7ffe28e8",
+  "nota": "Os Estados atuam prioritariamente no ensino fundamental e médio; a gestão da rede estadual cabe ao Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-tempo-integral-ensino-medio--governador--cf-212",
+  "analise_id": "pr-240002551001-tempo-integral-ensino-medio--governador",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-tempo-integral-ensino-medio--governador--cf-22-xxiv",
+  "analise_id": "pr-240002551001-tempo-integral-ensino-medio--governador",
+  "regra_id": "cf-22-xxiv",
+  "papel": "LIMIT",
+  "hash_dispositivo": "2225e31e6c81",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-tempo-integral-ensino-medio--governador--cf-24-ix",
+  "analise_id": "pr-240002551001-tempo-integral-ensino-medio--governador",
+  "regra_id": "cf-24-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla sobre educação e ensino de forma concorrente, observadas as normas gerais federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-udesc--governador--ce-sc",
+  "analise_id": "pr-240002551001-udesc--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-udesc--governador--cf-212",
+  "analise_id": "pr-240002551001-udesc--governador",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-udesc--governador--cf-22-xxiv",
+  "analise_id": "pr-240002551001-udesc--governador",
+  "regra_id": "cf-22-xxiv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "A União fixa as diretrizes e bases da educação nacional, inclusive do ensino superior.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-udesc--governador--cf-23-v",
+  "analise_id": "pr-240002551001-udesc--governador",
+  "regra_id": "cf-23-v",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Proporcionar meios de acesso à educação é competência comum; o Estado mantém sua universidade e seus programas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-udesc--governador--cf-24-ix",
+  "analise_id": "pr-240002551001-udesc--governador",
+  "regra_id": "cf-24-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla de forma concorrente sobre educação e ensino, inclusive sobre programas estaduais de acesso ao ensino superior.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002551001-udesc--governador--cf-25",
+  "analise_id": "pr-240002551001-udesc--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-aplicativo-condenados-violencia-mulher--governador--ce-sc",
+  "analise_id": "pr-240002552157-aplicativo-condenados-violencia-mulher--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-aplicativo-condenados-violencia-mulher--governador--cf-144-p6",
+  "analise_id": "pr-240002552157-aplicativo-condenados-violencia-mulher--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-aplicativo-condenados-violencia-mulher--governador--cf-25",
+  "analise_id": "pr-240002552157-aplicativo-condenados-violencia-mulher--governador",
+  "regra_id": "cf-25",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "O Estado organiza-se por sua Constituição e suas leis; a direção da administração estadual cabe ao Governador.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-cheias-itajai-acu--governador--ce-sc",
+  "analise_id": "pr-240002552157-cheias-itajai-acu--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-cheias-itajai-acu--governador--cf-144-p6",
+  "analise_id": "pr-240002552157-cheias-itajai-acu--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-cheias-itajai-acu--governador--cf-175",
+  "analise_id": "pr-240002552157-cheias-itajai-acu--governador",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-cheias-itajai-acu--governador--cf-25-p1",
+  "analise_id": "pr-240002552157-cheias-itajai-acu--governador",
+  "regra_id": "cf-25-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Cabem ao Estado as competências que não lhe sejam vedadas, entre elas as obras e a manutenção das rodovias estaduais, executadas pelo Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-duplicacao-br-282--governador--cf-175",
+  "analise_id": "pr-240002552157-duplicacao-br-282--governador",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-duplicacao-br-282--governador--cf-21-xii",
+  "analise_id": "pr-240002552157-duplicacao-br-282--governador",
+  "regra_id": "cf-21-xii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "1ef86eadce60",
+  "nota": "Cabe à União explorar, diretamente ou por concessão, serviços como energia elétrica, transporte ferroviário e aquaviário, portos e aeroportos, e estabelecer o sistema nacional de viação, do qual fazem parte as rodovias federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-duplicacao-br-282--governador--cf-84-ii",
+  "analise_id": "pr-240002552157-duplicacao-br-282--governador",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-hospital-queimados--governador--ce-sc",
+  "analise_id": "pr-240002552157-hospital-queimados--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-hospital-queimados--governador--cf-144-p6",
+  "analise_id": "pr-240002552157-hospital-queimados--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-hospital-queimados--governador--cf-23-ii",
+  "analise_id": "pr-240002552157-hospital-queimados--governador",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; o Estado atua com sua própria rede e em cooperação com os Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-hospital-queimados--governador--cf-30-vii",
+  "analise_id": "pr-240002552157-hospital-queimados--governador",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-lei-verbas-comunicacao--governador--ce-sc",
+  "analise_id": "pr-240002552157-lei-verbas-comunicacao--governador",
+  "regra_id": "ce-sc",
+  "papel": "INITIATIVE",
+  "nota": "Apresentar projetos de lei à Assembleia e sancioná-los ou vetá-los, nos termos da Constituição do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-lei-verbas-comunicacao--governador--cf-25",
+  "analise_id": "pr-240002552157-lei-verbas-comunicacao--governador",
+  "regra_id": "cf-25",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Regras permanentes sobre a administração estadual são fixadas em lei estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-secretaria-logistica-ferrovia--governador--ce-sc",
+  "analise_id": "pr-240002552157-secretaria-logistica-ferrovia--governador",
+  "regra_id": "ce-sc",
+  "papel": "COMPETENCE",
+  "nota": "A criação e a extinção de secretarias e órgãos do Estado dependem de lei estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-secretaria-logistica-ferrovia--governador--cf-169-p1",
+  "analise_id": "pr-240002552157-secretaria-logistica-ferrovia--governador",
+  "regra_id": "cf-169-p1",
+  "papel": "LIMIT",
+  "hash_dispositivo": "34b986ed1854",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-secretaria-logistica-ferrovia--governador--cf-25",
+  "analise_id": "pr-240002552157-secretaria-logistica-ferrovia--governador",
+  "regra_id": "cf-25",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "9b0da6a84258",
+  "nota": "Projeto de lei estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-tempo-integral--governador--ce-sc",
+  "analise_id": "pr-240002552157-tempo-integral--governador",
+  "regra_id": "ce-sc",
+  "papel": "INSTRUMENT",
+  "nota": "Ato de gestão do Poder Executivo estadual",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-tempo-integral--governador--cf-144-p6",
+  "analise_id": "pr-240002552157-tempo-integral--governador",
+  "regra_id": "cf-144-p6",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "Comandar as polícias militar, civil e penal e o corpo de bombeiros militar do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-tempo-integral--governador--cf-211-p3",
+  "analise_id": "pr-240002552157-tempo-integral--governador",
+  "regra_id": "cf-211-p3",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "439b7ffe28e8",
+  "nota": "Os Estados atuam prioritariamente no ensino fundamental e médio; a gestão da rede estadual cabe ao Poder Executivo estadual.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-tempo-integral--governador--cf-212",
+  "analise_id": "pr-240002552157-tempo-integral--governador",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-tempo-integral--governador--cf-22-xxiv",
+  "analise_id": "pr-240002552157-tempo-integral--governador",
+  "regra_id": "cf-22-xxiv",
+  "papel": "LIMIT",
+  "hash_dispositivo": "2225e31e6c81",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002552157-tempo-integral--governador--cf-24-ix",
+  "analise_id": "pr-240002552157-tempo-integral--governador",
+  "regra_id": "cf-24-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "O Estado legisla sobre educação e ensino de forma concorrente, observadas as normas gerais federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-combustiveis-50--governador--cf-173",
+  "analise_id": "pr-240002553718-combustiveis-50--governador",
+  "regra_id": "cf-173",
+  "papel": "LIMIT",
+  "hash_dispositivo": "f6dafcb6ad48",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-combustiveis-50--governador--cf-37-xix",
+  "analise_id": "pr-240002553718-combustiveis-50--governador",
+  "regra_id": "cf-37-xix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "186f2c9925cd",
+  "nota": "A criação de empresa pública ou sociedade de economia mista depende de lei específica.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-combustiveis-50--governador--cf-61",
+  "analise_id": "pr-240002553718-combustiveis-50--governador",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-combustiveis-50--governador--cf-65",
+  "analise_id": "pr-240002553718-combustiveis-50--governador",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-combustiveis-50--governador--cf-66",
+  "analise_id": "pr-240002553718-combustiveis-50--governador",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-combustiveis-50--governador--cf-66-p4",
+  "analise_id": "pr-240002553718-combustiveis-50--governador",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-dissolucao-policia-militar--governador--cf-60-i",
+  "analise_id": "pr-240002553718-dissolucao-policia-militar--governador",
+  "regra_id": "cf-60-i",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta subscrita por um terço, no mínimo, dos Deputados Federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-dissolucao-policia-militar--governador--cf-60-ii",
+  "analise_id": "pr-240002553718-dissolucao-policia-militar--governador",
+  "regra_id": "cf-60-ii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-dissolucao-policia-militar--governador--cf-60-iii",
+  "analise_id": "pr-240002553718-dissolucao-policia-militar--governador",
+  "regra_id": "cf-60-iii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-dissolucao-policia-militar--governador--cf-60-p2",
+  "analise_id": "pr-240002553718-dissolucao-policia-militar--governador",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-dissolucao-policia-militar--governador--cf-60-p3",
+  "analise_id": "pr-240002553718-dissolucao-policia-militar--governador",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-dissolucao-policia-militar--governador--cf-60-p4",
+  "analise_id": "pr-240002553718-dissolucao-policia-militar--governador",
+  "regra_id": "cf-60-p4",
+  "papel": "LIMIT",
+  "hash_dispositivo": "914f96eb16dc",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-do-stf--governador--cf-60-i",
+  "analise_id": "pr-240002553718-fim-do-stf--governador",
+  "regra_id": "cf-60-i",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta subscrita por um terço, no mínimo, dos Deputados Federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-do-stf--governador--cf-60-ii",
+  "analise_id": "pr-240002553718-fim-do-stf--governador",
+  "regra_id": "cf-60-ii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-do-stf--governador--cf-60-iii",
+  "analise_id": "pr-240002553718-fim-do-stf--governador",
+  "regra_id": "cf-60-iii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-do-stf--governador--cf-60-p2",
+  "analise_id": "pr-240002553718-fim-do-stf--governador",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-do-stf--governador--cf-60-p3",
+  "analise_id": "pr-240002553718-fim-do-stf--governador",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-do-stf--governador--cf-60-p4",
+  "analise_id": "pr-240002553718-fim-do-stf--governador",
+  "regra_id": "cf-60-p4",
+  "papel": "LIMIT",
+  "hash_dispositivo": "914f96eb16dc",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-lrf-teto--governador--cf-163-i",
+  "analise_id": "pr-240002553718-fim-lrf-teto--governador",
+  "regra_id": "cf-163-i",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "a356878ce9cf",
+  "nota": "Lei complementar dispõe sobre finanças públicas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-lrf-teto--governador--cf-61",
+  "analise_id": "pr-240002553718-fim-lrf-teto--governador",
+  "regra_id": "cf-61",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Qualquer Deputado ou comissão da Câmara pode apresentar o projeto.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-lrf-teto--governador--cf-65",
+  "analise_id": "pr-240002553718-fim-lrf-teto--governador",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Revisão pela outra Casa, com aprovação por maioria absoluta; se houver emendas, o projeto volta à Casa iniciadora.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-lrf-teto--governador--cf-66",
+  "analise_id": "pr-240002553718-fim-lrf-teto--governador",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-lrf-teto--governador--cf-66-p4",
+  "analise_id": "pr-240002553718-fim-lrf-teto--governador",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-fim-lrf-teto--governador--cf-69",
+  "analise_id": "pr-240002553718-fim-lrf-teto--governador",
+  "regra_id": "cf-69",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "3690a9984abd",
+  "nota": "Projeto de lei complementar federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--governador--cf-22-i",
+  "analise_id": "pr-240002553718-jornada-35-horas--governador",
+  "regra_id": "cf-22-i",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "Legislar sobre direito do trabalho é competência privativa da União.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--governador--cf-60-i",
+  "analise_id": "pr-240002553718-jornada-35-horas--governador",
+  "regra_id": "cf-60-i",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta subscrita por um terço, no mínimo, dos Deputados Federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--governador--cf-60-ii",
+  "analise_id": "pr-240002553718-jornada-35-horas--governador",
+  "regra_id": "cf-60-ii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--governador--cf-60-iii",
+  "analise_id": "pr-240002553718-jornada-35-horas--governador",
+  "regra_id": "cf-60-iii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--governador--cf-60-p2",
+  "analise_id": "pr-240002553718-jornada-35-horas--governador",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--governador--cf-60-p3",
+  "analise_id": "pr-240002553718-jornada-35-horas--governador",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--governador--cf-7-xiii",
+  "analise_id": "pr-240002553718-jornada-35-horas--governador",
+  "regra_id": "cf-7-xiii",
+  "papel": "LIMIT",
+  "hash_dispositivo": "45c335bde962",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-piso-professores-8500--governador--cf-206-viii",
+  "analise_id": "pr-240002553718-piso-professores-8500--governador",
+  "regra_id": "cf-206-viii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "d521a298a86b",
+  "nota": "O piso salarial profissional nacional dos profissionais da educação escolar pública é fixado em lei federal.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-piso-professores-8500--governador--cf-61",
+  "analise_id": "pr-240002553718-piso-professores-8500--governador",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-piso-professores-8500--governador--cf-65",
+  "analise_id": "pr-240002553718-piso-professores-8500--governador",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-piso-professores-8500--governador--cf-66",
+  "analise_id": "pr-240002553718-piso-professores-8500--governador",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-piso-professores-8500--governador--cf-66-p4",
+  "analise_id": "pr-240002553718-piso-professores-8500--governador",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-salario-minimo-7500--governador--cf-61",
+  "analise_id": "pr-240002553718-salario-minimo-7500--governador",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-salario-minimo-7500--governador--cf-65",
+  "analise_id": "pr-240002553718-salario-minimo-7500--governador",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-salario-minimo-7500--governador--cf-66",
+  "analise_id": "pr-240002553718-salario-minimo-7500--governador",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-salario-minimo-7500--governador--cf-66-p4",
+  "analise_id": "pr-240002553718-salario-minimo-7500--governador",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-240002553718-salario-minimo-7500--governador--cf-7-iv",
+  "analise_id": "pr-240002553718-salario-minimo-7500--governador",
+  "regra_id": "cf-7-iv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "45c335bde962",
+  "nota": "O salário mínimo é fixado em lei, nacionalmente unificado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-alfabetizacao-80--presidente--cf-211-p1",
+  "analise_id": "pr-280002542548-alfabetizacao-80--presidente",
+  "regra_id": "cf-211-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "439b7ffe28e8",
+  "nota": "A União organiza o sistema federal de ensino e exerce função redistributiva e supletiva em relação aos Estados e Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-alfabetizacao-80--presidente--cf-212",
+  "analise_id": "pr-280002542548-alfabetizacao-80--presidente",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-alfabetizacao-80--presidente--cf-22-xxiv",
+  "analise_id": "pr-280002542548-alfabetizacao-80--presidente",
+  "regra_id": "cf-22-xxiv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "Legislar sobre diretrizes e bases da educação nacional é competência privativa da União.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-alfabetizacao-80--presidente--cf-84-ii",
+  "analise_id": "pr-280002542548-alfabetizacao-80--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-alianca-tfff--presidente--cf-49-i",
+  "analise_id": "pr-280002542548-alianca-tfff--presidente",
+  "regra_id": "cf-49-i",
+  "papel": "LIMIT",
+  "hash_dispositivo": "c18e0d04381d",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-alianca-tfff--presidente--cf-84-ii",
+  "analise_id": "pr-280002542548-alianca-tfff--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-alianca-tfff--presidente--cf-84-vii",
+  "analise_id": "pr-280002542548-alianca-tfff--presidente",
+  "regra_id": "cf-84-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Manter relações com Estados estrangeiros é competência privativa do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-alianca-tfff--presidente--cf-84-viii",
+  "analise_id": "pr-280002542548-alianca-tfff--presidente",
+  "regra_id": "cf-84-viii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Tratados e atos internacionais celebrados pelo Presidente dependem de referendo do Congresso Nacional.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-arcabouco-fiscal--presidente--cf-163-i",
+  "analise_id": "pr-280002542548-arcabouco-fiscal--presidente",
+  "regra_id": "cf-163-i",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "a356878ce9cf",
+  "nota": "Lei complementar dispõe sobre finanças públicas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-arcabouco-fiscal--presidente--cf-61",
+  "analise_id": "pr-280002542548-arcabouco-fiscal--presidente",
+  "regra_id": "cf-61",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Qualquer Deputado ou comissão da Câmara pode apresentar o projeto.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-arcabouco-fiscal--presidente--cf-65",
+  "analise_id": "pr-280002542548-arcabouco-fiscal--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Revisão pela outra Casa, com aprovação por maioria absoluta; se houver emendas, o projeto volta à Casa iniciadora.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-arcabouco-fiscal--presidente--cf-66",
+  "analise_id": "pr-280002542548-arcabouco-fiscal--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-arcabouco-fiscal--presidente--cf-66-p4",
+  "analise_id": "pr-280002542548-arcabouco-fiscal--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-arcabouco-fiscal--presidente--cf-69",
+  "analise_id": "pr-280002542548-arcabouco-fiscal--presidente",
+  "regra_id": "cf-69",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "3690a9984abd",
+  "nota": "Projeto de lei complementar federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-casas-mulher--presidente--cf-203",
+  "analise_id": "pr-280002542548-casas-mulher--presidente",
+  "regra_id": "cf-203",
+  "papel": "LIMIT",
+  "hash_dispositivo": "25874e5d0de6",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-casas-mulher--presidente--cf-23-x",
+  "analise_id": "pr-280002542548-casas-mulher--presidente",
+  "regra_id": "cf-23-x",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Combater as causas da pobreza é competência comum; a União mantém programas nacionais de assistência social.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-casas-mulher--presidente--cf-84-ii",
+  "analise_id": "pr-280002542548-casas-mulher--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-desmatamento-zero--presidente--cf-225",
+  "analise_id": "pr-280002542548-desmatamento-zero--presidente",
+  "regra_id": "cf-225",
+  "papel": "LIMIT",
+  "hash_dispositivo": "708063d67082",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-desmatamento-zero--presidente--cf-23-vi",
+  "analise_id": "pr-280002542548-desmatamento-zero--presidente",
+  "regra_id": "cf-23-vi",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Proteger o meio ambiente é competência comum da União, dos Estados e dos Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-desmatamento-zero--presidente--cf-84-ii",
+  "analise_id": "pr-280002542548-desmatamento-zero--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-emendas--presidente--cf-60-i",
+  "analise_id": "pr-280002542548-emendas--presidente",
+  "regra_id": "cf-60-i",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta subscrita por um terço, no mínimo, dos Deputados Federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-emendas--presidente--cf-60-ii",
+  "analise_id": "pr-280002542548-emendas--presidente",
+  "regra_id": "cf-60-ii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Propor emenda à Constituição, que depende de aprovação por três quintos nas duas Casas e não passa por sanção.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-emendas--presidente--cf-60-iii",
+  "analise_id": "pr-280002542548-emendas--presidente",
+  "regra_id": "cf-60-iii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-emendas--presidente--cf-60-p2",
+  "analise_id": "pr-280002542548-emendas--presidente",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-emendas--presidente--cf-60-p3",
+  "analise_id": "pr-280002542548-emendas--presidente",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-emendas--presidente--cf-60-p4",
+  "analise_id": "pr-280002542548-emendas--presidente",
+  "regra_id": "cf-60-p4",
+  "papel": "LIMIT",
+  "hash_dispositivo": "914f96eb16dc",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-farmacia-exames--presidente--cf-23-ii",
+  "analise_id": "pr-280002542548-farmacia-exames--presidente",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; a União atua por seus programas e pela cooperação com Estados e Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-farmacia-exames--presidente--cf-30-vii",
+  "analise_id": "pr-280002542548-farmacia-exames--presidente",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-farmacia-exames--presidente--cf-84-ii",
+  "analise_id": "pr-280002542548-farmacia-exames--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fila-unica--presidente--cf-23-ii",
+  "analise_id": "pr-280002542548-fila-unica--presidente",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; a União atua por seus programas e pela cooperação com Estados e Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fila-unica--presidente--cf-30-vii",
+  "analise_id": "pr-280002542548-fila-unica--presidente",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fila-unica--presidente--cf-84-ii",
+  "analise_id": "pr-280002542548-fila-unica--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fim-6x1--presidente--cf-22-i",
+  "analise_id": "pr-280002542548-fim-6x1--presidente",
+  "regra_id": "cf-22-i",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "Legislar sobre direito do trabalho é competência privativa da União.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fim-6x1--presidente--cf-60-i",
+  "analise_id": "pr-280002542548-fim-6x1--presidente",
+  "regra_id": "cf-60-i",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta subscrita por um terço, no mínimo, dos Deputados Federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fim-6x1--presidente--cf-60-ii",
+  "analise_id": "pr-280002542548-fim-6x1--presidente",
+  "regra_id": "cf-60-ii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Propor emenda à Constituição, que depende de aprovação por três quintos nas duas Casas e não passa por sanção.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fim-6x1--presidente--cf-60-iii",
+  "analise_id": "pr-280002542548-fim-6x1--presidente",
+  "regra_id": "cf-60-iii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fim-6x1--presidente--cf-60-p2",
+  "analise_id": "pr-280002542548-fim-6x1--presidente",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fim-6x1--presidente--cf-60-p3",
+  "analise_id": "pr-280002542548-fim-6x1--presidente",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fim-6x1--presidente--cf-7-xiii",
+  "analise_id": "pr-280002542548-fim-6x1--presidente",
+  "regra_id": "cf-7-xiii",
+  "papel": "LIMIT",
+  "hash_dispositivo": "45c335bde962",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fndr--presidente--cf-150-i",
+  "analise_id": "pr-280002542548-fndr--presidente",
+  "regra_id": "cf-150-i",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fndr--presidente--cf-48-i",
+  "analise_id": "pr-280002542548-fndr--presidente",
+  "regra_id": "cf-48-i",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "bf3328cd5331",
+  "nota": "O Congresso Nacional dispõe sobre o sistema tributário, a arrecadação e a distribuição de rendas, com a sanção do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fndr--presidente--cf-61",
+  "analise_id": "pr-280002542548-fndr--presidente",
+  "regra_id": "cf-61",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Qualquer Deputado ou comissão da Câmara pode apresentar o projeto.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fndr--presidente--cf-65",
+  "analise_id": "pr-280002542548-fndr--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Revisão pela outra Casa, com aprovação por maioria absoluta; se houver emendas, o projeto volta à Casa iniciadora.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fndr--presidente--cf-66",
+  "analise_id": "pr-280002542548-fndr--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fndr--presidente--cf-66-p4",
+  "analise_id": "pr-280002542548-fndr--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-fndr--presidente--cf-69",
+  "analise_id": "pr-280002542548-fndr--presidente",
+  "regra_id": "cf-69",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "3690a9984abd",
+  "nota": "Projeto de lei complementar federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-imposto-seletivo--presidente--cf-150-i",
+  "analise_id": "pr-280002542548-imposto-seletivo--presidente",
+  "regra_id": "cf-150-i",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-imposto-seletivo--presidente--cf-48-i",
+  "analise_id": "pr-280002542548-imposto-seletivo--presidente",
+  "regra_id": "cf-48-i",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "bf3328cd5331",
+  "nota": "O Congresso Nacional dispõe sobre o sistema tributário, a arrecadação e a distribuição de rendas, com a sanção do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-imposto-seletivo--presidente--cf-61",
+  "analise_id": "pr-280002542548-imposto-seletivo--presidente",
+  "regra_id": "cf-61",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Qualquer Deputado ou comissão da Câmara pode apresentar o projeto.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-imposto-seletivo--presidente--cf-65",
+  "analise_id": "pr-280002542548-imposto-seletivo--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Revisão pela outra Casa, com aprovação por maioria absoluta; se houver emendas, o projeto volta à Casa iniciadora.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-imposto-seletivo--presidente--cf-66",
+  "analise_id": "pr-280002542548-imposto-seletivo--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-imposto-seletivo--presidente--cf-66-p4",
+  "analise_id": "pr-280002542548-imposto-seletivo--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-imposto-seletivo--presidente--cf-69",
+  "analise_id": "pr-280002542548-imposto-seletivo--presidente",
+  "regra_id": "cf-69",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "3690a9984abd",
+  "nota": "Projeto de lei complementar federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-mcmv--presidente--cf-23-ix",
+  "analise_id": "pr-280002542548-mcmv--presidente",
+  "regra_id": "cf-23-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Promover programas de moradia e saneamento é competência comum da União, dos Estados e dos Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-mcmv--presidente--cf-84-ii",
+  "analise_id": "pr-280002542548-mcmv--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--presidente--cf-169-p1",
+  "analise_id": "pr-280002542548-ministerio-seguranca--presidente",
+  "regra_id": "cf-169-p1",
+  "papel": "LIMIT",
+  "hash_dispositivo": "34b986ed1854",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--presidente--cf-61",
+  "analise_id": "pr-280002542548-ministerio-seguranca--presidente",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--presidente--cf-62",
+  "analise_id": "pr-280002542548-ministerio-seguranca--presidente",
+  "regra_id": "cf-62",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "dfeaf07064e7",
+  "nota": "Medida provisória",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--presidente--cf-65",
+  "analise_id": "pr-280002542548-ministerio-seguranca--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--presidente--cf-66",
+  "analise_id": "pr-280002542548-ministerio-seguranca--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--presidente--cf-66-p4",
+  "analise_id": "pr-280002542548-ministerio-seguranca--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--presidente--cf-84-iii",
+  "analise_id": "pr-280002542548-ministerio-seguranca--presidente",
+  "regra_id": "cf-84-iii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Apresentar projetos de lei ao Congresso Nacional; algumas matérias só podem ser propostas pelo Presidente (CF, art. 61, § 1º).",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--presidente--cf-84-v",
+  "analise_id": "pr-280002542548-ministerio-seguranca--presidente",
+  "regra_id": "cf-84-v",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Sancionar ou vetar, total ou parcialmente, os projetos aprovados pelo Congresso.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--presidente--cf-84-vi",
+  "analise_id": "pr-280002542548-ministerio-seguranca--presidente",
+  "regra_id": "cf-84-vi",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "A criação e a extinção de ministérios e órgãos dependem de lei; a organização sem aumento de despesa nem criação ou extinção de órgãos pode ser feita por decreto.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-novo-pac-2--presidente--cf-175",
+  "analise_id": "pr-280002542548-novo-pac-2--presidente",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-novo-pac-2--presidente--cf-21-xii",
+  "analise_id": "pr-280002542548-novo-pac-2--presidente",
+  "regra_id": "cf-21-xii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "1ef86eadce60",
+  "nota": "Cabe à União explorar, diretamente ou por concessão, serviços como energia elétrica, transporte ferroviário e aquaviário, portos e aeroportos, e estabelecer o sistema nacional de viação, do qual fazem parte as rodovias federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-novo-pac-2--presidente--cf-84-ii",
+  "analise_id": "pr-280002542548-novo-pac-2--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-pacto-execucao-penal--presidente--cf-144-p1",
+  "analise_id": "pr-280002542548-pacto-execucao-penal--presidente",
+  "regra_id": "cf-144-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "A Polícia Federal é órgão permanente, organizado e mantido pela União.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-pacto-execucao-penal--presidente--cf-84-ii",
+  "analise_id": "pr-280002542548-pacto-execucao-penal--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-pe-de-meia--presidente--cf-211-p1",
+  "analise_id": "pr-280002542548-pe-de-meia--presidente",
+  "regra_id": "cf-211-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "439b7ffe28e8",
+  "nota": "A União organiza o sistema federal de ensino e exerce função redistributiva e supletiva em relação aos Estados e Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-pe-de-meia--presidente--cf-212",
+  "analise_id": "pr-280002542548-pe-de-meia--presidente",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-pe-de-meia--presidente--cf-22-xxiv",
+  "analise_id": "pr-280002542548-pe-de-meia--presidente",
+  "regra_id": "cf-22-xxiv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "Legislar sobre diretrizes e bases da educação nacional é competência privativa da União.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-pe-de-meia--presidente--cf-84-ii",
+  "analise_id": "pr-280002542548-pe-de-meia--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--presidente--cf-173",
+  "analise_id": "pr-280002542548-petrobras-distribuicao--presidente",
+  "regra_id": "cf-173",
+  "papel": "LIMIT",
+  "hash_dispositivo": "f6dafcb6ad48",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--presidente--cf-37-xix",
+  "analise_id": "pr-280002542548-petrobras-distribuicao--presidente",
+  "regra_id": "cf-37-xix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "186f2c9925cd",
+  "nota": "A criação de empresa pública ou sociedade de economia mista depende de lei específica.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--presidente--cf-61",
+  "analise_id": "pr-280002542548-petrobras-distribuicao--presidente",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--presidente--cf-62",
+  "analise_id": "pr-280002542548-petrobras-distribuicao--presidente",
+  "regra_id": "cf-62",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "dfeaf07064e7",
+  "nota": "Medida provisória",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--presidente--cf-65",
+  "analise_id": "pr-280002542548-petrobras-distribuicao--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--presidente--cf-66",
+  "analise_id": "pr-280002542548-petrobras-distribuicao--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--presidente--cf-66-p4",
+  "analise_id": "pr-280002542548-petrobras-distribuicao--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--presidente--cf-84-iii",
+  "analise_id": "pr-280002542548-petrobras-distribuicao--presidente",
+  "regra_id": "cf-84-iii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Apresentar projetos de lei ao Congresso Nacional; algumas matérias só podem ser propostas pelo Presidente (CF, art. 61, § 1º).",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--presidente--cf-84-v",
+  "analise_id": "pr-280002542548-petrobras-distribuicao--presidente",
+  "regra_id": "cf-84-v",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Sancionar ou vetar, total ou parcialmente, os projetos aprovados pelo Congresso.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--presidente--cf-61",
+  "analise_id": "pr-280002542548-salario-minimo--presidente",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--presidente--cf-62",
+  "analise_id": "pr-280002542548-salario-minimo--presidente",
+  "regra_id": "cf-62",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "dfeaf07064e7",
+  "nota": "Medida provisória",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--presidente--cf-65",
+  "analise_id": "pr-280002542548-salario-minimo--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--presidente--cf-66",
+  "analise_id": "pr-280002542548-salario-minimo--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--presidente--cf-66-p4",
+  "analise_id": "pr-280002542548-salario-minimo--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--presidente--cf-7-iv",
+  "analise_id": "pr-280002542548-salario-minimo--presidente",
+  "regra_id": "cf-7-iv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "45c335bde962",
+  "nota": "O salário mínimo é fixado em lei, nacionalmente unificado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--presidente--cf-84-iii",
+  "analise_id": "pr-280002542548-salario-minimo--presidente",
+  "regra_id": "cf-84-iii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Apresentar projetos de lei ao Congresso Nacional; algumas matérias só podem ser propostas pelo Presidente (CF, art. 61, § 1º).",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--presidente--cf-84-v",
+  "analise_id": "pr-280002542548-salario-minimo--presidente",
+  "regra_id": "cf-84-v",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Sancionar ou vetar, total ou parcialmente, os projetos aprovados pelo Congresso.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-casa-verde-amarela--presidente--cf-23-ix",
+  "analise_id": "pr-280002551544-casa-verde-amarela--presidente",
+  "regra_id": "cf-23-ix",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Promover programas de moradia e saneamento é competência comum da União, dos Estados e dos Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-casa-verde-amarela--presidente--cf-84-ii",
+  "analise_id": "pr-280002551544-casa-verde-amarela--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--presidente--cf-169-p1",
+  "analise_id": "pr-280002551544-corte-ministerios--presidente",
+  "regra_id": "cf-169-p1",
+  "papel": "LIMIT",
+  "hash_dispositivo": "34b986ed1854",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--presidente--cf-61",
+  "analise_id": "pr-280002551544-corte-ministerios--presidente",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--presidente--cf-62",
+  "analise_id": "pr-280002551544-corte-ministerios--presidente",
+  "regra_id": "cf-62",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "dfeaf07064e7",
+  "nota": "Medida provisória",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--presidente--cf-65",
+  "analise_id": "pr-280002551544-corte-ministerios--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--presidente--cf-66",
+  "analise_id": "pr-280002551544-corte-ministerios--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--presidente--cf-66-p4",
+  "analise_id": "pr-280002551544-corte-ministerios--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--presidente--cf-84-iii",
+  "analise_id": "pr-280002551544-corte-ministerios--presidente",
+  "regra_id": "cf-84-iii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Apresentar projetos de lei ao Congresso Nacional; algumas matérias só podem ser propostas pelo Presidente (CF, art. 61, § 1º).",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--presidente--cf-84-v",
+  "analise_id": "pr-280002551544-corte-ministerios--presidente",
+  "regra_id": "cf-84-v",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Sancionar ou vetar, total ou parcialmente, os projetos aprovados pelo Congresso.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--presidente--cf-84-vi",
+  "analise_id": "pr-280002551544-corte-ministerios--presidente",
+  "regra_id": "cf-84-vi",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "A criação e a extinção de ministérios e órgãos dependem de lei; a organização sem aumento de despesa nem criação ou extinção de órgãos pode ser feita por decreto.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-desmatamento-ilegal-2029--presidente--cf-225",
+  "analise_id": "pr-280002551544-desmatamento-ilegal-2029--presidente",
+  "regra_id": "cf-225",
+  "papel": "LIMIT",
+  "hash_dispositivo": "708063d67082",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-desmatamento-ilegal-2029--presidente--cf-23-vi",
+  "analise_id": "pr-280002551544-desmatamento-ilegal-2029--presidente",
+  "regra_id": "cf-23-vi",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Proteger o meio ambiente é competência comum da União, dos Estados e dos Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-desmatamento-ilegal-2029--presidente--cf-84-ii",
+  "analise_id": "pr-280002551544-desmatamento-ilegal-2029--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-dobrar-seguranca--presidente--cf-165",
+  "analise_id": "pr-280002551544-dobrar-seguranca--presidente",
+  "regra_id": "cf-165",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "2694c9729abd",
+  "nota": "Lei orçamentária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-dobrar-seguranca--presidente--cf-166",
+  "analise_id": "pr-280002551544-dobrar-seguranca--presidente",
+  "regra_id": "cf-166",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "a2ac33c84949",
+  "nota": "Apreciação pelas duas Casas do Congresso Nacional, na forma do regimento comum.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-dobrar-seguranca--presidente--cf-48-ii",
+  "analise_id": "pr-280002551544-dobrar-seguranca--presidente",
+  "regra_id": "cf-48-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "bf3328cd5331",
+  "nota": "O orçamento da União é lei de iniciativa do Presidente, aprovada pelo Congresso Nacional.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-dobrar-seguranca--presidente--cf-84-xxiii",
+  "analise_id": "pr-280002551544-dobrar-seguranca--presidente",
+  "regra_id": "cf-84-xxiii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Enviar ao Congresso o plano plurianual, as diretrizes orçamentárias e a proposta de orçamento.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ecr--presidente--cf-211-p1",
+  "analise_id": "pr-280002551544-ecr--presidente",
+  "regra_id": "cf-211-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "439b7ffe28e8",
+  "nota": "A União organiza o sistema federal de ensino e exerce função redistributiva e supletiva em relação aos Estados e Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ecr--presidente--cf-212",
+  "analise_id": "pr-280002551544-ecr--presidente",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ecr--presidente--cf-22-xxiv",
+  "analise_id": "pr-280002551544-ecr--presidente",
+  "regra_id": "cf-22-xxiv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "Legislar sobre diretrizes e bases da educação nacional é competência privativa da União.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ecr--presidente--cf-61",
+  "analise_id": "pr-280002551544-ecr--presidente",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ecr--presidente--cf-62",
+  "analise_id": "pr-280002551544-ecr--presidente",
+  "regra_id": "cf-62",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "dfeaf07064e7",
+  "nota": "Medida provisória",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ecr--presidente--cf-65",
+  "analise_id": "pr-280002551544-ecr--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ecr--presidente--cf-66",
+  "analise_id": "pr-280002551544-ecr--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ecr--presidente--cf-66-p4",
+  "analise_id": "pr-280002551544-ecr--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ecr--presidente--cf-84-iii",
+  "analise_id": "pr-280002551544-ecr--presidente",
+  "regra_id": "cf-84-iii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Apresentar projetos de lei ao Congresso Nacional; algumas matérias só podem ser propostas pelo Presidente (CF, art. 61, § 1º).",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ecr--presidente--cf-84-v",
+  "analise_id": "pr-280002551544-ecr--presidente",
+  "regra_id": "cf-84-v",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Sancionar ou vetar, total ou parcialmente, os projetos aprovados pelo Congresso.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--presidente--cf-150-i",
+  "analise_id": "pr-280002551544-energia-cde--presidente",
+  "regra_id": "cf-150-i",
+  "papel": "LIMIT",
+  "hash_dispositivo": "8af4eb3f0f49",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--presidente--cf-48-i",
+  "analise_id": "pr-280002551544-energia-cde--presidente",
+  "regra_id": "cf-48-i",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "bf3328cd5331",
+  "nota": "O Congresso Nacional dispõe sobre o sistema tributário, a arrecadação e a distribuição de rendas, com a sanção do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--presidente--cf-61",
+  "analise_id": "pr-280002551544-energia-cde--presidente",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--presidente--cf-62",
+  "analise_id": "pr-280002551544-energia-cde--presidente",
+  "regra_id": "cf-62",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "dfeaf07064e7",
+  "nota": "Medida provisória",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--presidente--cf-65",
+  "analise_id": "pr-280002551544-energia-cde--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--presidente--cf-66",
+  "analise_id": "pr-280002551544-energia-cde--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--presidente--cf-66-p4",
+  "analise_id": "pr-280002551544-energia-cde--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--presidente--cf-84-iii",
+  "analise_id": "pr-280002551544-energia-cde--presidente",
+  "regra_id": "cf-84-iii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Apresentar projetos de lei ao Congresso Nacional; algumas matérias só podem ser propostas pelo Presidente (CF, art. 61, § 1º).",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--presidente--cf-84-v",
+  "analise_id": "pr-280002551544-energia-cde--presidente",
+  "regra_id": "cf-84-v",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Sancionar ou vetar, total ou parcialmente, os projetos aprovados pelo Congresso.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-fim-reeleicao--presidente--cf-60-i",
+  "analise_id": "pr-280002551544-fim-reeleicao--presidente",
+  "regra_id": "cf-60-i",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta subscrita por um terço, no mínimo, dos Deputados Federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-fim-reeleicao--presidente--cf-60-ii",
+  "analise_id": "pr-280002551544-fim-reeleicao--presidente",
+  "regra_id": "cf-60-ii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Propor emenda à Constituição, que depende de aprovação por três quintos nas duas Casas e não passa por sanção.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-fim-reeleicao--presidente--cf-60-iii",
+  "analise_id": "pr-280002551544-fim-reeleicao--presidente",
+  "regra_id": "cf-60-iii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-fim-reeleicao--presidente--cf-60-p2",
+  "analise_id": "pr-280002551544-fim-reeleicao--presidente",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-fim-reeleicao--presidente--cf-60-p3",
+  "analise_id": "pr-280002551544-fim-reeleicao--presidente",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-fim-reeleicao--presidente--cf-60-p4",
+  "analise_id": "pr-280002551544-fim-reeleicao--presidente",
+  "regra_id": "cf-60-p4",
+  "papel": "LIMIT",
+  "hash_dispositivo": "914f96eb16dc",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-infra-900bi--presidente--cf-175",
+  "analise_id": "pr-280002551544-infra-900bi--presidente",
+  "regra_id": "cf-175",
+  "papel": "LIMIT",
+  "hash_dispositivo": "b920a55a7e89",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-infra-900bi--presidente--cf-21-xii",
+  "analise_id": "pr-280002551544-infra-900bi--presidente",
+  "regra_id": "cf-21-xii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "1ef86eadce60",
+  "nota": "Cabe à União explorar, diretamente ou por concessão, serviços como energia elétrica, transporte ferroviário e aquaviário, portos e aeroportos, e estabelecer o sistema nacional de viação, do qual fazem parte as rodovias federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-infra-900bi--presidente--cf-84-ii",
+  "analise_id": "pr-280002551544-infra-900bi--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--presidente--cf-225",
+  "analise_id": "pr-280002551544-licenca-tacita--presidente",
+  "regra_id": "cf-225",
+  "papel": "LIMIT",
+  "hash_dispositivo": "708063d67082",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--presidente--cf-24-p1",
+  "analise_id": "pr-280002551544-licenca-tacita--presidente",
+  "regra_id": "cf-24-p1",
+  "papel": "LIMIT",
+  "hash_dispositivo": "dd28fde17120",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--presidente--cf-24-vi",
+  "analise_id": "pr-280002551544-licenca-tacita--presidente",
+  "regra_id": "cf-24-vi",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "dd28fde17120",
+  "nota": "Proteção do meio ambiente é matéria de legislação concorrente; à União cabem as normas gerais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--presidente--cf-61",
+  "analise_id": "pr-280002551544-licenca-tacita--presidente",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--presidente--cf-62",
+  "analise_id": "pr-280002551544-licenca-tacita--presidente",
+  "regra_id": "cf-62",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "dfeaf07064e7",
+  "nota": "Medida provisória",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--presidente--cf-65",
+  "analise_id": "pr-280002551544-licenca-tacita--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--presidente--cf-66",
+  "analise_id": "pr-280002551544-licenca-tacita--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--presidente--cf-66-p4",
+  "analise_id": "pr-280002551544-licenca-tacita--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--presidente--cf-84-iii",
+  "analise_id": "pr-280002551544-licenca-tacita--presidente",
+  "regra_id": "cf-84-iii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Apresentar projetos de lei ao Congresso Nacional; algumas matérias só podem ser propostas pelo Presidente (CF, art. 61, § 1º).",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--presidente--cf-84-v",
+  "analise_id": "pr-280002551544-licenca-tacita--presidente",
+  "regra_id": "cf-84-v",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Sancionar ou vetar, total ou parcialmente, os projetos aprovados pelo Congresso.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-maioridade-penal--presidente--cf-60-i",
+  "analise_id": "pr-280002551544-maioridade-penal--presidente",
+  "regra_id": "cf-60-i",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta subscrita por um terço, no mínimo, dos Deputados Federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-maioridade-penal--presidente--cf-60-ii",
+  "analise_id": "pr-280002551544-maioridade-penal--presidente",
+  "regra_id": "cf-60-ii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Propor emenda à Constituição, que depende de aprovação por três quintos nas duas Casas e não passa por sanção.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-maioridade-penal--presidente--cf-60-iii",
+  "analise_id": "pr-280002551544-maioridade-penal--presidente",
+  "regra_id": "cf-60-iii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-maioridade-penal--presidente--cf-60-p2",
+  "analise_id": "pr-280002551544-maioridade-penal--presidente",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-maioridade-penal--presidente--cf-60-p3",
+  "analise_id": "pr-280002551544-maioridade-penal--presidente",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-maioridade-penal--presidente--cf-60-p4",
+  "analise_id": "pr-280002551544-maioridade-penal--presidente",
+  "regra_id": "cf-60-p4",
+  "papel": "LIMIT",
+  "hash_dispositivo": "914f96eb16dc",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ocde-iof--presidente--cf-153-p1",
+  "analise_id": "pr-280002551544-ocde-iof--presidente",
+  "regra_id": "cf-153-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "04c883e2e43d",
+  "nota": "O Poder Executivo pode alterar as alíquotas do IOF, atendidas as condições e os limites da lei.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ocde-iof--presidente--cf-84-iv",
+  "analise_id": "pr-280002551544-ocde-iof--presidente",
+  "regra_id": "cf-84-iv",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Decreto do Presidente da República",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-presidios-treva--presidente--cf-144-p1",
+  "analise_id": "pr-280002551544-presidios-treva--presidente",
+  "regra_id": "cf-144-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "34ff275dcf2c",
+  "nota": "A Polícia Federal é órgão permanente, organizado e mantido pela União.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-presidios-treva--presidente--cf-84-ii",
+  "analise_id": "pr-280002551544-presidios-treva--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-regra-fiscal--presidente--cf-163-i",
+  "analise_id": "pr-280002551544-regra-fiscal--presidente",
+  "regra_id": "cf-163-i",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "a356878ce9cf",
+  "nota": "Lei complementar dispõe sobre finanças públicas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-regra-fiscal--presidente--cf-61",
+  "analise_id": "pr-280002551544-regra-fiscal--presidente",
+  "regra_id": "cf-61",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Qualquer Deputado ou comissão da Câmara pode apresentar o projeto.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-regra-fiscal--presidente--cf-65",
+  "analise_id": "pr-280002551544-regra-fiscal--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Revisão pela outra Casa, com aprovação por maioria absoluta; se houver emendas, o projeto volta à Casa iniciadora.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-regra-fiscal--presidente--cf-66",
+  "analise_id": "pr-280002551544-regra-fiscal--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-regra-fiscal--presidente--cf-66-p4",
+  "analise_id": "pr-280002551544-regra-fiscal--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-regra-fiscal--presidente--cf-69",
+  "analise_id": "pr-280002551544-regra-fiscal--presidente",
+  "regra_id": "cf-69",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "3690a9984abd",
+  "nota": "Projeto de lei complementar federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-retorno-beneficio--presidente--cf-203",
+  "analise_id": "pr-280002551544-retorno-beneficio--presidente",
+  "regra_id": "cf-203",
+  "papel": "LIMIT",
+  "hash_dispositivo": "25874e5d0de6",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-retorno-beneficio--presidente--cf-23-x",
+  "analise_id": "pr-280002551544-retorno-beneficio--presidente",
+  "regra_id": "cf-23-x",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Combater as causas da pobreza é competência comum; a União mantém programas nacionais de assistência social.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-retorno-beneficio--presidente--cf-84-ii",
+  "analise_id": "pr-280002551544-retorno-beneficio--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-revisao-reforma-iva--presidente--cf-60-i",
+  "analise_id": "pr-280002551544-revisao-reforma-iva--presidente",
+  "regra_id": "cf-60-i",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta subscrita por um terço, no mínimo, dos Deputados Federais.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-revisao-reforma-iva--presidente--cf-60-ii",
+  "analise_id": "pr-280002551544-revisao-reforma-iva--presidente",
+  "regra_id": "cf-60-ii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Propor emenda à Constituição, que depende de aprovação por três quintos nas duas Casas e não passa por sanção.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-revisao-reforma-iva--presidente--cf-60-iii",
+  "analise_id": "pr-280002551544-revisao-reforma-iva--presidente",
+  "regra_id": "cf-60-iii",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-revisao-reforma-iva--presidente--cf-60-p2",
+  "analise_id": "pr-280002551544-revisao-reforma-iva--presidente",
+  "regra_id": "cf-60-p2",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Emendar a Constituição Federal cabe ao Congresso Nacional, por proposta aprovada em dois turnos nas duas Casas.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-revisao-reforma-iva--presidente--cf-60-p3",
+  "analise_id": "pr-280002551544-revisao-reforma-iva--presidente",
+  "regra_id": "cf-60-p3",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "914f96eb16dc",
+  "nota": "Promulgação pelas Mesas da Câmara e do Senado, sem sanção ou veto do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-revisao-reforma-iva--presidente--cf-60-p4",
+  "analise_id": "pr-280002551544-revisao-reforma-iva--presidente",
+  "regra_id": "cf-60-p4",
+  "papel": "LIMIT",
+  "hash_dispositivo": "914f96eb16dc",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-tabela-sus--presidente--cf-23-ii",
+  "analise_id": "pr-280002551544-tabela-sus--presidente",
+  "regra_id": "cf-23-ii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "edca82c3673c",
+  "nota": "Cuidar da saúde é competência comum; a União atua por seus programas e pela cooperação com Estados e Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-tabela-sus--presidente--cf-30-vii",
+  "analise_id": "pr-280002551544-tabela-sus--presidente",
+  "regra_id": "cf-30-vii",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "f0f603ed985d",
+  "nota": "Os Municípios prestam serviços de atendimento à saúde, com a cooperação técnica e financeira da União e do Estado.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-tabela-sus--presidente--cf-84-ii",
+  "analise_id": "pr-280002551544-tabela-sus--presidente",
+  "regra_id": "cf-84-ii",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Ato de gestão do Poder Executivo federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--presidente--cf-211-p1",
+  "analise_id": "pr-280002551544-voucher-creche--presidente",
+  "regra_id": "cf-211-p1",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "439b7ffe28e8",
+  "nota": "A União organiza o sistema federal de ensino e exerce função redistributiva e supletiva em relação aos Estados e Municípios.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--presidente--cf-212",
+  "analise_id": "pr-280002551544-voucher-creche--presidente",
+  "regra_id": "cf-212",
+  "papel": "LIMIT",
+  "hash_dispositivo": "4d797b4a21c3",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--presidente--cf-22-xxiv",
+  "analise_id": "pr-280002551544-voucher-creche--presidente",
+  "regra_id": "cf-22-xxiv",
+  "papel": "COMPETENCE",
+  "hash_dispositivo": "2225e31e6c81",
+  "nota": "Legislar sobre diretrizes e bases da educação nacional é competência privativa da União.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--presidente--cf-61",
+  "analise_id": "pr-280002551544-voucher-creche--presidente",
+  "regra_id": "cf-61",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "67c78d5727fd",
+  "nota": "Projeto de lei ordinária federal",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--presidente--cf-62",
+  "analise_id": "pr-280002551544-voucher-creche--presidente",
+  "regra_id": "cf-62",
+  "papel": "INSTRUMENT",
+  "hash_dispositivo": "dfeaf07064e7",
+  "nota": "Medida provisória",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--presidente--cf-65",
+  "analise_id": "pr-280002551544-voucher-creche--presidente",
+  "regra_id": "cf-65",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "d55b05505b0e",
+  "nota": "Discussão e votação na Câmara dos Deputados.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--presidente--cf-66",
+  "analise_id": "pr-280002551544-voucher-creche--presidente",
+  "regra_id": "cf-66",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Sanção ou veto, total ou parcial, do Presidente da República.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--presidente--cf-66-p4",
+  "analise_id": "pr-280002551544-voucher-creche--presidente",
+  "regra_id": "cf-66-p4",
+  "papel": "PROCEDURE",
+  "hash_dispositivo": "cc4e711a4555",
+  "nota": "Se houver veto, o Congresso o aprecia em sessão conjunta e só o derruba pela maioria absoluta de Deputados e Senadores.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--presidente--cf-84-iii",
+  "analise_id": "pr-280002551544-voucher-creche--presidente",
+  "regra_id": "cf-84-iii",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Apresentar projetos de lei ao Congresso Nacional; algumas matérias só podem ser propostas pelo Presidente (CF, art. 61, § 1º).",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--presidente--cf-84-v",
+  "analise_id": "pr-280002551544-voucher-creche--presidente",
+  "regra_id": "cf-84-v",
+  "papel": "INITIATIVE",
+  "hash_dispositivo": "4c352df2a2d0",
+  "nota": "Sancionar ou vetar, total ou parcialmente, os projetos aprovados pelo Congresso.",
+  "origem_dado": "DERIVED"
  }
 ]

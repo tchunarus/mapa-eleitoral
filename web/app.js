@@ -11,22 +11,25 @@ const FMTH = d => { if (!d) return ""; const t = new Date(d); if (isNaN(t)) retu
 const ls = { get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } }, set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} } };
 async function getJSON(p) { const r = await fetch(DATA + p, { cache: "no-cache" }); if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }
 const app = $("#app");
-let mod = null;
+const mods = []; let mod = null;
+const escolher = () => { const h = location.hash.replace(/^#/, ""); return mods.find(m => m.prefixo && (h === m.prefixo || h.startsWith(m.prefixo + "/"))) || mods.find(m => !m.prefixo); };
 
 function renderAbas() {
   const F = window.MapaEleitoralFiltros, r = F.parseRota(location.hash) || { v: "inicio" };
   const demo = r.v === "eleicao" && r.eleicao === "demonstracao" || r.v === "cargo" && r.eleicao === "demonstracao";
-  const abas = [["#/", "Eleições 2026", !demo && ["inicio", "eleicao", "cargo", "candidato", "proposta"].includes(r.v)],
+  const st = location.hash.startsWith("#/2turno");
+  const abas = [["#/2turno", "2º turno presidencial", st], ["#/", "Eleições 2026", !st && !demo && ["inicio", "eleicao", "cargo", "candidato", "proposta"].includes(r.v)],
     ["#/propostas", "Propostas", r.v === "propostas"], ["#/municipios/florianopolis", "Municípios", r.v === "municipio"],
     ["#/demonstracao", "Demonstração", demo], ["#/admin", "Painel", r.v === "admin"]];
   $("#tabs").innerHTML = abas.map(([h, t, ativo]) => `<a class="tab" href="${h}" ${ativo ? 'aria-current="page"' : ""}>${t}</a>`).join("");
 }
 function render(soft) {
+  mod = escolher();
   if (!mod) return;
   const y = window.scrollY; let html = "";
   try { html = mod.render(location.hash.replace(/^#/, "")); }
   catch (e) { console.error(e); html = `<div class="empty">Não foi possível montar esta página (${esc(e.message)}).</div>`; }
-  app.innerHTML = html; renderAbas();
+  app.classList.toggle("soft", !!soft); app.innerHTML = html; renderAbas();
   if (soft) window.scrollTo(0, y); else window.scrollTo(0, 0);
   if (mod.depois) try { mod.depois(); } catch (e) { console.error(e); }
 }
@@ -36,7 +39,7 @@ function initTheme() {
   $("#themeBtn").addEventListener("click", () => { const cur = document.documentElement.getAttribute("data-theme") || (matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
     const n = cur === "light" ? "dark" : "light"; document.documentElement.setAttribute("data-theme", n); ls.set("theme", n); });
 }
-window.AppEleitoral = { registrar(m) { mod = m; render(); }, render, util: { esc, norm, FMT, FMTH, ls, getJSON, status } };
+window.AppEleitoral = { registrar(m) { mods.push(m); render(); }, render, util: { esc, norm, FMT, FMTH, ls, getJSON, status } };
 window.addEventListener("hashchange", () => render());
 initTheme();
 })();

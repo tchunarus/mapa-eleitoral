@@ -2,7 +2,7 @@
 
     python3 coletor/paginar.py
 
-Peças: head.html (metatags), estilo_base.html (identidade visual do escritório),
+Peças: head.html (metatags), estilo_base.html (base visual própria e neutra),
 estilo_eleitoral.html (componentes do Mapa Eleitoral), corpo.html (cabeçalho e rodapé,
 com %%LOGO%% trocado pelo conteúdo de logo.txt), app.js (casca: rotas, abas, tema),
 filtros.js (funções puras testadas em testes/js/) e eleitoral.js (páginas).
@@ -24,8 +24,8 @@ def ler(nome):
 
 def montar():
     corpo = ler('corpo.html').replace('%%LOGO%%', ler('logo.txt').strip())
-    scripts = ''.join(f'<script>\n{ler(n)}\n</script>\n' for n in ('filtros.js', 'app.js', 'eleitoral.js'))
-    pagina = f"{ler('head.html')}\n{RESET}\n{ler('estilo_base.html')}\n{ler('estilo_eleitoral.html')}\n</head><body>\n{corpo}\n{scripts}</body></html>"
+    scripts = ''.join(f'<script>\n{ler(n)}\n</script>\n' for n in ('filtros.js', 'app.js', 'eleitoral.js', 'segundo_turno.js'))
+    pagina = f"{ler('head.html')}\n{RESET}\n{ler('estilo_base.html')}\n{ler('estilo_eleitoral.html')}\n{ler('estilo_segundo_turno.html')}\n</head><body>\n{corpo}\n{scripts}</body></html>"
     if '\u2014' in pagina:
         raise SystemExit('Travessão encontrado na página montada; corrija antes de publicar.')
     with open(OUT, 'w', encoding='utf-8') as f:

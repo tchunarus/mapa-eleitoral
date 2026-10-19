@@ -1,0 +1,195 @@
+{
+ "candidatura_id": "tse-240002548628",
+ "fonte_id": "tse-documento-240017074241",
+ "verificado_em": "2026-10-19T12:00:00+00:00",
+ "propostas": [
+  {
+   "id": "centros-regionais-especialidades",
+   "tema": "saude",
+   "subtema": "atenção especializada",
+   "titulo": "Centros Regionais de Especialidades nas 16 regionais de saúde",
+   "resumo": "Implantar centros regionais de especialidades para consultas, procedimentos ambulatoriais e exames de média complexidade nas 16 regionais de saúde.",
+   "pagina": 34,
+   "materia": "servicos-saude",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A rede do SUS é regionalizada e integrada com os Municípios.",
+     "regra_id": "cf-198"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "• Centros Regionais de Especialidades para consultas, procedimentos ambulatoriais e exames de média complexidade nas 16 regionais de saúde."
+  },
+  {
+   "id": "caps-iii",
+   "tema": "saude",
+   "subtema": "saúde mental",
+   "titulo": "CAPS III nos municípios com mais de 200 mil habitantes",
+   "resumo": "Implantar Centros de Atenção Psicossocial do tipo III, com atenção 24 horas, em todos os municípios acima de 200 mil habitantes.",
+   "pagina": 35,
+   "materia": "servicos-saude",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "Os CAPS são em regra serviços municipais habilitados e cofinanciados pela União; o Estado atua em parceria.",
+     "regra_id": "cf-30-vii"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "• Centros de Atenção Psicossocial (CAPS) do tipo III em todos os municípios acima de 200.000 mil habitantes: atenção 24 horas/dia em todas as Macrorregiões do estado"
+  },
+  {
+   "id": "orgao-habitacao",
+   "tema": "habitacao",
+   "subtema": "habitação popular",
+   "titulo": "Órgão estadual de política habitacional",
+   "resumo": "Criar órgão estadual responsável pela política habitacional, com produção de habitação de interesse social, urbanização de assentamentos e regularização fundiária.",
+   "pagina": 25,
+   "materia": "estrutura-administrativa-estadual",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A criação de órgão depende de lei estadual de iniciativa do Governador.",
+     "regra_id": "ce-sc"
+    },
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "• criação de órgão estadual responsável pela política habitacional; • produção de habitação de interesse social; • urbanização de assentamentos precários; • regularização fundiária;"
+  },
+  {
+   "id": "apoio-tarifa-zero",
+   "tema": "mobilidade",
+   "subtema": "transporte coletivo",
+   "titulo": "Apoio à tarifa zero nos municípios",
+   "resumo": "Apoiar a implantação da tarifa zero no transporte coletivo dos municípios.",
+   "pagina": 25,
+   "materia": "transporte-coletivo-municipal",
+   "natureza": "BUDGET_ALLOCATION",
+   "detalhamento": "LOW",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "O transporte coletivo urbano é serviço municipal; o Estado pode apoiar por convênio ou transferência."
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "• implantação da tarifa zero nos municípios;"
+  },
+  {
+   "id": "secretaria-bem-estar-animal",
+   "tema": "meio-ambiente",
+   "temas_extras": [
+    "administracao-publica"
+   ],
+   "subtema": "proteção animal",
+   "titulo": "Secretaria de Estado de Bem-estar Animal",
+   "resumo": "Criar a Secretaria de Estado de Bem-estar Animal, dentro de uma política estadual de proteção animal com apoio aos municípios.",
+   "pagina": 57,
+   "materia": "estrutura-administrativa-estadual",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A criação de secretaria depende de lei estadual de iniciativa do Governador.",
+     "regra_id": "ce-sc"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "• criação da Secretaria de Estado de Bem-estar Animal"
+  },
+  {
+   "id": "autonomia-udesc",
+   "tema": "educacao",
+   "subtema": "ensino superior",
+   "titulo": "Autonomia total da UDESC, inclusive orçamentária",
+   "resumo": "Apoiar a UDESC com autonomia total, inclusive orçamentária, e adotar cotas no acesso às vagas.",
+   "pagina": 31,
+   "materia": "ensino-superior-estadual",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Autonomia financeira com repasse garantido exige lei estadual e previsão nas leis orçamentárias.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "• apoio à UDESC, com autonomia total, inclusive orçamentária;"
+  },
+  {
+   "id": "cameras-corporais",
+   "tema": "seguranca",
+   "subtema": "controle da atividade policial",
+   "titulo": "Retorno das câmeras corporais nas operações policiais",
+   "resumo": "Retomar o uso de câmeras corporais nas operações policiais, com centros integrados de monitoramento.",
+   "pagina": 42,
+   "materia": "policiamento-ostensivo",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "• retorno do uso de câmeras corporais nas operações policiais;"
+  },
+  {
+   "id": "reducao-agrotoxicos",
+   "tema": "meio-ambiente",
+   "temas_extras": [
+    "saude"
+   ],
+   "subtema": "agrotóxicos",
+   "titulo": "Política estadual de redução de agrotóxicos",
+   "resumo": "Defender política estadual de redução e combate ao uso de agrotóxicos, articulada ao sistema estadual de segurança alimentar.",
+   "pagina": 37,
+   "materia": "politica-ambiental",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "LOW",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Produção, comércio e uso de agrotóxicos têm normas gerais federais; o Estado pode legislar de forma suplementar.",
+     "regra_id": "cf-24-vi"
+    }
+   ],
+   "observacao": "Trecho transcrito por reconhecimento óptico de caracteres (OCR), porque o PDF registrado não tem camada de texto; pode haver pequenas diferenças de grafia em relação ao original.",
+   "trecho": "Defender uma política estadual para redução e combate ao uso de agrotóxicos e demais defensivos agrícolas em Santa Catarina."
+  }
+ ]
+}

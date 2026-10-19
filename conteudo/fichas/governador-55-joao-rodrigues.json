@@ -1,0 +1,163 @@
+{
+ "candidatura_id": "tse-240002551001",
+ "fonte_id": "tse-documento-240017099514",
+ "verificado_em": "2026-10-19T12:00:00+00:00",
+ "propostas": [
+  {
+   "id": "investimento-15-rcl",
+   "tema": "administracao-publica",
+   "subtema": "investimento público",
+   "titulo": "Mínimo de 15% da receita corrente líquida para investimentos",
+   "resumo": "Adotar política fiscal austera, com controle das despesas de custeio, para assegurar no mínimo 15% da receita corrente líquida a investimentos.",
+   "pagina": 3,
+   "materia": "orcamento-estadual",
+   "natureza": "BUDGET_ALLOCATION",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "A destinação depende da aprovação anual do orçamento pela Assembleia Legislativa e das vinculações constitucionais de saúde e educação.",
+     "regra_id": "cf-212"
+    }
+   ],
+   "observacao": "O plano projeta R$ 40,5 bilhões em investimentos no quadriênio, a partir de uma receita corrente líquida estimada pela própria candidatura (p. 4).",
+   "trecho": "mediante a adoção de uma política fiscal austera, com controle rigoroso das despesas de custeio, assegurando-se, no mínimo, 15% da Receita Corrente Líquida (RCL) para investimentos."
+  },
+  {
+   "id": "muralha-digital",
+   "tema": "seguranca",
+   "subtema": "tecnologia policial",
+   "titulo": "Muralha Digital Catarinense",
+   "resumo": "Ampliar o videomonitoramento com câmeras de reconhecimento facial, leitura de placas, inteligência artificial e alertas em tempo real em pontos estratégicos do Estado.",
+   "pagina": 8,
+   "materia": "policiamento-ostensivo",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "LEGAL",
+     "texto": "O tratamento de imagens e dados pessoais sujeita-se à legislação federal de proteção de dados."
+    }
+   ],
+   "trecho": "• Aperfeiçoar o programa de videomonitoramento, ampliando o número de câmeras com tecnologia de reconhecimento facial, leitura de placas de veículos, inteligência artificial e alertas em tempo real, instaladas em pontos estratégicos do Estado, constituindo a “Muralha Digital Catarinense”;"
+  },
+  {
+   "id": "policiais-reserva",
+   "tema": "seguranca",
+   "temas_extras": [
+    "administracao-publica"
+   ],
+   "subtema": "efetivo policial",
+   "titulo": "Convocação voluntária de policiais da reserva",
+   "resumo": "Aumentar o efetivo com a convocação voluntária de policiais da reserva aptos, nomear aprovados em concursos e abrir novos editais.",
+   "pagina": 9,
+   "materia": "pessoal-estadual",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A convocação de militares inativos depende de previsão na legislação estadual."
+    },
+    {
+     "tipo": "FISCAL",
+     "texto": "Admissão e convocação exigem dotação e autorização na lei de diretrizes orçamentárias.",
+     "regra_id": "cf-169-p1"
+    }
+   ],
+   "trecho": "Aumentar o efetivo por meio da convocação voluntária de policiais da reserva fisicamente aptos para atuarem em áreas estratégicas; • Nomear os aprovados em concursos já realizados e publicar novos editais;"
+  },
+  {
+   "id": "forca-tarefa-cirurgias",
+   "tema": "saude",
+   "subtema": "filas e cirurgias",
+   "titulo": "Força-Tarefa Médica para zerar filas de cirurgia",
+   "resumo": "Criar força-tarefa médica para zerar as filas de cirurgias, por convênios com serviços de residência cirúrgica em várias especialidades.",
+   "pagina": 13,
+   "materia": "servicos-saude",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A regulação das filas do SUS é compartilhada com os Municípios.",
+     "regra_id": "cf-198"
+    }
+   ],
+   "trecho": "Criar Força-Tarefa Médica para zerar as filas de espera de cirurgias, por meio de convênios com serviços de residências cirúrgicas em múltiplas especialidades;"
+  },
+  {
+   "id": "tempo-integral-ensino-medio",
+   "tema": "educacao",
+   "subtema": "educação básica",
+   "titulo": "Tempo integral e universalização do ensino médio",
+   "resumo": "Priorizar a educação em tempo integral, com reforço em Matemática, Português e Inglês, e universalizar o ensino médio na rede estadual.",
+   "pagina": 15,
+   "materia": "rede-estadual-ensino",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "trecho": "• Priorizar a educação em tempo integral, com atividades de reforço em Matemática, Português e Inglês no contraturno; • Universalizar o ensino médio na rede pública estadual;"
+  },
+  {
+   "id": "apoio-creches",
+   "tema": "educacao",
+   "subtema": "educação infantil",
+   "titulo": "Apoio financeiro aos municípios para creches",
+   "resumo": "Apoiar financeiramente os municípios na ampliação da rede de creches para a primeira infância.",
+   "pagina": 15,
+   "materia": "rede-estadual-ensino",
+   "natureza": "BUDGET_ALLOCATION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A educação infantil é atuação prioritária dos Municípios; o Estado participa por transferências voluntárias ou convênios."
+    }
+   ],
+   "trecho": "• Apoiar financeiramente a ampliação da rede de creches para a primeira infância;"
+  },
+  {
+   "id": "udesc",
+   "tema": "educacao",
+   "subtema": "ensino superior",
+   "titulo": "Fortalecimento da UDESC",
+   "resumo": "Resgatar a UDESC como instituição oficial do ensino superior estadual, com recursos para expansão, pesquisa e extensão, e ajustar o Programa Universidade Gratuita.",
+   "pagina": 16,
+   "materia": "ensino-superior-estadual",
+   "natureza": "BUDGET_ALLOCATION",
+   "detalhamento": "LOW",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "trecho": "A Universidade do Estado de Santa Catarina (UDESC) será resgatada como instituição oficial do ensino superior estadual, com alocação dos recursos necessários à sua expansão, à pesquisa e ao seu fortalecimento no contexto do desenvolvimento do Estado."
+  }
+ ]
+}

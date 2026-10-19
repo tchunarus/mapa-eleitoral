@@ -17,7 +17,7 @@ import argparse, json, os, sys
 AQUI = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, AQUI)
 sys.path.insert(0, os.path.join(AQUI, 'tse'))
-import repositorio, normativo, legislativo, analisar, publicar, paginar  # noqa: E402
+import repositorio, normativo, legislativo, analisar, publicar, paginar, fichas  # noqa: E402
 import cliente, sincronizar  # noqa: E402
 
 
@@ -41,6 +41,7 @@ def main():
         etapa('TSE, candidaturas', tse)
         etapa('Senado, vagas', lambda: 'ok' if not legislativo.sincronizar_vagas_senado()['errors'] else 'falha na leitura')
         etapa('Texto vigente (Mapa Normativo)', lambda: normativo.sincronizar(repositorio.carregar().tabelas['regras']))
+    etapa('Fichas de propostas', lambda: (lambda r: f"{r['propostas']} propostas" if not r['erros'] else r['erros'][:3])(fichas.processar()))
     etapa('Análise de competência', lambda: (lambda lg: 'ok' if not lg['errors'] else lg['erros'][:3])(analisar.analisar_tudo(registrar_sem_mudanca=False)))
     etapa('Publicação', lambda: (lambda r: 'ok' if r['publicado'] else r['erros'][:3])(publicar.construir()))
     etapa('Página', lambda: f'{paginar.montar()} bytes')

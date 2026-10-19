@@ -1,0 +1,1236 @@
+[
+ {
+  "id": "pr-240002537073-barragens-cheias--c1",
+  "proposta_id": "pr-240002537073-barragens-cheias",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-barragens-cheias--c2",
+  "proposta_id": "pr-240002537073-barragens-cheias",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "Obras em cursos d'água exigem licenciamento ambiental.",
+  "regra_id": "cf-225",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-casa-catarina--c1",
+  "proposta_id": "pr-240002537073-casa-catarina",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-casa-catarina--c2",
+  "proposta_id": "pr-240002537073-casa-catarina",
+  "tipo": "FEDERATIVE",
+  "texto": "A execução depende da adesão dos Municípios.",
+  "regra_id": "cf-23-ix",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-custeio-leitos-uti--c1",
+  "proposta_id": "pr-240002537073-custeio-leitos-uti",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-efetivo-policial--c1",
+  "proposta_id": "pr-240002537073-efetivo-policial",
+  "tipo": "FISCAL",
+  "texto": "A admissão de pessoal exige prévia dotação orçamentária e autorização na lei de diretrizes orçamentárias.",
+  "regra_id": "cf-169-p1",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-estrada-boa-viamar--c1",
+  "proposta_id": "pr-240002537073-estrada-boa-viamar",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-estrada-boa-viamar--c2",
+  "proposta_id": "pr-240002537073-estrada-boa-viamar",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "Obras dependem de projeto, licenciamento ambiental e licitação.",
+  "regra_id": "cf-175",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-ferrovias-estaduais--c1",
+  "proposta_id": "pr-240002537073-ferrovias-estaduais",
+  "tipo": "FEDERATIVE",
+  "texto": "O transporte ferroviário entre Estados ou que transponha fronteiras é serviço da União.",
+  "regra_id": "cf-21-xii",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-ferrovias-estaduais--c2",
+  "proposta_id": "pr-240002537073-ferrovias-estaduais",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "Parcerias público-privadas exigem licitação e autorização legal.",
+  "regra_id": "cf-175",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-fila-zero-cirurgias--c1",
+  "proposta_id": "pr-240002537073-fila-zero-cirurgias",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-fila-zero-cirurgias--c2",
+  "proposta_id": "pr-240002537073-fila-zero-cirurgias",
+  "tipo": "FEDERATIVE",
+  "texto": "A rede do SUS é regionalizada e integrada com os Municípios e a rede filantrópica.",
+  "regra_id": "cf-198",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-pronampe-sc--c1",
+  "proposta_id": "pr-240002537073-pronampe-sc",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-pronampe-sc--c2",
+  "proposta_id": "pr-240002537073-pronampe-sc",
+  "tipo": "LEGAL",
+  "texto": "Subsídio creditício com recursos públicos depende de autorização legal e de previsão orçamentária.",
+  "regra_id": "cf-174",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-tempo-integral--c1",
+  "proposta_id": "pr-240002537073-tempo-integral",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-universidade-gratuita--c1",
+  "proposta_id": "pr-240002537073-universidade-gratuita",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-videomonitoramento-facial--c1",
+  "proposta_id": "pr-240002537073-videomonitoramento-facial",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-videomonitoramento-facial--c2",
+  "proposta_id": "pr-240002537073-videomonitoramento-facial",
+  "tipo": "LEGAL",
+  "texto": "O tratamento de imagens e dados biométricos sujeita-se à legislação federal de proteção de dados pessoais.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-voa-sc--c1",
+  "proposta_id": "pr-240002537073-voa-sc",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-voa-sc--c2",
+  "proposta_id": "pr-240002537073-voa-sc",
+  "tipo": "FEDERATIVE",
+  "texto": "A navegação aérea e a infraestrutura aeroportuária são serviços da União; o programa estadual atua por incentivo às rotas.",
+  "regra_id": "cf-21-xii",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-desmilitarizacao-pm--c1",
+  "proposta_id": "pr-240002541913-desmilitarizacao-pm",
+  "tipo": "LEGAL",
+  "texto": "O caráter militar das polícias militares e sua condição de forças auxiliares e reserva do Exército estão na Constituição; a mudança exige emenda.",
+  "regra_id": "cf-144-p6",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-dobrar-orcamento-educacao--c1",
+  "proposta_id": "pr-240002541913-dobrar-orcamento-educacao",
+  "tipo": "FISCAL",
+  "texto": "O plano não indica a fonte dos recursos; a Constituição fixa o mínimo de 25% da receita de impostos, e a ampliação depende do orçamento aprovado.",
+  "regra_id": "cf-212",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-dobrar-orcamento-saude--c1",
+  "proposta_id": "pr-240002541913-dobrar-orcamento-saude",
+  "tipo": "FISCAL",
+  "texto": "O plano não indica a fonte dos recursos; a ampliação depende da aprovação do orçamento pela Assembleia Legislativa e da receita disponível.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-estadualizar-acafe--c1",
+  "proposta_id": "pr-240002541913-estadualizar-acafe",
+  "tipo": "LEGAL",
+  "texto": "As instituições do sistema são fundações com personalidade própria, várias municipais; a incorporação exige lei e, conforme o caso, acordo com os Municípios instituidores.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-estadualizar-acafe--c2",
+  "proposta_id": "pr-240002541913-estadualizar-acafe",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-estatais-100-publicas--c1",
+  "proposta_id": "pr-240002541913-estatais-100-publicas",
+  "tipo": "LEGAL",
+  "texto": "Recomprar participações privadas em sociedade de economia mista depende de autorização legal e de recursos orçamentários.",
+  "regra_id": "cf-37-xix",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-fim-pedagios--c1",
+  "proposta_id": "pr-240002541913-fim-pedagios",
+  "tipo": "FEDERATIVE",
+  "texto": "As rodovias pedagiadas em Santa Catarina são em grande parte federais, concedidas pela União.",
+  "regra_id": "cf-21-xxi",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-fim-pedagios--c2",
+  "proposta_id": "pr-240002541913-fim-pedagios",
+  "tipo": "LEGAL",
+  "texto": "O encerramento antecipado de concessões envolve indenização ao concessionário.",
+  "regra_id": "cf-175",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-restaurantes-populares--c1",
+  "proposta_id": "pr-240002541913-restaurantes-populares",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-restaurantes-populares--c2",
+  "proposta_id": "pr-240002541913-restaurantes-populares",
+  "tipo": "FEDERATIVE",
+  "texto": "Assistência social é competência comum, em regra executada com os Municípios.",
+  "regra_id": "cf-23-x",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-rodovia-contorno-viario--c1",
+  "proposta_id": "pr-240002541913-rodovia-contorno-viario",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-rodovia-contorno-viario--c2",
+  "proposta_id": "pr-240002541913-rodovia-contorno-viario",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "Obra exige projeto, licenciamento ambiental e licitação.",
+  "regra_id": "cf-175",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-rumo-tarifa-zero--c1",
+  "proposta_id": "pr-240002541913-rumo-tarifa-zero",
+  "tipo": "FEDERATIVE",
+  "texto": "O transporte urbano é serviço municipal; o Estado responde pelo transporte intermunicipal e pode cofinanciar sistemas integrados.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-cirurgias-60-dias--c1",
+  "proposta_id": "pr-240002544118-cirurgias-60-dias",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-cirurgias-60-dias--c2",
+  "proposta_id": "pr-240002544118-cirurgias-60-dias",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "A contratação de serviços da rede privada exige contrato ou convênio precedido do procedimento de seleção cabível.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-cirurgias-60-dias--c3",
+  "proposta_id": "pr-240002544118-cirurgias-60-dias",
+  "tipo": "FEDERATIVE",
+  "texto": "A rede do SUS é regionalizada e integrada com os Municípios; a meta depende da regulação conjunta das filas.",
+  "regra_id": "cf-198",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-cobrar-duplicacao-brs--c1",
+  "proposta_id": "pr-240002544118-cobrar-duplicacao-brs",
+  "tipo": "FEDERATIVE",
+  "texto": "As rodovias federais integram o sistema nacional de viação, a cargo da União; o Estado pode atuar por articulação ou convênio.",
+  "regra_id": "cf-21-xxi",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-duplicar-rodovias-estaduais--c1",
+  "proposta_id": "pr-240002544118-duplicar-rodovias-estaduais",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-duplicar-rodovias-estaduais--c2",
+  "proposta_id": "pr-240002544118-duplicar-rodovias-estaduais",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "Obras dependem de projeto, licenciamento ambiental e licitação.",
+  "regra_id": "cf-175",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-hub-socioassistencial--c1",
+  "proposta_id": "pr-240002544118-hub-socioassistencial",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-hub-socioassistencial--c2",
+  "proposta_id": "pr-240002544118-hub-socioassistencial",
+  "tipo": "FEDERATIVE",
+  "texto": "A assistência social é competência comum; os serviços de acolhimento são em regra prestados pelos Municípios, com cofinanciamento estadual.",
+  "regra_id": "cf-23-x",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-lei-regionalizacao-saneamento--c1",
+  "proposta_id": "pr-240002544118-lei-regionalizacao-saneamento",
+  "tipo": "LEGAL",
+  "texto": "A instituição de microrregiões ou unidades regionais depende de lei complementar estadual.",
+  "regra_id": "cf-25-p3",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-lei-regionalizacao-saneamento--c2",
+  "proposta_id": "pr-240002544118-lei-regionalizacao-saneamento",
+  "tipo": "FEDERATIVE",
+  "texto": "A prestação regionalizada exige articulação com os Municípios integrantes de cada unidade.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-presidio-seguranca-maxima--c1",
+  "proposta_id": "pr-240002544118-presidio-seguranca-maxima",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-presidio-seguranca-maxima--c2",
+  "proposta_id": "pr-240002544118-presidio-seguranca-maxima",
+  "tipo": "LEGAL",
+  "texto": "O regime de cumprimento de pena e o isolamento de presos seguem normas de direito penitenciário, matéria de legislação concorrente com normas gerais da União.",
+  "regra_id": "cf-24-i",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-privatizar-celesc-casan--c1",
+  "proposta_id": "pr-240002544118-privatizar-celesc-casan",
+  "tipo": "LEGAL",
+  "texto": "A alienação do controle de sociedade de economia mista depende de autorização em lei estadual.",
+  "regra_id": "cf-37-xix",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-privatizar-celesc-casan--c2",
+  "proposta_id": "pr-240002544118-privatizar-celesc-casan",
+  "tipo": "FEDERATIVE",
+  "texto": "A distribuição de energia elétrica é serviço federal prestado por concessão, sujeito à regulação da União; os serviços de saneamento envolvem contratos com os Municípios atendidos.",
+  "regra_id": "cf-21-xii",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-carga-tributaria--c1",
+  "proposta_id": "pr-240002544118-reduzir-carga-tributaria",
+  "tipo": "LEGAL",
+  "texto": "Redução de base de cálculo, isenção ou crédito presumido exigem lei específica.",
+  "regra_id": "cf-150-p6",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-carga-tributaria--c2",
+  "proposta_id": "pr-240002544118-reduzir-carga-tributaria",
+  "tipo": "FEDERATIVE",
+  "texto": "Benefícios de ICMS seguem a deliberação entre os Estados prevista em lei complementar.",
+  "regra_id": "cf-155-p2-xii-g",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-carga-tributaria--c3",
+  "proposta_id": "pr-240002544118-reduzir-carga-tributaria",
+  "tipo": "FISCAL",
+  "texto": "Renúncia de receita exige estimativa de impacto e medidas de compensação pelas regras de responsabilidade fiscal.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-comissionados-25--c1",
+  "proposta_id": "pr-240002544118-reduzir-comissionados-25",
+  "tipo": "LEGAL",
+  "texto": "Deixar cargos vagos ou exonerar ocupantes é ato do Governador; a extinção definitiva dos cargos depende de lei.",
+  "regra_id": "cf-37-v",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-tempo-integral-2030--c1",
+  "proposta_id": "pr-240002544118-tempo-integral-2030",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-tempo-integral-2030--c2",
+  "proposta_id": "pr-240002544118-tempo-integral-2030",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "A ampliação da jornada exige professores e estrutura física adicionais; a admissão de pessoal efetivo depende de concurso.",
+  "regra_id": "cf-37-ii",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-travessia-itajai-navegantes--c1",
+  "proposta_id": "pr-240002544118-travessia-itajai-navegantes",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "A outorga de novos serviços de travessia exige concessão ou permissão precedida de licitação.",
+  "regra_id": "cf-175",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-apoio-tarifa-zero--c1",
+  "proposta_id": "pr-240002548628-apoio-tarifa-zero",
+  "tipo": "FEDERATIVE",
+  "texto": "O transporte coletivo urbano é serviço municipal; o Estado pode apoiar por convênio ou transferência.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-autonomia-udesc--c1",
+  "proposta_id": "pr-240002548628-autonomia-udesc",
+  "tipo": "LEGAL",
+  "texto": "Autonomia financeira com repasse garantido exige lei estadual e previsão nas leis orçamentárias.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-cameras-corporais--c1",
+  "proposta_id": "pr-240002548628-cameras-corporais",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-caps-iii--c1",
+  "proposta_id": "pr-240002548628-caps-iii",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-caps-iii--c2",
+  "proposta_id": "pr-240002548628-caps-iii",
+  "tipo": "FEDERATIVE",
+  "texto": "Os CAPS são em regra serviços municipais habilitados e cofinanciados pela União; o Estado atua em parceria.",
+  "regra_id": "cf-30-vii",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-centros-regionais-especialidades--c1",
+  "proposta_id": "pr-240002548628-centros-regionais-especialidades",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-centros-regionais-especialidades--c2",
+  "proposta_id": "pr-240002548628-centros-regionais-especialidades",
+  "tipo": "FEDERATIVE",
+  "texto": "A rede do SUS é regionalizada e integrada com os Municípios.",
+  "regra_id": "cf-198",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-orgao-habitacao--c1",
+  "proposta_id": "pr-240002548628-orgao-habitacao",
+  "tipo": "LEGAL",
+  "texto": "A criação de órgão depende de lei estadual de iniciativa do Governador.",
+  "regra_id": "ce-sc",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-orgao-habitacao--c2",
+  "proposta_id": "pr-240002548628-orgao-habitacao",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-reducao-agrotoxicos--c1",
+  "proposta_id": "pr-240002548628-reducao-agrotoxicos",
+  "tipo": "LEGAL",
+  "texto": "Produção, comércio e uso de agrotóxicos têm normas gerais federais; o Estado pode legislar de forma suplementar.",
+  "regra_id": "cf-24-vi",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-secretaria-bem-estar-animal--c1",
+  "proposta_id": "pr-240002548628-secretaria-bem-estar-animal",
+  "tipo": "LEGAL",
+  "texto": "A criação de secretaria depende de lei estadual de iniciativa do Governador.",
+  "regra_id": "ce-sc",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-cameras-corporais--c1",
+  "proposta_id": "pr-240002550544-cameras-corporais",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-delegacias-mulher-24h--c1",
+  "proposta_id": "pr-240002550544-delegacias-mulher-24h",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-delegacias-mulher-24h--c2",
+  "proposta_id": "pr-240002550544-delegacias-mulher-24h",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "Funcionamento ininterrupto em todos os municípios exige ampliação do efetivo da Polícia Civil, que depende de concurso e lei.",
+  "regra_id": "cf-37-ii",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-eleicao-diretores--c1",
+  "proposta_id": "pr-240002550544-eleicao-diretores",
+  "tipo": "LEGAL",
+  "texto": "Revogar decreto é ato do Governador; a forma de provimento de direções escolares deve observar as regras de cargos em comissão e funções de confiança.",
+  "regra_id": "cf-37-v",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-orcamento-participativo--c1",
+  "proposta_id": "pr-240002550544-orcamento-participativo",
+  "tipo": "LEGAL",
+  "texto": "A iniciativa das leis orçamentárias é do Governador, mas a aprovação cabe à Assembleia Legislativa.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-professores-36h--c1",
+  "proposta_id": "pr-240002550544-professores-36h",
+  "tipo": "LEGAL",
+  "texto": "Jornada de servidores é fixada em lei estadual.",
+  "regra_id": "cf-37-ii",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-professores-36h--c2",
+  "proposta_id": "pr-240002550544-professores-36h",
+  "tipo": "FISCAL",
+  "texto": "A admissão exige dotação e autorização na lei de diretrizes orçamentárias.",
+  "regra_id": "cf-169-p1",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-restabelecer-cohab--c1",
+  "proposta_id": "pr-240002550544-restabelecer-cohab",
+  "tipo": "LEGAL",
+  "texto": "A instituição de empresa pública ou sociedade de economia mista depende de lei específica.",
+  "regra_id": "cf-37-xix",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-restabelecer-cohab--c2",
+  "proposta_id": "pr-240002550544-restabelecer-cohab",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-revisar-incentivos-fiscais--c1",
+  "proposta_id": "pr-240002550544-revisar-incentivos-fiscais",
+  "tipo": "LEGAL",
+  "texto": "Alterar ou revogar benefícios exige lei específica; a divulgação de dados de contribuintes observa o sigilo fiscal.",
+  "regra_id": "cf-150-p6",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-revisar-incentivos-fiscais--c2",
+  "proposta_id": "pr-240002550544-revisar-incentivos-fiscais",
+  "tipo": "FEDERATIVE",
+  "texto": "Benefícios de ICMS seguem a deliberação entre os Estados prevista em lei complementar.",
+  "regra_id": "cf-155-p2-xii-g",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-suspender-universidade-gratuita--c1",
+  "proposta_id": "pr-240002550544-suspender-universidade-gratuita",
+  "tipo": "LEGAL",
+  "texto": "Programa instituído por lei estadual só é suspenso ou extinto por outra lei; matrículas em curso envolvem direitos já constituídos.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-suspender-universidade-gratuita--c2",
+  "proposta_id": "pr-240002550544-suspender-universidade-gratuita",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-apoio-creches--c1",
+  "proposta_id": "pr-240002551001-apoio-creches",
+  "tipo": "FEDERATIVE",
+  "texto": "A educação infantil é atuação prioritária dos Municípios; o Estado participa por transferências voluntárias ou convênios.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-forca-tarefa-cirurgias--c1",
+  "proposta_id": "pr-240002551001-forca-tarefa-cirurgias",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-forca-tarefa-cirurgias--c2",
+  "proposta_id": "pr-240002551001-forca-tarefa-cirurgias",
+  "tipo": "FEDERATIVE",
+  "texto": "A regulação das filas do SUS é compartilhada com os Municípios.",
+  "regra_id": "cf-198",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-investimento-15-rcl--c1",
+  "proposta_id": "pr-240002551001-investimento-15-rcl",
+  "tipo": "FISCAL",
+  "texto": "A destinação depende da aprovação anual do orçamento pela Assembleia Legislativa e das vinculações constitucionais de saúde e educação.",
+  "regra_id": "cf-212",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-muralha-digital--c1",
+  "proposta_id": "pr-240002551001-muralha-digital",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-muralha-digital--c2",
+  "proposta_id": "pr-240002551001-muralha-digital",
+  "tipo": "LEGAL",
+  "texto": "O tratamento de imagens e dados pessoais sujeita-se à legislação federal de proteção de dados.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-policiais-reserva--c1",
+  "proposta_id": "pr-240002551001-policiais-reserva",
+  "tipo": "LEGAL",
+  "texto": "A convocação de militares inativos depende de previsão na legislação estadual.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-policiais-reserva--c2",
+  "proposta_id": "pr-240002551001-policiais-reserva",
+  "tipo": "FISCAL",
+  "texto": "Admissão e convocação exigem dotação e autorização na lei de diretrizes orçamentárias.",
+  "regra_id": "cf-169-p1",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-tempo-integral-ensino-medio--c1",
+  "proposta_id": "pr-240002551001-tempo-integral-ensino-medio",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-udesc--c1",
+  "proposta_id": "pr-240002551001-udesc",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-aplicativo-condenados-violencia-mulher--c1",
+  "proposta_id": "pr-240002552157-aplicativo-condenados-violencia-mulher",
+  "tipo": "LEGAL",
+  "texto": "A divulgação nominal de condenações sujeita-se à legislação federal de proteção de dados e às normas penais e processuais, de competência privativa da União.",
+  "regra_id": "cf-22-i",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-cheias-itajai-acu--c1",
+  "proposta_id": "pr-240002552157-cheias-itajai-acu",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-cheias-itajai-acu--c2",
+  "proposta_id": "pr-240002552157-cheias-itajai-acu",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "Obras de transposição ou desvio de rio exigem licenciamento ambiental e, conforme o domínio do curso d'água, manifestação federal.",
+  "regra_id": "cf-225",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-duplicacao-br-282--c1",
+  "proposta_id": "pr-240002552157-duplicacao-br-282",
+  "tipo": "FEDERATIVE",
+  "texto": "A BR-282 é rodovia federal; a concessão pelo Estado depende de delegação ou convênio com a União.",
+  "regra_id": "cf-21-xxi",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-duplicacao-br-282--c2",
+  "proposta_id": "pr-240002552157-duplicacao-br-282",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "Concessão ou parceria público-privada exige licitação e modelagem aprovada.",
+  "regra_id": "cf-175",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-hospital-queimados--c1",
+  "proposta_id": "pr-240002552157-hospital-queimados",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-hospital-queimados--c2",
+  "proposta_id": "pr-240002552157-hospital-queimados",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "A adaptação do imóvel exige projeto, licenciamento sanitário e habilitação do serviço na rede do SUS.",
+  "regra_id": "cf-198",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-lei-verbas-comunicacao--c1",
+  "proposta_id": "pr-240002552157-lei-verbas-comunicacao",
+  "tipo": "LEGAL",
+  "texto": "Exige lei estadual aprovada pela Assembleia Legislativa.",
+  "regra_id": "cf-25",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-secretaria-logistica-ferrovia--c1",
+  "proposta_id": "pr-240002552157-secretaria-logistica-ferrovia",
+  "tipo": "LEGAL",
+  "texto": "A criação de secretaria depende de lei estadual de iniciativa do Governador.",
+  "regra_id": "ce-sc",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-secretaria-logistica-ferrovia--c2",
+  "proposta_id": "pr-240002552157-secretaria-logistica-ferrovia",
+  "tipo": "FEDERATIVE",
+  "texto": "Ferrovia integrada à malha nacional ou que transponha limites do Estado é serviço da União.",
+  "regra_id": "cf-21-xii",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-tempo-integral--c1",
+  "proposta_id": "pr-240002552157-tempo-integral",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+  "regra_id": "cf-165",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-combustiveis-50--c1",
+  "proposta_id": "pr-240002553718-combustiveis-50",
+  "tipo": "FEDERATIVE",
+  "texto": "A política de preços da Petrobras é definida pela empresa, controlada pela União; o Estado atua apenas sobre o ICMS dos combustíveis.",
+  "regra_id": "cf-177-i",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-dissolucao-policia-militar--c1",
+  "proposta_id": "pr-240002553718-dissolucao-policia-militar",
+  "tipo": "LEGAL",
+  "texto": "As polícias militares estão previstas na Constituição como órgãos de segurança pública subordinados aos Governadores; sua extinção exige emenda constitucional.",
+  "regra_id": "cf-144-v",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-fim-do-stf--c1",
+  "proposta_id": "pr-240002553718-fim-do-stf",
+  "tipo": "LEGAL",
+  "texto": "O Supremo Tribunal Federal e a forma de escolha de seus ministros estão na Constituição; a separação dos Poderes é limite material ao poder de emenda.",
+  "regra_id": "cf-60-p4",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-fim-lrf-teto--c1",
+  "proposta_id": "pr-240002553718-fim-lrf-teto",
+  "tipo": "LEGAL",
+  "texto": "Normas gerais de finanças públicas são fixadas em lei complementar federal.",
+  "regra_id": "cf-163-i",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--c1",
+  "proposta_id": "pr-240002553718-jornada-35-horas",
+  "tipo": "LEGAL",
+  "texto": "O limite constitucional de jornada é de 44 horas semanais; reduzi-lo para todos exige mudança no texto da Constituição ou lei federal mais protetiva.",
+  "regra_id": "cf-7-xiii",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--c2",
+  "proposta_id": "pr-240002553718-jornada-35-horas",
+  "tipo": "FEDERATIVE",
+  "texto": "Direito do trabalho é competência privativa da União.",
+  "regra_id": "cf-22-i",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-piso-professores-8500--c1",
+  "proposta_id": "pr-240002553718-piso-professores-8500",
+  "tipo": "FEDERATIVE",
+  "texto": "O piso nacional é fixado em lei federal; o impacto recai sobre as folhas de Estados e Municípios.",
+  "regra_id": "cf-206-viii",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-salario-minimo-7500--c1",
+  "proposta_id": "pr-240002553718-salario-minimo-7500",
+  "tipo": "FEDERATIVE",
+  "texto": "O salário mínimo é fixado em lei federal, nacionalmente unificado.",
+  "regra_id": "cf-7-iv",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-salario-minimo-7500--c2",
+  "proposta_id": "pr-240002553718-salario-minimo-7500",
+  "tipo": "FISCAL",
+  "texto": "O valor impacta benefícios previdenciários e assistenciais vinculados ao salário mínimo e as folhas de pagamento públicas.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-alfabetizacao-80--c1",
+  "proposta_id": "pr-280002542548-alfabetizacao-80",
+  "tipo": "FEDERATIVE",
+  "texto": "A alfabetização ocorre nas redes estaduais e municipais; a União atua por apoio técnico e financeiro.",
+  "regra_id": "cf-211-p1",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-alianca-tfff--c1",
+  "proposta_id": "pr-280002542548-alianca-tfff",
+  "tipo": "LEGAL",
+  "texto": "Compromissos que gerem encargos ao patrimônio nacional dependem do Congresso.",
+  "regra_id": "cf-49-i",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-arcabouco-fiscal--c1",
+  "proposta_id": "pr-280002542548-arcabouco-fiscal",
+  "tipo": "LEGAL",
+  "texto": "O regime fiscal está em lei complementar já vigente; mantê-lo não exige nova lei, alterá-lo sim.",
+  "regra_id": "cf-163-i",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-arcabouco-fiscal--c2",
+  "proposta_id": "pr-280002542548-arcabouco-fiscal",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "A taxa de juros é decidida pelo Banco Central, autônomo em relação ao Presidente.",
+  "regra_id": "cf-164-p2",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-casas-mulher--c1",
+  "proposta_id": "pr-280002542548-casas-mulher",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+  "regra_id": "cf-166",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-casas-mulher--c2",
+  "proposta_id": "pr-280002542548-casas-mulher",
+  "tipo": "FEDERATIVE",
+  "texto": "A gestão dos equipamentos é compartilhada com Estados e Municípios.",
+  "regra_id": "cf-23-x",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-desmatamento-zero--c1",
+  "proposta_id": "pr-280002542548-desmatamento-zero",
+  "tipo": "FEDERATIVE",
+  "texto": "Licenciamento e fiscalização são compartilhados com Estados e Municípios.",
+  "regra_id": "cf-23-vi",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-emendas--c1",
+  "proposta_id": "pr-280002542548-emendas",
+  "tipo": "LEGAL",
+  "texto": "Exige emenda constitucional aprovada por três quintos, em dois turnos, nas duas Casas.",
+  "regra_id": "cf-60-p2",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-farmacia-exames--c1",
+  "proposta_id": "pr-280002542548-farmacia-exames",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+  "regra_id": "cf-166",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-fila-unica--c1",
+  "proposta_id": "pr-280002542548-fila-unica",
+  "tipo": "FEDERATIVE",
+  "texto": "A regulação das filas é feita por Estados e Municípios, com pactuação nas comissões do SUS.",
+  "regra_id": "cf-198",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-fim-6x1--c1",
+  "proposta_id": "pr-280002542548-fim-6x1",
+  "tipo": "LEGAL",
+  "texto": "Exige emenda constitucional aprovada por três quintos, em dois turnos, nas duas Casas.",
+  "regra_id": "cf-60-p2",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-fndr--c1",
+  "proposta_id": "pr-280002542548-fndr",
+  "tipo": "FEDERATIVE",
+  "texto": "O fundo transfere recursos aos Estados; a regulamentação depende do Congresso.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-imposto-seletivo--c1",
+  "proposta_id": "pr-280002542548-imposto-seletivo",
+  "tipo": "LEGAL",
+  "texto": "Alíquotas e alcance do Imposto Seletivo dependem de lei aprovada pelo Congresso.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-mcmv--c1",
+  "proposta_id": "pr-280002542548-mcmv",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+  "regra_id": "cf-166",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-mcmv--c2",
+  "proposta_id": "pr-280002542548-mcmv",
+  "tipo": "FEDERATIVE",
+  "texto": "A execução depende de Municípios e do Conselho Curador do FGTS.",
+  "regra_id": "cf-23-ix",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--c1",
+  "proposta_id": "pr-280002542548-ministerio-seguranca",
+  "tipo": "LEGAL",
+  "texto": "O plano condiciona a criação à aprovação da PEC da Segurança Pública.",
+  "regra_id": "cf-60-p2",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-novo-pac-2--c1",
+  "proposta_id": "pr-280002542548-novo-pac-2",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+  "regra_id": "cf-166",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-novo-pac-2--c2",
+  "proposta_id": "pr-280002542548-novo-pac-2",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "Concessões exigem licitação e controle do TCU.",
+  "regra_id": "cf-175",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-pacto-execucao-penal--c1",
+  "proposta_id": "pr-280002542548-pacto-execucao-penal",
+  "tipo": "FEDERATIVE",
+  "texto": "A maior parte do sistema prisional é estadual; a medida depende de adesão dos Estados e do Judiciário.",
+  "regra_id": "cf-24-i",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-pe-de-meia--c1",
+  "proposta_id": "pr-280002542548-pe-de-meia",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+  "regra_id": "cf-166",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-pe-de-meia--c2",
+  "proposta_id": "pr-280002542548-pe-de-meia",
+  "tipo": "LEGAL",
+  "texto": "O TCU determinou em 2025 a inclusão integral do programa no orçamento.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--c1",
+  "proposta_id": "pr-280002542548-petrobras-distribuicao",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "Depende de decisão dos órgãos societários da Petrobras, com acionistas minoritários, e da regulação do setor.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--c2",
+  "proposta_id": "pr-280002542548-petrobras-distribuicao",
+  "tipo": "LEGAL",
+  "texto": "A exploração direta de atividade econômica pelo Estado só é admitida nos casos da Constituição.",
+  "regra_id": "cf-173",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--c1",
+  "proposta_id": "pr-280002542548-salario-minimo",
+  "tipo": "LEGAL",
+  "texto": "A regra de valorização já está em lei; mantê-la não exige nova lei, alterá-la sim.",
+  "regra_id": "cf-7-iv",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--c2",
+  "proposta_id": "pr-280002542548-salario-minimo",
+  "tipo": "FISCAL",
+  "texto": "O salário mínimo indexa benefícios previdenciários e assistenciais, com impacto no gasto obrigatório.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-casa-verde-amarela--c1",
+  "proposta_id": "pr-280002551544-casa-verde-amarela",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+  "regra_id": "cf-166",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-casa-verde-amarela--c2",
+  "proposta_id": "pr-280002551544-casa-verde-amarela",
+  "tipo": "FEDERATIVE",
+  "texto": "A execução depende de Municípios e do Conselho Curador do FGTS.",
+  "regra_id": "cf-23-ix",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--c1",
+  "proposta_id": "pr-280002551544-corte-ministerios",
+  "tipo": "LEGAL",
+  "texto": "A extinção de ministérios depende de lei ou medida provisória; a reorganização sem extinção de órgãos pode ser feita por decreto.",
+  "regra_id": "cf-84-vi",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-desmatamento-ilegal-2029--c1",
+  "proposta_id": "pr-280002551544-desmatamento-ilegal-2029",
+  "tipo": "FEDERATIVE",
+  "texto": "Fiscalização compartilhada com Estados e Municípios.",
+  "regra_id": "cf-23-vi",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-dobrar-seguranca--c1",
+  "proposta_id": "pr-280002551544-dobrar-seguranca",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+  "regra_id": "cf-166",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-ecr--c1",
+  "proposta_id": "pr-280002551544-ecr",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+  "regra_id": "cf-166",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--c1",
+  "proposta_id": "pr-280002551544-energia-cde",
+  "tipo": "FEDERATIVE",
+  "texto": "O ICMS sobre energia e combustíveis é estadual.",
+  "regra_id": "cf-155-ii",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--c2",
+  "proposta_id": "pr-280002551544-energia-cde",
+  "tipo": "FISCAL",
+  "texto": "Redução de tributos e encargos exige estimativa de impacto e compensação.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-fim-reeleicao--c1",
+  "proposta_id": "pr-280002551544-fim-reeleicao",
+  "tipo": "LEGAL",
+  "texto": "Exige emenda constitucional aprovada por três quintos, em dois turnos, nas duas Casas.",
+  "regra_id": "cf-60-p2",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-fim-reeleicao--c2",
+  "proposta_id": "pr-280002551544-fim-reeleicao",
+  "tipo": "LEGAL",
+  "texto": "A reeleição está prevista na Constituição.",
+  "regra_id": "cf-14-p5",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-infra-900bi--c1",
+  "proposta_id": "pr-280002551544-infra-900bi",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+  "regra_id": "cf-166",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-infra-900bi--c2",
+  "proposta_id": "pr-280002551544-infra-900bi",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "Concessões e parcerias exigem licitação, licenciamento e controle do TCU; a maior parte do valor depende de investimento privado.",
+  "regra_id": "cf-175",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--c1",
+  "proposta_id": "pr-280002551544-licenca-tacita",
+  "tipo": "LEGAL",
+  "texto": "A aprovação por decurso de prazo pode ser questionada diante do dever de proteção ambiental.",
+  "regra_id": "cf-225",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-maioridade-penal--c1",
+  "proposta_id": "pr-280002551544-maioridade-penal",
+  "tipo": "LEGAL",
+  "texto": "Exige emenda constitucional aprovada por três quintos, em dois turnos, nas duas Casas.",
+  "regra_id": "cf-60-p2",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-maioridade-penal--c2",
+  "proposta_id": "pr-280002551544-maioridade-penal",
+  "tipo": "LEGAL",
+  "texto": "Há controvérsia sobre se a idade penal é limite material ao poder de emenda (direitos e garantias individuais).",
+  "regra_id": "cf-60-p4",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-ocde-iof--c1",
+  "proposta_id": "pr-280002551544-ocde-iof",
+  "tipo": "ADMINISTRATIVE",
+  "texto": "A adesão à OCDE depende do processo de acessão e de convergência normativa, parte dela por lei.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-presidios-treva--c1",
+  "proposta_id": "pr-280002551544-presidios-treva",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+  "regra_id": "cf-166",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-presidios-treva--c2",
+  "proposta_id": "pr-280002551544-presidios-treva",
+  "tipo": "FEDERATIVE",
+  "texto": "A maior parte das vagas prisionais é estadual; a meta depende de convênios com os Estados.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-regra-fiscal--c1",
+  "proposta_id": "pr-280002551544-regra-fiscal",
+  "tipo": "LEGAL",
+  "texto": "A regra fiscal está em lei complementar; controlar despesas dos outros Poderes pode exigir emenda constitucional.",
+  "regra_id": "cf-163-i",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-retorno-beneficio--c1",
+  "proposta_id": "pr-280002551544-retorno-beneficio",
+  "tipo": "LEGAL",
+  "texto": "As regras do Bolsa Família estão em lei e decreto; a mudança pode exigir ajuste normativo.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-revisao-reforma-iva--c1",
+  "proposta_id": "pr-280002551544-revisao-reforma-iva",
+  "tipo": "LEGAL",
+  "texto": "Exige emenda constitucional aprovada por três quintos, em dois turnos, nas duas Casas.",
+  "regra_id": "cf-60-p2",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-revisao-reforma-iva--c2",
+  "proposta_id": "pr-280002551544-revisao-reforma-iva",
+  "tipo": "FEDERATIVE",
+  "texto": "O IBS é compartilhado por Estados e Municípios.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-tabela-sus--c1",
+  "proposta_id": "pr-280002551544-tabela-sus",
+  "tipo": "FISCAL",
+  "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+  "regra_id": "cf-166",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--c1",
+  "proposta_id": "pr-280002551544-voucher-creche",
+  "tipo": "FEDERATIVE",
+  "texto": "A educação infantil é atuação prioritária dos Municípios; o financiamento federal depende de lei e pactuação.",
+  "regra_id": "cf-211-p1",
+  "origem_dado": "CURATED"
+ }
+]

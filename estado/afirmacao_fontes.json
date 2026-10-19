@@ -1,5 +1,950 @@
 [
  {
+  "id": "pr-240002537073-barragens-cheias--af--1",
+  "afirmacao_id": "pr-240002537073-barragens-cheias--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 16",
+  "trecho": "•Proteção e Defesa Civil: concluir a modernização das barragens do Alto Vale e executar as novas barragens de prevenção das cheias. Ampliar o desassoreamento contínuo de rios, em obras diretas do Estado e em parceria com os municípios.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-casa-catarina--af--1",
+  "afirmacao_id": "pr-240002537073-casa-catarina--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 17",
+  "trecho": "•Programa Casa Catarina +22: Ampliar a meta do programa de construção de habitações populares com a adesão de 100% dos municípios, proporcionando teto e dignidade às famílias catarinenses de baixa renda.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-custeio-leitos-uti--af--1",
+  "afirmacao_id": "pr-240002537073-custeio-leitos-uti--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 17",
+  "trecho": "•Expansão da Rede Hospitalar e UTIs: garantir o custeio dos mais de 300 novos leitos de UTI abertos na gestão",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-efetivo-policial--af--1",
+  "afirmacao_id": "pr-240002537073-efetivo-policial--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 16",
+  "trecho": "• Valorização e recomposição do efetivo policial: dar continuidade aos concursos públicos, garantindo efetivo qualificado",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-estrada-boa-viamar--af--1",
+  "afirmacao_id": "pr-240002537073-estrada-boa-viamar--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 15",
+  "trecho": "•Estrada Boa +22: Dar continuidade às obras de pavimentação, restauração pesada e duplicação da malha viária estadual. Acelerar as obras da VIAMAR (corredor expresso paralelo à BR-101).",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-ferrovias-estaduais--af--1",
+  "afirmacao_id": "pr-240002537073-ferrovias-estaduais--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 15",
+  "trecho": "•Corredores Ferroviários e intermodais: acelerar a elaboração de projetos e licenciamentos de ferrovias estaduais conectando as regiões catarinenses, viabilizando parcerias público-privadas para diversificar a matriz de transporte.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-fila-zero-cirurgias--af--1",
+  "afirmacao_id": "pr-240002537073-fila-zero-cirurgias--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 17",
+  "trecho": "•Fila Zero: fortalecer a Tabela Catarinense de Cirurgias e o Programa de Valorização dos Hospitais Filantrópicos e Municipais, assegurando as condições para continuar a reduzir ainda mais o tempo de espera por exames e cirurgias eletivas.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-pronampe-sc--af--1",
+  "afirmacao_id": "pr-240002537073-pronampe-sc--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 20",
+  "trecho": "•Pronampe SC ampliado: ampliar as linhas de crédito subsidiado para micro e pequenas empresas, MEls e agricultores,",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-tempo-integral--af--1",
+  "afirmacao_id": "pr-240002537073-tempo-integral--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 18",
+  "trecho": "•Ampliar a educação em tempo integral nas escolas públicas estaduais catarinenses.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-universidade-gratuita--af--1",
+  "afirmacao_id": "pr-240002537073-universidade-gratuita--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 18",
+  "trecho": "• Manter e qualificar os programas Universidade Gratuita e FUMDESC.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-videomonitoramento-facial--af--1",
+  "afirmacao_id": "pr-240002537073-videomonitoramento-facial--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 16",
+  "trecho": "•Cerco eletrônico e inteligência total: expandir o Sistema Integrado de Videomonitoramento Inteligente com reconhecimento facial e leitura de placas para as maiores cidades catarinenses.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-voa-sc--af--1",
+  "afirmacao_id": "pr-240002537073-voa-sc--af",
+  "fonte_id": "tse-documento-240017141286",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 15",
+  "trecho": "• Consolidação do VOA+SC: perenizar o programa VOA+SC para viabilizar voos regionais diários conectando as cidades do interior à Capital.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-desmilitarizacao-pm--af--1",
+  "afirmacao_id": "pr-240002541913-desmilitarizacao-pm--af",
+  "fonte_id": "tse-documento-240017140305",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 44",
+  "trecho": "B. Desmilitarização da polícia militar e criação de uma polícia civil unificada com controle democrático dos trabalhadores e do povo pobre; e direito de organização sindical para os policiais.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-dobrar-orcamento-educacao--af--1",
+  "afirmacao_id": "pr-240002541913-dobrar-orcamento-educacao--af",
+  "fonte_id": "tse-documento-240017140305",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 33",
+  "trecho": "B. Dobrar o orçamento estadual da Educação no estado para garantir vagas para todas as crianças também com qualidade, nas creches e escolas públicas.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-dobrar-orcamento-saude--af--1",
+  "afirmacao_id": "pr-240002541913-dobrar-orcamento-saude--af",
+  "fonte_id": "tse-documento-240017140305",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 32",
+  "trecho": "A. Dobrar o orçamento estadual da Saúde para dotá-lo das condições necessárias para oferecer atendimento de qualidade e acabar com as filas, inclusive de médicos especialistas.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-estadualizar-acafe--af--1",
+  "afirmacao_id": "pr-240002541913-estadualizar-acafe--af",
+  "fonte_id": "tse-documento-240017140305",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 25",
+  "trecho": "o Sistema ACAFE deve ser estadualizado e incorporado a UDESC.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-estatais-100-publicas--af--1",
+  "afirmacao_id": "pr-240002541913-estatais-100-publicas--af",
+  "fonte_id": "tse-documento-240017140305",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 27",
+  "trecho": "Defendemos CELESC, CASAN, SC GÁS, CIASC, EPAGRI e CIDASC 100% públicas e sob controle dos trabalhadores.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-fim-pedagios--af--1",
+  "afirmacao_id": "pr-240002541913-fim-pedagios--af",
+  "fonte_id": "tse-documento-240017140305",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 39",
+  "trecho": "Fim dos pedágios e a reversão dos processos de privatização das rodovias!",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-restaurantes-populares--af--1",
+  "afirmacao_id": "pr-240002541913-restaurantes-populares--af",
+  "fonte_id": "tse-documento-240017140305",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 37",
+  "trecho": "J. Emergencialmente instituir uma cesta básica mensal para as famílias que necessitam, e restaurantes populares nos bairros vulneráveis socialmente.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-rodovia-contorno-viario--af--1",
+  "afirmacao_id": "pr-240002541913-rodovia-contorno-viario--af",
+  "fonte_id": "tse-documento-240017140305",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 38",
+  "trecho": "A. Construção de nova rodovia ligando o norte do estado ao Contorno Viário de Florianópolis.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-rumo-tarifa-zero--af--1",
+  "afirmacao_id": "pr-240002541913-rumo-tarifa-zero--af",
+  "fonte_id": "tse-documento-240017140305",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 38",
+  "trecho": "A. Tarifa única valendo para o dia todo. Redução da tarifa, rumo à tarifa zero. Criação de mais linhas e horários. Garantir integração intermunicipal nas regiões metropolitanas.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-cirurgias-60-dias--af--1",
+  "afirmacao_id": "pr-240002544118-cirurgias-60-dias--af",
+  "fonte_id": "tse-documento-240017031822",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 14",
+  "trecho": "2.14.1 Criação do Programa Tempo é Vida, por meio do qual qualquer cirurgia indicada pelo sistema público de saúde deverá ser realizada em, no máximo, 60 (sessenta) dias, inclusive mediante contratação complementar da capacidade ociosa de unidades privadas de saúde, em horários de menor demanda;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-cobrar-duplicacao-brs--af--1",
+  "afirmacao_id": "pr-240002544118-cobrar-duplicacao-brs--af",
+  "fonte_id": "tse-documento-240017031822",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 13",
+  "trecho": "2.11.2 Cobrar com firmeza o Governo Federal para a duplicação das BRs 153, 280, 282 e 470;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-duplicar-rodovias-estaduais--af--1",
+  "afirmacao_id": "pr-240002544118-duplicar-rodovias-estaduais--af",
+  "fonte_id": "tse-documento-240017031822",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 13",
+  "trecho": "2.11.3 Iniciar programa de recuperação e de ampliação da capacidade das rodovias estaduais, mediante duplicação ou quadruplicação dos trechos prioritários, conforme critérios técnicos;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-hub-socioassistencial--af--1",
+  "afirmacao_id": "pr-240002544118-hub-socioassistencial--af",
+  "fonte_id": "tse-documento-240017031822",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 6",
+  "trecho": "2.3.1 Hub Socioassistencial, equipamento único e aglutinador criado nos principais polos de concentração de população em situação de rua das maiores cidades catarinenses, que centraliza os atendimentos básicos, alimentação, banho, higiene, guarda de pertences, emissão de documentos, acolhimento e triagem, com permanência máxima de 72 horas, atuando como porta de entrada e central de [...]",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-lei-regionalizacao-saneamento--af--1",
+  "afirmacao_id": "pr-240002544118-lei-regionalizacao-saneamento--af",
+  "fonte_id": "tse-documento-240017031822",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 14",
+  "trecho": "2.12.4 Elaborar, enviar e aprovar na Assembleia Legislativa a Lei de Regionalização do Saneamento em Santa Catarina, formando as unidades regionais e viabilizando tecnicamente os investimentos privados em municípios de menor porte;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-presidio-seguranca-maxima--af--1",
+  "afirmacao_id": "pr-240002544118-presidio-seguranca-maxima--af",
+  "fonte_id": "tse-documento-240017031822",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 16",
+  "trecho": "2.15.1 Construção do “Inferno Catarina”, um presídio de segurança máxima no Meio-Oeste catarinense voltado para lideranças de organizações criminosas e presos de alta periculosidade, que ficarão isolados e monitorados 24h por dia;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-privatizar-celesc-casan--af--1",
+  "afirmacao_id": "pr-240002544118-privatizar-celesc-casan--af",
+  "fonte_id": "tse-documento-240017031822",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 11",
+  "trecho": "2.8.2 Privatizar empresas estatais eficientes, superavitárias ou ainda úteis, com metas estabelecidas e sistemas de avaliação de desempenho, tais como CELESC e CASAN;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-carga-tributaria--af--1",
+  "afirmacao_id": "pr-240002544118-reduzir-carga-tributaria--af",
+  "fonte_id": "tse-documento-240017031822",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 9",
+  "trecho": "2.5.3 Reduzir a carga tributária para aumentar a competitividade do setor produtivo catarinense;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-comissionados-25--af--1",
+  "afirmacao_id": "pr-240002544118-reduzir-comissionados-25--af",
+  "fonte_id": "tse-documento-240017031822",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 5",
+  "trecho": "2.1.2 Redução do número de cargos comissionados em 25% na administração pública direta e indireta do Governo Estadual;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-tempo-integral-2030--af--1",
+  "afirmacao_id": "pr-240002544118-tempo-integral-2030--af",
+  "fonte_id": "tse-documento-240017031822",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 11",
+  "trecho": "2.9.1 Implementar a educação em tempo integral em todas as escolas estaduais catarinenses até 2030, ampliando as atividades no contraturno orientado ao reforço escolar, com oficinas de leitura e interpretação de texto, lógica, matemática e inglês;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-travessia-itajai-navegantes--af--1",
+  "afirmacao_id": "pr-240002544118-travessia-itajai-navegantes--af",
+  "fonte_id": "tse-documento-240017031822",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 13",
+  "trecho": "2.11.7 Criação de novos pontos de travessia entre os municípios de Itajaí e Navegantes, a fim de acabar com o monopólio e reduzir o preço das passagens.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-apoio-tarifa-zero--af--1",
+  "afirmacao_id": "pr-240002548628-apoio-tarifa-zero--af",
+  "fonte_id": "tse-documento-240017074241",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 25",
+  "trecho": "• implantação da tarifa zero nos municípios;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-autonomia-udesc--af--1",
+  "afirmacao_id": "pr-240002548628-autonomia-udesc--af",
+  "fonte_id": "tse-documento-240017074241",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 31",
+  "trecho": "• apoio à UDESC, com autonomia total, inclusive orçamentária;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-cameras-corporais--af--1",
+  "afirmacao_id": "pr-240002548628-cameras-corporais--af",
+  "fonte_id": "tse-documento-240017074241",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 42",
+  "trecho": "• retorno do uso de câmeras corporais nas operações policiais;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-caps-iii--af--1",
+  "afirmacao_id": "pr-240002548628-caps-iii--af",
+  "fonte_id": "tse-documento-240017074241",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 35",
+  "trecho": "• Centros de Atenção Psicossocial (CAPS) do tipo III em todos os municípios acima de 200.000 mil habitantes: atenção 24 horas/dia em todas as Macrorregiões do estado",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-centros-regionais-especialidades--af--1",
+  "afirmacao_id": "pr-240002548628-centros-regionais-especialidades--af",
+  "fonte_id": "tse-documento-240017074241",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 34",
+  "trecho": "• Centros Regionais de Especialidades para consultas, procedimentos ambulatoriais e exames de média complexidade nas 16 regionais de saúde.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-orgao-habitacao--af--1",
+  "afirmacao_id": "pr-240002548628-orgao-habitacao--af",
+  "fonte_id": "tse-documento-240017074241",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 25",
+  "trecho": "• criação de órgão estadual responsável pela política habitacional; • produção de habitação de interesse social; • urbanização de assentamentos precários; • regularização fundiária;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-reducao-agrotoxicos--af--1",
+  "afirmacao_id": "pr-240002548628-reducao-agrotoxicos--af",
+  "fonte_id": "tse-documento-240017074241",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 37",
+  "trecho": "Defender uma política estadual para redução e combate ao uso de agrotóxicos e demais defensivos agrícolas em Santa Catarina.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-secretaria-bem-estar-animal--af--1",
+  "afirmacao_id": "pr-240002548628-secretaria-bem-estar-animal--af",
+  "fonte_id": "tse-documento-240017074241",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 57",
+  "trecho": "• criação da Secretaria de Estado de Bem-estar Animal",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-cameras-corporais--af--1",
+  "afirmacao_id": "pr-240002550544-cameras-corporais--af",
+  "fonte_id": "tse-documento-240017093741",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 13",
+  "trecho": "2. Retomar imediatamente a obrigatoriedade do uso de câmeras corporais entre todos os policiais militares e civis de Santa Catarina;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-delegacias-mulher-24h--af--1",
+  "afirmacao_id": "pr-240002550544-delegacias-mulher-24h--af",
+  "fonte_id": "tse-documento-240017093741",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 13",
+  "trecho": "4. Construção de Delegacias da Mulher 24 horas em todos os municípios catarinenses, aliado à expansão da rede de casas de referência, casas de passagem e casas-abrigo para atendimento de mulheres em situação de violência;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-eleicao-diretores--af--1",
+  "afirmacao_id": "pr-240002550544-eleicao-diretores--af",
+  "fonte_id": "tse-documento-240017093741",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 9",
+  "trecho": "8. Democracia na Educação: revogação do Decreto Estadual nº 273 de 2023, assegurando eleições diretas para as direções escolares e posse dos eleitos, assim como implementação de eleições das Coordenadorias Regionais;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-orcamento-participativo--af--1",
+  "afirmacao_id": "pr-240002550544-orcamento-participativo--af",
+  "fonte_id": "tse-documento-240017093741",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 3",
+  "trecho": "1. Elaborar o PPA, a LDO e a LOA com participação popular, ampliando os mecanismos de orçamento participativo e garantindo transparência sobre a execução dos recursos públicos.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-professores-36h--af--1",
+  "afirmacao_id": "pr-240002550544-professores-36h--af",
+  "fonte_id": "tse-documento-240017093741",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 9",
+  "trecho": "Novas chamadas dos concursos visando reduzir a carga horária do professor catarinense para 36 horas semanais;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-restabelecer-cohab--af--1",
+  "afirmacao_id": "pr-240002550544-restabelecer-cohab--af",
+  "fonte_id": "tse-documento-240017093741",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 11",
+  "trecho": "1. Restabelecimento da Companhia de Habitação de Santa Catarina, com o objetivo de fornecer moradia acessível para toda a população do Estado. Expansão dos projetos de moradia popular financiados pelo governo do estado;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-revisar-incentivos-fiscais--af--1",
+  "afirmacao_id": "pr-240002550544-revisar-incentivos-fiscais--af",
+  "fonte_id": "tse-documento-240017093741",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 3",
+  "trecho": "3. Revisar os programas estaduais de incentivos fiscais, garantindo transparência sobre os valores concedidos, empresas beneficiadas e receitas que deixam de ser arrecadadas.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-suspender-universidade-gratuita--af--1",
+  "afirmacao_id": "pr-240002550544-suspender-universidade-gratuita--af",
+  "fonte_id": "tse-documento-240017093741",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 9",
+  "trecho": "1. Suspensão do Programa Universidade Gratuita, com reversão dos recursos que seriam investidos em novas matrículas para criação de novas vagas na UDESC contemplando os estudantes que viriam a utilizar o programa;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-apoio-creches--af--1",
+  "afirmacao_id": "pr-240002551001-apoio-creches--af",
+  "fonte_id": "tse-documento-240017099514",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 15",
+  "trecho": "• Apoiar financeiramente a ampliação da rede de creches para a primeira infância;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-forca-tarefa-cirurgias--af--1",
+  "afirmacao_id": "pr-240002551001-forca-tarefa-cirurgias--af",
+  "fonte_id": "tse-documento-240017099514",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 13",
+  "trecho": "Criar Força-Tarefa Médica para zerar as filas de espera de cirurgias, por meio de convênios com serviços de residências cirúrgicas em múltiplas especialidades;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-investimento-15-rcl--af--1",
+  "afirmacao_id": "pr-240002551001-investimento-15-rcl--af",
+  "fonte_id": "tse-documento-240017099514",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 3",
+  "trecho": "mediante a adoção de uma política fiscal austera, com controle rigoroso das despesas de custeio, assegurando-se, no mínimo, 15% da Receita Corrente Líquida (RCL) para investimentos.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-muralha-digital--af--1",
+  "afirmacao_id": "pr-240002551001-muralha-digital--af",
+  "fonte_id": "tse-documento-240017099514",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 8",
+  "trecho": "• Aperfeiçoar o programa de videomonitoramento, ampliando o número de câmeras com tecnologia de reconhecimento facial, leitura de placas de veículos, inteligência artificial e alertas em tempo real, instaladas em pontos estratégicos do Estado, constituindo a “Muralha Digital Catarinense”;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-policiais-reserva--af--1",
+  "afirmacao_id": "pr-240002551001-policiais-reserva--af",
+  "fonte_id": "tse-documento-240017099514",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 9",
+  "trecho": "Aumentar o efetivo por meio da convocação voluntária de policiais da reserva fisicamente aptos para atuarem em áreas estratégicas; • Nomear os aprovados em concursos já realizados e publicar novos editais;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-tempo-integral-ensino-medio--af--1",
+  "afirmacao_id": "pr-240002551001-tempo-integral-ensino-medio--af",
+  "fonte_id": "tse-documento-240017099514",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 15",
+  "trecho": "• Priorizar a educação em tempo integral, com atividades de reforço em Matemática, Português e Inglês no contraturno; • Universalizar o ensino médio na rede pública estadual;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-udesc--af--1",
+  "afirmacao_id": "pr-240002551001-udesc--af",
+  "fonte_id": "tse-documento-240017099514",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 16",
+  "trecho": "A Universidade do Estado de Santa Catarina (UDESC) será resgatada como instituição oficial do ensino superior estadual, com alocação dos recursos necessários à sua expansão, à pesquisa e ao seu fortalecimento no contexto do desenvolvimento do Estado.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-aplicativo-condenados-violencia-mulher--af--1",
+  "afirmacao_id": "pr-240002552157-aplicativo-condenados-violencia-mulher--af",
+  "fonte_id": "tse-documento-240017109691",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 7",
+  "trecho": "Criar o Aplicativo Gratuito de Consulta Pública para expor e dar transparência aos nomes dos condenados por violência contra a mulher.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-cheias-itajai-acu--af--1",
+  "afirmacao_id": "pr-240002552157-cheias-itajai-acu--af",
+  "fonte_id": "tse-documento-240017109691",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 8",
+  "trecho": "Abrir edital de concorrência pública internacional para elaboração e execução do projeto definitivo de solução para as cheias do Rio Itajaí-Açu, abrangendo obras audaciosas de engenharia como a transposição ou desvio do curso do rio",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-duplicacao-br-282--af--1",
+  "afirmacao_id": "pr-240002552157-duplicacao-br-282--af",
+  "fonte_id": "tse-documento-240017109691",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 11",
+  "trecho": "Assumir a duplicação da BR-282 como prioridade número um e obsessão de gestão, realizando concessão e/ou parceria público-privada por edital de concorrência nacional/internacional com pedágio como fonte compensatória de custeio.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-hospital-queimados--af--1",
+  "afirmacao_id": "pr-240002552157-hospital-queimados--af",
+  "fonte_id": "tse-documento-240017109691",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 9",
+  "trecho": "Transformar a residência oficial no Hospital e Centro de Referência Estadual para Crianças, Mulheres e Idosos Vítimas de Queimaduras, integrando-o ao Hospital Infantil Joana de Gusmão e usando seu heliponto para resgates aéreos expeditos.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-lei-verbas-comunicacao--af--1",
+  "afirmacao_id": "pr-240002552157-lei-verbas-comunicacao--af",
+  "fonte_id": "tse-documento-240017109691",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 19",
+  "trecho": "Regular a distribuição de verbas estaduais de comunicação/imprensa por meio de lei com critérios objetivos de audiência, visibilidade e proporcionalidade",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-secretaria-logistica-ferrovia--af--1",
+  "afirmacao_id": "pr-240002552157-secretaria-logistica-ferrovia--af",
+  "fonte_id": "tse-documento-240017109691",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 11",
+  "trecho": "Integrar os modais de transporte criando a Secretaria de Logística, viabilizar a implantação da Ferrovia do Frango para ligação logística do Oeste aos portos;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-tempo-integral--af--1",
+  "afirmacao_id": "pr-240002552157-tempo-integral--af",
+  "fonte_id": "tse-documento-240017109691",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 10",
+  "trecho": "ampliar progressivamente a educação em tempo integral;",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-combustiveis-50--af--1",
+  "afirmacao_id": "pr-240002553718-combustiveis-50--af",
+  "fonte_id": "tse-documento-240017123645",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 3",
+  "trecho": "Redução imediata do preço dos combustíveis em 50%. Fim da política de paridade com o dólar",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-dissolucao-policia-militar--af--1",
+  "afirmacao_id": "pr-240002553718-dissolucao-policia-militar--af",
+  "fonte_id": "tse-documento-240017123645",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 5",
+  "trecho": "Dissolução da polícia militar e de todo o aparato repressivo",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-fim-do-stf--af--1",
+  "afirmacao_id": "pr-240002553718-fim-do-stf--af",
+  "fonte_id": "tse-documento-240017123645",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 6",
+  "trecho": "Fim do Supremo Tribunal Federal (STF); eleição de todos os juízes e procuradores pelo voto popular e com mandatos revogáveis.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-fim-lrf-teto--af--1",
+  "afirmacao_id": "pr-240002553718-fim-lrf-teto--af",
+  "fonte_id": "tse-documento-240017123645",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 4",
+  "trecho": "Fim do teto de gastos e da Lei de Responsabilidade Fiscal",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--af--1",
+  "afirmacao_id": "pr-240002553718-jornada-35-horas--af",
+  "fonte_id": "tse-documento-240017123645",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 2",
+  "trecho": "Redução da jornada de trabalho para o máximo de 7 horas por dia, 5 dias por semana (35 horas semanais)",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-piso-professores-8500--af--1",
+  "afirmacao_id": "pr-240002553718-piso-professores-8500--af",
+  "fonte_id": "tse-documento-240017123645",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 5",
+  "trecho": "Piso salarial nacional dos professores de, pelo menos, R$8,5 mil",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-salario-minimo-7500--af--1",
+  "afirmacao_id": "pr-240002553718-salario-minimo-7500--af",
+  "fonte_id": "tse-documento-240017123645",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 2",
+  "trecho": "imo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500)",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-alfabetizacao-80--af--1",
+  "afirmacao_id": "pr-280002542548-alfabetizacao-80--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 31",
+  "trecho": "Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-alianca-tfff--af--1",
+  "afirmacao_id": "pr-280002542548-alianca-tfff--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 81",
+  "trecho": "Serão prioridades de nossa ação externa a implementação da Aliança Global contra a Fome e a Pobreza e o enfrentamento da emergência climática, inclusive o Fundo Florestas Tropicais para Sempre (TFFF).",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-arcabouco-fiscal--af--1",
+  "afirmacao_id": "pr-280002542548-arcabouco-fiscal--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 49",
+  "trecho": "vamos criar as condições para uma redução sustentada das taxas de juros, com inflação controlada e assegurando uma política fiscal responsável. Para isso, manteremos o novo arcabouço fiscal, que controlou o crescimento das despesas sem prejudicar as políticas sociais e permitiu uma redução significativa do déficit primário.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-casas-mulher--af--1",
+  "afirmacao_id": "pr-280002542548-casas-mulher--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 21",
+  "trecho": "Vamos dar sequência ao Pacto, ampliando a rede de proteção às mulheres – concluiremos as 30 Casas da Mulher Brasileira e os 15 Centros de Referência da Mulher Brasileira. Ampliaremos as Salas Lilás e vamos adquirir e distribuir aos Estados kits para aprimorar o monitoramento de agressores.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-desmatamento-zero--af--1",
+  "afirmacao_id": "pr-280002542548-desmatamento-zero--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 70",
+  "trecho": "No próximo mandato, continuaremos trabalhando para alcançar o desmatamento líquido zero até 2030, meta que reafirmamos.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-emendas--af--1",
+  "afirmacao_id": "pr-280002542548-emendas--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 15",
+  "trecho": "Propomos ainda enfrentar uma grave distorção na elaboração e gestão do orçamento federal – o atual sistema de emendas parlamentares. No orçamento de 2026, as emendas somaram R$ 50 bilhões, consumindo aproximadamente um quinto dos recursos discricionários do Poder Executivo.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-farmacia-exames--af--1",
+  "afirmacao_id": "pr-280002542548-farmacia-exames--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 36",
+  "trecho": "Uma inovação do programa será incluir exames laboratoriais, de diagnóstico e de monitoramento de condições crônicas de saúde, que afetam parcela significativa da população, tais como hipertensão arterial e diabetes.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-fila-unica--af--1",
+  "afirmacao_id": "pr-280002542548-fila-unica--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 38",
+  "trecho": "Aprimoraremos ainda mais a regulação do acesso à atenção especializada, garantindo maior transparência das filas e utilizando inteligência artificial, com fila única digital e ordenada pelo risco clínico, com transporte sanitário em todas as regiões de saúde.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-fim-6x1--af--1",
+  "afirmacao_id": "pr-280002542548-fim-6x1--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 75",
+  "trecho": "Manteremos nossa ação junto ao Senado Federal para assegurar o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas, sem redução salarial, nos termos aprovados na Câmara dos Deputados.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-fndr--af--1",
+  "afirmacao_id": "pr-280002542548-fndr--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 56",
+  "trecho": "No âmbito da reforma tributária foi criado o Fundo Nacional de Desenvolvimento Regional que será regulamentado no próximo período. Seus recursos permitirão apoiar investimentos e políticas redutoras das desigualdades sociais e regionais, em substituição da predatória guerra tributária do ICMS.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-imposto-seletivo--af--1",
+  "afirmacao_id": "pr-280002542548-imposto-seletivo--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 59",
+  "trecho": "Ao regulamentar a reforma tributária, vamos, por meio do Imposto Seletivo, desestimular produtos nocivos à saúde.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-mcmv--af--1",
+  "afirmacao_id": "pr-280002542548-mcmv--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 45",
+  "trecho": "O MCMV será mantido e ampliado no próximo mandato, para todas as faixas de renda e preservando seu foco nas famílias de mais baixa renda.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--af--1",
+  "afirmacao_id": "pr-280002542548-ministerio-seguranca--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 30",
+  "trecho": "Uma vez aprovada a PEC da Segurança Pública proposta pelo Executivo, criaremos o Ministério da Segurança Pública para coordenar, em articulação com estados e municípios, a execução das políticas nacionais de segurança pública no âmbito do Sistema Único de Segurança Pública (SUSP).",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-novo-pac-2--af--1",
+  "afirmacao_id": "pr-280002542548-novo-pac-2--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 53",
+  "trecho": "A nova edição do Novo PAC manterá a articulação dos investimentos públicos e privados em infraestrutura logística, dando sequência a obras públicas e concessões. Manteremos o ritmo nas concessões rodoviárias e intensificaremos as de ferrovias em duas frentes: leilão de novos projetos e repactuação dos contratos existentes.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-pacto-execucao-penal--af--1",
+  "afirmacao_id": "pr-280002542548-pacto-execucao-penal--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 28",
+  "trecho": "Cumpriremos as metas do Plano Pena Justa e instituiremos o Pacto Nacional de Execução Penal para o Enfrentamento ao Crime Organizado, fortalecendo a governança do sistema prisional e a cooperação entre União, estados e sistema de justiça.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-pe-de-meia--af--1",
+  "afirmacao_id": "pr-280002542548-pe-de-meia--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 32",
+  "trecho": "Vamos dar continuidade e fortalecer o Pé-de-Meia. Nenhum jovem em situação de pobreza ou vulnerabilidade social no Brasil deve deixar a escola por falta de renda.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--af--1",
+  "afirmacao_id": "pr-280002542548-petrobras-distribuicao--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 67",
+  "trecho": "A Petrobras deverá retornar ao segmento de distribuição de combustíveis, expandindo sua capacidade de refino e ampliando a atuação da Transpetro para logística de GNL.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--af--1",
+  "afirmacao_id": "pr-280002542548-salario-minimo--af",
+  "fonte_id": "tse-documento-280017016005",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 74",
+  "trecho": "o novo mandato de Lula dará continuidade à política de valorização do salário mínimo como meio estratégico de distribuição de renda, combate à pobreza e promoção do desenvolvimento econômico e social.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-casa-verde-amarela--af--1",
+  "afirmacao_id": "pr-280002551544-casa-verde-amarela--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 47",
+  "trecho": "Vamos retomar o Casa Verde e Amarela, com meta de 2,5 milhões de residências e a menor taxa de juros possível no financiamento.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--af--1",
+  "afirmacao_id": "pr-280002551544-corte-ministerios--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 69",
+  "trecho": "Isso inclui o corte de no mínimo 10 ministérios, a redução de cargos comissionados e de despesas administrativas e o combate aos penduricalhos e supersalários que corroem o orçamento",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-crescimento-4--af--1",
+  "afirmacao_id": "pr-280002551544-crescimento-4--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 49",
+  "trecho": "Nossa meta é dobrar esse ritmo e alcançar um crescimento sustentado de 4% ao ano ao longo da próxima década, apoiado no investimento privado, na segurança jurídica e na competitividade do agro, da indústria e dos serviços.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-desmatamento-ilegal-2029--af--1",
+  "afirmacao_id": "pr-280002551544-desmatamento-ilegal-2029--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 58",
+  "trecho": "Teremos a meta de zerar o desmatamento ilegal até 2029, retomando e levando até o fim o compromisso que já assumimos no Governo Bolsonaro perante o mundo",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-dobrar-seguranca--af--1",
+  "afirmacao_id": "pr-280002551544-dobrar-seguranca--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 15",
+  "trecho": "O novo governo do Brasil vai dobrar os investimentos federais em segurança pública ao longo do mandato.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-ecr--af--1",
+  "afirmacao_id": "pr-280002551544-ecr--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 37",
+  "trecho": "vamos adotar o Empréstimo Contingente à Renda: o estudante só começa a pagar quando estiver empregado e ganhando, o valor da parcela é proporcional ao que ele recebe e o prazo é bem mais longo.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--af--1",
+  "afirmacao_id": "pr-280002551544-energia-cde--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 31",
+  "trecho": "Vamos simplificar a conta de luz, racionalizando encargos e subsídios cruzados, e promover a redução gradual da CDE e das fontes incentivadas, mantida a tarifa social para quem mais precisa dela. Vamos reduzir impostos sobre energia elétrica e combustíveis",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-fim-reeleicao--af--1",
+  "afirmacao_id": "pr-280002551544-fim-reeleicao--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 66",
+  "trecho": "E propomos o fim da reeleição para o cargo de Presidente da República. Ao contrário do PT, o nosso projeto é de país, não de poder.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-infra-900bi--af--1",
+  "afirmacao_id": "pr-280002551544-infra-900bi--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 51",
+  "trecho": "Vamos investir R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--af--1",
+  "afirmacao_id": "pr-280002551544-licenca-tacita--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 50",
+  "trecho": "Se não decidir nem se manifestar dentro desse prazo, a licença deve ser concedida, porque a demora do Estado não pode ser um castigo para quem fez a sua parte.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-maioridade-penal--af--1",
+  "afirmacao_id": "pr-280002551544-maioridade-penal--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 13",
+  "trecho": "O novo governo do Brasil vai apoiar e sancionar a redução da maioridade penal de 18 para 16 anos. Vamos punir também maiores de 14 anos que cometerem crimes graves, como estupro, tráfico, tortura e assassinato.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-ocde-iof--af--1",
+  "afirmacao_id": "pr-280002551544-ocde-iof--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 63",
+  "trecho": "O passo mais urgente é retomar o cronograma interrompido de adesão à OCDE, incluindo o fim gradual do IOF sobre o câmbio, que é condição obrigatória do processo.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-presidios-treva--af--1",
+  "afirmacao_id": "pr-280002551544-presidios-treva--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 14",
+  "trecho": "Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-regra-fiscal--af--1",
+  "afirmacao_id": "pr-280002551544-regra-fiscal--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 71",
+  "trecho": "Vamos construir o equilíbrio fiscal duradouro, entregando superávits primários e limitando o crédito subsidiado com recursos do Tesouro, mitigando pressões inflacionárias. E haverá uma regra clara de controle de gastos discricionários dos três Poderes da União.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-retorno-beneficio--af--1",
+  "afirmacao_id": "pr-280002551544-retorno-beneficio--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 43",
+  "trecho": "E garantiremos o retorno imediato e sem fila ao benefício após o seguro-desemprego, mantidas as condições de elegibilidade, para que ninguém tenha medo de tentar um emprego e acabar desamparado se não der certo.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-revisao-reforma-iva--af--1",
+  "afirmacao_id": "pr-280002551544-revisao-reforma-iva--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 30",
+  "trecho": "Vamos promover a revisão e o redimensionamento da reforma tributária em curso e da majoração de impostos efetuada pelo atual governo, com o objetivo de reduzir efetivamente a carga sobre a produção e o consumo. Vamos corrigir suas distorções, reduzir o IVA, hoje projetado num dos patamares mais altos do mundo, e assegurar a não cumulatividade, para que não se cobre imposto sobre imposto.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-tabela-sus--af--1",
+  "afirmacao_id": "pr-280002551544-tabela-sus--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 37",
+  "trecho": "Vamos garantir as condições para que seja possível a correção efetiva da tabela SUS.",
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--af--1",
+  "afirmacao_id": "pr-280002551544-voucher-creche--af",
+  "fonte_id": "tse-documento-280017104726",
+  "relacao": "SUPPORTS",
+  "localizador": "p. 21",
+  "trecho": "Onde não houver vaga na rede pública, a família receberá um voucher-creche para acesso à rede privada credenciada até a vaga pública surgir",
+  "origem_dado": "CURATED"
+ },
+ {
   "id": "vagas-2026-senado-sc-cf",
   "afirmacao_id": "vagas-2026-senado-sc",
   "fonte_id": "fonte-cf-planalto",

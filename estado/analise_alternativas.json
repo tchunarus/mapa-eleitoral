@@ -26,5 +26,61 @@
   "instrumento_id": "emenda-orcamentaria-estadual",
   "nota": "O cargo pode destinar recursos à medida por emenda ao orçamento, cuja execução cabe ao Poder Executivo.",
   "origem_dado": "DEVELOPMENT_FIXTURE"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--presidente--alt-medida-provisoria",
+  "analise_id": "pr-280002542548-ministerio-seguranca--presidente",
+  "instrumento_id": "medida-provisoria",
+  "nota": "Só em caso de relevância e urgência, fora das matérias vedadas pelo art. 62, § 1º, da Constituição; para instituir ou majorar impostos, observa-se também o § 2º.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--presidente--alt-medida-provisoria",
+  "analise_id": "pr-280002542548-petrobras-distribuicao--presidente",
+  "instrumento_id": "medida-provisoria",
+  "nota": "Só em caso de relevância e urgência, fora das matérias vedadas pelo art. 62, § 1º, da Constituição; para instituir ou majorar impostos, observa-se também o § 2º.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--presidente--alt-medida-provisoria",
+  "analise_id": "pr-280002542548-salario-minimo--presidente",
+  "instrumento_id": "medida-provisoria",
+  "nota": "Só em caso de relevância e urgência, fora das matérias vedadas pelo art. 62, § 1º, da Constituição; para instituir ou majorar impostos, observa-se também o § 2º.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--presidente--alt-medida-provisoria",
+  "analise_id": "pr-280002551544-corte-ministerios--presidente",
+  "instrumento_id": "medida-provisoria",
+  "nota": "Só em caso de relevância e urgência, fora das matérias vedadas pelo art. 62, § 1º, da Constituição; para instituir ou majorar impostos, observa-se também o § 2º.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-ecr--presidente--alt-medida-provisoria",
+  "analise_id": "pr-280002551544-ecr--presidente",
+  "instrumento_id": "medida-provisoria",
+  "nota": "Só em caso de relevância e urgência, fora das matérias vedadas pelo art. 62, § 1º, da Constituição; para instituir ou majorar impostos, observa-se também o § 2º.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--presidente--alt-medida-provisoria",
+  "analise_id": "pr-280002551544-energia-cde--presidente",
+  "instrumento_id": "medida-provisoria",
+  "nota": "Só em caso de relevância e urgência, fora das matérias vedadas pelo art. 62, § 1º, da Constituição; para instituir ou majorar impostos, observa-se também o § 2º.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--presidente--alt-medida-provisoria",
+  "analise_id": "pr-280002551544-licenca-tacita--presidente",
+  "instrumento_id": "medida-provisoria",
+  "nota": "Só em caso de relevância e urgência, fora das matérias vedadas pelo art. 62, § 1º, da Constituição; para instituir ou majorar impostos, observa-se também o § 2º.",
+  "origem_dado": "DERIVED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--presidente--alt-medida-provisoria",
+  "analise_id": "pr-280002551544-voucher-creche--presidente",
+  "instrumento_id": "medida-provisoria",
+  "nota": "Só em caso de relevância e urgência, fora das matérias vedadas pelo art. 62, § 1º, da Constituição; para instituir ou majorar impostos, observa-se também o § 2º.",
+  "origem_dado": "DERIVED"
  }
 ]

@@ -64,6 +64,8 @@ TIPO_DEPENDENCIA = ('LEGISLATIVE_APPROVAL', 'EXECUTIVE_SANCTION', 'CONSTITUTIONA
                     'OTHER_ENTITY_ACTION', 'OTHER_BRANCH_ACTION', 'BUDGET_ALLOCATION',
                     'INTERGOVERNMENTAL_COOPERATION', 'REGULATION')
 PAPEL_FUNDAMENTO = ('COMPETENCE', 'INSTRUMENT', 'INITIATIVE', 'PROCEDURE', 'LIMIT')
+NIVEL_DETALHAMENTO = ('HIGH', 'MEDIUM', 'LOW')  # alto: meta, valor ou prazo; médio: medida específica; baixo: diretriz
+TIPO_CONDICIONANTE = ('LEGAL', 'FISCAL', 'ADMINISTRATIVE', 'FEDERATIVE')
 SITUACAO_CANDIDATURA = ('DEFERIDO', 'DEFERIDO_COM_RECURSO', 'INDEFERIDO', 'INDEFERIDO_COM_RECURSO',
                         'AGUARDANDO_JULGAMENTO', 'CANCELADO', 'CASSADO', 'RENUNCIA', 'FALECIDO', 'NAO_CONHECIDO',
                         'OUTRO')
@@ -193,14 +195,19 @@ TABELAS = {t.nome: t for t in [
     Tabela('grupos_proposta', {'titulo': C(obrigatorio=True), 'descricao': C(max_len=500)}, origens=CF),
     Tabela('propostas', {  # Proposal
         'candidatura_id': C(obrigatorio=True, fk='candidaturas'), 'titulo': C(obrigatorio=True, max_len=160),
-        'descricao': C(obrigatorio=True, max_len=1200), 'materia_id': C(fk='materias'),
+        'descricao': C(obrigatorio=True, max_len=1200), 'subtema': C(max_len=80), 'materia_id': C(fk='materias'),
         'natureza_medida': C(obrigatorio=True, enum=NATUREZA_MEDIDA), 'grupo_id': C(fk='grupos_proposta'),
-        'status_revisao': C(obrigatorio=True, enum=STATUS_REVISAO), 'criado_em': C('datahora', obrigatorio=True),
-        'atualizado_em': C('datahora', obrigatorio=True),
-    }, origens=CF, indices=('candidatura_id', 'materia_id')),
+        'nivel_detalhamento': C(enum=NIVEL_DETALHAMENTO), 'impacto_orcamentario': C('bool'), 'observacao': C(max_len=800),
+        'status_revisao': C(obrigatorio=True, enum=STATUS_REVISAO), 'verificado_em': C('datahora'),
+        'criado_em': C('datahora', obrigatorio=True), 'atualizado_em': C('datahora', obrigatorio=True),
+    }, origens=('conteudo', 'estado', 'fixtures'), indices=('candidatura_id', 'materia_id')),
     Tabela('proposta_temas', {
         'proposta_id': C(obrigatorio=True, fk='propostas'), 'tema_id': C(obrigatorio=True, fk='temas'), 'principal': C('bool'),
-    }, origens=CF, unicos=[('proposta_id', 'tema_id')], indices=('proposta_id', 'tema_id')),
+    }, origens=('conteudo', 'estado', 'fixtures'), unicos=[('proposta_id', 'tema_id')], indices=('proposta_id', 'tema_id')),
+    Tabela('condicionantes', {  # viabilidade institucional: condicionantes jurídicos, fiscais, administrativos, federativos
+        'proposta_id': C(obrigatorio=True, fk='propostas'), 'tipo': C(obrigatorio=True, enum=TIPO_CONDICIONANTE),
+        'texto': C(obrigatorio=True, max_len=500), 'regra_id': C(fk='regras'),
+    }, origens=('conteudo', 'estado', 'fixtures'), indices=('proposta_id',)),
     # ---------------------------------------------------------- análise (gerada) e revisão (curada)
     Tabela('analises', {  # ProposalCompetenceAnalysis
         'proposta_id': C(obrigatorio=True, fk='propostas'), 'cargo_id': C(obrigatorio=True, fk='cargos'),

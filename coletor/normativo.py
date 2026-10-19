@@ -112,8 +112,8 @@ def _casa(linha, parte):
         return t.lower().startswith('parágrafo único')
     if p.startswith('§'):
         num = re.sub(r'[^\dA-Z-]', '', p[1:].replace('º', '').replace('°', ''))
-        m = re.match(r'^§\s*(\d+(?:-[A-Z])?)\s*[º°o]?', t)
-        return bool(m) and m.group(1) == num
+        m = re.match(r'^§\s*(\d+)\s*[º°o]?\s*(-[A-Z])?', t)
+        return bool(m) and m.group(1) + (m.group(2) or '') == num
     if ROMANO.match(p):
         return bool(re.match(r'^' + p + r'(?:\s*[-–.]|\s)', t))
     if re.match(r'^[a-z]$', p):
@@ -137,6 +137,8 @@ def localizar(art, localizador):
         achado = None
         for i in range(ini, len(linhas)):
             n = _nivel(linhas[i])
+            if re.match(r'^(§\s*\d+\s*[º°o]?(-[A-Z])?|[IVXLCDM]+|[a-z]\))$', _norm(linhas[i])):
+                continue  # linha só com o marcador (a compilação às vezes repete o rótulo)
             if n == nivel_p and _casa(linhas[i], p):
                 achado = i; break
             if limite_nivel is not None and n is not None and ordem[n] <= ordem[limite_nivel]:

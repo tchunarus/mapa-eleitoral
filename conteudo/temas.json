@@ -1,13 +1,14 @@
 [
- {"id": "tributacao", "nome": "Tributação", "ordem": 1, "descricao": "Impostos, taxas e contribuições: criação, alíquotas, isenções e repartição de receitas."},
- {"id": "reforma-tributaria", "nome": "Reforma tributária", "pai_id": "tributacao", "ordem": 2, "descricao": "Mudanças estruturais no sistema tributário."},
- {"id": "orcamento", "nome": "Orçamento e gasto público", "ordem": 3, "descricao": "Destinação de recursos, investimentos e emendas parlamentares."},
- {"id": "saude", "nome": "Saúde", "ordem": 4, "descricao": "Serviços, estrutura e políticas de saúde pública."},
- {"id": "seguranca", "nome": "Segurança pública", "ordem": 5, "descricao": "Policiamento, prevenção e sistema penal."},
- {"id": "previdencia", "nome": "Previdência", "ordem": 6, "descricao": "Aposentadorias e benefícios previdenciários."},
- {"id": "meio-ambiente", "nome": "Meio ambiente", "ordem": 7, "descricao": "Proteção ambiental, fauna e flora."},
- {"id": "moradia", "nome": "Moradia e saneamento", "ordem": 8, "descricao": "Habitação, urbanização e saneamento básico."},
- {"id": "mobilidade", "nome": "Mobilidade urbana", "ordem": 9, "descricao": "Transporte coletivo e trânsito nas cidades."},
- {"id": "instituicoes-politicas", "nome": "Instituições e sistema político", "ordem": 10, "descricao": "Mandatos, reeleição, organização dos Poderes e regras eleitorais."},
- {"id": "municipios", "nome": "Temas municipais", "ordem": 11, "descricao": "Matérias de competência dos Municípios, relevantes para Florianópolis e São José."}
+ {"id": "economia", "nome": "Economia", "ordem": 1, "descricao": "Emprego, renda, crédito, estatais, desenvolvimento e política econômica."},
+ {"id": "tributacao", "nome": "Tributação", "ordem": 2, "descricao": "Impostos, taxas e contribuições: criação, alíquotas, isenções, incentivos e repartição de receitas."},
+ {"id": "saude", "nome": "Saúde", "ordem": 3, "descricao": "Serviços, estrutura, filas e políticas de saúde pública."},
+ {"id": "educacao", "nome": "Educação", "ordem": 4, "descricao": "Escolas, universidades, profissionais da educação e financiamento do ensino."},
+ {"id": "seguranca", "nome": "Segurança pública", "ordem": 5, "descricao": "Policiamento, investigação, sistema prisional e prevenção da violência."},
+ {"id": "meio-ambiente", "nome": "Meio ambiente", "ordem": 6, "descricao": "Proteção ambiental, clima, fauna, flora e defesa civil."},
+ {"id": "mobilidade", "nome": "Mobilidade", "ordem": 7, "descricao": "Transporte coletivo, tarifas e trânsito."},
+ {"id": "infraestrutura", "nome": "Infraestrutura", "ordem": 8, "descricao": "Rodovias, ferrovias, portos, aeroportos, energia e saneamento."},
+ {"id": "habitacao", "nome": "Habitação", "ordem": 9, "descricao": "Moradia, regularização fundiária e urbanização."},
+ {"id": "administracao-publica", "nome": "Administração pública", "ordem": 10, "descricao": "Estrutura do governo, servidores, cargos, orçamento, transparência e gestão."},
+ {"id": "direitos-sociais", "nome": "Direitos sociais", "ordem": 11, "descricao": "Assistência social, trabalho, previdência, proteção de grupos vulneráveis e cultura."},
+ {"id": "instituicoes-politicas", "nome": "Instituições e sistema político", "ordem": 12, "descricao": "Mandatos, reeleição, organização dos Poderes e regras eleitorais."}
 ]

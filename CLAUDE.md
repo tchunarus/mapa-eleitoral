@@ -1,6 +1,6 @@
 # Mapa Eleitoral
 
-Ferramenta do Guedes Pinto Advogados sobre cargos, candidaturas, propostas e competência
+Ferramenta sobre cargos, candidaturas, propostas e competência
 de cada cargo, publicada como site estático (`docs/`). Estrutura e comandos no `README.md`.
 
 ## Separação do Mapa Normativo
@@ -25,7 +25,12 @@ de cada cargo, publicada como site estático (`docs/`). Estrutura e comandos no 
 - Dados pessoais do TSE: só os campos da lista branca de `coletor/tse/cliente.py` (nunca
   CPF, título de eleitor, data de nascimento, cor ou raça, estado civil, bens).
 - Dados fictícios só em `conteudo/fixtures/`; o validador recusa cruzamento com dado real.
-- Neutralidade: sem recomendação de voto, ranking, classificação ideológica ou previsão.
+- Neutralidade: sem recomendação de voto, classificação ideológica ou previsão.
+- Exceção controlada (seção do 2º turno, `conteudo/segundo_turno/`, `coletor/segundo_turno.py`):
+  notas de 0 a 10 por critério, só pela rubrica publicada em `criterios.json`, com justificativa
+  que cita evidências da mesma candidatura e grau de suficiência. Mesmo roteiro para as duas
+  candidaturas; tipos de evidência distinguem fato, dado oficial, decisão definitiva ou não,
+  investigação, alegação, interpretação, opinião e promessa. Os pesos são do leitor.
 
 ## Dados gerados
 

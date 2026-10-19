@@ -1,0 +1,298 @@
+[
+ {
+  "id": "experiencia",
+  "nome": "Competência administrativa e experiência política",
+  "icone": "briefcase",
+  "pergunta": "Que experiência comprovada cada candidato tem para dirigir a administração federal?",
+  "indicadores": [
+   "Cargos exercidos, duração e natureza (executiva ou legislativa)",
+   "Resultados de gestão atribuíveis ao próprio candidato",
+   "Produção e influência parlamentar documentadas"
+  ],
+  "rubrica": [
+   {
+    "faixa": "0-2",
+    "descricao": "Sem experiência pública relevante ou com histórico documentado de gestão desastrosa."
+   },
+   {
+    "faixa": "3-4",
+    "descricao": "Experiência limitada ou apenas legislativa, com pouca produção atribuível."
+   },
+   {
+    "faixa": "5-6",
+    "descricao": "Experiência legislativa consistente ou executiva curta, com resultados mistos."
+   },
+   {
+    "faixa": "7-8",
+    "descricao": "Experiência executiva relevante com resultados documentados, ou longa trajetória legislativa com influência comprovada."
+   },
+   {
+    "faixa": "9-10",
+    "descricao": "Longa experiência executiva no próprio cargo ou equivalente, com resultados majoritariamente positivos e documentados."
+   }
+  ],
+  "natureza": "OBJETIVA",
+  "peso_padrao": 1,
+  "ordem": 1,
+  "nome_curto": "Experiência"
+ },
+ {
+  "id": "economia_fiscal",
+  "nome": "Resultados econômicos e responsabilidade fiscal",
+  "icone": "chart",
+  "pergunta": "O que os dados oficiais mostram sobre as decisões econômicas e fiscais do candidato?",
+  "indicadores": [
+   "Indicadores oficiais (IBGE, Banco Central, Tesouro) do período sob responsabilidade do candidato",
+   "Cumprimento de regras e metas fiscais",
+   "Votos e posições sobre matérias fiscais"
+  ],
+  "rubrica": [
+   {
+    "faixa": "0-2",
+    "descricao": "Deterioração grave e documentada de indicadores ou descumprimento reiterado de regras fiscais."
+   },
+   {
+    "faixa": "3-4",
+    "descricao": "Resultados predominantemente negativos ou posições fiscais inconsistentes com custo relevante."
+   },
+   {
+    "faixa": "5-6",
+    "descricao": "Resultados mistos, ou ausência de gestão própria com posições fiscais coerentes, mas sem resultado mensurável."
+   },
+   {
+    "faixa": "7-8",
+    "descricao": "Resultados predominantemente positivos com riscos fiscais identificados."
+   },
+   {
+    "faixa": "9-10",
+    "descricao": "Resultados positivos amplos e sustentáveis, com cumprimento de metas."
+   }
+  ],
+  "natureza": "OBJETIVA",
+  "peso_padrao": 1,
+  "ordem": 2,
+  "nome_curto": "Economia e fiscal"
+ },
+ {
+  "id": "propostas",
+  "nome": "Qualidade, viabilidade e consistência das propostas",
+  "icone": "list",
+  "pergunta": "As propostas são concretas, compatíveis com a competência do cargo e acompanhadas de fonte de custeio?",
+  "indicadores": [
+   "Grau de detalhamento (metas, valores, prazos)",
+   "Compatibilidade com a competência da Presidência e dependência do Congresso, de outros entes ou de emenda constitucional",
+   "Indicação de custo e fonte de recursos; avaliações externas de viabilidade"
+  ],
+  "rubrica": [
+   {
+    "faixa": "0-2",
+    "descricao": "Propostas genéricas, majoritariamente fora da competência do cargo ou juridicamente inviáveis."
+   },
+   {
+    "faixa": "3-4",
+    "descricao": "Predomínio de diretrizes sem meta nem custeio; contradições relevantes."
+   },
+   {
+    "faixa": "5-6",
+    "descricao": "Mistura de propostas concretas e genéricas; custeio indicado apenas em parte."
+   },
+   {
+    "faixa": "7-8",
+    "descricao": "Maioria concreta, compatível com o cargo, com custeio indicado e riscos reconhecidos."
+   },
+   {
+    "faixa": "9-10",
+    "descricao": "Plano detalhado, quantificado, com fontes de custeio verificáveis e avaliação externa favorável."
+   }
+  ],
+  "natureza": "MISTA",
+  "peso_padrao": 1,
+  "ordem": 3,
+  "nome_curto": "Propostas"
+ },
+ {
+  "id": "integridade",
+  "nome": "Integridade, transparência e histórico institucional",
+  "icone": "shield",
+  "pergunta": "O que decisões judiciais, órgãos de controle e registros públicos mostram sobre a conduta do candidato?",
+  "indicadores": [
+   "Decisões judiciais definitivas, não definitivas, anulações e arquivamentos, distinguidas entre si",
+   "Investigações em curso (sem presunção de culpa)",
+   "Atos de transparência ou de sigilo; apontamentos de órgãos de controle"
+  ],
+  "rubrica": [
+   {
+    "faixa": "0-2",
+    "descricao": "Condenação definitiva por crime contra a administração pública ou improbidade."
+   },
+   {
+    "faixa": "3-4",
+    "descricao": "Decisões não definitivas desfavoráveis ou múltiplas investigações com indícios relevantes noticiados por fontes diversas."
+   },
+   {
+    "faixa": "5-6",
+    "descricao": "Investigações ou processos anulados ou arquivados sem julgamento de mérito; apontamentos pontuais de transparência."
+   },
+   {
+    "faixa": "7-8",
+    "descricao": "Sem processos relevantes em curso; registros de transparência majoritariamente positivos."
+   },
+   {
+    "faixa": "9-10",
+    "descricao": "Histórico sem investigações relevantes e com práticas de transparência acima da média."
+   }
+  ],
+  "natureza": "OBJETIVA",
+  "peso_padrao": 1,
+  "ordem": 4,
+  "nome_curto": "Integridade"
+ },
+ {
+  "id": "democracia",
+  "nome": "Compromisso com a Constituição, as instituições e o Estado de Direito",
+  "icone": "landmark",
+  "pergunta": "O que atos e declarações documentados mostram sobre o respeito do candidato às regras democráticas?",
+  "indicadores": [
+   "Reconhecimento de resultados eleitorais e do sistema de votação",
+   "Relação com o Judiciário, a imprensa e a oposição (atos, não só retórica)",
+   "Posições sobre ruptura institucional e responsabilização por ataques às instituições"
+  ],
+  "rubrica": [
+   {
+    "faixa": "0-2",
+    "descricao": "Participação comprovada em tentativa de ruptura institucional."
+   },
+   {
+    "faixa": "3-4",
+    "descricao": "Atos ou propostas concretas para enfraquecer controles institucionais, ou contestação reiterada e infundada do sistema eleitoral."
+   },
+   {
+    "faixa": "5-6",
+    "descricao": "Declarações hostis a instituições sem atos concretos, ou episódios pontuais controversos."
+   },
+   {
+    "faixa": "7-8",
+    "descricao": "Respeito consistente às regras, com críticas institucionais dentro dos canais legais."
+   },
+   {
+    "faixa": "9-10",
+    "descricao": "Histórico consistente de defesa das instituições, inclusive quando contrariado por elas."
+   }
+  ],
+  "natureza": "MISTA",
+  "peso_padrao": 1,
+  "ordem": 5,
+  "nome_curto": "Instituições"
+ },
+ {
+  "id": "governabilidade",
+  "nome": "Capacidade de articulação política e governabilidade",
+  "icone": "handshake",
+  "pergunta": "Qual a capacidade demonstrada de formar maioria e aprovar medidas no Congresso?",
+  "indicadores": [
+   "Histórico de aprovação de propostas e de construção de coalizões",
+   "Base partidária e alianças declaradas para o 2º turno",
+   "Relação com governadores e com o Congresso eleito"
+  ],
+  "rubrica": [
+   {
+    "faixa": "0-2",
+    "descricao": "Isolamento político comprovado e histórico de derrotas sistemáticas."
+   },
+   {
+    "faixa": "3-4",
+    "descricao": "Base estreita e pouca experiência de negociação documentada."
+   },
+   {
+    "faixa": "5-6",
+    "descricao": "Base razoável, com vitórias e derrotas relevantes."
+   },
+   {
+    "faixa": "7-8",
+    "descricao": "Histórico de formação de coalizões e aprovação de agenda, com custos ou derrotas pontuais."
+   },
+   {
+    "faixa": "9-10",
+    "descricao": "Capacidade comprovada e ampla de articulação, com aprovação consistente de agenda."
+   }
+  ],
+  "natureza": "OBJETIVA",
+  "peso_padrao": 1,
+  "ordem": 6,
+  "nome_curto": "Governabilidade"
+ },
+ {
+  "id": "impactos",
+  "nome": "Impactos sociais, econômicos e ambientais das políticas defendidas",
+  "icone": "leaf",
+  "pergunta": "O que estudos e dados indicam sobre os efeitos das políticas que o candidato implementou ou defende?",
+  "indicadores": [
+   "Evidência empírica sobre políticas já implementadas (pobreza, desigualdade, emprego, desmatamento)",
+   "Riscos e custos estimados de políticas propostas",
+   "Pluralidade de avaliações (academia, organismos, imprensa de linhas diversas)"
+  ],
+  "rubrica": [
+   {
+    "faixa": "0-2",
+    "descricao": "Políticas com efeitos negativos amplos e bem documentados."
+   },
+   {
+    "faixa": "3-4",
+    "descricao": "Efeitos majoritariamente negativos ou riscos elevados sem mitigação."
+   },
+   {
+    "faixa": "5-6",
+    "descricao": "Efeitos mistos ou evidência insuficiente para conclusão."
+   },
+   {
+    "faixa": "7-8",
+    "descricao": "Efeitos majoritariamente positivos, com custos ou riscos identificados."
+   },
+   {
+    "faixa": "9-10",
+    "descricao": "Efeitos positivos amplos, duradouros e bem documentados."
+   }
+  ],
+  "natureza": "VALORATIVA",
+  "peso_padrao": 1,
+  "ordem": 7,
+  "nome_curto": "Impactos"
+ },
+ {
+  "id": "coerencia",
+  "nome": "Coerência entre discurso, histórico e atuação",
+  "icone": "refresh",
+  "pergunta": "O que o candidato diz hoje é compatível com o que fez e disse antes?",
+  "indicadores": [
+   "Mudanças de posição documentadas, com datas, e a explicação dada",
+   "Promessas anteriores cumpridas ou descumpridas",
+   "Declarações classificadas por agências de checagem"
+  ],
+  "rubrica": [
+   {
+    "faixa": "0-2",
+    "descricao": "Contradições frequentes e graves entre discurso e prática, com alta incidência de declarações falsas checadas."
+   },
+   {
+    "faixa": "3-4",
+    "descricao": "Contradições relevantes sem explicação, ou incidência elevada de declarações falsas ou enganosas."
+   },
+   {
+    "faixa": "5-6",
+    "descricao": "Algumas mudanças de posição e declarações imprecisas, parte delas explicada."
+   },
+   {
+    "faixa": "7-8",
+    "descricao": "Coerência predominante, com mudanças pontuais justificadas."
+   },
+   {
+    "faixa": "9-10",
+    "descricao": "Alta coerência documentada e baixa incidência de declarações falsas."
+   }
+  ],
+  "natureza": "MISTA",
+  "peso_padrao": 1,
+  "ordem": 8,
+  "nome_curto": "Coerência"
+ }
+]

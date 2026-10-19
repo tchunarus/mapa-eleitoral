@@ -1,0 +1,197 @@
+{
+ "candidatura_id": "tse-240002550544",
+ "fonte_id": "tse-documento-240017093741",
+ "verificado_em": "2026-10-19T12:00:00+00:00",
+ "propostas": [
+  {
+   "id": "suspender-universidade-gratuita",
+   "tema": "educacao",
+   "subtema": "ensino superior",
+   "titulo": "Suspensão do Universidade Gratuita e novas vagas na UDESC",
+   "resumo": "Suspender o Programa Universidade Gratuita e reverter os recursos de novas matrículas para criar vagas na UDESC destinadas aos estudantes que usariam o programa.",
+   "pagina": 9,
+   "materia": "ensino-superior-estadual",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Programa instituído por lei estadual só é suspenso ou extinto por outra lei; matrículas em curso envolvem direitos já constituídos."
+    },
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "trecho": "1. Suspensão do Programa Universidade Gratuita, com reversão dos recursos que seriam investidos em novas matrículas para criação de novas vagas na UDESC contemplando os estudantes que viriam a utilizar o programa;"
+  },
+  {
+   "id": "cameras-corporais",
+   "tema": "seguranca",
+   "subtema": "controle da atividade policial",
+   "titulo": "Câmeras corporais obrigatórias para policiais",
+   "resumo": "Retomar imediatamente a obrigatoriedade do uso de câmeras corporais por todos os policiais militares e civis.",
+   "pagina": 13,
+   "materia": "policiamento-ostensivo",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "trecho": "2. Retomar imediatamente a obrigatoriedade do uso de câmeras corporais entre todos os policiais militares e civis de Santa Catarina;"
+  },
+  {
+   "id": "delegacias-mulher-24h",
+   "tema": "seguranca",
+   "temas_extras": [
+    "direitos-sociais"
+   ],
+   "subtema": "violência contra a mulher",
+   "titulo": "Delegacias da Mulher 24 horas em todos os municípios",
+   "resumo": "Construir Delegacias da Mulher com funcionamento 24 horas em todos os municípios e ampliar casas de referência, de passagem e abrigos.",
+   "pagina": 13,
+   "materia": "policia-civil-estadual",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "Funcionamento ininterrupto em todos os municípios exige ampliação do efetivo da Polícia Civil, que depende de concurso e lei.",
+     "regra_id": "cf-37-ii"
+    }
+   ],
+   "trecho": "4. Construção de Delegacias da Mulher 24 horas em todos os municípios catarinenses, aliado à expansão da rede de casas de referência, casas de passagem e casas-abrigo para atendimento de mulheres em situação de violência;"
+  },
+  {
+   "id": "restabelecer-cohab",
+   "tema": "habitacao",
+   "subtema": "habitação popular",
+   "titulo": "Restabelecimento da Companhia de Habitação",
+   "resumo": "Restabelecer a Companhia de Habitação de Santa Catarina e expandir projetos de moradia popular financiados pelo Estado.",
+   "pagina": 11,
+   "materia": "estatais-estaduais",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A instituição de empresa pública ou sociedade de economia mista depende de lei específica.",
+     "regra_id": "cf-37-xix"
+    },
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual e de previsão no plano plurianual.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "trecho": "1. Restabelecimento da Companhia de Habitação de Santa Catarina, com o objetivo de fornecer moradia acessível para toda a população do Estado. Expansão dos projetos de moradia popular financiados pelo governo do estado;"
+  },
+  {
+   "id": "eleicao-diretores",
+   "tema": "educacao",
+   "temas_extras": [
+    "administracao-publica"
+   ],
+   "subtema": "gestão escolar",
+   "titulo": "Revogação do Decreto 273/2023 e eleição de diretores",
+   "resumo": "Revogar o Decreto Estadual nº 273/2023, com eleições diretas para as direções escolares e para as coordenadorias regionais.",
+   "pagina": 9,
+   "materia": "rede-estadual-ensino",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Revogar decreto é ato do Governador; a forma de provimento de direções escolares deve observar as regras de cargos em comissão e funções de confiança.",
+     "regra_id": "cf-37-v"
+    }
+   ],
+   "trecho": "8. Democracia na Educação: revogação do Decreto Estadual nº 273 de 2023, assegurando eleições diretas para as direções escolares e posse dos eleitos, assim como implementação de eleições das Coordenadorias Regionais;"
+  },
+  {
+   "id": "revisar-incentivos-fiscais",
+   "tema": "tributacao",
+   "subtema": "ICMS",
+   "titulo": "Revisão e transparência dos incentivos fiscais",
+   "resumo": "Revisar os programas estaduais de incentivos fiscais, com transparência sobre valores, empresas beneficiadas e receita renunciada.",
+   "pagina": 3,
+   "materia": "icms-beneficios",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Alterar ou revogar benefícios exige lei específica; a divulgação de dados de contribuintes observa o sigilo fiscal.",
+     "regra_id": "cf-150-p6"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "Benefícios de ICMS seguem a deliberação entre os Estados prevista em lei complementar.",
+     "regra_id": "cf-155-p2-xii-g"
+    }
+   ],
+   "trecho": "3. Revisar os programas estaduais de incentivos fiscais, garantindo transparência sobre os valores concedidos, empresas beneficiadas e receitas que deixam de ser arrecadadas."
+  },
+  {
+   "id": "orcamento-participativo",
+   "tema": "administracao-publica",
+   "subtema": "orçamento",
+   "titulo": "PPA, LDO e LOA com participação popular",
+   "resumo": "Elaborar o plano plurianual, a lei de diretrizes orçamentárias e a lei orçamentária com participação popular e orçamento participativo.",
+   "pagina": 3,
+   "materia": "orcamento-estadual",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A iniciativa das leis orçamentárias é do Governador, mas a aprovação cabe à Assembleia Legislativa.",
+     "regra_id": "cf-165"
+    }
+   ],
+   "trecho": "1. Elaborar o PPA, a LDO e a LOA com participação popular, ampliando os mecanismos de orçamento participativo e garantindo transparência sobre a execução dos recursos públicos."
+  },
+  {
+   "id": "professores-36h",
+   "tema": "educacao",
+   "subtema": "professores",
+   "titulo": "Novos concursos para reduzir a carga horária dos professores",
+   "resumo": "Fazer novas chamadas dos concursos para reduzir a carga horária do professor da rede estadual para 36 horas semanais.",
+   "pagina": 9,
+   "materia": "pessoal-estadual",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Jornada de servidores é fixada em lei estadual.",
+     "regra_id": "cf-37-ii"
+    },
+    {
+     "tipo": "FISCAL",
+     "texto": "A admissão exige dotação e autorização na lei de diretrizes orçamentárias.",
+     "regra_id": "cf-169-p1"
+    }
+   ],
+   "trecho": "Novas chamadas dos concursos visando reduzir a carga horária do professor catarinense para 36 horas semanais;"
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 # Mapa Eleitoral
 
-Ferramenta do Guedes Pinto Advogados que responde, para cada proposta de candidatura:
+Ferramenta pública que responde, para cada proposta de candidatura:
 o que o candidato propôs, se o cargo disputado tem competência para realizar a medida e,
 se não puder fazê-lo sozinho, de quem depende. Site estático (`docs/`, GitHub Pages).
 
@@ -50,3 +50,20 @@ python3 serve.py                                           # http://127.0.0.1:87
 
 Os textos legais são reprodução das fontes oficiais. As análises são automatizadas,
 indicam o status de revisão e não constituem parecer jurídico.
+
+## 2º turno presidencial de 2026
+
+Seção `#/2turno` do site: análise comparativa entre as duas candidaturas do 2º turno, com
+evidências classificadas (fato, dado oficial, decisão judicial definitiva ou não,
+investigação, alegação, interpretação, opinião, promessa), notas de 0 a 10 por critério
+segundo rubrica publicada, painel de verificação de fatos, linha do tempo, propostas com
+selos de competência e simulador de pesos (os pesos e notas alterados ficam só no
+navegador de quem lê).
+
+- Dados curados: `conteudo/segundo_turno/` (`eleicao`, `criterios`, `evidencias`,
+  `avaliacoes`, `checagens`, `linha_do_tempo`, `conclusao`).
+- Validação e publicação: `coletor/segundo_turno.py` (bloqueia a publicação se faltar
+  fonte, URL, data, justificativa ou avaliação de uma das candidaturas) e
+  `docs/data/segundo-turno.json`.
+- Propostas: fichas `conteudo/fichas/presidente-*.json`, com trecho literal e página do
+  plano registrado no TSE; trechos extraídos por `coletor/curadoria/extrair.py`.

@@ -1,0 +1,428 @@
+{
+ "candidatura_id": "tse-280002551544",
+ "fonte_id": "tse-documento-280017104726",
+ "verificado_em": "2026-10-19T12:00:00+00:00",
+ "propostas": [
+  {
+   "id": "regra-fiscal",
+   "tema": "economia",
+   "temas_extras": [
+    "administracao-publica"
+   ],
+   "subtema": "regra fiscal",
+   "titulo": "Nova regra fiscal focada na dívida e controle de gastos discricionários dos três Poderes",
+   "resumo": "Substituir o arcabouço vigente por regras voltadas à estabilização e redução da dívida, com superávits primários e limite de crédito subsidiado pelo Tesouro.",
+   "trecho": "Vamos construir o equilíbrio fiscal duradouro, entregando superávits primários e limitando o crédito subsidiado com recursos do Tesouro, mitigando pressões inflacionárias. E haverá uma regra clara de controle de gastos discricionários dos três Poderes da União.",
+   "pagina": 71,
+   "materia": "regras-fiscais",
+   "natureza": "COMPLEMENTARY_LAW_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A regra fiscal está em lei complementar; controlar despesas dos outros Poderes pode exigir emenda constitucional.",
+     "regra_id": "cf-163-i"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: O plano não fixa meta numérica nem prazo ('no menor prazo possível'). Fora do plano, Daniella Marques citou corte de 1,5% do PIB (cerca de R$ 190 bilhões) e securitização da dívida ativa (R$ 200 a 400 bilhões).."
+  },
+  {
+   "id": "crescimento-4",
+   "tema": "economia",
+   "subtema": "crescimento",
+   "titulo": "Meta de crescimento sustentado de 4% ao ano",
+   "resumo": "Fixa como meta dobrar o ritmo de crescimento médio das duas últimas décadas, com base em investimento privado e segurança jurídica.",
+   "trecho": "Nossa meta é dobrar esse ritmo e alcançar um crescimento sustentado de 4% ao ano ao longo da próxima década, apoiado no investimento privado, na segurança jurídica e na competitividade do agro, da indústria e dos serviços.",
+   "pagina": 49,
+   "natureza": "UNSPECIFIED",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": false,
+   "observacao": "Meta de resultado, não medida: depende de um conjunto de políticas e de fatores fora do controle do governo. Custeio indicado no plano: Não se aplica.."
+  },
+  {
+   "id": "infra-900bi",
+   "tema": "infraestrutura",
+   "temas_extras": [
+    "economia"
+   ],
+   "subtema": "investimento público",
+   "titulo": "R$ 900 bilhões em infraestrutura em quatro anos",
+   "resumo": "Promete investimento de R$ 900 bilhões em rodovias, hidrovias, portos, aeroportos e ferrovias, com Ferrogrão, Trem do Nordeste e Transnordestina.",
+   "trecho": "Vamos investir R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias.",
+   "pagina": 51,
+   "materia": "infraestrutura-federal",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+     "regra_id": "cf-166"
+    },
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "Concessões e parcerias exigem licitação, licenciamento e controle do TCU; a maior parte do valor depende de investimento privado.",
+     "regra_id": "cf-175"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Indicado de forma genérica (p. 50 e 51): fundo lastreado na securitização de ativos e imóveis da União, PPPs, concessões e financiamentos do BNDES; não há divisão entre recursos públicos e privados.."
+  },
+  {
+   "id": "revisao-reforma-iva",
+   "tema": "tributacao",
+   "subtema": "reforma tributária",
+   "titulo": "Revisão da reforma tributária do consumo e redução do IVA",
+   "resumo": "Revisar e redimensionar a reforma tributária em curso e os aumentos de impostos, reduzindo o IVA e as exceções, sem indicar a alíquota-alvo.",
+   "trecho": "Vamos promover a revisão e o redimensionamento da reforma tributária em curso e da majoração de impostos efetuada pelo atual governo, com o objetivo de reduzir efetivamente a carga sobre a produção e o consumo. Vamos corrigir suas distorções, reduzir o IVA, hoje projetado num dos patamares mais altos do mundo, e assegurar a não cumulatividade, para que não se cobre imposto sobre imposto.",
+   "pagina": 30,
+   "materia": "texto-constitucional",
+   "natureza": "CONSTITUTIONAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Exige emenda constitucional aprovada por três quintos, em dois turnos, nas duas Casas.",
+     "regra_id": "cf-60-p2"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "O IBS é compartilhado por Estados e Municípios."
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado; o plano não diz como compensar a perda de arrecadação.."
+  },
+  {
+   "id": "energia-cde",
+   "tema": "tributacao",
+   "temas_extras": [
+    "infraestrutura"
+   ],
+   "subtema": "energia",
+   "titulo": "Redução de impostos sobre energia e combustíveis e redução gradual da CDE",
+   "resumo": "Simplificar a conta de luz, reduzir gradualmente a CDE e as fontes incentivadas, mantendo a tarifa social, e reduzir impostos sobre energia e combustíveis.",
+   "trecho": "Vamos simplificar a conta de luz, racionalizando encargos e subsídios cruzados, e promover a redução gradual da CDE e das fontes incentivadas, mantida a tarifa social para quem mais precisa dela. Vamos reduzir impostos sobre energia elétrica e combustíveis",
+   "pagina": 31,
+   "materia": "sistema-tributario-federal",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "O ICMS sobre energia e combustíveis é estadual.",
+     "regra_id": "cf-155-ii"
+    },
+    {
+     "tipo": "FISCAL",
+     "texto": "Redução de tributos e encargos exige estimativa de impacto e compensação."
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "retorno-beneficio",
+   "tema": "direitos-sociais",
+   "subtema": "transferência de renda",
+   "titulo": "Manutenção dos programas sociais com retorno imediato ao benefício após o seguro-desemprego",
+   "resumo": "Mantém os programas sociais e garante que quem perder o emprego volte ao benefício sem fila, mantidas as condições de elegibilidade.",
+   "trecho": "E garantiremos o retorno imediato e sem fila ao benefício após o seguro-desemprego, mantidas as condições de elegibilidade, para que ninguém tenha medo de tentar um emprego e acabar desamparado se não der certo.",
+   "pagina": 43,
+   "materia": "assistencia-social",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "As regras do Bolsa Família estão em lei e decreto; a mudança pode exigir ajuste normativo."
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "casa-verde-amarela",
+   "tema": "habitacao",
+   "temas_extras": [
+    "direitos-sociais"
+   ],
+   "subtema": "habitação popular",
+   "titulo": "Retomada do Casa Verde e Amarela com meta de 2,5 milhões de residências",
+   "resumo": "Retomar o programa habitacional do governo anterior com meta de 2,5 milhões de moradias e a menor taxa de juros possível.",
+   "trecho": "Vamos retomar o Casa Verde e Amarela, com meta de 2,5 milhões de residências e a menor taxa de juros possível no financiamento.",
+   "pagina": 47,
+   "materia": "moradia-saneamento",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+     "regra_id": "cf-166"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A execução depende de Municípios e do Conselho Curador do FGTS.",
+     "regra_id": "cf-23-ix"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "desmatamento-ilegal-2029",
+   "tema": "meio-ambiente",
+   "subtema": "desmatamento",
+   "titulo": "Zerar o desmatamento ilegal até 2029",
+   "resumo": "Meta de zerar o desmatamento ilegal até 2029, com fiscalização apoiada em satélite e inteligência artificial e foco em grilagem.",
+   "trecho": "Teremos a meta de zerar o desmatamento ilegal até 2029, retomando e levando até o fim o compromisso que já assumimos no Governo Bolsonaro perante o mundo",
+   "pagina": 58,
+   "materia": "politica-ambiental",
+   "natureza": "ADMINISTRATIVE_ACTION",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "Fiscalização compartilhada com Estados e Municípios.",
+     "regra_id": "cf-23-vi"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "licenca-tacita",
+   "tema": "meio-ambiente",
+   "temas_extras": [
+    "infraestrutura"
+   ],
+   "subtema": "licenciamento",
+   "titulo": "Concessão de licença ambiental por decurso de prazo",
+   "resumo": "Se o órgão ambiental não decidir no prazo, a licença deve ser concedida; prevê também estabilidade de regras de até 20 anos para grandes projetos.",
+   "trecho": "Se não decidir nem se manifestar dentro desse prazo, a licença deve ser concedida, porque a demora do Estado não pode ser um castigo para quem fez a sua parte.",
+   "pagina": 50,
+   "materia": "licenciamento-ambiental",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A aprovação por decurso de prazo pode ser questionada diante do dever de proteção ambiental.",
+     "regra_id": "cf-225"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não se aplica.."
+  },
+  {
+   "id": "voucher-creche",
+   "tema": "educacao",
+   "temas_extras": [
+    "direitos-sociais"
+   ],
+   "subtema": "educação infantil",
+   "titulo": "Voucher-creche onde faltar vaga pública",
+   "resumo": "Ampliar creches em período integral e, onde não houver vaga pública, conceder voucher para a rede privada credenciada.",
+   "trecho": "Onde não houver vaga na rede pública, a família receberá um voucher-creche para acesso à rede privada credenciada até a vaga pública surgir",
+   "pagina": 21,
+   "materia": "educacao-federal",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A educação infantil é atuação prioritária dos Municípios; o financiamento federal depende de lei e pactuação.",
+     "regra_id": "cf-211-p1"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "ecr",
+   "tema": "educacao",
+   "subtema": "financiamento estudantil",
+   "titulo": "Empréstimo Contingente à Renda no financiamento estudantil",
+   "resumo": "Substituir o modelo atual de financiamento estudantil por empréstimo cuja parcela é proporcional à renda e só é paga após o emprego.",
+   "trecho": "vamos adotar o Empréstimo Contingente à Renda: o estudante só começa a pagar quando estiver empregado e ganhando, o valor da parcela é proporcional ao que ele recebe e o prazo é bem mais longo.",
+   "pagina": 37,
+   "materia": "educacao-federal",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+     "regra_id": "cf-166"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "tabela-sus",
+   "tema": "saude",
+   "subtema": "financiamento do SUS",
+   "titulo": "Correção efetiva da tabela SUS",
+   "resumo": "Garantir condições para corrigir a defasagem da tabela SUS, com remuneração que cubra o custo real do atendimento.",
+   "trecho": "Vamos garantir as condições para que seja possível a correção efetiva da tabela SUS.",
+   "pagina": 37,
+   "materia": "servicos-saude",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "LOW",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+     "regra_id": "cf-166"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado; o próprio plano reconhece que a lei de reajuste ficou 'presa ao orçamento'.."
+  },
+  {
+   "id": "maioridade-penal",
+   "tema": "seguranca",
+   "subtema": "idade penal",
+   "titulo": "Redução da maioridade penal para 16 anos e punição a partir de 14 em crimes graves",
+   "resumo": "Apoiar e sancionar a redução da maioridade penal de 18 para 16 anos e punir maiores de 14 anos por crimes graves.",
+   "trecho": "O novo governo do Brasil vai apoiar e sancionar a redução da maioridade penal de 18 para 16 anos. Vamos punir também maiores de 14 anos que cometerem crimes graves, como estupro, tráfico, tortura e assassinato.",
+   "pagina": 13,
+   "materia": "texto-constitucional",
+   "natureza": "CONSTITUTIONAL_CHANGE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Exige emenda constitucional aprovada por três quintos, em dois turnos, nas duas Casas.",
+     "regra_id": "cf-60-p2"
+    },
+    {
+     "tipo": "LEGAL",
+     "texto": "Há controvérsia sobre se a idade penal é limite material ao poder de emenda (direitos e garantias individuais).",
+     "regra_id": "cf-60-p4"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "presidios-treva",
+   "tema": "seguranca",
+   "subtema": "sistema prisional",
+   "titulo": "Cinco presídios federais de segurança máxima e 500 mil novas vagas em quatro anos",
+   "resumo": "Criar cinco presídios federais inspirados no modelo de El Salvador e, com os estados, meio milhão de vagas para zerar o déficit carcerário.",
+   "trecho": "Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário.",
+   "pagina": 14,
+   "materia": "seguranca-federal",
+   "natureza": "PUBLIC_WORK_OR_SERVICE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+     "regra_id": "cf-166"
+    },
+    {
+     "tipo": "FEDERATIVE",
+     "texto": "A maior parte das vagas prisionais é estadual; a meta depende de convênios com os Estados."
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado.."
+  },
+  {
+   "id": "dobrar-seguranca",
+   "tema": "seguranca",
+   "subtema": "financiamento da segurança",
+   "titulo": "Dobrar os investimentos federais em segurança pública",
+   "resumo": "Dobrar os investimentos federais em segurança ao longo do mandato.",
+   "trecho": "O novo governo do Brasil vai dobrar os investimentos federais em segurança pública ao longo do mandato.",
+   "pagina": 15,
+   "materia": "orcamento-federal",
+   "natureza": "BUDGET_ALLOCATION",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": true,
+   "condicionantes": [
+    {
+     "tipo": "FISCAL",
+     "texto": "Depende de dotação na lei orçamentária anual, aprovada pelo Congresso Nacional.",
+     "regra_id": "cf-166"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado; o plano cita que o governo federal destina 0,4% dos gastos à segurança, sem dizer de onde viria o acréscimo em meio ao 'tesouraço'.."
+  },
+  {
+   "id": "ocde-iof",
+   "tema": "instituicoes-politicas",
+   "temas_extras": [
+    "tributacao"
+   ],
+   "subtema": "política externa",
+   "titulo": "Retomada da adesão à OCDE com fim gradual do IOF sobre câmbio",
+   "resumo": "Retomar o cronograma de adesão à OCDE, incluindo o fim gradual do IOF sobre câmbio, e preparar abertura comercial.",
+   "trecho": "O passo mais urgente é retomar o cronograma interrompido de adesão à OCDE, incluindo o fim gradual do IOF sobre o câmbio, que é condição obrigatória do processo.",
+   "pagina": 63,
+   "materia": "iof-cambio",
+   "natureza": "EXECUTIVE_REGULATION",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "ADMINISTRATIVE",
+     "texto": "A adesão à OCDE depende do processo de acessão e de convergência normativa, parte dela por lei."
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado (o fim do IOF câmbio implica perda de receita não estimada).."
+  },
+  {
+   "id": "fim-reeleicao",
+   "tema": "instituicoes-politicas",
+   "subtema": "reeleição",
+   "titulo": "Fim da reeleição para Presidente da República",
+   "resumo": "Propõe o fim da reeleição presidencial, citando PEC de autoria do próprio candidato no Senado.",
+   "trecho": "E propomos o fim da reeleição para o cargo de Presidente da República. Ao contrário do PT, o nosso projeto é de país, não de poder.",
+   "pagina": 66,
+   "materia": "texto-constitucional",
+   "natureza": "CONSTITUTIONAL_CHANGE",
+   "detalhamento": "MEDIUM",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "Exige emenda constitucional aprovada por três quintos, em dois turnos, nas duas Casas.",
+     "regra_id": "cf-60-p2"
+    },
+    {
+     "tipo": "LEGAL",
+     "texto": "A reeleição está prevista na Constituição.",
+     "regra_id": "cf-14-p5"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não se aplica.."
+  },
+  {
+   "id": "corte-ministerios",
+   "tema": "administracao-publica",
+   "subtema": "organização do governo",
+   "titulo": "Corte de no mínimo 10 ministérios e redução de cargos comissionados",
+   "resumo": "Reforma administrativa com corte de ao menos dez ministérios, redução de comissionados e despesas administrativas e combate a supersalários.",
+   "trecho": "Isso inclui o corte de no mínimo 10 ministérios, a redução de cargos comissionados e de despesas administrativas e o combate aos penduricalhos e supersalários que corroem o orçamento",
+   "pagina": 69,
+   "materia": "estrutura-administrativa-federal",
+   "natureza": "LEGAL_CHANGE",
+   "detalhamento": "HIGH",
+   "impacto_orcamentario": false,
+   "condicionantes": [
+    {
+     "tipo": "LEGAL",
+     "texto": "A extinção de ministérios depende de lei ou medida provisória; a reorganização sem extinção de órgãos pode ser feita por decreto.",
+     "regra_id": "cf-84-vi"
+    }
+   ],
+   "observacao": "Custeio indicado no plano: Não indicado (a economia esperada não é estimada).."
+  }
+ ]
+}

@@ -1,0 +1,961 @@
+[
+ {
+  "id": "pr-240002537073-barragens-cheias--infraestrutura",
+  "proposta_id": "pr-240002537073-barragens-cheias",
+  "tema_id": "infraestrutura",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-barragens-cheias--meio-ambiente",
+  "proposta_id": "pr-240002537073-barragens-cheias",
+  "tema_id": "meio-ambiente",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-casa-catarina--habitacao",
+  "proposta_id": "pr-240002537073-casa-catarina",
+  "tema_id": "habitacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-custeio-leitos-uti--saude",
+  "proposta_id": "pr-240002537073-custeio-leitos-uti",
+  "tema_id": "saude",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-efetivo-policial--administracao-publica",
+  "proposta_id": "pr-240002537073-efetivo-policial",
+  "tema_id": "administracao-publica",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-efetivo-policial--seguranca",
+  "proposta_id": "pr-240002537073-efetivo-policial",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-estrada-boa-viamar--infraestrutura",
+  "proposta_id": "pr-240002537073-estrada-boa-viamar",
+  "tema_id": "infraestrutura",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-ferrovias-estaduais--infraestrutura",
+  "proposta_id": "pr-240002537073-ferrovias-estaduais",
+  "tema_id": "infraestrutura",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-fila-zero-cirurgias--saude",
+  "proposta_id": "pr-240002537073-fila-zero-cirurgias",
+  "tema_id": "saude",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-pronampe-sc--economia",
+  "proposta_id": "pr-240002537073-pronampe-sc",
+  "tema_id": "economia",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-tempo-integral--educacao",
+  "proposta_id": "pr-240002537073-tempo-integral",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-universidade-gratuita--educacao",
+  "proposta_id": "pr-240002537073-universidade-gratuita",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-videomonitoramento-facial--seguranca",
+  "proposta_id": "pr-240002537073-videomonitoramento-facial",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-voa-sc--infraestrutura",
+  "proposta_id": "pr-240002537073-voa-sc",
+  "tema_id": "infraestrutura",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002537073-voa-sc--mobilidade",
+  "proposta_id": "pr-240002537073-voa-sc",
+  "tema_id": "mobilidade",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-desmilitarizacao-pm--seguranca",
+  "proposta_id": "pr-240002541913-desmilitarizacao-pm",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-dobrar-orcamento-educacao--educacao",
+  "proposta_id": "pr-240002541913-dobrar-orcamento-educacao",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-dobrar-orcamento-saude--saude",
+  "proposta_id": "pr-240002541913-dobrar-orcamento-saude",
+  "tema_id": "saude",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-estadualizar-acafe--educacao",
+  "proposta_id": "pr-240002541913-estadualizar-acafe",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-estatais-100-publicas--economia",
+  "proposta_id": "pr-240002541913-estatais-100-publicas",
+  "tema_id": "economia",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-fim-pedagios--infraestrutura",
+  "proposta_id": "pr-240002541913-fim-pedagios",
+  "tema_id": "infraestrutura",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-restaurantes-populares--direitos-sociais",
+  "proposta_id": "pr-240002541913-restaurantes-populares",
+  "tema_id": "direitos-sociais",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-rodovia-contorno-viario--infraestrutura",
+  "proposta_id": "pr-240002541913-rodovia-contorno-viario",
+  "tema_id": "infraestrutura",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002541913-rumo-tarifa-zero--mobilidade",
+  "proposta_id": "pr-240002541913-rumo-tarifa-zero",
+  "tema_id": "mobilidade",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-cirurgias-60-dias--saude",
+  "proposta_id": "pr-240002544118-cirurgias-60-dias",
+  "tema_id": "saude",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-cobrar-duplicacao-brs--infraestrutura",
+  "proposta_id": "pr-240002544118-cobrar-duplicacao-brs",
+  "tema_id": "infraestrutura",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-duplicar-rodovias-estaduais--infraestrutura",
+  "proposta_id": "pr-240002544118-duplicar-rodovias-estaduais",
+  "tema_id": "infraestrutura",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-hub-socioassistencial--direitos-sociais",
+  "proposta_id": "pr-240002544118-hub-socioassistencial",
+  "tema_id": "direitos-sociais",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-lei-regionalizacao-saneamento--infraestrutura",
+  "proposta_id": "pr-240002544118-lei-regionalizacao-saneamento",
+  "tema_id": "infraestrutura",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-lei-regionalizacao-saneamento--meio-ambiente",
+  "proposta_id": "pr-240002544118-lei-regionalizacao-saneamento",
+  "tema_id": "meio-ambiente",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-presidio-seguranca-maxima--seguranca",
+  "proposta_id": "pr-240002544118-presidio-seguranca-maxima",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-privatizar-celesc-casan--economia",
+  "proposta_id": "pr-240002544118-privatizar-celesc-casan",
+  "tema_id": "economia",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-carga-tributaria--tributacao",
+  "proposta_id": "pr-240002544118-reduzir-carga-tributaria",
+  "tema_id": "tributacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-reduzir-comissionados-25--administracao-publica",
+  "proposta_id": "pr-240002544118-reduzir-comissionados-25",
+  "tema_id": "administracao-publica",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-tempo-integral-2030--educacao",
+  "proposta_id": "pr-240002544118-tempo-integral-2030",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-travessia-itajai-navegantes--infraestrutura",
+  "proposta_id": "pr-240002544118-travessia-itajai-navegantes",
+  "tema_id": "infraestrutura",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002544118-travessia-itajai-navegantes--mobilidade",
+  "proposta_id": "pr-240002544118-travessia-itajai-navegantes",
+  "tema_id": "mobilidade",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-apoio-tarifa-zero--mobilidade",
+  "proposta_id": "pr-240002548628-apoio-tarifa-zero",
+  "tema_id": "mobilidade",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-autonomia-udesc--educacao",
+  "proposta_id": "pr-240002548628-autonomia-udesc",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-cameras-corporais--seguranca",
+  "proposta_id": "pr-240002548628-cameras-corporais",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-caps-iii--saude",
+  "proposta_id": "pr-240002548628-caps-iii",
+  "tema_id": "saude",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-centros-regionais-especialidades--saude",
+  "proposta_id": "pr-240002548628-centros-regionais-especialidades",
+  "tema_id": "saude",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-orgao-habitacao--habitacao",
+  "proposta_id": "pr-240002548628-orgao-habitacao",
+  "tema_id": "habitacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-reducao-agrotoxicos--meio-ambiente",
+  "proposta_id": "pr-240002548628-reducao-agrotoxicos",
+  "tema_id": "meio-ambiente",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-reducao-agrotoxicos--saude",
+  "proposta_id": "pr-240002548628-reducao-agrotoxicos",
+  "tema_id": "saude",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-secretaria-bem-estar-animal--administracao-publica",
+  "proposta_id": "pr-240002548628-secretaria-bem-estar-animal",
+  "tema_id": "administracao-publica",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002548628-secretaria-bem-estar-animal--meio-ambiente",
+  "proposta_id": "pr-240002548628-secretaria-bem-estar-animal",
+  "tema_id": "meio-ambiente",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-cameras-corporais--seguranca",
+  "proposta_id": "pr-240002550544-cameras-corporais",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-delegacias-mulher-24h--direitos-sociais",
+  "proposta_id": "pr-240002550544-delegacias-mulher-24h",
+  "tema_id": "direitos-sociais",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-delegacias-mulher-24h--seguranca",
+  "proposta_id": "pr-240002550544-delegacias-mulher-24h",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-eleicao-diretores--administracao-publica",
+  "proposta_id": "pr-240002550544-eleicao-diretores",
+  "tema_id": "administracao-publica",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-eleicao-diretores--educacao",
+  "proposta_id": "pr-240002550544-eleicao-diretores",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-orcamento-participativo--administracao-publica",
+  "proposta_id": "pr-240002550544-orcamento-participativo",
+  "tema_id": "administracao-publica",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-professores-36h--educacao",
+  "proposta_id": "pr-240002550544-professores-36h",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-restabelecer-cohab--habitacao",
+  "proposta_id": "pr-240002550544-restabelecer-cohab",
+  "tema_id": "habitacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-revisar-incentivos-fiscais--tributacao",
+  "proposta_id": "pr-240002550544-revisar-incentivos-fiscais",
+  "tema_id": "tributacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002550544-suspender-universidade-gratuita--educacao",
+  "proposta_id": "pr-240002550544-suspender-universidade-gratuita",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-apoio-creches--educacao",
+  "proposta_id": "pr-240002551001-apoio-creches",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-forca-tarefa-cirurgias--saude",
+  "proposta_id": "pr-240002551001-forca-tarefa-cirurgias",
+  "tema_id": "saude",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-investimento-15-rcl--administracao-publica",
+  "proposta_id": "pr-240002551001-investimento-15-rcl",
+  "tema_id": "administracao-publica",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-muralha-digital--seguranca",
+  "proposta_id": "pr-240002551001-muralha-digital",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-policiais-reserva--administracao-publica",
+  "proposta_id": "pr-240002551001-policiais-reserva",
+  "tema_id": "administracao-publica",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-policiais-reserva--seguranca",
+  "proposta_id": "pr-240002551001-policiais-reserva",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-tempo-integral-ensino-medio--educacao",
+  "proposta_id": "pr-240002551001-tempo-integral-ensino-medio",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002551001-udesc--educacao",
+  "proposta_id": "pr-240002551001-udesc",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-aplicativo-condenados-violencia-mulher--direitos-sociais",
+  "proposta_id": "pr-240002552157-aplicativo-condenados-violencia-mulher",
+  "tema_id": "direitos-sociais",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-aplicativo-condenados-violencia-mulher--seguranca",
+  "proposta_id": "pr-240002552157-aplicativo-condenados-violencia-mulher",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-cheias-itajai-acu--infraestrutura",
+  "proposta_id": "pr-240002552157-cheias-itajai-acu",
+  "tema_id": "infraestrutura",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-cheias-itajai-acu--meio-ambiente",
+  "proposta_id": "pr-240002552157-cheias-itajai-acu",
+  "tema_id": "meio-ambiente",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-duplicacao-br-282--infraestrutura",
+  "proposta_id": "pr-240002552157-duplicacao-br-282",
+  "tema_id": "infraestrutura",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-hospital-queimados--saude",
+  "proposta_id": "pr-240002552157-hospital-queimados",
+  "tema_id": "saude",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-lei-verbas-comunicacao--administracao-publica",
+  "proposta_id": "pr-240002552157-lei-verbas-comunicacao",
+  "tema_id": "administracao-publica",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-secretaria-logistica-ferrovia--infraestrutura",
+  "proposta_id": "pr-240002552157-secretaria-logistica-ferrovia",
+  "tema_id": "infraestrutura",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002552157-tempo-integral--educacao",
+  "proposta_id": "pr-240002552157-tempo-integral",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-combustiveis-50--economia",
+  "proposta_id": "pr-240002553718-combustiveis-50",
+  "tema_id": "economia",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-dissolucao-policia-militar--seguranca",
+  "proposta_id": "pr-240002553718-dissolucao-policia-militar",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-fim-do-stf--instituicoes-politicas",
+  "proposta_id": "pr-240002553718-fim-do-stf",
+  "tema_id": "instituicoes-politicas",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-fim-lrf-teto--administracao-publica",
+  "proposta_id": "pr-240002553718-fim-lrf-teto",
+  "tema_id": "administracao-publica",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--direitos-sociais",
+  "proposta_id": "pr-240002553718-jornada-35-horas",
+  "tema_id": "direitos-sociais",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-jornada-35-horas--economia",
+  "proposta_id": "pr-240002553718-jornada-35-horas",
+  "tema_id": "economia",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-piso-professores-8500--educacao",
+  "proposta_id": "pr-240002553718-piso-professores-8500",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-240002553718-salario-minimo-7500--economia",
+  "proposta_id": "pr-240002553718-salario-minimo-7500",
+  "tema_id": "economia",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-alfabetizacao-80--educacao",
+  "proposta_id": "pr-280002542548-alfabetizacao-80",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-alianca-tfff--instituicoes-politicas",
+  "proposta_id": "pr-280002542548-alianca-tfff",
+  "tema_id": "instituicoes-politicas",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-alianca-tfff--meio-ambiente",
+  "proposta_id": "pr-280002542548-alianca-tfff",
+  "tema_id": "meio-ambiente",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-arcabouco-fiscal--administracao-publica",
+  "proposta_id": "pr-280002542548-arcabouco-fiscal",
+  "tema_id": "administracao-publica",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-arcabouco-fiscal--economia",
+  "proposta_id": "pr-280002542548-arcabouco-fiscal",
+  "tema_id": "economia",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-casas-mulher--direitos-sociais",
+  "proposta_id": "pr-280002542548-casas-mulher",
+  "tema_id": "direitos-sociais",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-casas-mulher--seguranca",
+  "proposta_id": "pr-280002542548-casas-mulher",
+  "tema_id": "seguranca",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-desmatamento-zero--meio-ambiente",
+  "proposta_id": "pr-280002542548-desmatamento-zero",
+  "tema_id": "meio-ambiente",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-emendas--administracao-publica",
+  "proposta_id": "pr-280002542548-emendas",
+  "tema_id": "administracao-publica",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-emendas--instituicoes-politicas",
+  "proposta_id": "pr-280002542548-emendas",
+  "tema_id": "instituicoes-politicas",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-farmacia-exames--saude",
+  "proposta_id": "pr-280002542548-farmacia-exames",
+  "tema_id": "saude",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-fila-unica--saude",
+  "proposta_id": "pr-280002542548-fila-unica",
+  "tema_id": "saude",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-fim-6x1--direitos-sociais",
+  "proposta_id": "pr-280002542548-fim-6x1",
+  "tema_id": "direitos-sociais",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-fim-6x1--economia",
+  "proposta_id": "pr-280002542548-fim-6x1",
+  "tema_id": "economia",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-fndr--economia",
+  "proposta_id": "pr-280002542548-fndr",
+  "tema_id": "economia",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-fndr--tributacao",
+  "proposta_id": "pr-280002542548-fndr",
+  "tema_id": "tributacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-imposto-seletivo--saude",
+  "proposta_id": "pr-280002542548-imposto-seletivo",
+  "tema_id": "saude",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-imposto-seletivo--tributacao",
+  "proposta_id": "pr-280002542548-imposto-seletivo",
+  "tema_id": "tributacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-mcmv--direitos-sociais",
+  "proposta_id": "pr-280002542548-mcmv",
+  "tema_id": "direitos-sociais",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-mcmv--habitacao",
+  "proposta_id": "pr-280002542548-mcmv",
+  "tema_id": "habitacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--administracao-publica",
+  "proposta_id": "pr-280002542548-ministerio-seguranca",
+  "tema_id": "administracao-publica",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-ministerio-seguranca--seguranca",
+  "proposta_id": "pr-280002542548-ministerio-seguranca",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-novo-pac-2--economia",
+  "proposta_id": "pr-280002542548-novo-pac-2",
+  "tema_id": "economia",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-novo-pac-2--infraestrutura",
+  "proposta_id": "pr-280002542548-novo-pac-2",
+  "tema_id": "infraestrutura",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-pacto-execucao-penal--seguranca",
+  "proposta_id": "pr-280002542548-pacto-execucao-penal",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-pe-de-meia--direitos-sociais",
+  "proposta_id": "pr-280002542548-pe-de-meia",
+  "tema_id": "direitos-sociais",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-pe-de-meia--educacao",
+  "proposta_id": "pr-280002542548-pe-de-meia",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-petrobras-distribuicao--economia",
+  "proposta_id": "pr-280002542548-petrobras-distribuicao",
+  "tema_id": "economia",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--direitos-sociais",
+  "proposta_id": "pr-280002542548-salario-minimo",
+  "tema_id": "direitos-sociais",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002542548-salario-minimo--economia",
+  "proposta_id": "pr-280002542548-salario-minimo",
+  "tema_id": "economia",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-casa-verde-amarela--direitos-sociais",
+  "proposta_id": "pr-280002551544-casa-verde-amarela",
+  "tema_id": "direitos-sociais",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-casa-verde-amarela--habitacao",
+  "proposta_id": "pr-280002551544-casa-verde-amarela",
+  "tema_id": "habitacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-corte-ministerios--administracao-publica",
+  "proposta_id": "pr-280002551544-corte-ministerios",
+  "tema_id": "administracao-publica",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-crescimento-4--economia",
+  "proposta_id": "pr-280002551544-crescimento-4",
+  "tema_id": "economia",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-desmatamento-ilegal-2029--meio-ambiente",
+  "proposta_id": "pr-280002551544-desmatamento-ilegal-2029",
+  "tema_id": "meio-ambiente",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-dobrar-seguranca--seguranca",
+  "proposta_id": "pr-280002551544-dobrar-seguranca",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-ecr--educacao",
+  "proposta_id": "pr-280002551544-ecr",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--infraestrutura",
+  "proposta_id": "pr-280002551544-energia-cde",
+  "tema_id": "infraestrutura",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-energia-cde--tributacao",
+  "proposta_id": "pr-280002551544-energia-cde",
+  "tema_id": "tributacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-fim-reeleicao--instituicoes-politicas",
+  "proposta_id": "pr-280002551544-fim-reeleicao",
+  "tema_id": "instituicoes-politicas",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-infra-900bi--economia",
+  "proposta_id": "pr-280002551544-infra-900bi",
+  "tema_id": "economia",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-infra-900bi--infraestrutura",
+  "proposta_id": "pr-280002551544-infra-900bi",
+  "tema_id": "infraestrutura",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--infraestrutura",
+  "proposta_id": "pr-280002551544-licenca-tacita",
+  "tema_id": "infraestrutura",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-licenca-tacita--meio-ambiente",
+  "proposta_id": "pr-280002551544-licenca-tacita",
+  "tema_id": "meio-ambiente",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-maioridade-penal--seguranca",
+  "proposta_id": "pr-280002551544-maioridade-penal",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-ocde-iof--instituicoes-politicas",
+  "proposta_id": "pr-280002551544-ocde-iof",
+  "tema_id": "instituicoes-politicas",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-ocde-iof--tributacao",
+  "proposta_id": "pr-280002551544-ocde-iof",
+  "tema_id": "tributacao",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-presidios-treva--seguranca",
+  "proposta_id": "pr-280002551544-presidios-treva",
+  "tema_id": "seguranca",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-regra-fiscal--administracao-publica",
+  "proposta_id": "pr-280002551544-regra-fiscal",
+  "tema_id": "administracao-publica",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-regra-fiscal--economia",
+  "proposta_id": "pr-280002551544-regra-fiscal",
+  "tema_id": "economia",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-retorno-beneficio--direitos-sociais",
+  "proposta_id": "pr-280002551544-retorno-beneficio",
+  "tema_id": "direitos-sociais",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-revisao-reforma-iva--tributacao",
+  "proposta_id": "pr-280002551544-revisao-reforma-iva",
+  "tema_id": "tributacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-tabela-sus--saude",
+  "proposta_id": "pr-280002551544-tabela-sus",
+  "tema_id": "saude",
+  "principal": true,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--direitos-sociais",
+  "proposta_id": "pr-280002551544-voucher-creche",
+  "tema_id": "direitos-sociais",
+  "principal": false,
+  "origem_dado": "CURATED"
+ },
+ {
+  "id": "pr-280002551544-voucher-creche--educacao",
+  "proposta_id": "pr-280002551544-voucher-creche",
+  "tema_id": "educacao",
+  "principal": true,
+  "origem_dado": "CURATED"
+ }
+]

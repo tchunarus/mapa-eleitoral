@@ -23,7 +23,7 @@ from datetime import datetime, timezone
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, AQUI)
-import repositorio, normativo  # noqa: E402
+import repositorio, normativo, segundo_turno  # noqa: E402
 from entes import ENTES  # noqa: E402
 
 OUT = os.path.join(repositorio.RAIZ, 'docs', 'data')
@@ -413,6 +413,8 @@ def construir(agora=None, com_fixtures=True, raiz=repositorio.RAIZ):
                          default=datetime.now(timezone.utc).isoformat(timespec='seconds'))
     erros, avisos = banco.validar()
     erros_regras, info = normativo.conferir_todas(banco.tabelas['regras'])
+    erros_2t, _ = segundo_turno.validar(segundo_turno.carregar())
+    erros_regras = erros_regras + erros_2t
     if erros or erros_regras:
         # não publica dados inconsistentes; mantém a versão anterior e devolve o motivo
         return {'publicado': False, 'erros': (erros + erros_regras)[:50]}
@@ -425,6 +427,7 @@ def construir(agora=None, com_fixtures=True, raiz=repositorio.RAIZ):
     try:
         pub = Publicador(banco, info, agora)
         indice = pub.publicar(com_fixtures)
+        segundo_turno.gerar(pub, salvar)
         pub.admin(erros, avisos, erros_regras)
     finally:
         DESTINO['pasta'] = OUT
