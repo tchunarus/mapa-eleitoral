@@ -14,16 +14,18 @@ const app = $("#app");
 const mods = []; let mod = null;
 const escolher = () => { const h = location.hash.replace(/^#/, ""); return mods.find(m => m.prefixo && (h === m.prefixo || h.startsWith(m.prefixo + "/"))) || mods.find(m => !m.prefixo); };
 
+// O site trata só do 2º turno presidencial: o menu principal são as seções dessa análise.
+const SECOES = [["", "Visão geral"], ["criterios", "Critérios e evidências"], ["propostas", "Propostas"], ["tempo", "Linha do tempo"],
+  ["checagens", "Verificação de fatos"], ["simulador", "Seus pesos"], ["conclusao", "Conclusão"], ["metodologia", "Metodologia e fontes"]];
 function renderAbas() {
-  const F = window.MapaEleitoralFiltros, r = F.parseRota(location.hash) || { v: "inicio" };
-  const demo = r.v === "eleicao" && r.eleicao === "demonstracao" || r.v === "cargo" && r.eleicao === "demonstracao";
-  const st = location.hash.startsWith("#/2turno");
-  const abas = [["#/2turno", "2º turno presidencial", st], ["#/", "Eleições 2026", !st && !demo && ["inicio", "eleicao", "cargo", "candidato", "proposta"].includes(r.v)],
-    ["#/propostas", "Propostas", r.v === "propostas"], ["#/municipios/florianopolis", "Municípios", r.v === "municipio"],
-    ["#/demonstracao", "Demonstração", demo], ["#/admin", "Painel", r.v === "admin"]];
-  $("#tabs").innerHTML = abas.map(([h, t, ativo]) => `<a class="tab" href="${h}" ${ativo ? 'aria-current="page"' : ""}>${t}</a>`).join("");
+  const h = location.hash.replace(/^#\/?/, "");
+  const sec = h.startsWith("2turno") ? (h.split("?")[0].split("/")[1] || "") : h.startsWith("proposta/") ? "propostas" : "";
+  $("#tabs").innerHTML = SECOES.map(([r, t]) => `<a class="tab" href="#/2turno${r ? "/" + r : ""}" ${sec === r ? 'aria-current="page"' : ""}>${t}</a>`).join("");
 }
 function render(soft) {
+  // fora do 2º turno, só a página de detalhe de proposta continua acessível
+  const h = location.hash.replace(/^#/, "");
+  if (!h.startsWith("/2turno") && !h.startsWith("/proposta/")) { location.replace("#/2turno"); return; }
   mod = escolher();
   if (!mod) return;
   const y = window.scrollY; let html = "";

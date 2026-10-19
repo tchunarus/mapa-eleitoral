@@ -119,7 +119,7 @@ function subnav(atual) {
   return `<nav class="st-sub" aria-label="Seções do 2º turno">${SUB.map(([r, t, i]) => `<a href="#/2turno${r ? "/" + r : ""}" ${atual === r ? 'aria-current="page"' : ""}>${ico(i)}<span>${esc(t)}</span></a>`).join("")}</nav>`;
 }
 function cabecalho(titulo, lede) {
-  return `<div class="page-head reveal"><p class="crumbs"><a href="#/2turno">2º turno presidencial</a><span>Eleições 2026</span></p><h2>${esc(titulo)}</h2>${lede ? `<p class="lede">${lede}</p>` : ""}</div>`;
+  return `<div class="page-head reveal"><p class="crumbs"><span>Eleição presidencial de 2026</span><span>2º turno · 25/10</span></p><h2>${esc(titulo)}</h2>${lede ? `<p class="lede">${lede}</p>` : ""}</div>`;
 }
 function vazio(msg) { return `<div class="st-vazio">${ico("info")} ${esc(msg)}</div>`; }
 
@@ -137,7 +137,7 @@ function visao() {
   }).join("");
   const conc = (d.conclusao || {}).resumo;
   return `${cabecalho("Lula e Flávio Bolsonaro: análise comparativa", "Evidências verificáveis, classificadas e com fonte, organizadas em oito critérios definidos antes da análise. As notas seguem uma rubrica publicada; você pode mudar os pesos e ver como suas prioridades alteram o resultado.")}
-    ${subnav("")}
+    
     <div class="st-oficial reveal">${ico("check")}<div><p><b>Situação oficial.</b> ${esc(sit.texto || "")}</p>${fontes(sit.fontes)}</div></div>
     <div class="st-cands">${cards}</div>
     ${(d.avaliacoes || []).length ? `<section class="blk"><div class="sec-head"><h2>Notas por critério</h2><a class="ref small" href="#/2turno/simulador">Ajustar pesos</a></div>${grafico(p)}</section>` :
@@ -175,7 +175,7 @@ function criterios(q) {
       <div class="st-cols">${colunas}</div></section>`;
   }).join("");
   return `${cabecalho("Critérios e evidências", "Para cada critério, as evidências favoráveis e desfavoráveis a cada candidato, com a nota atribuída pela rubrica e a justificativa. Abra uma evidência para ver contraponto, limitações e fontes.")}
-    ${subnav("criterios")}
+    
     <div class="st-filtros"><div><span class="el-mini">Critério</span>${chips("crit", lista.map(c => [c.id, c.nome_curto || c.nome]), sel)}</div>
       <div><span class="el-mini">Candidato</span>${chips("cand", cands().map(c => [c.id, c.nome_urna]), f.cand, "Ambos")}</div>
       <div><span class="el-mini">Sentido</span>${chips("sentido", Object.entries(d.rotulos.sentido), f.sentido)}</div>
@@ -203,7 +203,7 @@ function propostas() {
   };
   const tot = cands().reduce((s, k) => s + (d.propostas[k.id] || []).length, 0);
   return `${cabecalho("Propostas lado a lado", "Propostas extraídas dos planos de governo registrados no TSE, com o trecho literal e a página. Os selos indicam se a medida cabe à Presidência ou depende do Congresso, de outros entes ou de emenda constitucional; o selo de detalhamento mede metas, valores e prazos.")}
-    ${subnav("propostas")}
+    
     <div class="st-filtros"><div><span class="el-mini">Área</span>${chips("area", AREAS, f.area, "Todas")}</div></div>
     ${tot ? `<div class="st-cols">${cands().map(col).join("")}</div>` : vazio("As propostas estão sendo extraídas dos planos de governo e serão publicadas em breve.")}`;
 }
@@ -212,7 +212,7 @@ function tempo() {
   const d = S.d, f = S.f;
   const its = (d.linha_do_tempo || []).filter(t => (!f.tcand || t.candidato === f.tcand || t.candidato === "ambos") && (!f.tcat || t.categoria === f.tcat))
     .slice().sort((a, b) => String(a.data).localeCompare(String(b.data)));
-  return `${cabecalho("Linha do tempo", "Marcos das trajetórias, dos processos e da campanha, cada um com fonte.")}${subnav("tempo")}
+  return `${cabecalho("Linha do tempo", "Marcos das trajetórias, dos processos e da campanha, cada um com fonte.")}
     <div class="st-filtros"><div><span class="el-mini">Candidato</span>${chips("tcand", cands().map(c => [c.id, c.nome_urna]), f.tcand, "Ambos")}</div>
       <div><span class="el-mini">Categoria</span>${chips("tcat", Object.entries(d.rotulos.categoria_tempo), f.tcat, "Todas")}</div></div>
     ${its.length ? `<ol class="st-tempo">${its.map(t => `<li class="reveal ${t.candidato === "ambos" ? "st-ambos" : "st-" + esc(cand(t.candidato).cor)}"><span class="st-t-data mono">${esc(FMT(t.data))}</span>
@@ -228,7 +228,7 @@ function checagens() {
   const resumo = cands().map(k => { const proprias = todas.filter(x => x.origem === k.id), terc = todas.filter(x => x.origem === "terceiros" && (x.alvo === k.id || x.alvo === "ambos"));
     return `<div class="st-chk-res st-${esc(k.cor)}">${pill(k.id)}<p class="small"><b>${proprias.length}</b> declaração(ões) de ${esc(k.nome_urna)} checada(s)</p><div class="chips">${conta(proprias)}</div>
       <p class="small" style="margin-top:10px"><b>${terc.length}</b> conteúdo(s) de terceiros sobre ${esc(k.nome_urna)} checado(s)</p><div class="chips">${conta(terc)}</div></div>`; }).join("");
-  return `${cabecalho("Verificação de fatos", "Declarações dos candidatos e conteúdos que circularam sobre eles, com a classificação das agências de checagem e o contexto. A amostra depende do que as agências escolheram verificar; contagens não medem, sozinhas, a veracidade geral de uma campanha.")}${subnav("checagens")}
+  return `${cabecalho("Verificação de fatos", "Declarações dos candidatos e conteúdos que circularam sobre eles, com a classificação das agências de checagem e o contexto. A amostra depende do que as agências escolheram verificar; contagens não medem, sozinhas, a veracidade geral de uma campanha.")}
     ${todas.length ? `<div class="st-chk-resumo">${resumo}</div>` : ""}
     <div class="st-filtros"><div><span class="el-mini">Sobre quem</span>${chips("calvo", cands().map(c => [c.id, c.nome_urna]).concat([["ambos", "Ambos"]]), f.calvo)}</div>
       <div><span class="el-mini">Classificação</span>${chips("cclass", Object.entries(d.rotulos.checagem), f.cclass, "Todas")}</div>
@@ -247,7 +247,7 @@ function simulador() {
     <div class="st-peso-notas">${cands().map(k => { const a = aval(c.id, k.id); return `<label class="small">${pill(k.id)} <input type="number" min="0" max="10" step="0.5" data-nota="${esc(c.id)}|${esc(k.id)}" value="${nota(c.id, k.id) ?? ""}" ${a ? "" : "disabled"} aria-label="Nota de ${esc(k.nome_urna)} em ${esc(c.nome)}">${S.notas[c.id + "|" + k.id] != null ? ` <span class="badge mid">sua nota</span>` : ""}</label>`; }).join("")}</div></div>`).join("");
   const res = cands().map(k => { const m = media(k.id, p, sufi); return `<div class="st-res st-${esc(k.cor)}">${pill(k.id)}<b class="mono">${f1(m)}</b><span class="st-res-bar"><i style="width:${(m || 0) * 10}%"></i></span></div>`; }).join("");
   const iguais = {}; crit().forEach(c => { iguais[c.id] = 1; });
-  return `${cabecalho("Seus pesos", "Defina quanto cada critério importa para você (0 exclui o critério). Se discordar de uma nota, você pode substituí-la; sua versão fica só neste navegador e é sinalizada.")}${subnav("simulador")}
+  return `${cabecalho("Seus pesos", "Defina quanto cada critério importa para você (0 exclui o critério). Se discordar de uma nota, você pode substituí-la; sua versão fica só neste navegador e é sinalizada.")}
     ${(S.d.avaliacoes || []).length ? `<div class="st-sim"><div class="st-sim-l">${linhas}
       <div class="actions"><button class="btn quiet" type="button" id="stReset">Restaurar pesos iguais e notas da metodologia</button>
       <label class="small"><input type="checkbox" id="stSufi" ${sufi ? "checked" : ""}> Ignorar critérios com evidência insuficiente</label></div></div>
@@ -259,7 +259,7 @@ function simulador() {
 function conclusao() {
   const c = S.d.conclusao || {};
   const dims = c.dimensoes || [];
-  return `${cabecalho("Conclusão por dimensão", "Onde cada candidato apresenta vantagens, fragilidades e riscos, segundo o peso das evidências em cada dimensão. Não há vencedor definido de antemão nem equivalência presumida.")}${subnav("conclusao")}
+  return `${cabecalho("Conclusão por dimensão", "Onde cada candidato apresenta vantagens, fragilidades e riscos, segundo o peso das evidências em cada dimensão. Não há vencedor definido de antemão nem equivalência presumida.")}
     ${c.resumo ? `<p class="lede">${esc(c.resumo)}</p>` : ""}
     ${(c.distincoes || []).length ? `<section class="blk"><div class="sec-head"><h2>Distinções necessárias</h2></div><div class="st-guia">${c.distincoes.map(x => `<div class="st-guia-i">${ico("scale")}<b>${esc(x.titulo)}</b><p class="small">${esc(x.texto)}</p></div>`).join("")}</div></section>` : ""}
     ${dims.length ? dims.map(x => `<section class="blk reveal"><div class="sec-head"><h2>${esc(x.titulo)}</h2>${x.criterio ? `<a class="ref small" href="#/2turno/criterios/${esc(x.criterio)}">Evidências</a>` : ""}</div>
@@ -279,7 +279,7 @@ function metodologia() {
   const porTipo = Object.keys(d.rotulos.tipo_fonte).map(t => [t, lista.filter(f => f.tipo_fonte === t).length]);
   const porVeiculo = {}; lista.forEach(f => { porVeiculo[f.veiculo] = (porVeiculo[f.veiculo] || 0) + 1; });
   const m = d.conclusao && d.conclusao.metodologia || {};
-  return `${cabecalho("Metodologia e fontes", "Como as evidências foram reunidas, classificadas e avaliadas, e a lista completa das fontes consultadas.")}${subnav("metodologia")}
+  return `${cabecalho("Metodologia e fontes", "Como as evidências foram reunidas, classificadas e avaliadas, e a lista completa das fontes consultadas.")}
     <section class="blk"><div class="sec-head"><h2>Procedimento</h2></div><ol class="st-passos">${(m.passos || [
       "Confirmação da situação eleitoral oficial no TSE.",
       "Roteiro único de perguntas por critério, aplicado aos dois candidatos.",
@@ -303,7 +303,7 @@ function render(h) {
   const q = {}; (qs || "").split("&").filter(Boolean).forEach(x => { const [k, v] = x.split("="); q[k] = decodeURIComponent(v || ""); });
   const [sec, id] = rota.split("/");
   if (id) q.id = id;
-  MN.util.status(`<span><span class="pulse"></span>2º turno · ${esc(FMT(d.eleicao.data_turno))}</span>`);
+  MN.util.status(`<span><span class="pulse"></span>Dados de ${esc(MN.util.FMTH(d.gerado_em))}</span>`);
   return ({ "": visao, criterios, propostas, tempo, checagens, simulador, conclusao, metodologia }[sec] || visao)(q);
 }
 let tip = null;

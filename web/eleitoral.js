@@ -264,10 +264,10 @@ function pProposta(r) {
   const outras = (d.afirmacoes || []).filter(a => a !== principal);
   const deps = an ? an.dependencias.filter(x => !x.condicional) : [], cond = an ? an.dependencias.filter(x => x.condicional) : [];
   const alt = deps.filter(x => x.alternativa), obrig = deps.filter(x => !x.alternativa);
-  return `${d.fixture ? fixtureAviso() : ""}<div class="page-head">${crumbs([[el.nome || "", F.montarRota({ v: "eleicao", eleicao: el.rota })], [cand.nome, hrefCand(cand.id)], ["Proposta", null]])}
+  return `${d.fixture ? fixtureAviso() : ""}<div class="page-head"><p class="crumbs"><a href="#/2turno">2º turno presidencial</a><a href="#/2turno/propostas">Propostas</a><span>${esc(cand.nome)}</span></p>
     <p class="el-mini">${(d.temas || []).map(t => esc(t.nome)).join(" · ") || "Sem tema"}</p>
     <h2>${esc(d.titulo)}</h2><p class="lede">${esc(d.descricao)}</p>
-    <p class="small muted" style="margin:10px 0 0">Proposta de <a class="ref" href="${hrefCand(cand.id)}">${esc(cand.nome)}</a>, candidatura a ${esc(c.nome)}${d.materia ? ` · matéria: ${esc(d.materia.nome)} (${esc(rot("nivel", d.materia.nivel))})` : ""} · ${esc(rot("natureza_medida", d.natureza_medida))}</p></div>
+    <p class="small muted" style="margin:10px 0 0">Proposta de <b>${esc(cand.nome)}</b>, candidatura a ${esc(c.nome)}${d.materia ? ` · matéria: ${esc(d.materia.nome)} (${esc(rot("nivel", d.materia.nivel))})` : ""} · ${esc(rot("natureza_medida", d.natureza_medida))}</p></div>
   <div class="grid2"><div>
     <section class="blk" style="margin-top:22px"><div class="sec-head"><h3>Fonte original</h3></div>
       ${fonte ? `<p style="margin:0">${fonteLink(fonte.fonte)}${fonte.localizador ? `<span class="small muted"> · ${esc(fonte.localizador)}</span>` : ""}</p><div class="actions"><a class="btn quiet" href="${esc(fonte.fonte.url)}" target="_blank" rel="noopener">Ver documento original</a></div>` : ""}</section>
@@ -387,7 +387,7 @@ function depois() {
   const idx = C.dados["index.json"];
   if (idx) {
     const tse = (idx.sincronizacoes || []).find(x => x.rotulo === "TSE Candidates");
-    MN.util.status(`<span><span class="pulse${tse && tse.errors ? " off" : ""}"></span>Dados do TSE de <b>${esc(FMTH(tse ? tse.concluido_em || tse.iniciado_em : idx.gerado_em))}</b></span><span><b>${idx.contagens.candidaturas.toLocaleString("pt-BR")}</b> candidaturas</span>`);
+    if (location.hash.startsWith("#/proposta/")) MN.util.status(`<span><span class="pulse"></span>Plano de governo registrado no TSE</span>`); else MN.util.status(`<span><span class="pulse${tse && tse.errors ? " off" : ""}"></span>Dados do TSE de <b>${esc(FMTH(tse ? tse.concluido_em || tse.iniciado_em : idx.gerado_em))}</b></span><span><b>${idx.contagens.candidaturas.toLocaleString("pt-BR")}</b> candidaturas</span>`);
   }
   const bf = document.getElementById("elBuscaForm");
   if (bf) {
