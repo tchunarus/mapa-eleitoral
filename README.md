@@ -2,7 +2,7 @@
 
 Ferramenta pública que responde, para cada proposta de candidatura:
 o que o candidato propôs, se o cargo disputado tem competência para realizar a medida e,
-se não puder fazê-lo sozinho, de quem depende. Site estático (`docs/`, GitHub Pages).
+se não puder fazê-lo sozinho, de quem depende. Site estático (`docs/`, GitHub Pages), em https://mapaeleitoral2026.com.br.
 
 Projeto independente do Mapa Normativo. A única ligação é de fonte: o texto vigente dos
 artigos citados como fundamento vem da publicação aberta do Mapa Normativo

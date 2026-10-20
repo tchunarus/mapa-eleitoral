@@ -13,6 +13,7 @@ import os
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WEB = os.path.join(RAIZ, 'web')
 OUT = os.path.join(RAIZ, 'docs', 'index.html')
+DOMINIO = 'mapaeleitoral2026.com.br'  # domínio próprio do GitHub Pages (docs/CNAME)
 RESET = ('<style>:root{box-sizing:border-box}body{margin:0;padding:0;'
          'padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}'
          'img{max-width:100%}[hidden]{display:none!important}</style>')
@@ -30,6 +31,8 @@ def montar():
         raise SystemExit('Travessão encontrado na página montada; corrija antes de publicar.')
     with open(OUT, 'w', encoding='utf-8') as f:
         f.write(pagina)
+    with open(os.path.join(os.path.dirname(OUT), 'CNAME'), 'w', encoding='utf-8') as f:
+        f.write(DOMINIO)  # mesmo formato do arquivo criado pelo GitHub
     return len(pagina)
 
 
