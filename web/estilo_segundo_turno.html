@@ -108,16 +108,25 @@
 .st-cb .st-res-bar i{background:var(--cb)}
 .st-passos{padding-left:20px;font-size:14px;max-width:86ch}
 .st-passos li{margin:5px 0}
-.st-agenda{margin-top:16px;display:grid;gap:12px}
-.st-debate{display:flex;gap:14px;align-items:flex-start;border:1px solid var(--gold);background:var(--gold-wash);border-radius:var(--r);padding:16px 18px}
-.st-debate > .ico{width:26px;height:26px;color:var(--gold);margin-top:2px}
-.st-debate h3{font-size:20px;margin:2px 0 4px}
-.st-debate p{margin:4px 0;font-size:14px;max-width:86ch}
-.st-debate-sit{display:flex;gap:8px;align-items:flex-start;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:8px 10px}
-.st-debate-sit .ico{color:var(--mid);flex:none;margin-top:1px}
-.st-agenda-l{border:1px solid var(--line);border-radius:var(--r);background:var(--bg);padding:12px 16px}
-.st-agenda-l summary{cursor:pointer;margin:0}
-.st-agenda-l ul{list-style:none;margin:8px 0 0;padding:0}
-.st-agenda-l li{display:grid;grid-template-columns:130px minmax(0,1fr) auto;gap:10px;padding:7px 0;border-top:1px solid var(--line-soft);font-size:14px;align-items:baseline}
-@media (max-width:560px){.st-agenda-l li{grid-template-columns:1fr}}
+.st-topo{display:grid;grid-template-columns:260px minmax(0,1fr);gap:16px;margin-top:18px;align-items:start}
+.st-topo.sem-lado{grid-template-columns:1fr}
+.st-topo .st-cands{margin-top:0}
+.st-lado{display:flex;flex-direction:column;gap:12px}
+.st-debate,.st-agenda-l{border:1px solid var(--line);border-radius:var(--r);background:var(--bg);padding:14px 16px;box-shadow:var(--shadow)}
+.st-debate{border-top:3px solid var(--gold)}
+.st-lado .el-mini{display:flex;align-items:center;gap:6px;margin:0 0 6px}
+.st-lado .el-mini .ico{width:15px;height:15px;color:var(--gold)}
+.st-debate-data{font-weight:700;font-size:17px;letter-spacing:-.01em;margin:0}
+.st-debate p{margin:4px 0}
+.st-debate-sit{display:flex;gap:6px;align-items:flex-start;color:var(--ink-2)}
+.st-debate-sit .ico{width:15px;height:15px;color:var(--mid);flex:none;margin-top:2px}
+.st-debate details{margin-top:6px}
+.st-debate summary{cursor:pointer;color:var(--gold-ink)}
+.st-debate details p{color:var(--ink-2)}
+.st-agenda-l ul{list-style:none;margin:0;padding:0}
+.st-agenda-l li{display:grid;grid-template-columns:64px minmax(0,1fr);gap:8px;padding:6px 0;border-top:1px solid var(--line-soft);font-size:13px;line-height:1.35}
+.st-agenda-l li .mono{font-size:11.5px;color:var(--ink-3);padding-top:1px}
+.st-agenda-l li a{text-decoration:none;color:var(--ink)}
+.st-agenda-l li a:hover{color:var(--gold-ink)}
+@media (max-width:900px){.st-topo{grid-template-columns:1fr}.st-lado{order:2}}
 </style>

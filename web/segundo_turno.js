@@ -139,8 +139,7 @@ function visao() {
   return `${cabecalho("Lula e Flávio Bolsonaro: análise comparativa", "Evidências verificáveis, classificadas e com fonte, organizadas em oito critérios definidos antes da análise. As notas seguem uma rubrica publicada; você pode mudar os pesos e ver como suas prioridades alteram o resultado.")}
     
     <div class="st-oficial reveal">${ico("check")}<div><p><b>Situação oficial.</b> ${esc(sit.texto || "")}</p>${fontes(sit.fontes)}</div></div>
-    ${agenda()}
-    <div class="st-cands">${cards}</div>
+    <div class="st-topo${(S.d.agenda || []).some(aindaVale) ? "" : " sem-lado"}">${agenda()}<div class="st-cands">${cards}</div></div>
     ${(d.avaliacoes || []).length ? `<section class="blk"><div class="sec-head"><h2>Notas por critério</h2><a class="ref small" href="#/2turno/simulador">Ajustar pesos</a></div>${grafico(p)}</section>` :
       `<section class="blk">${vazio("As notas por critério serão publicadas depois da revisão das evidências.")}</section>`}
     ${conc ? `<section class="blk"><div class="sec-head"><h2>Em síntese</h2><a class="ref small" href="#/2turno/conclusao">Conclusão completa</a></div><p class="lede">${esc(conc)}</p></section>` : ""}
@@ -170,13 +169,14 @@ function agenda() {
   const ag = (S.d.agenda || []).filter(aindaVale);
   if (!ag.length) return "";
   const dst = ag.find(a => a.destaque);
-  const card = dst ? `<div class="st-debate reveal">${ico("clock")}<div><p class="el-mini">Próximo debate</p>
-      <h3>${esc(DIA(dst.data))}${dst.hora ? `, ${esc(dst.hora)}` : ""}</h3><p><b>${esc(dst.titulo)}</b>. ${esc(dst.descricao || "")}</p>
-      ${dst.situacao ? `<p class="st-debate-sit">${ico("alert")} <span><b>Situação em ${esc(FMT(dst.situacao_em))}.</b> ${esc(dst.situacao)}</span></p>` : ""}
-      <details><summary class="small">Fontes</summary>${fontes((dst.fontes || []).concat(dst.fontes_situacao || []))}</details></div></div>` : "";
-  const lista = ag.filter(a => a !== dst).slice(0, 8).map(a => `<li><span class="mono small">${esc(FMT(a.data))}${a.hora ? ` · ${esc(a.hora)}` : ""}</span><span>${esc(a.titulo)}${a.descricao ? `<span class="small muted"> · ${esc(a.descricao)}</span>` : ""}</span>
-      ${(a.fontes || [])[0] && a.fontes[0].url ? `<a class="ref small" href="${esc(a.fontes[0].url)}" target="_blank" rel="noopener">fonte</a>` : ""}</li>`).join("");
-  return `<section class="st-agenda">${card}${lista ? `<details class="st-agenda-l" open><summary class="el-mini">Agenda até a votação</summary><ul>${lista}</ul></details>` : ""}</section>`;
+  const card = dst ? `<div class="st-debate"><p class="el-mini">${ico("clock")} Próximo debate</p>
+      <p class="st-debate-data">${esc(DIA(dst.data))}${dst.hora ? ` · ${esc(dst.hora)}` : ""}</p>
+      <p class="small muted">${esc(dst.resumo || dst.titulo)}</p>
+      ${dst.situacao ? `<p class="st-debate-sit small">${ico("alert")}<span>${esc(dst.situacao_curta || dst.situacao)}</span></p>
+      <details class="small"><summary>Saiba mais</summary><p><b>Situação em ${esc(FMT(dst.situacao_em))}.</b> ${esc(dst.situacao)}</p>${dst.descricao ? `<p>${esc(dst.descricao)}</p>` : ""}${fontes((dst.fontes || []).concat(dst.fontes_situacao || []))}</details>` : ""}</div>` : "";
+  const lista = ag.filter(a => a !== dst).slice(0, 5).map(a => `<li title="${esc(a.descricao || "")}"><span class="mono">${esc(FMT(a.data).slice(0, 5))}${a.hora ? ` ${esc(a.hora)}` : ""}</span>
+      ${(a.fontes || [])[0] && a.fontes[0].url ? `<a href="${esc(a.fontes[0].url)}" target="_blank" rel="noopener">${esc(a.titulo)}</a>` : `<span>${esc(a.titulo)}</span>`}</li>`).join("");
+  return `<aside class="st-lado">${card}${lista ? `<div class="st-agenda-l"><p class="el-mini">Agenda até a votação</p><ul>${lista}</ul></div>` : ""}</aside>`;
 }
 
 function criterios(q) {
