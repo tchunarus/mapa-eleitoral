@@ -1,0 +1,2100 @@
+{
+ "frente": "campanha",
+ "nota_metodologica": "Conversão de selos para a escala pedida: Verdadeiro/Fato/Sim = VERDADEIRO; Falso/Fake/Mentiu = FALSO; Enganoso/Distorcido = ENGANOSO; Falta contexto/Fora de contexto = DESCONTEXTUALIZADO; Exagerado/Subestimado/Impreciso/Não é bem assim = PARCIALMENTE_VERDADEIRO; Insustentável/Não comprovado = INCONCLUSIVO. As checagens dependem do que cada agência escolheu verificar; contagens não medem a veracidade geral do discurso de cada candidato. A busca na web atingiu o limite de consultas da sessão antes do levantamento de financiamento (DivulgaCandContas), que ficou sem resposta (ver lacunas).",
+ "evidencias": [
+  {
+   "id": "campanha-lula-01",
+   "candidato": "lula",
+   "criterio": "governabilidade",
+   "tema": "coligação Brasil Pronto pra Mais",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "A chapa Lula-Alckmin concorre pela coligação 'O Brasil Pronto pra Mais', formada por sete partidos (PT, PCdoB, PV, PDT, PSB, PSOL e Rede), registrada no TSE. A campanha se apresenta como continuidade e ampliação de políticas do governo (combate à fome, ProUni, Luz para Todos, Bolsa Família).",
+   "data_fato": "2026-08-10",
+   "fontes": [
+    {
+     "titulo": "O Brasil Pronto pra Mais: Lula e Alckmin defendem legado e projetam o futuro",
+     "veiculo": "PT (site oficial)",
+     "url": "https://pt.org.br/o-brasil-pronto-pra-mais-lula-e-alckmin-defendem-legado-e-projetam-o-futuro/",
+     "data": "2026-08-10",
+     "tipo_fonte": "CAMPANHA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro anuncia Alfredo Gaspar como candidato a vice",
+     "veiculo": "Estado de Minas",
+     "url": "https://www.em.com.br/politica/2026/08/7474191-flavio-bolsonaro-anuncia-alfredo-gaspar-como-candidato-a-vice.html",
+     "data": "2026-08-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Partidos de centro (Republicanos, União Brasil, Podemos, PP) não integraram nenhuma das duas chapas presidenciais.",
+   "limitacoes": "Fonte principal é o próprio partido; a composição não foi conferida diretamente no DivulgaCandContas."
+  },
+  {
+   "id": "campanha-lula-02",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "ausência em debates do 1º turno",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Lula não participou de nenhum debate do 1º turno: faltou ao da Band em agosto, citando a presença de Romeu Zema e Renan Santos, e ao da Globo em 1º/10, quando deu entrevista ao Flow Podcast no mesmo horário. A coordenação da campanha justificou que o formato com vários candidatos não permitiria confronto de projetos.",
+   "data_fato": "2026-09-30",
+   "fontes": [
+    {
+     "titulo": "Lula diz à Globo que não irá a último debate do 1º turno; presidente participará de podcast",
+     "veiculo": "Diário do Grande ABC",
+     "url": "https://www.dgabc.com.br/Noticia/4350013/lula-diz-a-globo-que-nao-ira-a-ultimo-debate-do-1-turno-presidente-participara-de-podcast",
+     "data": "2026-09-30",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Globo, Band e Record: veja datas dos debates do 2º turno",
+     "veiculo": "Metrópoles",
+     "url": "https://www.metropoles.com/brasil/globo-band-record-debates-flavio",
+     "data": "2026-10-06",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio Bolsonaro também não participou de debate televisionado no 1º turno, condicionando sua presença à de Lula (ver campanha-flavio-02).",
+   "limitacoes": "Ausência em debate é decisão estratégica legítima; não indica, por si, incoerência programática."
+  },
+  {
+   "id": "campanha-lula-03",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "propaganda suspensa: 'Currículo de Flávio Bolsonaro'",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Em 30/08/2026, a ministra Estela Aranha (TSE) suspendeu liminarmente a inserção 'Currículo de Flávio Bolsonaro', da coligação de Lula, por associar o adversário a organizações criminosas com aparência de documento oficial e sem elementos suficientes, mencionando que a denúncia da rachadinha foi arquivada. Processo 0601755-93.2026.6.00.0000 (direito de resposta), requerente Flávio Bolsonaro.",
+   "data_fato": "2026-08-30",
+   "fontes": [
+    {
+     "titulo": "Decisão TSE suspende comercial de Lula criticando currículo de Flávio (PDF)",
+     "veiculo": "Poder360 (documento do TSE)",
+     "url": "https://static.poder360.com.br/uploads/2026/08/Decisao_TSE_suspende_comercial_de_Lula_criticando_curriculo_Flavio.pdf",
+     "data": "2026-08-30",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ],
+   "contraponto": "Segundo a cobertura, a própria decisão ressalvou que não julga a veracidade histórica de cada episódio, e sim a forma de apresentação; mencionar fatos pretéritos é lícito na crítica política.",
+   "limitacoes": "Decisão liminar de juíza auxiliar; o PDF aberto só permitiu confirmar número, data e requerente. O dispositivo foi descrito por resultados de busca de veículos (Band, RTP/Lusa); há divergência entre veículos sobre se o direito de resposta já foi concedido ou se dependia de análise posterior. Desfecho no plenário não localizado."
+  },
+  {
+   "id": "campanha-lula-04",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "jingle 'Foi o Flávio Bolsonaro' suspenso",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Em 22/09/2026, o presidente do TSE, Nunes Marques, suspendeu liminarmente o jingle de rádio 'Foi o Flávio Bolsonaro', da campanha de Lula (sete inserções entre 28 e 31/08 em quatro emissoras), por entender que a peça ultrapassava a crítica admissível, inclusive ao usar o presente ('é acusado') para a rachadinha, cuja denúncia foi arquivada.",
+   "data_fato": "2026-09-22",
+   "fontes": [
+    {
+     "titulo": "Nunes Marques suspende propaganda de Lula que associa Flávio Bolsonaro a rachadinha e Master",
+     "veiculo": "Diário do Grande ABC",
+     "url": "https://www.dgabc.com.br/Noticia/4349322/nunes-marques-suspende-propaganda-de-lula-que-associa-flavio-bolsonaro-a-rachadinha-e-master",
+     "data": "2026-09-27",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A decisão será submetida ao plenário após a defesa da campanha de Lula e manifestação do Ministério Público Eleitoral; a campanha não havia se manifestado até a publicação.",
+   "limitacoes": "Decisão provisória; não localizei o julgamento de mérito."
+  },
+  {
+   "id": "campanha-lula-05",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "propaganda sobre caso Master e vice suspensa",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Em outubro de 2026 (nota divulgada em 11/10), Nunes Marques suspendeu peça da campanha de Lula que associava Flávio Bolsonaro a corrupção e lavagem no caso Banco Master e o vice Alfredo Gaspar a suspeita de estupro de vulnerável, por conter 'imputações criminais desprovidas de lastro mínimo' e omitir que o pedido de investigação contra Gaspar foi arquivado no STF.",
+   "data_fato": "2026-10-11",
+   "fontes": [
+    {
+     "titulo": "TSE suspende propaganda de Lula que liga Flávio ao caso Master",
+     "veiculo": "Correio da Manhã",
+     "url": "https://www.correiodamanha.com.br/politica/2026/10/326098-tse-suspende-propaganda-de-lula-que-liga-flavio-ao-caso-master.html",
+     "data": "2026-10-11",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A campanha de Lula recorreu, segundo nota do ministro da Secom, Sidônio Palmeira.",
+   "limitacoes": "Data exata da decisão não informada na matéria; recurso pendente até onde apurado."
+  },
+  {
+   "id": "campanha-lula-06",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "propaganda sobre milícias com personagens de IA suspensa",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Em 15/10/2026, o ministro André Mendonça (TSE) suspendeu propaganda de TV da campanha de Lula, exibida em 13/10, que vinculava Flávio Bolsonaro a milícias, por ausência de base fática mínima; fixou multa de R$ 10 mil por nova veiculação e questionou o uso de figuras criadas por inteligência artificial para simular relatos de pessoas reais.",
+   "data_fato": "2026-10-15",
+   "fontes": [
+    {
+     "titulo": "André Mendonça suspende propaganda de Lula que vincula Flávio Bolsonaro às milícias",
+     "veiculo": "O Liberal (Estadão Conteúdo)",
+     "url": "https://www.oliberal.com/politica/andre-mendonca-suspende-propaganda-de-lula-que-vincula-flavio-bolsonaro-as-milicias-1.1183272",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O ministro invocou, por isonomia, decisão anterior do TSE que suspendeu propaganda associando Lula ao crime organizado sem provas. A assessoria de Lula não respondeu à reportagem.",
+   "limitacoes": "Liminar sujeita a referendo do plenário."
+  },
+  {
+   "id": "campanha-lula-07",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "direito de resposta por vídeo sobre cortes em programas sociais",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Segundo reportagem de 09/10/2026, o TSE concedeu direito de resposta à campanha de Flávio Bolsonaro contra o perfil oficial de Lula no Instagram, por vídeo que atribuía ao adversário a intenção de cortar programas sociais, medida que não consta do plano de governo do PL; fixou multa de R$ 10 mil em caso de republicação.",
+   "data_fato": "2026-10-09",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro ganha direito de resposta contra Lula com multa de R$ 10 mil",
+     "veiculo": "ND Mais",
+     "url": "https://ndmais.com.br/politica/flavio-bolsonaro-direito-resposta-lula-multa-tse/",
+     "data": "2026-10-09",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Integrantes do governo sustentam que programas como o Pé-de-Meia correm risco em eventual governo Flávio; o próprio Aos Fatos registrou que o senador não prometeu acabar com esses auxílios (chk-33).",
+   "limitacoes": "A matéria não informa ministro, número do processo nem se a decisão é liminar ou de mérito."
+  },
+  {
+   "id": "campanha-lula-08",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "remoção de vídeo falso sobre ato pró-Lula (vítima)",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "A pedido da campanha de Lula, o ministro Marco Aurélio Bellizze (TSE) determinou em 12/10/2026 a remoção, em 24 horas, de publicações que associavam um vídeo de suposto consumo de cocaína ao ato pró-Lula na Avenida Paulista; a ordem atingiu perfis de Flávio Bolsonaro, Carlos Bolsonaro, Pablo Marçal e Rony Gabriel. Multa pedida pela defesa de Lula não foi aplicada.",
+   "data_fato": "2026-10-12",
+   "fontes": [
+    {
+     "titulo": "TSE determina remoção de publicação falsa sobre uso de drogas em ato de Lula",
+     "veiculo": "Portal de Prefeitura",
+     "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/tse-determina-remocao-de-publicacao-falsa-sobre-uso-de-drogas-ato-lula/633961/",
+     "data": "2026-10-13",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Caso ainda será analisado pelo plenário do TSE. A campanha de Lula afirma que a gravação foi feita no Chile.",
+   "limitacoes": "Veículo regional; número do processo não informado."
+  },
+  {
+   "id": "campanha-lula-09",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "alvo de deepfakes (levantamento VigIA)",
+   "tipo": "INTERPRETACAO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Levantamento do projeto VigIA, da Agência Lupa, sobre o 1º turno identificou ao menos 554 deepfakes; Lula aparece em 379 publicações, das quais 39% eram humorísticas ou satíricas e 34% buscavam atacá-lo. 24,5% dos publicadores eram contas oficiais de candidaturas.",
+   "data_fato": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "Deepfakes: 34% atacam Lula e 40% favorecem Flávio, indica levantamento",
+     "veiculo": "Diario de Pernambuco",
+     "url": "https://www.diariodepernambuco.com.br/politica/2026/10/11725603-deepfakes-34-atacam-lula-e-40-favorecem-flavio-indica-levantamento.html",
+     "data": "2026-10-02",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A reportagem traz dois totais (554 e 549 publicações irregulares); os números por político somam mais que o total, pois contam aparições.",
+   "limitacoes": "Metodologia original da Lupa não consultada diretamente; não identifica quais candidaturas produziram os conteúdos."
+  },
+  {
+   "id": "campanha-lula-10",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "placares de checagem do debate da Band",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "No debate da Band (18/10), os placares divergem conforme o checador: Estadão Verifica checou 13 falas de Lula (8 verdadeiras, 2 enganosas, 2 exageradas, 1 imprecisa, nenhuma falsa); Lupa checou 17 (9 verdadeiras, 2 falsas, 2 exageradas, 2 com falta de contexto, 1 insustentável, 1 subestimada); o placar do Aos Fatos reproduzido pela imprensa foi 16 verdadeiras, 5 'não é bem assim' e 2 falsas. Já o Ranking dos Políticos, com metodologia própria e 47 afirmações de Lula, apontou 9 falsas, 23 imprecisas e 15 verdadeiras (68,1% com algum problema).",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado (Estadão Verifica)",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Lula fez 16 afirmações verdadeiras e Flávio Bolsonaro contou 10 mentiras no debate da Band",
+     "veiculo": "Brasil 247",
+     "url": "https://www.brasil247.com/midia/lula-fez-16-afirmacoes-verdadeiras-e-flavio-bolsonaro-contou-10-mentiras-no-debate-da-band/",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Debate Lula e Flávio na Band: checagem de 76 afirmações",
+     "veiculo": "Ranking dos Políticos",
+     "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "Os critérios de seleção e de selo diferem; o Ranking dos Políticos não é agência signatária da IFCN e contou mais afirmações de Lula do que de Flávio.",
+   "limitacoes": "Contagem da Lupa feita por esta pesquisa a partir da lista publicada; o placar do Aos Fatos não apareceu na página consultada e vem de reprodução por veículo de linha editorial alinhada ao governo. Amostras dependem do que cada checador escolheu verificar."
+  },
+  {
+   "id": "campanha-lula-11",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "repetição de dados fiscais e de PIB incorretos",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Lula repetiu em entrevistas e no debate afirmações que agências classificaram como falsas: que herdou déficit de 2,8% (Fato ou Fake e Lupa apontam superávit de 0,5% do PIB em 2022) e que o país só voltou a crescer acima de 3% com seu retorno (o PIB superou 3% em 2011, 2013, 2021 e 2022). O Aos Fatos já havia registrado em agosto que ele 'repete uma desinformação recorrente' sobre o PIB.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Veja o que é #FATO ou #FAKE na entrevista de Lula à Globo no 2º turno (republicação de Fato ou Fake)",
+     "veiculo": "Symplexia Labs / Fato ou Fake",
+     "url": "https://news.symplexia.com/pt-br/2026/10/noticias/destaques/veja-o-que-e-fato-ou-fake-na-entrevista-de-lula-a-globo-no-2o-turno-das-eleicoes-2026/",
+     "data": "2026-10-16",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos a entrevista de Lula à Globo",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+     "data": "2026-08-27",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "O déficit primário de 2023 foi de 2,1% do PIB, segundo o Fato ou Fake, o que indica uma possível confusão entre o resultado herdado e o do primeiro ano; a página do Aos Fatos sobre a entrevista de 15/10 trata o tema de forma que não permitiu confirmar seu veredito.",
+   "limitacoes": "Amostra de falas escolhidas pelos checadores."
+  },
+  {
+   "id": "campanha-lula-12",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "declarações sobre lobista e INSS",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Na sabatina da Globo de 27/08, o Aos Fatos classificou como FALSA a afirmação de Lula de que não conhecia a lobista Roberta Luchsinger (há fotos dos dois de 2022) e como falsa a de que havia ministro da Previdência em 2019 envolvido na fraude do INSS (a pasta estava extinta). Considerou exagerada a frase 'eu já acabei com a fome duas vezes'.",
+   "data_fato": "2026-08-27",
+   "fontes": [
+    {
+     "titulo": "Checamos a entrevista de Lula à Globo",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+     "data": "2026-08-27",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "Na mesma checagem, falas sobre PIB de 2010, devolução de R$ 3,5 bilhões a aposentados e ausência de acusação formal contra Lulinha foram consideradas corretas.",
+   "limitacoes": "Vereditos inferidos do texto, que nem sempre exibe selo."
+  },
+  {
+   "id": "campanha-lula-13",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "acertos verificados",
+   "tipo": "INTERPRETACAO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Lupa, Estadão Verifica e Aos Fatos confirmaram no debate da Band, entre outras, as falas de Lula sobre o crescimento de 7,5% em 2010, a quitação da dívida com o FMI, a Lei Antifacção, os 17,5 milhões de MEIs e o voto de Flávio, em 2009, contra a ampliação da licença-maternidade na Alerj. Na entrevista à Globo de 15/10, o Fato ou Fake confirmou a previsão de superávit de 0,13% do PIB no orçamento de 2027.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos Lula e Flávio Bolsonaro no debate da Band",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "Vários acertos referem-se a mandatos anteriores (2003 a 2010), e não ao desempenho atual.",
+   "limitacoes": "Seleção de falas pelas agências."
+  },
+  {
+   "id": "campanha-lula-14",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "debates do 2º turno",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Lula confirmou presença no debate da Band em vídeo enviado à emissora em 13/10 e participou do debate de 18/10, o primeiro confronto direto com Flávio na campanha. Segundo a imprensa internacional, Lula chamou o adversário de 'mentiroso contumaz', 'bandido' e 'miliciano' e pediu aos espectadores que pesquisassem as afirmações na internet.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Lula x Flávio Bolsonaro: imprensa internacional repercute debate da Band",
+     "veiculo": "DOL / BBC News Brasil",
+     "url": "https://dol.com.br/noticias/politica/eleicoes-2026/965917/lula-x-flavio-bolsonaro-imprensa-internacional-repercute-debate-da-band",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio diz que 'enganou' Lula e que irá ao debate",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/123232/flavio-diz-enganou-lula-e-que-ira-ao-debate-para-esfregar-verdade",
+     "data": "2026-10-14",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Le Monde e Al Jazeera descreveram o debate como dominado por acusações mútuas, mais que por propostas.",
+   "limitacoes": "Termos atribuídos a Lula vêm da Al Jazeera, via BBC/DOL; não foi consultada a íntegra do debate."
+  },
+  {
+   "id": "campanha-lula-15",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "padrão na amostra de checagens",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Nas 12 declarações de Lula registradas nesta frente (debate da Band e sabatinas da Globo), as agências classificaram 5 como falsas, 5 como parcialmente verdadeiras (exagero, imprecisão ou 'não é bem assim'), 1 como insustentável e 1 como verdadeira. Nos placares completos do debate da Band, as falas falsas de Lula foram 0 de 13 (Estadão Verifica) e 2 de 17 (Lupa). Os erros recorrentes concentram-se em dados fiscais e de PIB.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado (Estadão Verifica)",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos a entrevista de Lula à Globo",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+     "data": "2026-08-27",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo (2º turno)",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+     "data": "2026-10-16",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "O Ranking dos Políticos contou 9 falas falsas de Lula em 47 no mesmo debate. Conteúdos falsos sobre Lula produzidos por terceiros (8 na amostra) foram todos desfavoráveis a ele.",
+   "limitacoes": "A amostra depende do que as agências escolheram checar e da seleção desta pesquisa, que priorizou falas com veredito negativo ou relevante; não mede a veracidade geral do discurso."
+  },
+  {
+   "id": "campanha-flavio-01",
+   "candidato": "flavio",
+   "criterio": "governabilidade",
+   "tema": "chapa puro-sangue do PL",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Flávio Bolsonaro concorre sem coligação formal, em chapa só do PL, com o deputado Alfredo Gaspar (PL-AL) como vice, anunciado em 05/08/2026, após PP, Republicanos, União Brasil e Podemos optarem pela neutralidade. Tarcísio de Freitas (Republicanos) e Ricardo Nunes (MDB) foram citados como apoiadores sem integrar a chapa.",
+   "data_fato": "2026-08-05",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro anuncia Alfredo Gaspar como candidato a vice",
+     "veiculo": "Estado de Minas",
+     "url": "https://www.em.com.br/politica/2026/08/7474191-flavio-bolsonaro-anuncia-alfredo-gaspar-como-candidato-a-vice.html",
+     "data": "2026-08-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O próprio candidato reconheceu: 'É óbvio que eu batalhei muito para que tivéssemos tempo de televisão', em referência à tentativa frustrada de coligação.",
+   "limitacoes": "Situação do registro não conferida diretamente no TSE."
+  },
+  {
+   "id": "campanha-flavio-02",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "idas e vindas sobre debates",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Flávio não participou de debate no 1º turno e condicionava a presença à de Lula. Em 13/10 anunciou que não iria ao debate da Band; em 14/10, após Lula confirmar, disse em vídeo que o anúncio fora estratégia ('Eu só queria que você confirmasse') e participou do debate de 18/10.",
+   "data_fato": "2026-10-14",
+   "fontes": [
+    {
+     "titulo": "Flávio diz que 'enganou' Lula e que irá ao debate",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/123232/flavio-diz-enganou-lula-e-que-ira-ao-debate-para-esfregar-verdade",
+     "data": "2026-10-14",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula diz à Globo que não irá a último debate do 1º turno",
+     "veiculo": "Diário do Grande ABC",
+     "url": "https://www.dgabc.com.br/Noticia/4350013/lula-diz-a-globo-que-nao-ira-a-ultimo-debate-do-1-turno-presidente-participara-de-podcast",
+     "data": "2026-09-30",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A campanha apresenta a manobra como tática para forçar o confronto que Lula evitara no 1º turno.",
+   "limitacoes": "Estratégia declarada pelo próprio candidato; não verificável de forma independente."
+  },
+  {
+   "id": "campanha-flavio-03",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "promessa de manter o Bolsa Família",
+   "tipo": "PROMESSA",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Em evento no Rio em 09/10/2026, Flávio prometeu 'garantir o Bolsa Família para quem precisa', associado a capacitação e crédito, e acusou o PT de 'boataria' sobre suas propostas sociais. No mesmo dia, o TSE reconheceu que corte de programas sociais não consta de seu plano de governo (campanha-lula-07).",
+   "data_fato": "2026-10-09",
+   "fontes": [
+    {
+     "titulo": "Em encontro no RJ, Flávio Bolsonaro promete manter Bolsa Família e acusa PT de espalhar boatos",
+     "veiculo": "Times Brasil (CNBC)",
+     "url": "https://timesbrasil.com.br/brasil/decisao-2026-em-encontro-no-rj-flavio-bolsonaro-promete-manter-bolsa-familia-e-acusa-pt-de-espalhar-boatos/",
+     "data": "2026-10-09",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "No debate da Band, a Lupa classificou como exagerada a afirmação de Flávio de que Bolsonaro elevou o Bolsa Família para no mínimo R$ 600 e triplicou a média do benefício.",
+   "limitacoes": "Promessa de discurso, sem detalhamento orçamentário verificado."
+  },
+  {
+   "id": "campanha-flavio-04",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "uso das vias judiciais contra propaganda adversária",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "A campanha de Flávio obteve no TSE ao menos quatro liminares contra peças da campanha de Lula (30/08, 22/09, outubro sobre o caso Master e 15/10 sobre milícias) e um direito de resposta no Instagram (09/10), com fundamento em imputações criminais sem lastro mínimo.",
+   "data_fato": "2026-10-15",
+   "fontes": [
+    {
+     "titulo": "Decisão TSE suspende comercial de Lula criticando currículo de Flávio (PDF)",
+     "veiculo": "Poder360 (documento do TSE)",
+     "url": "https://static.poder360.com.br/uploads/2026/08/Decisao_TSE_suspende_comercial_de_Lula_criticando_curriculo_Flavio.pdf",
+     "data": "2026-08-30",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "André Mendonça suspende propaganda de Lula que vincula Flávio Bolsonaro às milícias",
+     "veiculo": "O Liberal (Estadão Conteúdo)",
+     "url": "https://www.oliberal.com/politica/andre-mendonca-suspende-propaganda-de-lula-que-vincula-flavio-bolsonaro-as-milicias-1.1183272",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "As decisões não impedem crítica nem menção a fatos negativos; tratam da forma de imputação. Todas são liminares.",
+   "limitacoes": "Decisões não definitivas; não implicam juízo sobre os fatos de fundo (rachadinha, Master), que seguem em seus próprios estágios processuais."
+  },
+  {
+   "id": "campanha-flavio-05",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "remoção de vídeo falso publicado em seu perfil",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 12/10/2026, o ministro Marco Aurélio Bellizze (TSE) ordenou que o perfil de Flávio Bolsonaro, entre outros, removesse em 24 horas publicações que associavam falsamente um vídeo de consumo de drogas ao ato pró-Lula na Avenida Paulista.",
+   "data_fato": "2026-10-12",
+   "fontes": [
+    {
+     "titulo": "TSE determina remoção de publicação falsa sobre uso de drogas em ato de Lula",
+     "veiculo": "Portal de Prefeitura",
+     "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/tse-determina-remocao-de-publicacao-falsa-sobre-uso-de-drogas-ato-lula/633961/",
+     "data": "2026-10-13",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Decisão monocrática, sem multa, sujeita ao plenário; a matéria não traz manifestação da defesa de Flávio.",
+   "limitacoes": "Veículo regional; não foi possível confirmar o teor exato da publicação do perfil de Flávio."
+  },
+  {
+   "id": "campanha-flavio-06",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "peça da chapa de Flávio sobre saída temporária",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Segundo o Estadão Verifica, o TSE proibiu a chapa de Flávio de veicular peça que associava fala de Lula a crimes cometidos durante saídas temporárias de presos; o checador registrou não haver ação de Lula pela volta do benefício. Ao suspender peça de Lula em 15/10, o ministro André Mendonça citou decisão anterior que suspendeu propaganda associando Lula ao crime organizado sem provas.",
+   "data_fato": "2026-10",
+   "fontes": [
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "André Mendonça suspende propaganda de Lula que vincula Flávio Bolsonaro às milícias",
+     "veiculo": "O Liberal (Estadão Conteúdo)",
+     "url": "https://www.oliberal.com/politica/andre-mendonca-suspende-propaganda-de-lula-que-vincula-flavio-bolsonaro-as-milicias-1.1183272",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Não localizada manifestação da campanha de Flávio sobre essa decisão.",
+   "limitacoes": "Data, relator e número do processo não identificados; não se sabe se as duas menções tratam da mesma decisão. A busca atingiu o limite antes de localizar a decisão."
+  },
+  {
+   "id": "campanha-flavio-07",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "pedido de direito de resposta de Lula contra programa de 15/09",
+   "tipo": "ALEGACAO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "A coligação de Lula pediu ao TSE direito de resposta e suspensão de programa do horário eleitoral de Flávio exibido em 15/09, no qual ele afirmou que Lula dividiu o poder com Alexandre de Moraes e que o país ficou 'sem presidente nenhum, sem comando'. A coligação também pediu resposta contra declarações de Flávio na sabatina da Globo.",
+   "data_fato": "2026-09-17",
+   "fontes": [
+    {
+     "titulo": "Campanha de Lula aciona TSE e pede direito de resposta após propaganda eleitoral de Flávio",
+     "veiculo": "Jornal de Brasília (Estadão Conteúdo)",
+     "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/campanha-de-lula-aciona-tse-e-pede-direito-de-resposta-apos-propaganda-eleitoral-de-flavio/",
+     "data": "2026-09-17",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A campanha de Flávio não respondeu ao Estadão até a publicação.",
+   "limitacoes": "Desfecho dos pedidos não localizado; trata-se apenas de pedido da parte adversária."
+  },
+  {
+   "id": "campanha-flavio-08",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "43 declarações enganosas sobre Vorcaro",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "O Aos Fatos reuniu ao menos 43 declarações enganosas de Flávio sobre sua relação com Daniel Vorcaro e o Banco Master entre fevereiro e setembro de 2026, em cinco estratégias. Exemplo: em 13/05 negou as mensagens ('É mentira, pelo amor de Deus') e, na mesma noite, confirmou em vídeo que eram verdadeiras.",
+   "data_fato": "2026-09-24",
+   "fontes": [
+    {
+     "titulo": "Flávio mentiu ao menos 43 vezes sobre elo com Vorcaro",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+     "data": "2026-09-24",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "A assessoria de Flávio não respondeu ao Aos Fatos. Estadão Verifica considerou verdadeira a citação desse levantamento por Lula no debate. O caso Dark Horse está em investigação pela PF, sem acusação formal localizada nesta frente.",
+   "limitacoes": "Juízo de agência de checagem, não decisão judicial; investigação não é culpa."
+  },
+  {
+   "id": "campanha-flavio-09",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "placares de checagem do debate da Band",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "No debate da Band, o Estadão Verifica checou 15 falas de Flávio (1 verdadeira, 2 falsas, 5 enganosas, 5 com falta de contexto, 1 exagerada, 1 subestimada); a Lupa checou 24 (2 verdadeiras, 9 falsas, 5 com falta de contexto, 4 exageradas, 3 insustentáveis, 1 subestimada); o placar do Aos Fatos reproduzido pela imprensa foi 2 verdadeiras, 9 'não é bem assim' e 10 falsas. O Ranking dos Políticos, com metodologia própria e 29 afirmações de Flávio, apontou 3 falsas, 13 imprecisas e 13 verdadeiras (55,2% com algum problema).",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado (Estadão Verifica)",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Lula fez 16 afirmações verdadeiras e Flávio Bolsonaro contou 10 mentiras no debate da Band",
+     "veiculo": "Brasil 247",
+     "url": "https://www.brasil247.com/midia/lula-fez-16-afirmacoes-verdadeiras-e-flavio-bolsonaro-contou-10-mentiras-no-debate-da-band/",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Debate Lula e Flávio na Band: checagem de 76 afirmações",
+     "veiculo": "Ranking dos Políticos",
+     "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "O Ranking dos Políticos inverte a leitura das três agências: atribui proporção maior de falas falsas a Lula (19,1%) do que a Flávio (10,3%).",
+   "limitacoes": "Contagem da Lupa feita por esta pesquisa a partir da lista publicada; placar do Aos Fatos não apareceu na página consultada. Amostras escolhidas pelos checadores."
+  },
+  {
+   "id": "campanha-flavio-10",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "repetição de afirmações falsas sobre segurança e economia",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Flávio repetiu na entrevista à Globo (16/10) e no debate da Band (18/10) afirmações que Aos Fatos e Lupa classificaram como falsas: recorde ou explosão de criminalidade no governo Lula (mortes violentas caíram 8,2% em 2025, menor taxa da série) e recorde de empresas fechadas. Também repetiu nas duas ocasiões a afirmação de que um prontuário eletrônico único seria inédito, quando sistema equivalente já existe.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo (2º turno)",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+     "data": "2026-10-16",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "As mesmas checagens registram aumento de mortes por intervenção policial e de feminicídios, e o Estadão Verifica apontou aumento de baixas de CNPJ (ao lado de recorde de aberturas em 2025), classificando a fala sobre empresas como 'falta contexto'.",
+   "limitacoes": "Seleção dos checadores."
+  },
+  {
+   "id": "campanha-flavio-11",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "urnas e respeito ao resultado",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Na sabatina da Globo de 28/08, Flávio afirmou 'vou respeitar o resultado das eleições' e que 'jamais' questionou o processo eleitoral; reconheceu erro ao dizer que a empresa das urnas era venezuelana. O Aos Fatos registrou que em 2018 ele disse ser 'impossível garantir a lisura das urnas sem o voto impresso' e que, em julho de 2026, associou as urnas à Smartmatic perante embaixadores. Perguntado sobre eventual derrota, respondeu: 'Eu não vou perder essa eleição.'",
+   "data_fato": "2026-08-28",
+   "fontes": [
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo",
+     "veiculo": "Aos Fatos",
+     "url": "https://aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
+     "data": "2026-08-28",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "O compromisso explícito de respeitar o resultado é favorável; a contradição com falas anteriores sobre as urnas é desfavorável.",
+   "limitacoes": "Não localizada declaração posterior ao 1º turno sobre o tema nesta frente."
+  },
+  {
+   "id": "campanha-flavio-12",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "8 de janeiro",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Flávio afirmou na Globo, em 28/08, que 'não foi encontrada uma arma no 8 de Janeiro', e, em 16/10, tratou o episódio como mera invasão de prédios públicos. O Aos Fatos contestou as duas falas: manifestantes roubaram armas do GSI, a Operação Lesa-Pátria apreendeu armas e a tentativa de golpe não se limitou à invasão.",
+   "data_fato": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo",
+     "veiculo": "Aos Fatos",
+     "url": "https://aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
+     "data": "2026-08-28",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo (2º turno)",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+     "data": "2026-10-16",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "Não localizada resposta da campanha às checagens.",
+   "limitacoes": "Juízo de uma única agência; a qualificação jurídica do 8 de janeiro depende das decisões do STF, não examinadas nesta frente."
+  },
+  {
+   "id": "campanha-flavio-13",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "deepfakes envolvendo Flávio (levantamento VigIA)",
+   "tipo": "INTERPRETACAO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "No levantamento VigIA (Lupa) sobre o 1º turno, Flávio aparece em 190 publicações com deepfake; 40% buscavam favorecê-lo e 28% eram humorísticas ou satíricas. Agências também desmentiram deepfakes contra ele no 2º turno, como o de cortes em pensões, 13º e Pé-de-Meia (chk-33).",
+   "data_fato": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "Deepfakes: 34% atacam Lula e 40% favorecem Flávio, indica levantamento",
+     "veiculo": "Diario de Pernambuco",
+     "url": "https://www.diariodepernambuco.com.br/politica/2026/10/11725603-deepfakes-34-atacam-lula-e-40-favorecem-flavio-indica-levantamento.html",
+     "data": "2026-10-02",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Vídeo em que Flávio anuncia cortes em pensões, 13º e Pé-de-Meia é deepfake",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/flavio-cortes-pensoes-deepfake/",
+     "data": "2026-10-08",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "O levantamento não atribui a autoria dos conteúdos favoráveis à campanha de Flávio.",
+   "limitacoes": "Metodologia original não consultada diretamente."
+  },
+  {
+   "id": "campanha-flavio-14",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "acertos verificados",
+   "tipo": "INTERPRETACAO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Lupa, Aos Fatos e Estadão Verifica confirmaram as falas de Flávio sobre a dívida bruta de R$ 11 trilhões (R$ 11,1 trilhões, 82,9% do PIB, em agosto de 2026, segundo o Banco Central) e sobre o veto de Lula à restrição das saidinhas, derrubado pelo Congresso em 28/05/2024; o Estadão Verifica também considerou verdadeira a queda de mais de 2% nos juros futuros após o 1º turno.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "O Aos Fatos considerou incorreto atribuir a queda dos juros ao resultado do 1º turno.",
+   "limitacoes": "Seleção dos checadores."
+  },
+  {
+   "id": "campanha-flavio-15",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "estratégia de comunicação no debate",
+   "tipo": "INTERPRETACAO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "No debate da Band, segundo a imprensa internacional (via BBC News Brasil), Flávio recorreu a denúncias de corrupção do governo petista, ironizou Lula e caminhou atrás dele enquanto falava, conduta descrita pelo Le Monde como tentativa de desestabilizar o adversário.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Lula x Flávio Bolsonaro: imprensa internacional repercute debate da Band",
+     "veiculo": "DOL / BBC News Brasil",
+     "url": "https://dol.com.br/noticias/politica/eleicoes-2026/965917/lula-x-flavio-bolsonaro-imprensa-internacional-repercute-debate-da-band",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Os mesmos veículos registraram ataques pessoais também de Lula (campanha-lula-14).",
+   "limitacoes": "Descrição jornalística, sem acesso à íntegra do debate."
+  },
+  {
+   "id": "campanha-flavio-16",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "padrão na amostra de checagens",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Nas 12 declarações de Flávio registradas nesta frente (debate da Band, sabatinas da Globo e levantamento sobre Vorcaro), as agências classificaram 8 como falsas, 1 como enganosa (o conjunto de 43 falas sobre Vorcaro), 1 como insustentável e 2 como verdadeiras. Nos placares completos do debate da Band, as falas falsas de Flávio foram 2 de 15 (Estadão Verifica, com mais 5 enganosas) e 9 de 24 (Lupa). Os erros recorrentes concentram-se em segurança pública, caso Vorcaro e 8 de janeiro.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado (Estadão Verifica)",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo (2º turno)",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+     "data": "2026-10-16",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Flávio mentiu ao menos 43 vezes sobre elo com Vorcaro",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+     "data": "2026-09-24",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "O Ranking dos Políticos contou 3 falas falsas de Flávio em 29 no mesmo debate (proporção menor que a de Lula). Flávio também foi alvo de deepfakes desfavoráveis (3 na amostra), além de 3 conteúdos falsos favoráveis a ele.",
+   "limitacoes": "A amostra depende do que as agências escolheram checar e da seleção desta pesquisa; não mede a veracidade geral do discurso."
+  }
+ ],
+ "checagens": [
+  {
+   "id": "chk-01",
+   "alvo": "lula",
+   "declaracao": "Afirmou ter herdado déficit de 2,8% quando assumiu o governo.",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno na Band.",
+   "classificacao": "FALSO",
+   "explicacao": "A Lupa classificou como falso: o governo central fechou 2022 com superávit primário de R$ 54,1 bilhões (0,5% do PIB). O Fato ou Fake chegou à mesma conclusão sobre fala idêntica na entrevista à Globo de 15/10.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-02",
+   "alvo": "lula",
+   "declaracao": "Disse que o país só voltou a crescer acima de 3% depois de seu retorno à Presidência.",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno; o Aos Fatos já havia apontado fala semelhante como desinformação recorrente em agosto.",
+   "classificacao": "FALSO",
+   "explicacao": "Segundo a Lupa, com dados do IBGE, o PIB cresceu 3,9% em 2011, 3,0% em 2013, 4,8% em 2021 e 3% em 2022. O Aos Fatos também classificou a fala como falsa.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos Lula e Flávio Bolsonaro no debate da Band",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-03",
+   "alvo": "lula",
+   "declaracao": "Afirmou que o governo Bolsonaro liberou 1,1 bilhão de balas.",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate sobre segurança pública e armas.",
+   "classificacao": "INCONCLUSIVO",
+   "explicacao": "A Lupa classificou como insustentável: não há dados públicos oficiais que comprovem esse volume, e a cifra circulou apenas na campanha de Lula. O Aos Fatos, em resumo, tratou a fala como correta, o que mostra divergência entre agências.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-04",
+   "alvo": "lula",
+   "declaracao": "Afirmou que o salário mínimo compra hoje 2,2 cestas básicas, contra 1,8 no governo Bolsonaro.",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno.",
+   "classificacao": "PARCIALMENTE_VERDADEIRO",
+   "explicacao": "A Lupa classificou como exagerado: estudo da 4intelligence com dados de São Paulo encontrou 1,8 cesta em agosto de 2026 e 1,62 em agosto de 2022. A direção da comparação procede, mas o número 2,2 não se sustenta.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-05",
+   "alvo": "flavio",
+   "declaracao": "Afirmou que Flávio foi o único deputado da Alerj a votar contra a ampliação da licença-maternidade em 2009.",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Ataque de Lula ao histórico legislativo do adversário.",
+   "classificacao": "VERDADEIRO",
+   "explicacao": "Lupa, Aos Fatos e Estadão Verifica confirmaram: Flávio foi o único de 49 parlamentares a votar contra a ampliação de 120 para 180 dias.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-06",
+   "alvo": "flavio",
+   "declaracao": "Acusou Flávio de comprar casa de R$ 10 milhões paga em parte com dinheiro do BRB.",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno.",
+   "classificacao": "PARCIALMENTE_VERDADEIRO",
+   "explicacao": "O Estadão Verifica classificou como exagerado: a mansão no Lago Sul foi declarada por R$ 6,2 milhões. O Aos Fatos considerou imprecisa, apontando valor de R$ 6 milhões e suspeita de R$ 3,1 milhões pagos pelo BRB.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos Lula e Flávio Bolsonaro no debate da Band",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-07",
+   "alvo": "lula",
+   "declaracao": "Afirmou que seu governo realizou a maior demarcação de terras indígenas do país.",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos considerou que a afirmação não procede.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Checamos Lula e Flávio Bolsonaro no debate da Band",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-08",
+   "alvo": "lula",
+   "declaracao": "Disse que o governo aprovou 99% de suas propostas no Congresso.",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "entrevista (TV Globo)",
+   "data": "2026-10-15",
+   "contexto": "Entrevista do 2º turno conduzida por Renata Lo Prete.",
+   "classificacao": "PARCIALMENTE_VERDADEIRO",
+   "explicacao": "O Fato ou Fake classificou como 'não é bem assim': o governo sofreu derrotas, e 17% dos vetos presidenciais apreciados em 2025 foram rejeitados. O Aos Fatos também registrou derrotas na Câmara e no Senado.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Veja o que é #FATO ou #FAKE na entrevista de Lula à Globo no 2º turno (republicação)",
+     "veiculo": "Symplexia Labs / Fato ou Fake",
+     "url": "https://news.symplexia.com/pt-br/2026/10/noticias/destaques/veja-o-que-e-fato-ou-fake-na-entrevista-de-lula-a-globo-no-2o-turno-das-eleicoes-2026/",
+     "data": "2026-10-16",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos Lula na Globo (2º turno)",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+     "data": "2026-10-15",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-09",
+   "alvo": "lula",
+   "declaracao": "Disse ter criado 22 milhões de empregos formais em oito anos.",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "entrevista (TV Globo)",
+   "data": "2026-10-15",
+   "contexto": "Entrevista do 2º turno.",
+   "classificacao": "PARCIALMENTE_VERDADEIRO",
+   "explicacao": "O Fato ou Fake classificou como 'não é bem assim': pela RAIS, o aumento entre 2002 e 2010 foi de cerca de 15,3 milhões. O Aos Fatos observou que o número só fecha se incluídas as gestões de Dilma.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Veja o que é #FATO ou #FAKE na entrevista de Lula à Globo no 2º turno (republicação)",
+     "veiculo": "Symplexia Labs / Fato ou Fake",
+     "url": "https://news.symplexia.com/pt-br/2026/10/noticias/destaques/veja-o-que-e-fato-ou-fake-na-entrevista-de-lula-a-globo-no-2o-turno-das-eleicoes-2026/",
+     "data": "2026-10-16",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-10",
+   "alvo": "lula",
+   "declaracao": "Sobre a lobista Roberta Luchsinger: 'Eu não conheço essa moça'.",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "entrevista (TV Globo)",
+   "data": "2026-08-27",
+   "contexto": "Sabatina da Globo no 1º turno.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos afirmou que a declaração é falsa: há ao menos duas fotos de Luchsinger com Lula publicadas no Instagram em outubro e novembro de 2022.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Checamos a entrevista de Lula à Globo",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+     "data": "2026-08-27",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-11",
+   "alvo": "lula",
+   "declaracao": "Atribuiu a um ministro da Previdência de 2019 participação na quadrilha que fraudou o INSS.",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "entrevista (TV Globo)",
+   "data": "2026-08-27",
+   "contexto": "Sabatina da Globo no 1º turno.",
+   "classificacao": "FALSO",
+   "explicacao": "Segundo o Aos Fatos, não havia ministro da Previdência em 2019: a pasta foi extinta entre 2016 e 2019 e recriada em 2021. A afirmação de que a quadrilha foi montada em 2019 foi tida como não comprovada.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Checamos a entrevista de Lula à Globo",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+     "data": "2026-08-27",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-12",
+   "alvo": "lula",
+   "declaracao": "'Eu já acabei com a fome duas vezes.'",
+   "autor": "Luiz Inácio Lula da Silva",
+   "veiculo": "entrevista (TV Globo)",
+   "data": "2026-08-27",
+   "contexto": "Sabatina da Globo no 1º turno.",
+   "classificacao": "PARCIALMENTE_VERDADEIRO",
+   "explicacao": "O Aos Fatos considerou exagerada: a saída do Mapa da Fome da ONU não significa fim da fome; em 2024, 3,2% da população (cerca de 6,4 milhões de pessoas) estava em insegurança alimentar grave.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Checamos a entrevista de Lula à Globo",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+     "data": "2026-08-27",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-13",
+   "alvo": "lula",
+   "declaracao": "Montagem com aparência de reportagem do g1 atribui a Lula frase de cunho sexual que o associa à pedofilia.",
+   "autor": "Perfis anônimos em redes sociais (X, Facebook, WhatsApp)",
+   "veiculo": "rede social",
+   "data": "2026-10-08",
+   "contexto": "Somou ao menos 200 mil visualizações no X; soma-se a desinformação anterior sobre discurso no Pará.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos apurou que o g1 nunca publicou a reportagem, que o layout diverge do original e que a foto é de junho de 2026, incompatível com a data atribuída (abril de 2025). No discurso real, Lula falava sobre exames de próstata.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Montagem simula 'g1' para difundir declaração falsa que associa Lula à pedofilia",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/montagem-g1-declaracao-falsa-lula-pedofilia/",
+     "data": "2026-10-08",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-14",
+   "alvo": "lula",
+   "declaracao": "Imagem mostra Lula jovem segurando placa '171' para sugerir prisão por estelionato.",
+   "autor": "Perfis em redes sociais (não identificados)",
+   "veiculo": "rede social",
+   "data": "2026-09-25",
+   "contexto": "Conteúdo gerado por IA durante a campanha.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos identificou marca d'água SynthID de IA; Lula foi preso em 1980 (greve do ABC) e em 2018 (Lava Jato), nunca por estelionato. A Reuters também checou a peça.",
+   "fontes_verificacao": [
+    {
+     "titulo": "É falso que Lula já foi preso por estelionato; imagem foi gerada por IA",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/e-falso-que-lula-ja-foi-preso-por-estelionato-imagem-foi-gerada-por-ia/",
+     "data": "2026-09-25",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-15",
+   "alvo": "lula",
+   "declaracao": "Vídeo apresentado como reunião recente de Lula com ministros do STF e Viviane Barci de Moraes durante a crise do caso Moraes-Vorcaro.",
+   "autor": "Perfis em redes sociais (não identificados)",
+   "veiculo": "rede social",
+   "data": "2026-09-18",
+   "contexto": "Uso de gravação antiga fora de contexto.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos localizou a gravação original, de 2 de fevereiro de 2026, na abertura do ano do Judiciário, publicada pelo Metrópoles; a agenda oficial mostra que foi a única ida de Lula ao plenário do STF no ano. Reuters e UOL checaram o mesmo conteúdo.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Vídeo de Lula com ministros do STF é de fevereiro e não atual",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/video-lula-ministros-stf-fevereiro-nao-atual/",
+     "data": "2026-09-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-16",
+   "alvo": "lula",
+   "declaracao": "Posts afirmam que Lula avalia desistir da candidatura à reeleição.",
+   "autor": "Perfis no TikTok e no X (não identificados)",
+   "veiculo": "rede social",
+   "data": "2026-09-28",
+   "contexto": "Uso como recente de comentário jornalístico de abril de 2026.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos localizou o comentário original de Daniela Lima no UOL News de 10 de abril, anterior à convenção de 2 de agosto que oficializou a candidatura. As postagens somavam 350 mil interações.",
+   "fontes_verificacao": [
+    {
+     "titulo": "É falso que Lula avalia desistir de candidatura",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/lula-desistir-candidatura/",
+     "data": "2026-09-28",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-17",
+   "alvo": "lula",
+   "declaracao": "Postagens afirmam que Lula renunciou à Presidência e desistiu da reeleição.",
+   "autor": "Perfis no Instagram (não identificados)",
+   "veiculo": "rede social",
+   "data": "2026-09-03",
+   "contexto": "Vídeo de bastidores de debate de 2022 usado como prova.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos verificou que o vídeo é dos bastidores de um debate da Band em 2022 e que não há registro de renúncia; a Secom classificou o conteúdo como falso.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Lula não renunciou nem desistiu da reeleição",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/lula-renunciou-desistiu-reeleicao/",
+     "data": "2026-09-03",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-18",
+   "alvo": "lula",
+   "declaracao": "Vídeo atribui ao deputado Gustavo Gayer a afirmação de que Lula está inelegível por crime eleitoral.",
+   "autor": "Perfil de 'entretenimento' com 73,5 mil seguidores (Instagram, Facebook)",
+   "veiculo": "rede social",
+   "data": "2026-04-30",
+   "contexto": "Pré-campanha.",
+   "classificacao": "FALSO",
+   "explicacao": "A Lupa identificou deepfake: o próprio Gayer disse que as imagens são 'claramente IA', e o vídeo original tratava de viagens de Alexandre de Moraes.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Gustavo Gayer não disse que Lula está inelegível; vídeo é deepfake",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/verificacao/2026/04/30/deepfake-video-em-que-gustavo-gayer-diz-que-lula-esta-inelegivel/",
+     "data": "2026-04-30",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-19",
+   "alvo": "lula",
+   "declaracao": "Vídeo com imagem de William Waack afirma que o governo Lula anularia as eleições se Flávio vencesse ('O PT não aceitará a derrota').",
+   "autor": "Perfis no Facebook e no Threads (não identificados)",
+   "veiculo": "rede social",
+   "data": "2026-10-03",
+   "contexto": "Véspera do 1º turno; distorce pedido do PT ao STF sobre interferência estrangeira.",
+   "classificacao": "FALSO",
+   "explicacao": "A Lupa localizou o vídeo original de Waack (14/09), sobre mensagens entre Moraes e Vorcaro, sem menção a eleições; a CNN desmentiu a peça em 29/09. O trecho de discurso de Lula usado é real, mas não fala em desrespeitar o resultado.",
+   "fontes_verificacao": [
+    {
+     "titulo": "É falso o vídeo que usa imagem de William Waack para sugerir que 'PT não aceitará derrota'",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/verificacao/2026/10/03/e-falso-o-video-que-usa-imagem-de-william-waack-para-sugerir-que-pt-nao-aceitara-derrota-nas-urnas-post-e-deepfake/",
+     "data": "2026-10-03",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-20",
+   "alvo": "lula",
+   "declaracao": "Fotos e vídeos apresentados como 'provas' de que Lula foi substituído por um clone ou sósia.",
+   "autor": "Perfis em redes sociais (não identificados)",
+   "veiculo": "rede social",
+   "data": "2026-09-08",
+   "contexto": "Teoria que circula desde 2022, retomada na campanha.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos mostrou que a 'mão descolando' era um curativo, que uma das fotos é de um sósia (o 'Lula de Arapiraca') e que a imagem de 2018 usada na comparação foi gerada por IA.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Desmentimos mais 'provas' de que Lula é um clone",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/desmentimos-mais-provas-de-que-lula-e-um-clone/",
+     "data": "2026-09-08",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-21",
+   "alvo": "lula",
+   "declaracao": "Afirmou que a criminalidade 'explodiu' no Brasil sob Lula.",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno; fala semelhante na entrevista à Globo de 16/10.",
+   "classificacao": "FALSO",
+   "explicacao": "A Lupa e o Aos Fatos classificaram como falso: as mortes violentas caíram 8,2% em 2025 e atingiram a menor taxa da série, embora mortes por intervenção policial e feminicídios tenham aumentado.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos Lula e Flávio Bolsonaro no debate da Band",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-22",
+   "alvo": "lula",
+   "declaracao": "Disse que os roubos de celular não diminuíram no governo Lula.",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno.",
+   "classificacao": "FALSO",
+   "explicacao": "A Lupa apontou queda de 37,4% nos roubos de celular, de 492.905 em 2022 para 308.723 em 2025. O Aos Fatos também classificou como falso.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-23",
+   "alvo": "lula",
+   "declaracao": "Afirmou que Lula acionou a Justiça para restabelecer a saída temporária de presos.",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno; tema também objeto de peça da chapa de Flávio proibida pelo TSE, segundo o Estadão Verifica.",
+   "classificacao": "FALSO",
+   "explicacao": "A Lupa classificou como falso: a ADI 7663 foi proposta pela Anacrim, não pelo governo. O Estadão Verifica classificou como enganoso, por não haver registro de ação de Lula pela volta do benefício.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-24",
+   "alvo": "lula",
+   "declaracao": "Afirmou que Lula foi condenado em todas as instâncias e depois 'descondenado'.",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno.",
+   "classificacao": "FALSO",
+   "explicacao": "Segundo a Lupa, o STF anulou as condenações por incompetência do juízo, sem julgar o mérito, e não confirmou nenhuma delas.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-25",
+   "alvo": "lula",
+   "declaracao": "Disse que Lula gastou R$ 7 bilhões com viagens da primeira-dama Janja.",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno.",
+   "classificacao": "FALSO",
+   "explicacao": "A Lupa e o Aos Fatos classificaram como falso: os R$ 7,14 bilhões (2023 a 2025) referem-se a viagens de toda a estrutura federal, segundo o Portal da Transparência. O Estadão Verifica classificou como enganoso (viagens de cerca de 475 mil pessoas em mais de 34 órgãos).",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-26",
+   "alvo": "lula",
+   "declaracao": "Citou áudio de Vorcaro sobre R$ 30 milhões em dinheiro para o Instituto Lula.",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Resposta à acusação de Lula sobre o pedido de R$ 134 milhões a Vorcaro para o filme Dark Horse.",
+   "classificacao": "INCONCLUSIVO",
+   "explicacao": "A Lupa classificou como insustentável: não há comprovantes de pagamento, PGR e PF negaram a existência do depoimento e nada consta nos celulares apreendidos. O Aos Fatos considerou falsa a sugestão de que a PF confirmou o áudio, na entrevista de 16/10.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo (2º turno)",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+     "data": "2026-10-16",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-27",
+   "alvo": "lula",
+   "declaracao": "Afirmou que o governo atual deixa dívida de R$ 11 trilhões, recorde negativo.",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno; mesma fala na entrevista à Globo de 16/10.",
+   "classificacao": "VERDADEIRO",
+   "explicacao": "Lupa e Aos Fatos confirmaram: a Dívida Bruta do Governo Geral atingiu R$ 11,1 trilhões (82,9% do PIB) em agosto de 2026, segundo o Banco Central.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-28",
+   "alvo": "lula",
+   "declaracao": "Disse que Lula vetou a restrição à saidinha e que o Congresso precisou derrubar o veto.",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Debate do 2º turno.",
+   "classificacao": "VERDADEIRO",
+   "explicacao": "A Lupa confirmou que o Congresso derrubou o veto em 28 de maio de 2024. A mesma agência registrou, por outro lado, que Lula sancionou a Lei 14.843/2024, que proibiu a saída para condenados por crimes hediondos.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+     "data": "2026-10-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-29",
+   "alvo": "flavio",
+   "declaracao": "Disse nunca ter defendido mudanças nas regras de identificação de armas e munições.",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "debate (Band)",
+   "data": "2026-10-18",
+   "contexto": "Resposta a Lula sobre marcação de munições.",
+   "classificacao": "FALSO",
+   "explicacao": "O Estadão Verifica classificou como falso: Flávio apoiou o PL 3.723/2019, que revogava a exigência de identificação em munições e armas. O Aos Fatos apontou omissão e confirmou como verdadeira a fala de Lula sobre o tema.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Checamos o debate entre Lula e Flávio na Band; veja o resultado",
+     "veiculo": "Terra / Estadão Verifica",
+     "url": "https://www.terra.com.br/noticias/eleicoes/checamos-o-debate-entre-lula-e-flavio-na-band-veja-o-resultado,d86be66f67083e785565c6df22ba9a1a4pyzk8ac.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-30",
+   "alvo": "flavio",
+   "declaracao": "Sobre o 8 de janeiro: 'Não foi encontrada uma arma no 8 de Janeiro'.",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "entrevista (TV Globo)",
+   "data": "2026-08-28",
+   "contexto": "Sabatina da Globo; em 16/10, voltou a tratar o episódio como invasão de prédios, o que o Aos Fatos classificou como falso.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos contrapôs que manifestantes roubaram armas do GSI, que depoimentos à CPMI citaram granadas e coquetéis molotov e que a Operação Lesa-Pátria apreendeu centenas de armas. A página de agosto não exibe selo; a classificação de falso consta da checagem de 16/10 sobre a fala correlata.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo",
+     "veiculo": "Aos Fatos",
+     "url": "https://aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
+     "data": "2026-08-28",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo (2º turno)",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+     "data": "2026-10-16",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-31",
+   "alvo": "flavio",
+   "declaracao": "Afirmou que a produtora prestou contas de todos os gastos do filme Dark Horse.",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "entrevista (TV Globo)",
+   "data": "2026-10-16",
+   "contexto": "Entrevista do 2º turno conduzida por Renata Lo Prete.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos registrou que a produtora não prestou contas de todos os gastos; em agosto, já havia apontado que a perícia não teve acesso a quase 70% das despesas, feitas nos EUA, e que a PF investiga eventual desvio.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo (2º turno)",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+     "data": "2026-10-16",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-32",
+   "alvo": "flavio",
+   "declaracao": "Conjunto de 43 declarações sobre sua relação com Daniel Vorcaro e o Banco Master (fevereiro a setembro de 2026).",
+   "autor": "Flávio Bolsonaro",
+   "veiculo": "entrevistas, redes sociais e sabatina",
+   "data": "2026-09-24",
+   "contexto": "Levantamento cumulativo; em maio a mesma agência contara 12.",
+   "classificacao": "ENGANOSO",
+   "explicacao": "O Aos Fatos classificou ao menos 43 declarações como enganosas, organizadas em cinco estratégias (associar o caso ao governo Lula, negar o vínculo, admitir o contato afastando suspeitas, prometer transparência sobre o filme e atacar Alexandre de Moraes). A assessoria não respondeu.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Flávio mentiu ao menos 43 vezes sobre elo com Vorcaro",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+     "data": "2026-09-24",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-33",
+   "alvo": "flavio",
+   "declaracao": "Vídeo em que Flávio anunciaria cortes em pensões, no 13º salário e no Pé-de-Meia ('vamos mudar esse Brasil, fazendo cortes na economia').",
+   "autor": "Perfis em redes sociais (não identificados)",
+   "veiculo": "rede social",
+   "data": "2026-10-08",
+   "contexto": "Manipulação do pronunciamento real de 04/10, após o 1º turno; ao menos 200 mil visualizações no X.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos identificou deepfake: a fala não acompanha a boca, há distorções na imagem e o original, publicado pelo g1, não contém a declaração. O senador não prometeu acabar com esses auxílios.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Vídeo em que Flávio anuncia cortes em pensões, 13º e Pé-de-Meia é deepfake",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/flavio-cortes-pensoes-deepfake/",
+     "data": "2026-10-08",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-34",
+   "alvo": "flavio",
+   "declaracao": "Vídeo em que Flávio diria que o 'trabalhador vai ter que decidir: menos direitos e emprego ou todos os direitos e desemprego'.",
+   "autor": "Perfis em redes sociais (não identificados)",
+   "veiculo": "rede social",
+   "data": "2026-10-04",
+   "contexto": "Dia do 1º turno; 140 mil interações no X e 83 mil nas redes da Meta.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos localizou o vídeo original (TikTok, 27/01/2026), sobre visita ao memorial do Holocausto, sem menção a direitos trabalhistas; InVid e Truth Scan indicaram clonagem de voz.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Posts difundem como real vídeo de IA em que Flávio critica direitos trabalhistas",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/video-ia-flavio-direitos-trabalhistas/",
+     "data": "2026-10-04",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-35",
+   "alvo": "flavio",
+   "declaracao": "Vídeo em que Flávio prometeria 'aumento do salário mínimo em até R$ 3 mil reais'.",
+   "autor": "Perfil no TikTok (não identificado)",
+   "veiculo": "rede social",
+   "data": "2026-09-04",
+   "contexto": "Conteúdo aparentemente favorável ao candidato, mas fabricado.",
+   "classificacao": "FALSO",
+   "explicacao": "A Lupa encontrou marca d'água da PixVerse.ai e indícios de geração artificial em 99,3% da fala (Hive Moderation); o plano de governo não prevê salário mínimo de R$ 3 mil.",
+   "fontes_verificacao": [
+    {
+     "titulo": "É deepfake vídeo de Flávio Bolsonaro prometendo salário mínimo de R$ 3 mil",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/verificacao/2026/09/04/e-deepfake-video-de-flavio-bolsonaro-prometendo-salario-minimo-de-r-3-mil/",
+     "data": "2026-09-04",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-36",
+   "alvo": "flavio",
+   "declaracao": "Vídeo em que Zeca Pagodinho declararia apoio à candidatura de Flávio Bolsonaro.",
+   "autor": "Perfil no TikTok que também publicou deepfakes de Zezé Di Camargo pró-Bolsonaro",
+   "veiculo": "rede social",
+   "data": "2026-08-13",
+   "contexto": "Deepfake favorável ao candidato; 118,5 mil visualizações.",
+   "classificacao": "FALSO",
+   "explicacao": "A Lupa localizou a entrevista original à Veja, de 2015, sem menção ao senador, e não encontrou declaração de apoio do cantor; as postagens não tinham o rótulo de IA exigido pelo TikTok. O Boatos.org também verificou o caso.",
+   "fontes_verificacao": [
+    {
+     "titulo": "É falso que Zeca Pagodinho declarou apoio a Flávio Bolsonaro; vídeo é deepfake",
+     "veiculo": "Agência Lupa",
+     "url": "https://www.agencialupa.org/verificacao/2026/08/13/e-falso-que-zeca-pagodinho-declarou-apoio-a-flavio-bolsonaro-video-e-deepfake/",
+     "data": "2026-08-13",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-37",
+   "alvo": "flavio",
+   "declaracao": "Imagem de Flávio com espingarda diante de elefante abatido, simulando capa da revista piauí.",
+   "autor": "Perfis no X e Facebook críticos a Flávio; repercutida pelo ator José de Abreu",
+   "veiculo": "rede social",
+   "data": "2026-09-23",
+   "contexto": "A publicação de José de Abreu teve ao menos 284 mil visualizações antes de sair do ar.",
+   "classificacao": "FALSO",
+   "explicacao": "O Projeto Comprova localizou a capa original (foto em safári na África do Sul, março de 2025, sem elefante) e ferramentas apontaram 99,9% de probabilidade de IA e marca SynthID.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Imagem de Flávio Bolsonaro com elefante morto foi gerada com IA (Comprova)",
+     "veiculo": "A Gazeta / Projeto Comprova",
+     "url": "https://www.agazeta.com.br/brasil/imagem-de-flavio-bolsonaro-com-elefante-morto-foi-gerada-com-ia-0926",
+     "data": "2026-09-23",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-38",
+   "alvo": "flavio",
+   "declaracao": "Publicações afirmam que a PF concluiu não haver indícios de crime nas mensagens entre Flávio e Vorcaro.",
+   "autor": "Perfis em redes sociais favoráveis ao senador",
+   "veiculo": "rede social",
+   "data": "2026-05-18",
+   "contexto": "Conteúdo favorável a Flávio após reportagem do Intercept Brasil.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos não encontrou nota da PF ou da PGR nesse sentido; a PF disse não se manifestar sobre investigações e abriu linha de apuração sobre o destino dos recursos.",
+   "fontes_verificacao": [
+    {
+     "titulo": "É falso que PF concluiu não haver crime em mensagens de Flávio e Vorcaro",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/pf-crime-mensagens-flavio-vorcaro/",
+     "data": "2026-05-18",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  },
+  {
+   "id": "chk-39",
+   "alvo": "ambos",
+   "declaracao": "Alegação de que filmes sobre Lula e Temer também receberam dinheiro de Vorcaro, usada em defesa de Flávio.",
+   "autor": "Perfis bolsonaristas em redes sociais",
+   "veiculo": "rede social",
+   "data": "2026-05-14",
+   "contexto": "Reação à reportagem do Intercept com mensagens entre Flávio e Vorcaro.",
+   "classificacao": "FALSO",
+   "explicacao": "O Aos Fatos concluiu que a alegação não se sustenta: não há indícios de que Lula ou Temer tenham pedido recursos, ambos negaram, e o diretor Oliver Stone afirmou que nem o Master nem ligados a Vorcaro financiaram o documentário sobre Lula.",
+   "fontes_verificacao": [
+    {
+     "titulo": "Para defender Flávio, bolsonaristas distorcem fatos sobre Vorcaro, Lula e financiamento de filme",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/flavio-bolsonaristas-vorcaro-lula-filme/",
+     "data": "2026-05-14",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "url_primaria": ""
+  }
+ ],
+ "padroes_checagens": {
+  "descricao": "Contagem sobre as 39 checagens registradas nesta frente, selecionadas por esta pesquisa entre as publicadas pelas agências (não é amostra aleatória). Reflete o que as agências decidiram checar e o que foi localizado antes do limite de buscas; os placares completos das agências estão nas evidências campanha-lula-10 e campanha-flavio-09.",
+  "declaracoes_de_lula": {
+   "total": 12,
+   "FALSO": 5,
+   "INCONCLUSIVO": 1,
+   "PARCIALMENTE_VERDADEIRO": 5,
+   "VERDADEIRO": 1,
+   "ids": [
+    "chk-01",
+    "chk-02",
+    "chk-03",
+    "chk-04",
+    "chk-05",
+    "chk-06",
+    "chk-07",
+    "chk-08",
+    "chk-09",
+    "chk-10",
+    "chk-11",
+    "chk-12"
+   ]
+  },
+  "declaracoes_de_flavio": {
+   "total": 12,
+   "FALSO": 8,
+   "INCONCLUSIVO": 1,
+   "VERDADEIRO": 2,
+   "ENGANOSO": 1,
+   "ids": [
+    "chk-21",
+    "chk-22",
+    "chk-23",
+    "chk-24",
+    "chk-25",
+    "chk-26",
+    "chk-27",
+    "chk-28",
+    "chk-29",
+    "chk-30",
+    "chk-31",
+    "chk-32"
+   ]
+  },
+  "conteudos_falsos_de_terceiros": {
+   "sobre_lula": 8,
+   "sobre_flavio": 6,
+   "sobre_ambos": 1,
+   "observacao": "Os 8 conteúdos sobre Lula eram desfavoráveis a ele; dos 6 sobre Flávio, 3 eram desfavoráveis (chk-33, chk-34, chk-37) e 3 favoráveis (chk-35, chk-36, chk-38). O chk-39 é conteúdo pró-Flávio que atingia Lula."
+  }
+ },
+ "linha_do_tempo": [
+  {
+   "candidato": "flavio",
+   "data": "2026-08-05",
+   "titulo": "Anúncio do vice Alfredo Gaspar",
+   "descricao": "PL anuncia chapa puro-sangue após recusa de PP, Republicanos, União Brasil e Podemos.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro anuncia Alfredo Gaspar como candidato a vice",
+     "veiculo": "Estado de Minas",
+     "url": "https://www.em.com.br/politica/2026/08/7474191-flavio-bolsonaro-anuncia-alfredo-gaspar-como-candidato-a-vice.html",
+     "data": "2026-08-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2026-08-10",
+   "titulo": "Coligação de sete partidos registrada",
+   "descricao": "PT divulga a coligação 'O Brasil Pronto pra Mais' com PT, PCdoB, PV, PDT, PSB, PSOL e Rede.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "O Brasil Pronto pra Mais",
+     "veiculo": "PT",
+     "url": "https://pt.org.br/o-brasil-pronto-pra-mais-lula-e-alckmin-defendem-legado-e-projetam-o-futuro/",
+     "data": "2026-08-10",
+     "tipo_fonte": "CAMPANHA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2026-08-27",
+   "titulo": "Sabatina de Lula na Globo (1º turno)",
+   "descricao": "Aos Fatos aponta falas falsas sobre a lobista Roberta Luchsinger e sobre ministro da Previdência em 2019.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Checamos a entrevista de Lula à Globo",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+     "data": "2026-08-27",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-08-28",
+   "titulo": "Sabatina de Flávio na Globo (1º turno)",
+   "descricao": "Promete respeitar o resultado; Aos Fatos contesta falas sobre urnas, 8 de janeiro, Vorcaro e Dark Horse.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo",
+     "veiculo": "Aos Fatos",
+     "url": "https://aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
+     "data": "2026-08-28",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-08-30",
+   "titulo": "TSE suspende inserção 'Currículo de Flávio Bolsonaro'",
+   "descricao": "Liminar da ministra Estela Aranha no processo 0601755-93.2026.6.00.0000, a pedido de Flávio.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Decisão TSE (PDF)",
+     "veiculo": "Poder360",
+     "url": "https://static.poder360.com.br/uploads/2026/08/Decisao_TSE_suspende_comercial_de_Lula_criticando_curriculo_Flavio.pdf",
+     "data": "2026-08-30",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-09-22",
+   "titulo": "Nunes Marques suspende jingle de Lula",
+   "descricao": "Jingle 'Foi o Flávio Bolsonaro' retirado do ar em caráter liminar.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Nunes Marques suspende propaganda de Lula que associa Flávio a rachadinha e Master",
+     "veiculo": "Diário do Grande ABC",
+     "url": "https://www.dgabc.com.br/Noticia/4349322/nunes-marques-suspende-propaganda-de-lula-que-associa-flavio-bolsonaro-a-rachadinha-e-master",
+     "data": "2026-09-27",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-09-24",
+   "titulo": "Aos Fatos contabiliza 43 declarações enganosas sobre Vorcaro",
+   "descricao": "Levantamento de fevereiro a setembro de 2026.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Flávio mentiu ao menos 43 vezes sobre elo com Vorcaro",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+     "data": "2026-09-24",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2026-09-30",
+   "titulo": "Lula anuncia ausência no último debate do 1º turno",
+   "descricao": "Opta por entrevista ao Flow Podcast no horário do debate da Globo.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Lula diz à Globo que não irá a último debate do 1º turno",
+     "veiculo": "Diário do Grande ABC",
+     "url": "https://www.dgabc.com.br/Noticia/4350013/lula-diz-a-globo-que-nao-ira-a-ultimo-debate-do-1-turno-presidente-participara-de-podcast",
+     "data": "2026-09-30",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-04",
+   "titulo": "1º turno",
+   "descricao": "Flávio 47,03% e Lula 45,16% dos votos válidos; 2º turno em 25/10.",
+   "categoria": "eleicao",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro e Lula vão disputar o 2º turno para a Presidência da República",
+     "veiculo": "TSE",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
+     "data": "2026-10-04",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-09",
+   "titulo": "Record cancela debate de 11/10",
+   "descricao": "Emissora alega incompatibilidade de agendas.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Lula e Flávio têm 3 debates e duas sabatinas marcados",
+     "veiculo": "Poder360",
+     "url": "https://poder360.com.br/poder-eleicoes/lula-e-flavio-tem-3-debates-e-duas-sabatinas-marcados",
+     "data": "2026-10-10",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-09",
+   "titulo": "Direito de resposta a Flávio contra vídeo no Instagram de Lula",
+   "descricao": "TSE considera que corte de programas sociais não consta do plano de governo de Flávio; multa de R$ 10 mil por republicação.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro ganha direito de resposta contra Lula",
+     "veiculo": "ND Mais",
+     "url": "https://ndmais.com.br/politica/flavio-bolsonaro-direito-resposta-lula-multa-tse/",
+     "data": "2026-10-09",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-12",
+   "titulo": "TSE manda remover vídeo falso sobre ato pró-Lula",
+   "descricao": "Ministro Bellizze ordena remoção em perfis de Flávio, Carlos Bolsonaro, Pablo Marçal e Rony Gabriel.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "TSE determina remoção de publicação falsa sobre uso de drogas em ato de Lula",
+     "veiculo": "Portal de Prefeitura",
+     "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/tse-determina-remocao-de-publicacao-falsa-sobre-uso-de-drogas-ato-lula/633961/",
+     "data": "2026-10-13",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-10-14",
+   "titulo": "Flávio recua e confirma debate da Band",
+   "descricao": "Diz que o anúncio de ausência, em 13/10, foi estratégia para obter a confirmação de Lula.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Flávio diz que 'enganou' Lula e que irá ao debate",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/123232/flavio-diz-enganou-lula-e-que-ira-ao-debate-para-esfregar-verdade",
+     "data": "2026-10-14",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-15",
+   "titulo": "Mendonça suspende propaganda de Lula sobre milícias",
+   "descricao": "Peça exibida em 13/10, com personagens gerados por IA; multa de R$ 10 mil por veiculação.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "André Mendonça suspende propaganda de Lula que vincula Flávio às milícias",
+     "veiculo": "O Liberal (Estadão Conteúdo)",
+     "url": "https://www.oliberal.com/politica/andre-mendonca-suspende-propaganda-de-lula-que-vincula-flavio-bolsonaro-as-milicias-1.1183272",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2026-10-15",
+   "titulo": "Entrevista de Lula à Globo (2º turno)",
+   "descricao": "Conduzida por Renata Lo Prete; checada por Aos Fatos e Fato ou Fake.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Checamos Lula na Globo (2º turno)",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+     "data": "2026-10-15",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-10-16",
+   "titulo": "Entrevista de Flávio à Globo (2º turno)",
+   "descricao": "Conduzida por Renata Lo Prete; checada pelo Aos Fatos.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Checamos Flávio Bolsonaro na Globo (2º turno)",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+     "data": "2026-10-16",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-18",
+   "titulo": "Debate Band/Estadão do 2º turno",
+   "descricao": "Primeiro confronto direto entre os candidatos, às 20h, em pool com Cultura, Gazeta e Jovem Pan; temas: corrupção, segurança, saúde, economia e políticas sociais.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Lula x Flávio Bolsonaro: imprensa internacional repercute debate da Band",
+     "veiculo": "DOL / BBC News Brasil",
+     "url": "https://dol.com.br/noticias/politica/eleicoes-2026/965917/lula-x-flavio-bolsonaro-imprensa-internacional-repercute-debate-da-band",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-23",
+   "titulo": "Debate da Globo (previsto)",
+   "descricao": "Último debate, nos Estúdios Globo, com mediação de César Tralli.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Lula e Flávio têm 3 debates e duas sabatinas marcados",
+     "veiculo": "Poder360",
+     "url": "https://poder360.com.br/poder-eleicoes/lula-e-flavio-tem-3-debates-e-duas-sabatinas-marcados",
+     "data": "2026-10-10",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  }
+ ],
+ "lacunas": [
+  "Financiamento (ambos): receitas, gastos, maiores doadores e valores do Fundo Eleitoral declarados no DivulgaCandContas não foram levantados; o limite de buscas da sessão foi atingido antes, e o TSE recusa acesso por script. Pendente para os dois candidatos.",
+  "Estratégia de comunicação (ambos): não localizei reportagem confiável sobre marqueteiros, orçamento de mídia ou plano digital de cada campanha.",
+  "Promessas de discurso (lula): além do slogan e da defesa do legado, não localizei promessas específicas de discurso do 2º turno com fonte aberta (as chamadas de tarifa zero e teto do MEI no site do PT não foram abertas).",
+  "Promessas de discurso (flavio): além do Bolsa Família e da redução de impostos citada pela Lupa, não foram documentadas outras promessas; a fala sobre privatizar 95% das estatais aparece apenas como afirmação de Lula considerada verdadeira pelo Estadão Verifica.",
+  "Debate de 15/10 (SBT ou pool CNN/Metrópoles): as fontes divergem sobre o organizador e indicam que a Band (18/10) foi o primeiro confronto; não confirmei se houve debate em 15/10.",
+  "Decisão do TSE que proibiu peça da chapa de Flávio sobre saídas temporárias, e a decisão citada por André Mendonça sobre propaganda associando Lula ao crime organizado: data, relator e número do processo não localizados.",
+  "Julgamentos de plenário do TSE sobre as liminares (30/08, 22/09, outubro, 12/10 e 15/10) e desfecho dos pedidos de resposta da coligação de Lula contra Flávio (programa de 15/09 e sabatina da Globo) não localizados.",
+  "Checagens do AFP Checamos, UOL Confere e Boatos.org não foram acessadas diretamente para nenhum dos dois candidatos (só menções indiretas); Fato ou Fake sobre a entrevista de Flávio à Globo de 16/10 não localizado, o que gera assimetria de fontes em relação à de Lula.",
+  "Não localizei checagem sobre conteúdo falso favorável a Lula produzido por terceiros, o que pode refletir a amostra e não a inexistência.",
+  "Placar do Aos Fatos no debate da Band: a página consultada não exibiu o placar; os números vêm de reprodução jornalística."
+ ]
+}

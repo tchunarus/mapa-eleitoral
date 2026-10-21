@@ -1,0 +1,1688 @@
+{
+ "frente": "democracia",
+ "evidencias": [
+  {
+   "id": "democracia-lula-01",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "8 de janeiro: veto ao PL da Dosimetria (ato concreto)",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Ato concreto: em 08/01/2026, na solenidade de três anos dos ataques de 8 de janeiro, Lula vetou integralmente o PL 2162/2023 (PL da Dosimetria), que reduzia penas de condenados pelos atos golpistas, inclusive Jair Bolsonaro. No discurso, afirmou que a democracia \"não é uma conquista inabalável\".",
+   "data_fato": "2026-01-08",
+   "fontes": [
+    {
+     "titulo": "Lula veta projeto que previa redução de pena para Bolsonaro e outros envolvidos na trama do golpe",
+     "veiculo": "Diario de Pernambuco (Estadão Conteúdo)",
+     "url": "https://www.diariodepernambuco.com.br/politica/2026/01/11704605-lula-veta-projeto-que-previa-reducao-de-pena-para-bolsonaro-e-outros-envolvidos-na-trama-do-golpe.html",
+     "data": "2026-01-08",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Em ato do 8 de janeiro, Lula veta dosimetria; oposição articula reação",
+     "veiculo": "Jornal de Brasília",
+     "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/em-ato-do-8-de-janeiro-lula-veta-dosimetria-oposicao-articula-reacao/",
+     "data": "2026-01-09",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O Jornal de Brasília destacou o caráter eleitoral da cerimônia e a ausência dos presidentes da Câmara e do Senado. O Congresso derrubou o veto em 30/04/2026 (Câmara 318 x 144; Senado 49 x 24), e a base do governo anunciou que recorreria ao STF.",
+   "limitacoes": "O veto é ato legítimo de competência presidencial; não prova, por si, a correção jurídica do mérito do projeto, cuja constitucionalidade não consta como decidida pelo STF nas fontes consultadas."
+  },
+  {
+   "id": "democracia-lula-02",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "trama golpista: declarações sobre a condenação de Bolsonaro",
+   "tipo": "OPINIAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: após a condenação de Jair Bolsonaro pela 1ª Turma do STF (11/09/2025), Lula disse em entrevista que \"as provas estão fartas\", ironizou o voto divergente do ministro Luiz Fux em evento público e afirmou que o país não pode permitir que se tente ferir o Estado Democrático de Direito. Ao mesmo tempo, ponderou que não cabe ao presidente opinar sobre votos de ministros.",
+   "data_fato": "2025-09-12",
+   "fontes": [
+    {
+     "titulo": "Lula reage à condenação de Bolsonaro, ironiza voto de Luiz Fux e diz que não teme novas sanções dos EUA",
+     "veiculo": "Jovem Pan",
+     "url": "https://jovempan.com.br/programas/jornal-da-manha/lula-reage-a-condenacao-de-bolsonaro-ironiza-voto-de-luiz-fux-e-diz-que-nao-teme-novas-sancoes-dos-eua.html",
+     "data": "2025-09-12",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Críticos apontam que comentários do chefe do Executivo sobre votos individuais de ministros, em processo contra adversário político, tensionam a separação de Poderes; o próprio Lula reconheceu o limite ao dizer que não lhe cabe opinar sobre votos.",
+   "limitacoes": "Registra declarações, não interferência no processo; a decisão judicial foi tomada pelo colegiado do STF."
+  },
+  {
+   "id": "democracia-lula-03",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "trama golpista: fim do processo e cumprimento de pena",
+   "tipo": "OPINIAO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: em 26/11/2025, após o trânsito em julgado da condenação de Bolsonaro, Lula afirmou que o Brasil deu uma \"lição de democracia\", que não estava feliz \"pela prisão de ninguém\" e que a Justiça mostrou a sua força \"sem nenhum alarde\".",
+   "data_fato": "2025-11-26",
+   "fontes": [
+    {
+     "titulo": "Lula comenta sobre o início da pena de Jair Bolsonaro: 'lição de democracia'",
+     "veiculo": "O Povo",
+     "url": "https://mais.opovo.com.br/jornal/politica/2025/11/27/lula-comenta-sobre-o-inicio-da-pena-de-jair-bolsonaro-licao-de-democracia.html",
+     "data": "2025-11-27",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "STF encerra processo e Bolsonaro já pode cumprir pena",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-justica/stf-encerra-processo-e-bolsonaro-ja-pode-cumprir-pena/",
+     "data": "2025-11-25",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Aliados de Bolsonaro classificam o processo como perseguição política; a defesa pediu em 2026 a anulação da condenação alegando trânsito em julgado precoce (sem resultado localizado).",
+   "limitacoes": "Declaração de adversário político do condenado; não acrescenta prova sobre o mérito do processo."
+  },
+  {
+   "id": "democracia-lula-04",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "aceitação do resultado eleitoral de 2026 (declaração)",
+   "tipo": "OPINIAO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: em entrevista à revista alemã Der Spiegel, divulgada em abril de 2026, Lula disse que aceitaria eventual vitória de Flávio Bolsonaro: \"Quando o povo toma uma decisão, seja de direita, de esquerda ou do centro, temos que aceitar esse resultado.\"",
+   "data_fato": "2026-04-17",
+   "fontes": [
+    {
+     "titulo": "'Quando povo toma decisão, temos que aceitar', diz Lula sobre eventual vitória de Flávio",
+     "veiculo": "Folha de Pernambuco (Agência O Globo), entrevista à Der Spiegel",
+     "url": "https://www.folhape.com.br/noticia/amp/481550/quando-povo-toma-decisao-temos-que-aceitar-diz-lula-sobre-eventual/",
+     "data": "2026-04-17",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Na mesma entrevista Lula disse que pretende vencer para dar maior estabilidade à democracia brasileira, enquadramento que adversários consideram eleitoral.",
+   "limitacoes": "É compromisso verbal; não há como verificar conduta futura. A transcrição original da Der Spiegel não foi consultada diretamente."
+  },
+  {
+   "id": "democracia-lula-05",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "reconhecimento do resultado do 1º turno (ato)",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Ato concreto: na noite de 04/10/2026, Lula reconheceu ter ficado em segundo lugar no 1º turno (45,16% dos válidos, contra 47,03% de Flávio Bolsonaro, segundo o TSE), admitiu surpresa com o resultado e anunciou campanha para o 2º turno, sem contestar a apuração.",
+   "data_fato": "2026-10-04",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro e Lula vão disputar o 2º turno para a Presidência da República",
+     "veiculo": "TSE",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
+     "data": "2026-10",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Lula diz que vai buscar votos para segundo turno contra Flávio",
+     "veiculo": "Correio da Manhã",
+     "url": "https://www.correiodamanha.com.br/politica/2026/10/324422-lula-diz-que-vai-buscar-votos-para-segundo-turno-contra-flavio.html",
+     "data": "2026-10-04",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula admite surpresa e Flávio celebra resultado; começa a batalha do segundo turno",
+     "veiculo": "Movimento Econômico",
+     "url": "https://movimentoeconomico.com.br/politica/2026/10/04/lula-admite-surpresa-e-flavio-celebra-resultado-comeca-a-batalha-do-segundo-turno/",
+     "data": "2026-10-04",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "No mesmo discurso Lula atacou a biografia do adversário, chamando seu passado de \"tenebroso\", segundo a cobertura.",
+   "limitacoes": "Refere-se ao 1º turno; o comportamento diante do resultado do 2º turno (25/10/2026) ainda não ocorreu."
+  },
+  {
+   "id": "democracia-lula-06",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "regulação das redes sociais",
+   "tipo": "PROMESSA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração e promessa: em agosto de 2025, após o vídeo do influenciador Felca sobre exploração de crianças, Lula anunciou projeto para responsabilizar plataformas e disse que o governo iria regular \"doa a quem doer\". O programa de governo de 2026 propõe \"avançar ainda mais na regulação democrática das redes sociais\" para impedir desinformação e campanhas de ódio, afirmando também que nenhuma democracia sobrevive sem garantia plena da liberdade de expressão.",
+   "data_fato": "2025-08-12",
+   "fontes": [
+    {
+     "titulo": "Lula diz que finaliza nesta quarta (13) projeto de regulamentação de big techs após vídeo de Felca",
+     "veiculo": "Jornal de Brasília",
+     "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-diz-que-finaliza-nesta-quarta-13-projeto-de-regulamentacao-de-big-techs-apos-video-de-felca/",
+     "data": "2025-08-12",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula garante aprovação de projeto que regula redes sociais, 'doa a quem doer'",
+     "veiculo": "SBT News",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-garante-aprovacao-de-projeto-que-regula-redes-sociais-doa-a-quem-doer",
+     "data": "2025-08",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula promete 'avançar ainda mais' na regulação das redes sociais caso seja reeleito; veja o que diz o plano de governo",
+     "veiculo": "Hardware.com.br",
+     "url": "https://www.hardware.com.br/artigos/lula-regulacao-redes-sociais-reeleicao/amp/",
+     "data": "2026-08",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Programa de governo de Luiz Inácio Lula da Silva registrado no TSE (seção sobre democracia, p. 16; política externa, p. 77 a 80)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/",
+     "data": "2026-08",
+     "tipo_fonte": "CAMPANHA"
+    }
+   ],
+   "contraponto": "Flávio Bolsonaro e a oposição associam a proposta a censura; empresas do setor (Conselho Digital) e congressistas republicanos dos EUA criticaram o PL 4.675/2025 (regulação econômica via Cade).",
+   "limitacoes": "O programa não detalha obrigações nem órgão regulador; o conteúdo final de eventual lei é desconhecido, e o efeito sobre a liberdade de expressão depende do texto aprovado."
+  },
+  {
+   "id": "democracia-lula-07",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "STF: indicação de Cristiano Zanin",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Ato concreto: em junho de 2023, Lula indicou ao STF seu advogado pessoal e amigo próximo, Cristiano Zanin, aprovado pelo Senado. A Transparência Internacional Brasil criticou a escolha como afronta à impessoalidade e à independência do Judiciário; parlamentares de oposição, como Sergio Moro, também a criticaram.",
+   "data_fato": "2023-06-01",
+   "fontes": [
+    {
+     "titulo": "Lula indica Zanin para o STF: além de advogado pessoal, amigo próximo",
+     "veiculo": "Correio Braziliense",
+     "url": "https://www.correiobraziliense.com.br/politica/2023/06/5099028-lula-indica-zanin-para-o-stf-alem-de-advogado-pessoal-amigo-proximo.html",
+     "data": "2023-06-01",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Governistas elogiam e oposição critica indicação de Zanin no STF",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/congresso/governistas-elogiam-e-oposicao-critica-indicacao-de-zanin-no-stf/",
+     "data": "2023-06-01",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Transparência Internacional critica indicação de Zanin para o STF",
+     "veiculo": "Revista Oeste",
+     "url": "https://revistaoeste.com/politica/transparencia-internacional-critica-indicacao-de-zanin-para-o-stf/",
+     "data": "2023-06",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Governistas e ministros do STF elogiaram a qualificação técnica de Zanin; a indicação seguiu o rito constitucional de sabatina e aprovação pelo Senado.",
+   "limitacoes": "A crítica é avaliação institucional e política; não demonstra atuação parcial de Zanin em casos concretos."
+  },
+  {
+   "id": "democracia-lula-08",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "STF: proposta de reforma do Judiciário e críticas à Corte",
+   "tipo": "PROMESSA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: em 05/10/2026, Lula criticou a \"promiscuidade\" que, segundo ele, se estabeleceu no STF após denúncias envolvendo ministros, e defendeu nova reforma do Judiciário, com discussão de critérios de escolha e de mandato para ministros. Em setembro de 2026 falara em \"critérios de moralização\", como vedar a atuação de parentes de magistrados como advogados no tribunal. O programa de governo fala em diálogo com o Judiciário \"respeitada a autonomia dos Poderes\".",
+   "data_fato": "2026-10-05",
+   "fontes": [
+    {
+     "titulo": "Lula reúne aliados, critica 'promiscuidade' do STF e fala em nova reforma do Judiciário",
+     "veiculo": "Correio da Manhã",
+     "url": "https://www.correiodamanha.com.br/politica/2026/10/324719-lula-reune-aliados-critica-promiscuidade-do-stf-e-fala-em-nova-reforma-do-judiciario.html",
+     "data": "2026-10-05",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula promete reforma do Judiciário e cobra critério de moralização",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/122302/lula-promete-reforma-do-judiciario-e-cobra-criterio-de-moralizacao",
+     "data": "2026-09",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Programa de governo de Luiz Inácio Lula da Silva registrado no TSE (seção sobre democracia, p. 16; política externa, p. 77 a 80)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/",
+     "data": "2026-08",
+     "tipo_fonte": "CAMPANHA"
+    }
+   ],
+   "contraponto": "Mudanças em mandato e escolha de ministros exigem emenda constitucional; Lula reconheceu ser \"tema difícil\". A proposta guarda semelhança com pontos do plano de Flávio (vedação a parentes, mudanças no STF).",
+   "limitacoes": "Não há texto de PEC apresentado; as fontes não identificam quais ministros ou denúncias Lula tinha em mente."
+  },
+  {
+   "id": "democracia-lula-09",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "EUA: tarifa de 50% e sanções Magnitsky a Alexandre de Moraes",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Ato e declaração: em 09/07/2025, Lula respondeu ao anúncio de tarifa de 50% dos EUA invocando a Lei de Reciprocidade Econômica. Em 30/07/2025, em nota oficial, repudiou a sanção da Lei Magnitsky ao ministro Alexandre de Moraes, afirmou que \"Justiça não se negocia\" e que é \"inaceitável a interferência do governo norte-americano na Justiça brasileira\", mantendo disposição para negociar aspectos comerciais.",
+   "data_fato": "2025-07-30",
+   "fontes": [
+    {
+     "titulo": "Lula responde a Trump e diz que Brasil responderá com reciprocidade se tarifas subirem",
+     "veiculo": "Exame",
+     "url": "https://exame.com/mundo/lula-responde-a-trump-e-diz-que-brasil-respondera-com-reciprocidade-se-tarifas-subirem/",
+     "data": "2025-07-09",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula repudia tarifas de Trump e manifesta solidariedade a Moraes",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/110627/lula-repudia-tarifas-de-trump-e-manifesta-solidariedade-a-moraes",
+     "data": "2025-07-30",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Trump hits Brazilian products with 50% tariffs over Bolsonaro",
+     "veiculo": "NBC News",
+     "url": "https://www.nbcnews.com/politics/trump-administration/trump-brazilian-products-tariffs-bolsonaro-rcna222534",
+     "data": "2025-07-30",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Oposicionistas acusaram o governo de usar a crise para fins eleitorais; Lula, por sua vez, atribuiu as medidas a políticos brasileiros que, segundo ele, \"traem o país\", acusação contestada pela família Bolsonaro.",
+   "limitacoes": "A nota defende a independência judicial, mas não comprova a correção das decisões de Moraes, que é matéria distinta."
+  },
+  {
+   "id": "democracia-lula-10",
+   "candidato": "lula",
+   "criterio": "impactos",
+   "tema": "EUA: negociação, redução de tarifas e retirada das sanções",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Fato: em outubro de 2025, em encontro com Donald Trump na Malásia, Lula pediu a retirada das tarifas adicionais e da aplicação da Lei Magnitsky a Moraes. Em novembro de 2025 os EUA reduziram parte das tarifas sobre produtos agrícolas e, em 12/12/2025, o Tesouro americano retirou Moraes, sua esposa e o Instituto Lex da lista de sanções.",
+   "data_fato": "2025-12-12",
+   "fontes": [
+    {
+     "titulo": "Lula pediu suspensão das tarifas e das punições da Magnitsky",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-internacional/lula-pediu-suspensao-das-tarifas-e-das-punicoes-da-magnitsky/",
+     "data": "2025-10-26",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "EUA retiram Alexandre de Moraes e sua mulher, Viviane, de lista de sanções da Magnitsky",
+     "veiculo": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com.br/brasil/eua-retiram-alexandre-de-moraes-e-sua-mulher-viviane-de-lista-de-sancoes-da-magnitsky/",
+     "data": "2025-12-12",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Imprensa internacional repercute decisão dos EUA de retirar sanção Magnitsky contra Moraes",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/mundo/imprensa-internacional-repercute-decisao-dos-eua-de-retirar-sancao-magnitsky-contra-moraes/",
+     "data": "2025-12-12",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Em 01/06/2026 o governo americano anunciou nova sobretaxa de 25% sobre produtos brasileiros; Lula atribuiu a medida à atuação da família Bolsonaro, o que Flávio negou (ver evidência de Flávio sobre o encontro com Trump).",
+   "limitacoes": "A relação causal entre a negociação de Lula e as decisões americanas é interpretação jornalística; a Bloomberg associou a retirada à suavização prévia das tarifas."
+  },
+  {
+   "id": "democracia-lula-11",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "Venezuela: 'conceito de democracia é relativo'",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Declaração: em 29/06/2023, à Rádio Gaúcha, perguntado sobre o regime de Nicolás Maduro, Lula disse que \"o conceito de democracia é relativo\" e citou o número de eleições realizadas na Venezuela.",
+   "data_fato": "2023-06-29",
+   "fontes": [
+    {
+     "titulo": "Conceito de democracia é relativo, diz Lula sobre Venezuela",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/governo/conceito-de-democracia-e-relativo-diz-lula-sobre-venezuela/",
+     "data": "2023-06-30",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "'Conceito de democracia não é relativo', diz Gilmar Mendes",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/justica/conceito-de-democracia-nao-e-relativo-diz-gilmar-mendes/",
+     "data": "2023-07-02",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O ministro do STF Gilmar Mendes respondeu publicamente que o conceito de democracia \"não é relativo\"; a fala gerou mal-estar até no entorno do governo. Defensores alegam que Lula buscava manter canal diplomático com Caracas.",
+   "limitacoes": "É declaração isolada; posições posteriores (2024) foram mais críticas a Maduro."
+  },
+  {
+   "id": "democracia-lula-12",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "Venezuela: eleição de 2024 e posse de Maduro",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Ato e declaração: após a eleição venezuelana de julho de 2024, o governo Lula cobrou a divulgação das atas e não reconheceu a vitória de Maduro; em agosto de 2024 Lula disse \"ainda não\" reconhecer o resultado e sugeriu novas eleições. Em janeiro de 2025, porém, enviou a embaixadora em Caracas à posse de Maduro, sem ministros.",
+   "data_fato": "2025-01-02",
+   "fontes": [
+    {
+     "titulo": "Lula diz 'ainda não' reconhecer vitória de Maduro em eleição",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/videos/lula-diz-ainda-nao-reconhecer-vitoria-de-maduro-em-eleicao/",
+     "data": "2024-08",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula enviará embaixadora à posse de Maduro mesmo sem reconhecer resultado da eleição",
+     "veiculo": "O Povo (Estadão Conteúdo)",
+     "url": "https://www.opovo.com.br/noticias/mundo/2025/01/02/lula-enviara-embaixadora-a-posse-de-maduro-mesmo-sem-reconhecer-resultado-da-eleicao.html",
+     "data": "2025-01-02",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Governo Lula decide enviar representante à posse de Maduro na Venezuela",
+     "veiculo": "Revista Oeste",
+     "url": "https://revistaoeste.com/politica/governo-lula-decide-enviar-representante-a-posse-de-maduro-na-venezuela/",
+     "data": "2025-01",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A Revista Oeste apresentou o envio de representante como diálogo com regime ditatorial; o Estadão (via O Povo) tratou o gesto como manutenção de canais diplomáticos. O governo também não reconheceu a vitória do candidato opositor.",
+   "limitacoes": "A posição de não reconhecimento é documentada; a eficácia diplomática da estratégia não é mensurável pelas fontes."
+  },
+  {
+   "id": "democracia-lula-13",
+   "candidato": "lula",
+   "criterio": "impactos",
+   "tema": "Venezuela: ataque dos EUA e captura de Maduro (jan. 2026)",
+   "tipo": "OPINIAO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Declaração oficial: em 03/01/2026, Lula afirmou no X que os bombardeios dos EUA e a captura de Nicolás Maduro \"ultrapassam uma linha inaceitável\", classificou a ação como afronta à soberania venezuelana e precedente perigoso, e pediu reação da ONU, oferecendo o Brasil para o diálogo.",
+   "data_fato": "2026-01-03",
+   "fontes": [
+    {
+     "titulo": "Lula diz que ataque à Venezuela 'é inaceitável'",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-governo/lula-diz-que-ataque-a-venezuela-e-inaceitavel/",
+     "data": "2026-01-03",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula da Silva afirma que captura de Maduro por parte de EE UU 'cruza una línea inaceptable'",
+     "veiculo": "El Heraldo (Honduras)",
+     "url": "https://www.elheraldo.hn/mundo/lula-da-silva-afirma-captura-nicolas-maduro-parte-estados-unidos-cruza-linea-inaceptable-AC28803311",
+     "data": "2026-01-03",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A oposição, inclusive Flávio Bolsonaro, celebrou a ação como \"libertação\" e passou a explorar a associação entre Lula e Maduro (coluna do Correio Braziliense de 06/01/2026). O programa de Flávio afirma que o governo Lula recebeu Maduro \"com honras\".",
+   "limitacoes": "A condenação do uso da força é coerente com a tradição diplomática de não intervenção, mas não implica apoio ao regime de Maduro, que Lula não reconheceu em 2024."
+  },
+  {
+   "id": "democracia-lula-14",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "Rússia/Ucrânia: viagem a Moscou no Dia da Vitória",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Ato concreto: em maio de 2025, Lula participou em Moscou das comemorações dos 80 anos do Dia da Vitória e se reuniu com Vladimir Putin. Disse que a posição brasileira sobre a guerra \"continua a mesma\", de defesa da paz e oposição à ocupação territorial, e chamou as críticas europeias de \"pequenez\".",
+   "data_fato": "2025-05-10",
+   "fontes": [
+    {
+     "titulo": "Lula defende ida a Moscou e diz que Brasil continua disposto a negociar paz na Ucrânia",
+     "veiculo": "Folha de Pernambuco (Agência O Globo)",
+     "url": "https://www.folhape.com.br/politica/lula-defende-ida-a-moscou-e-diz-que-brasil-continua-disposto-a/410410/",
+     "data": "2025-05-10",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula defende participação na festa de Putin e vê críticas como 'pequenez'",
+     "veiculo": "Jornal de Brasília",
+     "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-defende-participacao-na-festa-de-putin-e-ve-criticas-como-pequenez/",
+     "data": "2025-05",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula vai à Rússia para participar de desfile que Putin usa como propaganda de seu regime",
+     "veiculo": "Revista Oeste",
+     "url": "https://www.revistaoeste.com/mundo/lula-vai-a-russia-para-participar-de-desfile-que-putin-usa-como-propaganda-de-seu-regime/",
+     "data": "2025-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Críticos (oposição, imprensa internacional, Revista Oeste, Estadão) apontaram que o desfile é usado como propaganda pelo Kremlin e que Lula estava entre poucos líderes eleitos democraticamente presentes; Zelensky recusou contatos de Lula nos meses seguintes. Em junho de 2026, no G7 de Évian, Lula e Zelensky se reuniram e Kiev aceitou a oferta brasileira de ajuda para negociar a paz.",
+   "limitacoes": "A presença no evento não altera votos ou posições formais do Brasil na ONU, que não foram examinados nesta frente."
+  },
+  {
+   "id": "democracia-lula-15",
+   "candidato": "lula",
+   "criterio": "impactos",
+   "tema": "Israel/Gaza: comparação com o Holocausto e persona non grata",
+   "tipo": "OPINIAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Declaração: em 18/02/2024, na Etiópia, Lula disse que o que ocorre em Gaza \"não é uma guerra, é um genocídio\" e comparou a situação a quando Hitler decidiu matar os judeus. Em 19/02/2024 o chanceler israelense Israel Katz declarou Lula persona non grata até retratação; o Brasil está sem embaixador em Israel desde maio de 2024.",
+   "data_fato": "2024-02-18",
+   "fontes": [
+    {
+     "titulo": "Entenda o que Lula falou sobre Holocausto e Israel",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/politica/entenda-o-que-lula-falou-sobre-holocausto-e-israel/",
+     "data": "2024-02-19",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Israel declares Brazil's Lula persona non grata for comparing Gaza war to Holocaust",
+     "veiculo": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/israel-declares-brazils-lula-persona-non-grata-for-comparing-gaza-war-to-holocaust/amp/",
+     "data": "2024-02-19",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Netanyahu dá boas-vindas a filhos de Bolsonaro e deseja sorte a Flávio na eleição",
+     "veiculo": "Diario de Pernambuco (Estadão Conteúdo)",
+     "url": "https://www.diariodepernambuco.com.br/politica/2026/01/11706161-netanyahu-da-boas-vindas-a-filhos-de-bolsonaro-e-deseja-sorte-a-flavio-na-eleicao.html",
+     "data": "2026-01",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Netanyahu disse que a fala cruzou \"uma linha vermelha\"; a Confederação Israelita do Brasil e o Instituto Brasil-Israel a criticaram. O Itamaraty acusou a chancelaria israelense de distorcer as declarações. Lula voltou a falar em genocídio depois.",
+   "limitacoes": "A interpretação de que Lula equiparou Israel ao nazismo é disputada; a qualificação jurídica de genocídio está pendente na Corte Internacional de Justiça."
+  },
+  {
+   "id": "democracia-lula-16",
+   "candidato": "lula",
+   "criterio": "impactos",
+   "tema": "Israel/Gaza: adesão à ação da África do Sul na CIJ",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Ato concreto: em julho de 2025, o governo Lula decidiu intervir formalmente na ação da África do Sul contra Israel na Corte Internacional de Justiça, com base na Convenção sobre Genocídio. O documento brasileiro de 19/09/2025 evitou acusar Israel diretamente de genocídio e pediu reavaliação da jurisprudência sobre o crime.",
+   "data_fato": "2025-07",
+   "fontes": [
+    {
+     "titulo": "Brasil adere a ação na Corte Internacional que acusa Israel de genocídio em Gaza",
+     "veiculo": "InfoMoney",
+     "url": "https://www.infomoney.com.br/?p=2956193",
+     "data": "2025-07",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Israel chama apoio do Brasil a ação por genocídio em Gaza de 'falha moral'",
+     "veiculo": "Diario de Pernambuco",
+     "url": "https://www.diariodepernambuco.com.br/mundo/2025/07/amp/7795173-israel-chama-apoio-do-brasil-a-acao-por-genocidio-em-gaza-de-falha-moral.html",
+     "data": "2025-07",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Brasil revela argumentos em ação da África do Sul que acusa Israel de genocídio",
+     "veiculo": "Jornal de Brasília",
+     "url": "https://jornaldebrasilia.com.br/noticias/mundo/brasil-revela-argumentos-em-acao-da-africa-do-sul-que-acusa-israel-de-genocidio/",
+     "data": "2025-09-19",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Israel classificou a decisão como \"falha moral\". Flávio Bolsonaro promete reverter o afastamento com Israel (ver evidências de Flávio).",
+   "limitacoes": "Adesão processual não equivale a juízo de mérito; a CIJ não decidiu o caso até a data das fontes."
+  },
+  {
+   "id": "democracia-lula-17",
+   "candidato": "lula",
+   "criterio": "impactos",
+   "tema": "China: visita de Estado e acordos (maio de 2025)",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Ato concreto: em visita de Estado à China (10 a 14/05/2025), com participação na reunião China-Celac, Lula assinou 36 acordos bilaterais, incluindo memorando que relaciona projetos do PAC à Iniciativa Cinturão e Rota, mas reafirmou que o Brasil não aderiu formalmente a ela.",
+   "data_fato": "2025-05-13",
+   "fontes": [
+    {
+     "titulo": "Lula encerra visita à China com 36 acordos; veja a lista",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/108475/lula-encerra-visita-a-china-com-36-acordos-veja-a-lista",
+     "data": "2025-05-13",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula desembarca em Pequim sob tensão entre EUA e China",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-china/lula-desembarca-em-pequim-sob-tensao-entre-eua-e-china/",
+     "data": "2025-05-10",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Visita de Estado de Lula à China (anúncio)",
+     "veiculo": "Ministério das Relações Exteriores da China",
+     "url": "https://www.mfa.gov.cn/eng/xw/wsrc/202505/t20250510_11618606.html",
+     "data": "2025-05-10",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ],
+   "contraponto": "A viagem ocorreu durante a guerra tarifária EUA-China e foi lida por críticos como alinhamento a Pequim; o governo a apresentou como pragmatismo comercial.",
+   "limitacoes": "O número de acordos varia entre fontes (fonte chinesa fala em 20); não há avaliação de impacto econômico nesta frente."
+  },
+  {
+   "id": "democracia-lula-18",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "propaganda eleitoral: remoção de vídeos de Lula pelo TSE",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Decisão judicial provisória: em 08/10/2026, os ministros André Mendonça e Kassio Nunes Marques, do TSE, determinaram em decisões monocráticas a retirada de vídeos publicados por Lula (e por Janja e deputados aliados) que apresentavam como certas consequências atribuídas a Flávio Bolsonaro, como cortes em programas sociais, por falta de elementos probatórios suficientes.",
+   "data_fato": "2026-10-08",
+   "fontes": [
+    {
+     "titulo": "TSE manda retirar do ar publicações de Lula, Janja e deputados com críticas a Flávio Bolsonaro",
+     "veiculo": "Diário do Grande ABC (Estadão Conteúdo)",
+     "url": "https://www.dgabc.com.br/Noticia/4351884/tse-manda-retirar-do-ar-publicacoes-de-lula-janja-e-deputados-com-criticas-a-flavio-bolsonaro",
+     "data": "2026-10-09",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "TSE: ministros ordenam que Lula e Janja removam vídeos contra Flávio",
+     "veiculo": "O Povo",
+     "url": "https://mais.opovo.com.br/jornal/politica/2026/10/10/tse-ministros-ordenam-que-lula-e-janja-removam-videos-contra-flavio.html",
+     "data": "2026-10-10",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Os ministros distinguiram crítica política legítima de atribuição de propostas sem respaldo; aliados de Lula sustentam que se tratava de projeção política. As decisões serão submetidas ao plenário do TSE.",
+   "limitacoes": "Decisão liminar, sujeita a revisão pelo plenário; os ministros foram indicados ao STF por Jair Bolsonaro, o que aliados de Lula mencionam, sem que isso invalide a decisão."
+  },
+  {
+   "id": "democracia-flavio-01",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "8 de janeiro: posição inicial (2023)",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Declaração: em janeiro de 2023, Flávio divulgou nota afirmando que Jair Bolsonaro repudiava os atos de vandalismo e depredação cometidos por \"infiltrados\" no protesto e que nunca teve ligação com os movimentos; nas redes, limitou-se a replicar a manifestação do pai, segundo levantamento do Jornal Opção.",
+   "data_fato": "2023-01",
+   "fontes": [
+    {
+     "titulo": "Bolsonaro e bolsonaristas: o que eles falaram sobre o terrorismo em Brasília?",
+     "veiculo": "Jornal Opção",
+     "url": "https://www.jornalopcao.com.br/atos-golpistas/bolsonaro-e-bolsonaristas-o-que-eles-falaram-sobre-o-terrorismo-em-brasilia-455942/",
+     "data": "2023-01",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A tese dos \"infiltrados\" não foi acolhida pelo STF, que condenou centenas de participantes e, em 2025, o próprio Jair Bolsonaro.",
+   "limitacoes": "Fonte única, de levantamento jornalístico; texto integral da nota não consultado."
+  },
+  {
+   "id": "democracia-flavio-02",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "8 de janeiro: comparação das prisões com práticas nazistas",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: em 26/09/2023, na CPMI dos Atos Golpistas, Flávio afirmou que \"as prisões das milhares de pessoas nos dias 8 e 9 de janeiro foram feitas nos moldes nazistas\".",
+   "data_fato": "2023-09-26",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro banaliza Holocausto ao compará-lo à prisão de golpistas, diz Instituto Brasil-Israel",
+     "veiculo": "Congresso em Foco",
+     "url": "https://congressoemfoco.com.br/noticia/8234/flavio-bolsonaro-banaliza-holocausto-ao-compara-lo-a-prisao-de-golpistas-diz-instituto-brasil-israel",
+     "data": "2023-09-27",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O Instituto Brasil-Israel classificou a fala como \"caso clássico de banalização do Holocausto\". Aliados sustentam que houve prisões em massa sem individualização de condutas, crítica que Flávio reiterou em 2025.",
+   "limitacoes": "Declaração parlamentar protegida pela imunidade material; não há decisão sobre ela."
+  },
+  {
+   "id": "democracia-flavio-03",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "STF: pedido de impeachment de Alexandre de Moraes (ato)",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Ato concreto: em 23/07/2025, Flávio protocolou no Senado pedido de impeachment do ministro Alexandre de Moraes, após medidas cautelares contra Jair Bolsonaro (tornozeleira eletrônica) e o bloqueio de contas de Eduardo Bolsonaro, alegando parcialidade e censura; no X disse que o ministro \"se tornou uma ameaça às liberdades individuais\".",
+   "data_fato": "2025-07-23",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro protocola pedido de impeachment de Moraes",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-congresso/flavio-bolsonaro-protocola-pedido-de-impeachment-de-moraes/",
+     "data": "2025-07-23",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro protocola pedido de impeachment de Moraes no Senado",
+     "veiculo": "Jovem Pan",
+     "url": "https://jovempan.com.br/noticias/politica/flavio-bolsonaro-protocola-pedido-de-impeachment-de-moraes-no-senado.html",
+     "data": "2025-07-23",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O processo por crime de responsabilidade de ministro do STF é instrumento previsto na ordem jurídica; havia mais de 50 pedidos parados no Senado e nunca um ministro foi afastado por essa via. Críticos apontam conflito de interesse por o pedido reagir a decisões contra o pai e o irmão.",
+   "limitacoes": "O pedido não foi pautado nem julgado; não há decisão sobre suas alegações."
+  },
+  {
+   "id": "democracia-flavio-04",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "EUA: apoio público às sanções Magnitsky e às tarifas (jul. 2025)",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Ato (publicação): em 09/07/2025, no dia do anúncio da tarifa de 50% pelos EUA, Flávio publicou no X \"Thank you President @realDonaldTrump - Make Brazil Free Again - We want Magnistky\", compartilhando mensagem de Eduardo Bolsonaro. Em seguida, sugeriu substituir a tarifa por sanções individuais a autoridades brasileiras (publicação apagada). Em 30/07/2025 os EUA aplicaram a Lei Magnitsky a Moraes.",
+   "data_fato": "2025-07-09",
+   "fontes": [
+    {
+     "titulo": "Flávio também agradeceu a Trump por tarifas em 2025",
+     "veiculo": "SBT News (Coluna do Ranier)",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/flavio-tambem-agradeceu-a-trump-por-tarifas-em-2025",
+     "data": "2026-08-29",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro diz que tarifa de Trump tem motivação política e volta a defender anistia",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-diz-que-tarifa-de-trump-tem-motivacao-politica-e-volta-a-defender-anistia/",
+     "data": "2025-07",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Trump hits Brazilian products with 50% tariffs over Bolsonaro",
+     "veiculo": "NBC News",
+     "url": "https://www.nbcnews.com/politics/trump-administration/trump-brazilian-products-tariffs-bolsonaro-rcna222534",
+     "data": "2025-07-30",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio afirmou à GloboNews que a tarifa teve motivação política ligada aos processos contra o pai e negou que Eduardo tenha influído nas tarifas, embora tenha confirmado a atuação do irmão por sanções a Moraes. O PSOL pediu ao STF a inclusão de Flávio em inquérito sobre a articulação (sem decisão localizada).",
+   "limitacoes": "Não há decisão judicial sobre a conduta de Flávio; o pedido do PSOL é iniciativa de adversário político."
+  },
+  {
+   "id": "democracia-flavio-05",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "EUA: avaliação posterior do 'agradecimento' ao tarifaço",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: na sabatina do Jornal Nacional (28/08/2026), Flávio disse que Eduardo \"errou\" ao agradecer pelas tarifas, sem mencionar a própria publicação de agradecimento a Trump feita na mesma noite de julho de 2025, conforme registrou o SBT News.",
+   "data_fato": "2026-08-28",
+   "fontes": [
+    {
+     "titulo": "Flávio admite que Eduardo 'errou' ao agradecer tarifaço",
+     "veiculo": "SBT News",
+     "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-admite-que-eduardo-errou-ao-agradecer-tarifaco",
+     "data": "2026-08-28",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio também agradeceu a Trump por tarifas em 2025",
+     "veiculo": "SBT News (Coluna do Ranier)",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/flavio-tambem-agradeceu-a-trump-por-tarifas-em-2025",
+     "data": "2026-08-29",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A assessoria do candidato não havia se manifestado até a publicação da coluna; Flávio sustenta que sempre defendeu sanções individuais e não tarifas contra o país.",
+   "limitacoes": "Mostra divergência entre fala e registro anterior; não indica conduta ilícita."
+  },
+  {
+   "id": "democracia-flavio-06",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "trama golpista: reação à condenação de Jair Bolsonaro",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: em 11/09/2025, após a condenação do pai pela 1ª Turma do STF, Flávio chamou o julgamento de \"farsa\", disse que Bolsonaro foi condenado por não se curvar \"a um ditador chamado Alexandre de Moraes\", que o ministro transformou o STF \"num grande teatro\" e falou em \"suprema perseguição\".",
+   "data_fato": "2025-09-11",
+   "fontes": [
+    {
+     "titulo": "Flávio reage à condenação de Jair Bolsonaro pelo STF",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/111869/flavio-reage-a-condenacao-de-jair-bolsonaro-pelo-stf",
+     "data": "2025-09-11",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Condenação de Bolsonaro no STF provoca onda de manifestações entre aliados nas redes: 'suprema perseguição'",
+     "veiculo": "Jovem Pan",
+     "url": "https://jovempan.com.br/politica/condenacao-de-bolsonaro-no-stf-provoca-onda-de-manifestacoes-entre-aliados-nas-redes-suprema-perseguicao/",
+     "data": "2025-09-11",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Bolsonaro é condenado pelo STF por golpe de estado e outros crimes; pena é de 27 anos",
+     "veiculo": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com.br/brasil/jair-bolsonaro-e-considerado-culpado-pelo-stf-por-golpe-de-estado-e-mais-quatro-crimes/",
+     "data": "2025-09-11",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A crítica a decisões judiciais é protegida pela liberdade de expressão, e o voto divergente de Luiz Fux, que absolvia Bolsonaro, é usado pela defesa como argumento. A condenação transitou em julgado em 25/11/2025 (AP 2668).",
+   "limitacoes": "Trata-se de opinião de filho e aliado político do réu; não altera a decisão judicial."
+  },
+  {
+   "id": "democracia-flavio-07",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "anistia e PL da Dosimetria (atuação legislativa)",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Ato e declaração: Flávio defendeu anistia ampla aos condenados do 8 de janeiro e da trama golpista; em outubro de 2025 admitiu negociar redução de penas para viabilizar um texto. Após a aprovação do PL da Dosimetria no Senado (17/12/2025, 48 x 25), disse que o texto \"é o que era possível\" e que Bolsonaro aceitou \"sacrifício heroico em prol de um bem maior\"; em janeiro de 2026 anunciou que atuaria pela derrubada do veto, consumada em 30/04/2026.",
+   "data_fato": "2025-12-17",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro cogita negociar penas e quer projeto que negue tentativa de golpe de Estado",
+     "veiculo": "Diario de Pernambuco",
+     "url": "https://www.diariodepernambuco.com.br/politica/2025/10/11698835-flavio-bolsonaro-cogita-negociar-penas-e-quer-projeto-que-negue-tentativa-de-golpe-de-estado.html",
+     "data": "2025-10",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro celebra aprovação da Dosimetria no Senado: 'sacrifício heroico'",
+     "veiculo": "InfoMoney",
+     "url": "https://www.infomoney.com.br/?p=3145716",
+     "data": "2025-12-17",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro sobre aprovação do PL da Dosimetria: '1º degrau'",
+     "veiculo": "Revista Oeste",
+     "url": "https://www.revistaoeste.com/politica/flavio-bolsonaro-sobre-aprovacao-do-pl-da-dosimetria-1-degrau/",
+     "data": "2025-12-17",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Congresso derruba veto de Lula ao PL da Dosimetria",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/118503/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria",
+     "data": "2026-04-30",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Defensores argumentam que a lei corrige penas desproporcionais e falta de individualização; críticos e o ministro da Justiça Ricardo Lewandowski sustentam que crimes contra o Estado Democrático de Direito são insuscetíveis de anistia. A base do governo anunciou ação no STF contra a derrubada do veto.",
+   "limitacoes": "Atuação parlamentar regular; o voto nominal de Flávio nas sessões não foi confirmado nas fontes consultadas. A validade da lei não consta como decidida pelo STF."
+  },
+  {
+   "id": "democracia-flavio-08",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "candidatura condicionada: 'tenho preço'",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: em 07/12/2025, três dias após o lançamento da pré-candidatura, Flávio disse a jornalistas: \"Eu tenho preço para não ir até o fim. Vou negociar\"; questionado se o preço era a aprovação da anistia, respondeu \"Está quente\".",
+   "data_fato": "2025-12-07",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro diz que pode desistir da candidatura: 'existe um preço'",
+     "veiculo": "Diario de Pernambuco",
+     "url": "https://www.diariodepernambuco.com.br/politica/2025/12/11702344-flavio-bolsonaro-diz-que-pode-desistir-da-candidatura-existe-um-preco.html",
+     "data": "2025-12-07",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro dizer que 'tem um preço' escancara chantagem, diz Lindbergh",
+     "veiculo": "InfoMoney",
+     "url": "https://www.infomoney.com.br/politica/flavio-bolsonaro-dizer-que-tem-um-preco-escancara-chantagem-diz-lindbergh/",
+     "data": "2025-12",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O líder do PT na Câmara, Lindbergh Farias, classificou a fala como chantagem; aliados a trataram como estratégia de negociação política. Flávio manteve a candidatura.",
+   "limitacoes": "A declaração não especificou a contrapartida; não houve negociação formal comprovada."
+  },
+  {
+   "id": "democracia-flavio-09",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "anistia como promessa de governo",
+   "tipo": "PROMESSA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Promessa: em sabatina de 04/08/2026 (G4 e O Antagonista), Flávio afirmou que, se eleito, concederá anistia a Jair Bolsonaro e aos envolvidos nos atos de 8 de janeiro de 2023. Em 2025 cogitara indulto presidencial e disse que pretende dar cargo ao pai em eventual governo.",
+   "data_fato": "2026-08-04",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro critica atuação no caso Lulinha e promete anistia ao pai",
+     "veiculo": "A Crítica",
+     "url": "https://acritica.net/eleicoes-2026/flavio-bolsonaro-critica-atuacao-no-caso-lulinha-e-promete-anistia-ao-pai/",
+     "data": "2026-08-04",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio sustenta que anistia é competência do Congresso e instrumento constitucional; críticos sustentam que crimes contra o Estado Democrático de Direito não admitem anistia ou indulto, questão que dependeria do STF. Especialistas apontam que, mesmo perdoado, Bolsonaro seguiria inelegível.",
+   "limitacoes": "É promessa de campanha; a viabilidade jurídica não foi decidida. A reportagem não traz frase literal do candidato."
+  },
+  {
+   "id": "democracia-flavio-10",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "urnas: menção à Smartmatic a diplomatas",
+   "tipo": "ALEGACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Declaração refutada: em 21/07/2026, em encontro com diplomatas estrangeiros em Brasília, Flávio associou equipamentos usados no Brasil à empresa Smartmatic, citando relatório sobre as eleições venezuelanas de 2012, e pediu o envio do maior número possível de observadores; disse não estar questionando o sistema brasileiro. Em 22/07/2026 o TSE republicou comunicado afirmando ser falso que a Smartmatic forneça urnas ou softwares ao Brasil.",
+   "data_fato": "2026-07-21",
+   "fontes": [
+    {
+     "titulo": "TSE rebate fala de Flávio sobre veracidade das urnas: 'informações são falsas'",
+     "veiculo": "Diario de Pernambuco (Estadão Conteúdo)",
+     "url": "https://www.diariodepernambuco.com.br/politica/2026/07/11719324-tse-rebate-fala-de-flavio-sobre-veracidade-das-urnas-informacoes-sao-falsas.html",
+     "data": "2026-07-22",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro leva informações falsas sobre urnas em reunião com embaixadores e repete o pai",
+     "veiculo": "Jornal de Brasília",
+     "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/flavio-bolsonaro-leva-informacoes-falsas-sobre-urnas-em-reuniao-com-embaixadores-e-repete-o-pai/",
+     "data": "2026-07-22",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Caiado critica Flávio Bolsonaro por reunião com embaixadores para atacar as urnas eletrônicas",
+     "veiculo": "Jornal Opção",
+     "url": "https://www.jornalopcao.com.br/ultimas-noticias/caiado-critica-flavio-bolsonaro-por-reuniao-com-embaixadores-para-atacar-as-urnas-eletronicas-849607/",
+     "data": "2026-07",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio reconheceu o erro em 02/08/2026 (ver evidência seguinte). O ex-governador Ronaldo Caiado criticou a reunião; a imprensa comparou o episódio à reunião de Jair Bolsonaro com embaixadores em 2022, que levou à sua inelegibilidade pelo TSE em 2023.",
+   "limitacoes": "Pedido de observadores internacionais é prática admitida; o caráter falso refere-se à afirmação sobre a Smartmatic."
+  },
+  {
+   "id": "democracia-flavio-11",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "aceitação do resultado eleitoral de 2026 (declaração)",
+   "tipo": "OPINIAO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: no programa Canal Livre (Band), em 02/08/2026, Flávio disse que aceitará o resultado das eleições de 2026, que disputa dentro das regras da Justiça Eleitoral e que espera um TSE imparcial; reconheceu ter se expressado \"de forma incorreta\" sobre a Smartmatic e afirmou: \"O que sempre pedi foi mais segurança e transparência, nada além disso\".",
+   "data_fato": "2026-08-02",
+   "fontes": [
+    {
+     "titulo": "Flávio diz que aceitará resultado das urnas e reconhece erro ao citar Smartmatic",
+     "veiculo": "InfoMoney",
+     "url": "https://www.infomoney.com.br/politica/flavio-diz-que-aceitara-resultado-das-urnas-e-reconhece-erro-ao-citar-smartmatic/",
+     "data": "2026-08-03",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "'Aceitarei o resultado porque acredito que TSE será imparcial', diz Flávio",
+     "veiculo": "Band",
+     "url": "https://www.band.com.br/politica/eleicoes/2026/aceitarei-o-resultado-porque-acredito-que-tse-sera-imparcial-diz-flavio-202608012152",
+     "data": "2026-08-02",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A imprensa associou a mudança de tom à composição atual do TSE, presidido por Kassio Nunes Marques e com André Mendonça na vice-presidência, ambos indicados ao STF por Jair Bolsonaro. Flávio disse que continuará cobrando \"camadas extras de segurança\".",
+   "limitacoes": "Compromisso verbal; a conduta diante do resultado do 2º turno ainda não ocorreu."
+  },
+  {
+   "id": "democracia-flavio-12",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "reconhecimento do resultado do 1º turno",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Ato: na noite de 04/10/2026, Flávio celebrou o primeiro lugar (47,03% dos válidos, segundo o TSE), disse que o resultado mostra desejo de mudança e o \"fim da era do PT\" e prometeu campanha \"limpa\" no 2º turno, sem questionar a apuração.",
+   "data_fato": "2026-10-04",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro e Lula vão disputar o 2º turno para a Presidência da República",
+     "veiculo": "TSE",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
+     "data": "2026-10",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro diz que resultado do primeiro turno mostra desejo de mudança do brasileiro e o fim da era PT",
+     "veiculo": "Correio (Salvador)",
+     "url": "https://www.correio24horas.com.br/eleicoes/flavio-bolsonaro-diz-que-resultado-do-primeiro-turno-mostra-desejo-de-mudanca-do-brasileiro-e-o-fim-da-era-pt-1026",
+     "data": "2026-10-04",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula admite surpresa e Flávio celebra resultado; começa a batalha do segundo turno",
+     "veiculo": "Movimento Econômico",
+     "url": "https://movimentoeconomico.com.br/politica/2026/10/04/lula-admite-surpresa-e-flavio-celebra-resultado-comeca-a-batalha-do-segundo-turno/",
+     "data": "2026-10-04",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A ausência de contestação ocorreu em cenário de vitória parcial do candidato.",
+   "limitacoes": "Refere-se ao 1º turno, em que liderou; não indica conduta em caso de derrota."
+  },
+  {
+   "id": "democracia-flavio-13",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "Constituição: 'mudar a Constituição' e 'redemocratizar'",
+   "tipo": "PROMESSA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: em 06/10/2026, em Goiânia, Flávio disse que a maioria de direita eleita para o Congresso permitiria eleger os presidentes das Casas \"para a gente mudar a Constituição\" e \"redemocratizar\" o país, sem detalhar dispositivos. No dia seguinte afirmou que respeitará a Constituição, citou PECs (reforma do Judiciário, maioridade penal, fim da reeleição) e perguntou: \"Vocês acham que o Brasil está numa democracia plena hoje?\"",
+   "data_fato": "2026-10-06",
+   "fontes": [
+    {
+     "titulo": "Flávio diz que usará maioria de direita para mudar a Constituição",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/123051/flavio-diz-que-usara-maioria-de-direita-para-mudar-a-constituicao",
+     "data": "2026-10-07",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio cita PECs e diz que respeitará Constituição após fala sobre 'redemocratizar' o país",
+     "veiculo": "Midiamax (Agência Estado)",
+     "url": "https://midiamax.com.br/brasil/2026/flavio-cita-pecs-diz-respeitara-constituicao-apos-fala-redemocratizar-pais/",
+     "data": "2026-10-07",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro quer usar maioria no Congresso para mudar a Constituição e 'redemocratizar' o Brasil",
+     "veiculo": "RTP (Portugal)",
+     "url": "https://www.rtp.pt/noticias/mundo/flavio-bolsonaro-quer-usar-maioria-no-congresso-para-mudar-a-constituicao-e-redemocratizar-o-brasil_n1769995",
+     "data": "2026-10-07",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O esclarecimento posterior enquadra as mudanças como emendas constitucionais (três quintos dos votos, em dois turnos, em cada Casa); críticos leram a fala inicial como defesa de nova Constituição. O PL terá 121 deputados e 28 senadores a partir de 2027, abaixo do quórum de PEC.",
+   "limitacoes": "As fontes divergem na transcrição (\"redemocratizar\" ou \"democratizar\"); o vídeo original não foi consultado."
+  },
+  {
+   "id": "democracia-flavio-14",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "STF: reforma do Judiciário no plano de governo",
+   "tipo": "PROMESSA",
+   "sentido": "MISTO",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Promessa: o programa de governo registrado no TSE propõe fim das competências criminais originárias do STF, limitação das decisões monocráticas, revisão do escopo das ADPFs e dos legitimados para ADI e ADC, quarentena de um ano para ministros de Estado serem indicados ao STF e vedação de atuação de parentes de magistrados no respectivo tribunal, afirmando que \"nenhuma dessas medidas enfraquece o Judiciário\".",
+   "data_fato": "2026-08-13",
+   "fontes": [
+    {
+     "titulo": "Programa de governo de Flávio Bolsonaro registrado no TSE (política externa, p. 61 e 62; Judiciário e 'Tesouraço na Censura', p. 65 a 67)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/",
+     "data": "2026-08",
+     "tipo_fonte": "CAMPANHA"
+    },
+    {
+     "titulo": "Plano de Flávio Bolsonaro propõe mudanças no Judiciário e endurecimento penal",
+     "veiculo": "A Crítica",
+     "url": "https://acritica.net/eleicoes-2026/plano-de-flavio-bolsonaro-propoe-mudancas-no-judiciario-e-endurecimento-penal/",
+     "data": "2026-08-13",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Plano de governo de Flávio Bolsonaro propõe reforma do STF",
+     "veiculo": "SBT News (Coluna do Iander)",
+     "url": "https://sbtnews.sbt.com.br/colunas/coluna-do-iander/plano-de-governo-de-flavio-bolsonaro-propoe-reforma-do-stf",
+     "data": "2026-08",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Medidas semelhantes (limite a decisões monocráticas) foram aprovadas pelo Senado em 2023 (PEC 8/2021); Lula também defende vedação a parentes e mudanças na escolha de ministros. Críticos veem nas propostas resposta às decisões do STF contra Jair Bolsonaro; em live anterior Flávio prometeu indicar quatro ministros ao STF.",
+   "limitacoes": "São propostas que exigem, em grande parte, emenda constitucional; não há texto de PEC correspondente nas fontes."
+  },
+  {
+   "id": "democracia-flavio-15",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "liberdade de expressão: 'Tesouraço na Censura' e regulação das redes",
+   "tipo": "PROMESSA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Promessa e declaração: o programa propõe extinguir \"qualquer estrutura estatal que funcione como um 'Ministério da Verdade'\" e revogar atos do atual governo contra críticos. Em 04/06/2025 Flávio afirmou que o governo Lula usa o STF para \"calar a direita\" e busca devolver \"o monopólio da informação à grande mídia\", ao criticar a regulação das redes.",
+   "data_fato": "2025-06-04",
+   "fontes": [
+    {
+     "titulo": "Programa de governo de Flávio Bolsonaro registrado no TSE (política externa, p. 61 e 62; Judiciário e 'Tesouraço na Censura', p. 65 a 67)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/",
+     "data": "2026-08",
+     "tipo_fonte": "CAMPANHA"
+    },
+    {
+     "titulo": "Flávio afirma que governo Lula usa STF para 'calar a direita'",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-congresso/flavio-afirma-que-governo-lula-usa-stf-para-calar-a-direita/",
+     "data": "2025-06-04",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O governo e ministros do STF (Dino, Zanin) negam que a regulação implique censura; o plano não identifica quais estruturas ou atos seriam revogados nem apresenta alternativa regulatória.",
+   "limitacoes": "Alegação de censura sem especificação dos atos; não há decisão judicial que reconheça censura pelo governo nas fontes consultadas."
+  },
+  {
+   "id": "democracia-flavio-16",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "imprensa: defesa do sigilo de fonte",
+   "tipo": "OPINIAO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Declaração: em 11/08/2026, Flávio criticou busca e apreensão contra apontada fonte de um jornalista do Maranhão, prestou solidariedade aos profissionais de imprensa e disse que o episódio ameaça a liberdade de imprensa e o sigilo da fonte, atribuindo a medida a Alexandre de Moraes.",
+   "data_fato": "2026-08-11",
+   "fontes": [
+    {
+     "titulo": "Flávio serve churrasco a jornalistas e defende sigilo de fontes",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/121177/flavio-serve-churrasco-a-jornalistas-e-defende-sigilo-de-fontes",
+     "data": "2026-08-11",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Na mesma ocasião chamou Moraes de \"articulador político do Lula\". Editorial conjunto de 54 veículos, segundo o Le Monde Diplomatique Brasil, posicionou-se contra sua eleição, por preocupação com a relação com o jornalismo (opinião dos autores).",
+   "limitacoes": "Fonte única; a decisão judicial criticada não foi examinada."
+  },
+  {
+   "id": "democracia-flavio-17",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "democracia: avaliação sobre Jair Bolsonaro",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: em 24/08/2026, na Fiesp, Flávio disse que o pai \"nunca foi ameaça à democracia\", \"muito pelo contrário\", e que Jair Bolsonaro seria o \"último obstáculo\" para o país não se tornar uma ditadura; afirmou que, com o PT no governo, críticos poderiam ser presos \"por ameaçar a democracia\".",
+   "data_fato": "2026-08-24",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro diz que pai nunca foi ameaça à democracia: 'muito pelo contrário'",
+     "veiculo": "Diario de Pernambuco (Estadão Conteúdo)",
+     "url": "https://www.diariodepernambuco.com.br/politica/2026/08/11722095-flavio-bolsonaro-diz-que-pai-nunca-foi-ameaca-a-democracia-muito-pelo-contrario.html",
+     "data": "2026-08-24",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "AP 2668: 1ª Turma confirma início de cumprimento da pena de réus do Núcleo 1 da tentativa de golpe",
+     "veiculo": "STF (Portal de Notícias)",
+     "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-1a-turma-confirma-inicio-de-cumprimento-da-pena-de-reus-do-nucleo-1-da-tentativa-de-golpe/",
+     "data": "2025-11-26",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ],
+   "contraponto": "A afirmação contraria decisão definitiva do STF que condenou Jair Bolsonaro por tentativa de golpe de Estado e abolição violenta do Estado Democrático de Direito; aliados sustentam que o processo foi político e citam o voto divergente de Fux.",
+   "limitacoes": "Discordar de decisão judicial é lícito; a declaração não altera a decisão."
+  },
+  {
+   "id": "democracia-flavio-18",
+   "candidato": "flavio",
+   "criterio": "impactos",
+   "tema": "Venezuela: celebração da captura de Maduro",
+   "tipo": "OPINIAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Declaração: em 03/01/2026, Flávio comemorou no X a operação dos EUA que capturou Nicolás Maduro, disse que não foi invasão, mas \"libertação\" do povo venezuelano, repostou Javier Milei, ironizou a defesa da soberania venezuelana e afirmou que Lula \"será delatado\".",
+   "data_fato": "2026-01-03",
+   "fontes": [
+    {
+     "titulo": "Venezuela: bolsonaristas comemoram ação dos EUA contra Maduro",
+     "veiculo": "O Povo",
+     "url": "https://www.opovo.com.br/noticias/politica/2026/01/03/venezuela-bolsonaristas-comemoram-acao-dos-eua-contra-maduro.html",
+     "data": "2026-01-03",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Pré-candidatos à Presidência do Brasil repercutem ataque à Venezuela e captura de Maduro",
+     "veiculo": "Jornal de Brasília",
+     "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pre-candidatos-a-presidencia-do-brasil-repercutem-ataque-a-venezuela-e-captura-de-maduro/",
+     "data": "2026-01-03",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Defensores veem apoio à queda de um regime acusado de fraude eleitoral; críticos apontam endosso ao uso unilateral da força e à violação de soberania. Em 05/01/2026 a deputada Erika Hilton (PSOL) apresentou representação à PGR contra Flávio e Nikolas Ferreira por publicações que, segundo ela, sugeriam ação semelhante contra Lula (sem decisão localizada).",
+   "limitacoes": "A representação é alegação de adversária política, sem investigação aberta conhecida; a afirmação sobre delação de Lula não tem respaldo nas fontes."
+  },
+  {
+   "id": "democracia-flavio-19",
+   "candidato": "flavio",
+   "criterio": "impactos",
+   "tema": "Israel: alinhamento com Netanyahu e embaixada em Jerusalém",
+   "tipo": "PROMESSA",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Promessa e atos: em janeiro de 2026, Flávio participou em Jerusalém de conferência sobre antissemitismo e foi saudado por Netanyahu no Parlamento israelense. Em 08/10/2026, após conversa com Netanyahu, ambos prometeram \"renovar a profunda amizade\" e Flávio se comprometeu a transferir a embaixada brasileira de Tel Aviv para Jerusalém. O plano de governo diz que relações com EUA, Israel e Argentina foram levadas \"ao limite do rompimento\".",
+   "data_fato": "2026-10-08",
+   "fontes": [
+    {
+     "titulo": "Netanyahu dá boas-vindas a filhos de Bolsonaro e deseja sorte a Flávio na eleição",
+     "veiculo": "Diario de Pernambuco (Estadão Conteúdo)",
+     "url": "https://www.diariodepernambuco.com.br/politica/2026/01/11706161-netanyahu-da-boas-vindas-a-filhos-de-bolsonaro-e-deseja-sorte-a-flavio-na-eleicao.html",
+     "data": "2026-01",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio e Netanyahu prometem estreitar laços entre Brasil e Israel em caso de vitória",
+     "veiculo": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com.br/brasil/flavio-e-netanyahu-prometem-estreitar-lacos-entre-brasil-e-israel-em-caso-de-vitoria/",
+     "data": "2026-10-08",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Programa de governo de Flávio Bolsonaro registrado no TSE (política externa, p. 61 e 62; Judiciário e 'Tesouraço na Censura', p. 65 a 67)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/",
+     "data": "2026-08",
+     "tipo_fonte": "CAMPANHA"
+    }
+   ],
+   "contraponto": "A transferência foi anunciada por Jair Bolsonaro em 2019 e não implementada; a mudança tem implicações para a relação com países árabes, mercados de exportação, que as fontes não detalham.",
+   "limitacoes": "A Bloomberg Línea baseia-se em comunicado do governo israelense, sem fala direta de Flávio sobre prazos."
+  },
+  {
+   "id": "democracia-flavio-20",
+   "candidato": "flavio",
+   "criterio": "impactos",
+   "tema": "EUA: encontro com Trump e sobretaxa de 25% (2026)",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Ato: Flávio viajou aos EUA em 24/05/2026 e se reuniu com Donald Trump na Casa Branca; em 02/06/2026 Trump o chamou de \"jovem inteligente\". Flávio disse ter pedido \"não taxem as empresas brasileiras\" e prometeu relação de \"alto nível\" com o maior acordo de investimentos da história.",
+   "data_fato": "2026-06-02",
+   "fontes": [
+    {
+     "titulo": "Trump chama Flávio de 'jovem inteligente' após encontro",
+     "veiculo": "Metrópoles",
+     "url": "https://www.metropoles.com/mundo/flavio-trump-jovem-inteligente",
+     "data": "2026-06-02",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro viaja aos EUA para encontro com Trump e avisa Senado",
+     "veiculo": "Money Times",
+     "url": "https://www.moneytimes.com.br/flavio-bolsonaro-viaja-aos-eua-para-encontro-com-trump-e-avisa-senado/",
+     "data": "2026-05-25",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Na véspera (01/06/2026) os EUA anunciaram sobretaxa de 25% sobre produtos brasileiros; Lula atribuiu a medida à família Bolsonaro e associou-a à viagem, o que Flávio rejeitou.",
+   "limitacoes": "Não há prova pública do conteúdo das conversas reservadas nem nexo comprovado entre a viagem e a sobretaxa."
+  },
+  {
+   "id": "democracia-flavio-21",
+   "candidato": "flavio",
+   "criterio": "impactos",
+   "tema": "China e política externa 'pragmática' no plano",
+   "tipo": "PROMESSA",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Promessa: o plano de governo defende diplomacia \"guiada pelo profissionalismo e pelo pragmatismo, não pela ideologia\", promete negociar \"da China à União Europeia, dos Estados Unidos aos mercados asiáticos\" e critica o governo Lula por receber Maduro e por gestos em relação ao Irã.",
+   "data_fato": "2026-08",
+   "fontes": [
+    {
+     "titulo": "Programa de governo de Flávio Bolsonaro registrado no TSE (política externa, p. 61 e 62; Judiciário e 'Tesouraço na Censura', p. 65 a 67)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/",
+     "data": "2026-08",
+     "tipo_fonte": "CAMPANHA"
+    }
+   ],
+   "contraponto": "Analistas apontam o desafio de conciliar o alinhamento declarado com os EUA de Trump e a relação comercial com a China, principal destino das exportações brasileiras; segundo a cobertura, o plano não menciona o Brics.",
+   "limitacoes": "Diretriz genérica; não foram localizadas declarações datadas de Flávio sobre Rússia/Ucrânia nem medidas concretas em relação à China."
+  }
+ ],
+ "linha_do_tempo": [
+  {
+   "candidato": "ambos",
+   "data": "2023-01-08",
+   "titulo": "Ataques às sedes dos Três Poderes",
+   "descricao": "Invasão e depredação do Congresso, do Planalto e do STF em Brasília, uma semana após a posse de Lula.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "AP 2668: publicado acórdão da condenação do ex-presidente Bolsonaro e outros sete réus por tentativa de golpe",
+     "veiculo": "STF (Portal de Notícias)",
+     "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/",
+     "data": "2025-10-22",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2023-09-26",
+   "titulo": "Fala na CPMI sobre prisões 'nos moldes nazistas'",
+   "descricao": "Flávio compara prisões de 8 e 9 de janeiro a práticas nazistas; Instituto Brasil-Israel critica.",
+   "categoria": "legislativo",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro banaliza Holocausto ao compará-lo à prisão de golpistas, diz Instituto Brasil-Israel",
+     "veiculo": "Congresso em Foco",
+     "url": "https://congressoemfoco.com.br/noticia/8234/flavio-bolsonaro-banaliza-holocausto-ao-compara-lo-a-prisao-de-golpistas-diz-instituto-brasil-israel",
+     "data": "2023-09-27",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2024-02-18",
+   "titulo": "Fala sobre Gaza e Holocausto",
+   "descricao": "Lula fala em genocídio e compara a Hitler; Israel o declara persona non grata no dia seguinte.",
+   "categoria": "governo",
+   "fontes": [
+    {
+     "titulo": "Entenda o que Lula falou sobre Holocausto e Israel",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/politica/entenda-o-que-lula-falou-sobre-holocausto-e-israel/",
+     "data": "2024-02-19",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Israel declares Brazil's Lula persona non grata for comparing Gaza war to Holocaust",
+     "veiculo": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/israel-declares-brazils-lula-persona-non-grata-for-comparing-gaza-war-to-holocaust/amp/",
+     "data": "2024-02-19",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2025-03-06",
+   "titulo": "Contexto: EIU Democracy Index 2024",
+   "descricao": "Brasil cai seis posições, para 57º, nota 6,49, 'democracia falha'; relatório cita a suspensão do X pelo STF e a investigação da tentativa de golpe. Dado de contexto do país, sem atribuição pessoal. A nota do Brasil na edição 2025 (divulgada em 07/04/2026) não foi localizada.",
+   "categoria": "governo",
+   "fontes": [
+    {
+     "titulo": "Ações do STF enfraquecem a democracia brasileira, diz The Economist",
+     "veiculo": "Congresso em Foco",
+     "url": "https://congressoemfoco.com.br/noticia/106752/acoes-do-stf-enfraquecem-a-democracia-brasileira-diz-the-economist",
+     "data": "2025-03-06",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "EIU Democracy Index 2025: democracy stabilises after eight years of decline (press release)",
+     "veiculo": "EIU via Cision",
+     "url": "https://www.wboc.com/online_features/press_releases/eiu-democracy-index-2025-democracy-stabilises-after-eight-years-of-decline/article_f5093d35-ffe6-5980-9c06-377d4296380e.html",
+     "data": "2026-04-07",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2025-07-09",
+   "titulo": "Agradecimento a Trump no dia do anúncio da tarifa de 50%",
+   "descricao": "Publicação no X pede a Magnitsky; tarifa e sanção a Moraes formalizadas em 30/07/2025.",
+   "categoria": "legislativo",
+   "fontes": [
+    {
+     "titulo": "Flávio também agradeceu a Trump por tarifas em 2025",
+     "veiculo": "SBT News (Coluna do Ranier)",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/flavio-tambem-agradeceu-a-trump-por-tarifas-em-2025",
+     "data": "2026-08-29",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2025-07-23",
+   "titulo": "Pedido de impeachment de Moraes",
+   "descricao": "Protocolado no Senado; não pautado.",
+   "categoria": "legislativo",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro protocola pedido de impeachment de Moraes",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-congresso/flavio-bolsonaro-protocola-pedido-de-impeachment-de-moraes/",
+     "data": "2025-07-23",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2025-07-30",
+   "titulo": "Nota contra tarifa e sanção a Moraes",
+   "descricao": "Governo repudia interferência na Justiça e mantém negociação comercial.",
+   "categoria": "governo",
+   "fontes": [
+    {
+     "titulo": "Lula repudia tarifas de Trump e manifesta solidariedade a Moraes",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/110627/lula-repudia-tarifas-de-trump-e-manifesta-solidariedade-a-moraes",
+     "data": "2025-07-30",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2025-09-11",
+   "titulo": "STF condena Jair Bolsonaro na AP 2668",
+   "descricao": "1ª Turma, por 4 a 1 (vencido Fux), condena o núcleo central da trama golpista; pena de Bolsonaro de 27 anos e 3 meses.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "AP 2668: publicado acórdão da condenação do ex-presidente Bolsonaro e outros sete réus por tentativa de golpe",
+     "veiculo": "STF (Portal de Notícias)",
+     "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/",
+     "data": "2025-10-22",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Bolsonaro é condenado pelo STF por golpe de estado e outros crimes; pena é de 27 anos",
+     "veiculo": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com.br/brasil/jair-bolsonaro-e-considerado-culpado-pelo-stf-por-golpe-de-estado-e-mais-quatro-crimes/",
+     "data": "2025-09-11",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2025-11-25",
+   "titulo": "Trânsito em julgado para Bolsonaro, Ramagem e Torres",
+   "descricao": "1ª Turma referenda início do cumprimento das penas em 26/11/2025.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "STF encerra processo e Bolsonaro já pode cumprir pena",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-justica/stf-encerra-processo-e-bolsonaro-ja-pode-cumprir-pena/",
+     "data": "2025-11-25",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "AP 2668: 1ª Turma confirma início de cumprimento da pena de réus do Núcleo 1 da tentativa de golpe",
+     "veiculo": "STF (Portal de Notícias)",
+     "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-1a-turma-confirma-inicio-de-cumprimento-da-pena-de-reus-do-nucleo-1-da-tentativa-de-golpe/",
+     "data": "2025-11-26",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2025-12-07",
+   "titulo": "'Tenho preço para não ir até o fim'",
+   "descricao": "Flávio condiciona a pré-candidatura a negociação; sugere ligação com anistia.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro diz que pode desistir da candidatura: 'existe um preço'",
+     "veiculo": "Diario de Pernambuco",
+     "url": "https://www.diariodepernambuco.com.br/politica/2025/12/11702344-flavio-bolsonaro-diz-que-pode-desistir-da-candidatura-existe-um-preco.html",
+     "data": "2025-12-07",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2025-12-12",
+   "titulo": "EUA retiram Moraes da lista Magnitsky",
+   "descricao": "Medida ocorre após negociação comercial entre os governos.",
+   "categoria": "governo",
+   "fontes": [
+    {
+     "titulo": "EUA retiram Alexandre de Moraes e sua mulher, Viviane, de lista de sanções da Magnitsky",
+     "veiculo": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com.br/brasil/eua-retiram-alexandre-de-moraes-e-sua-mulher-viviane-de-lista-de-sancoes-da-magnitsky/",
+     "data": "2025-12-12",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2025-12-17",
+   "titulo": "Senado aprova PL da Dosimetria",
+   "descricao": "48 x 25; Flávio chama o texto de 'primeiro degrau'.",
+   "categoria": "legislativo",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro celebra aprovação da Dosimetria no Senado: 'sacrifício heroico'",
+     "veiculo": "InfoMoney",
+     "url": "https://www.infomoney.com.br/?p=3145716",
+     "data": "2025-12-17",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-01-03",
+   "titulo": "Captura de Maduro pelos EUA",
+   "descricao": "Lula condena ('linha inaceitável'); Flávio celebra ('libertação').",
+   "categoria": "governo",
+   "fontes": [
+    {
+     "titulo": "Lula diz que ataque à Venezuela 'é inaceitável'",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-governo/lula-diz-que-ataque-a-venezuela-e-inaceitavel/",
+     "data": "2026-01-03",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Venezuela: bolsonaristas comemoram ação dos EUA contra Maduro",
+     "veiculo": "O Povo",
+     "url": "https://www.opovo.com.br/noticias/politica/2026/01/03/venezuela-bolsonaristas-comemoram-acao-dos-eua-contra-maduro.html",
+     "data": "2026-01-03",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2026-01-08",
+   "titulo": "Veto integral ao PL da Dosimetria",
+   "descricao": "Anunciado na cerimônia de três anos do 8 de janeiro.",
+   "categoria": "governo",
+   "fontes": [
+    {
+     "titulo": "Lula veta projeto que previa redução de pena para Bolsonaro e outros envolvidos na trama do golpe",
+     "veiculo": "Diario de Pernambuco (Estadão Conteúdo)",
+     "url": "https://www.diariodepernambuco.com.br/politica/2026/01/11704605-lula-veta-projeto-que-previa-reducao-de-pena-para-bolsonaro-e-outros-envolvidos-na-trama-do-golpe.html",
+     "data": "2026-01-08",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-03",
+   "titulo": "Contexto: V-Dem Democracy Report 2026",
+   "descricao": "Classifica o Brasil como caso de 'U-turn democratization' (reversão após período de autocratização); análise acadêmica descreve a recuperação como parcial e frágil, com riscos de deslegitimação em 2026. Dado de contexto do país, sem atribuição pessoal.",
+   "categoria": "governo",
+   "fontes": [
+    {
+     "titulo": "V-Dem Institute, Democracy Report 2026 (PDF)",
+     "veiculo": "V-Dem Institute (cópia hospedada pela Universidad Externado)",
+     "url": "https://www.uexternado.edu.co/wp-content/uploads/2026/09/V-Dem_Institute_Democracy_Report_2026_lowres.pdf",
+     "data": "2026-03",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Brazil in the V-Dem Democracy Report 2026: Reversal, Resilience, and the Limits of Democratic Recovery",
+     "veiculo": "I-CONnect (blog do International Journal of Constitutional Law)",
+     "url": "https://www.iconnectblog.com/brazil-in-the-v-dem-democracy-report-2026-reversal-resilience-and-the-limits-of-democratic-recovery/",
+     "data": "2026-05-14",
+     "tipo_fonte": "ACADEMICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2026-04-17",
+   "titulo": "Lula diz que aceitará eventual vitória de Flávio",
+   "descricao": "Entrevista à Der Spiegel.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "'Quando povo toma decisão, temos que aceitar', diz Lula sobre eventual vitória de Flávio",
+     "veiculo": "Folha de Pernambuco (Agência O Globo), entrevista à Der Spiegel",
+     "url": "https://www.folhape.com.br/noticia/amp/481550/quando-povo-toma-decisao-temos-que-aceitar-diz-lula-sobre-eventual/",
+     "data": "2026-04-17",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-04-30",
+   "titulo": "Congresso derruba veto ao PL da Dosimetria",
+   "descricao": "Câmara 318 x 144; Senado 49 x 24; base do governo anuncia ação no STF.",
+   "categoria": "legislativo",
+   "fontes": [
+    {
+     "titulo": "Congresso derruba veto de Lula ao PL da Dosimetria",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/118503/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria",
+     "data": "2026-04-30",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-04-30",
+   "titulo": "Contexto: RSF, Índice de Liberdade de Imprensa 2026",
+   "descricao": "Brasil em 52º de 180 (66,37 pontos), ante 63º em 2025; RSF atribui a melhora à normalização das relações entre governo e imprensa após a gestão Bolsonaro, mas aponta concentração de mídia, violência contra jornalistas locais e desinformação. Em 16/09/2026 a RSF considerou insuficientes as medidas do TSE contra desinformação eleitoral.",
+   "categoria": "governo",
+   "fontes": [
+    {
+     "titulo": "Brazil (World Press Freedom Index 2026)",
+     "veiculo": "Repórteres sem Fronteiras (RSF)",
+     "url": "https://rsf.org/en/country/brazil",
+     "data": "2026-04-30",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Brasil sobe em ranking de liberdade de imprensa e ultrapassa EUA pela 1ª vez",
+     "veiculo": "SBT News",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/brasil-sobe-em-ranking-de-liberdade-de-imprensa-e-ultrapassa-eua-pela-1-vez",
+     "data": "2026-04-30",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-07-21",
+   "titulo": "Menção à Smartmatic em encontro com diplomatas",
+   "descricao": "TSE republica nota no dia seguinte classificando a informação como falsa.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "TSE rebate fala de Flávio sobre veracidade das urnas: 'informações são falsas'",
+     "veiculo": "Diario de Pernambuco (Estadão Conteúdo)",
+     "url": "https://www.diariodepernambuco.com.br/politica/2026/07/11719324-tse-rebate-fala-de-flavio-sobre-veracidade-das-urnas-informacoes-sao-falsas.html",
+     "data": "2026-07-22",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-08-02",
+   "titulo": "Flávio diz que aceitará o resultado",
+   "descricao": "Canal Livre (Band); reconhece erro sobre a Smartmatic.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Flávio diz que aceitará resultado das urnas e reconhece erro ao citar Smartmatic",
+     "veiculo": "InfoMoney",
+     "url": "https://www.infomoney.com.br/politica/flavio-diz-que-aceitara-resultado-das-urnas-e-reconhece-erro-ao-citar-smartmatic/",
+     "data": "2026-08-03",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-04",
+   "titulo": "1º turno presidencial",
+   "descricao": "Flávio 47,03% e Lula 45,16% dos válidos; ambos reconhecem o resultado.",
+   "categoria": "eleicao",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro e Lula vão disputar o 2º turno para a Presidência da República",
+     "veiculo": "TSE",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
+     "data": "2026-10",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-10-06",
+   "titulo": "'Mudar a Constituição' e 'redemocratizar'",
+   "descricao": "Fala em Goiânia; no dia seguinte diz que respeitará a Constituição e cita PECs.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Flávio diz que usará maioria de direita para mudar a Constituição",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/123051/flavio-diz-que-usara-maioria-de-direita-para-mudar-a-constituicao",
+     "data": "2026-10-07",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio cita PECs e diz que respeitará Constituição após fala sobre 'redemocratizar' o país",
+     "veiculo": "Midiamax (Agência Estado)",
+     "url": "https://midiamax.com.br/brasil/2026/flavio-cita-pecs-diz-respeitara-constituicao-apos-fala-redemocratizar-pais/",
+     "data": "2026-10-07",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2026-10-08",
+   "titulo": "TSE manda remover vídeos de Lula contra Flávio",
+   "descricao": "Decisões monocráticas provisórias de Mendonça e Nunes Marques, sujeitas ao plenário.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "TSE manda retirar do ar publicações de Lula, Janja e deputados com críticas a Flávio Bolsonaro",
+     "veiculo": "Diário do Grande ABC (Estadão Conteúdo)",
+     "url": "https://www.dgabc.com.br/Noticia/4351884/tse-manda-retirar-do-ar-publicacoes-de-lula-janja-e-deputados-com-criticas-a-flavio-bolsonaro",
+     "data": "2026-10-09",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-19",
+   "titulo": "Contexto: Freedom House, Freedom in the World 2026",
+   "descricao": "Edição 2026, consultada em 19/10/2026 (data de publicação não verificada). Brasil 'Livre', 73/100 (72 na edição anterior); direitos políticos 30/40 e liberdades civis 43/60; notas mais baixas em proteção contra uso ilegítimo da força (1/4) e devido processo (2/4); independência judicial 3/4.",
+   "categoria": "governo",
+   "fontes": [
+    {
+     "titulo": "Brazil: Freedom in the World 2026 Country Report",
+     "veiculo": "Freedom House",
+     "url": "https://freedomhouse.org/country/brazil/freedom-world/2026",
+     "data": "2026-10-19",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ]
+  }
+ ],
+ "lacunas": [
+  "Lula: não foi localizada, com data e fonte verificável, declaração específica de Lula em 2025-2026 com críticas a jornalistas ou veículos; registros encontrados são de 2018-2020 (fora do período).",
+  "Lula: as críticas à Procuradoria Nacional da Defesa da Democracia (AGU) e a notificações extrajudiciais de remoção de conteúdo foram encontradas apenas em veículos de oposição e sem data precisa do fato; não registradas como evidência.",
+  "Lula: o decreto de intervenção federal na segurança do DF em 08/01/2023 não pôde ser conferido no Planalto (falha de acesso); não registrado.",
+  "Flávio: não foram localizadas declarações datadas sobre Rússia/Ucrânia nem posição específica e datada sobre China além do plano de governo (reportagem da Revista Oeste sobre 'relação pragmática' com a China retornou erro de acesso).",
+  "Flávio: voto nominal nas sessões do PL da Dosimetria (17/12/2025) e da derrubada do veto (30/04/2026) não confirmado nas fontes; consultar registro nominal do Senado.",
+  "Flávio: resultado da petição do PSOL ao STF para incluí-lo em inquérito sobre articulação com o governo americano e da representação de Erika Hilton à PGR (05/01/2026) não localizado.",
+  "Flávio: pedido de impeachment de Moraes ligado a mensagens de Daniel Vorcaro (2026) citado em buscas, sem data e autoria confirmadas; não registrado.",
+  "Ambos: nota e posição do Brasil no EIU Democracy Index 2025 (divulgado em 07/04/2026) não localizadas; usado o índice 2024 como contexto.",
+  "Ambos: não localizadas manifestações posteriores a 07/10/2026 sobre aceitação do resultado do 2º turno (25/10/2026).",
+  "Ambos: pedido da defesa de Jair Bolsonaro (maio de 2026) de anulação da condenação por trânsito em julgado precoce sem resultado localizado; a busca da pesquisa atingiu o limite de consultas antes de nova verificação."
+ ]
+}

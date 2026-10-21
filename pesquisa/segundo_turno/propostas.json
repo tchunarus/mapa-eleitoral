@@ -1,0 +1,1612 @@
+{
+ "frente": "propostas",
+ "evidencias": [
+  {
+   "id": "propostas-lula-01",
+   "candidato": "lula",
+   "criterio": "propostas",
+   "tema": "grau de detalhamento",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Das 18 propostas do plano de Lula selecionadas nesta frente, 4 têm meta, valor ou prazo (ALTO), 10 trazem medida específica (MEDIO) e 4 são diretrizes genéricas (BAIXO). As metas quantificadas incluem 80% de alfabetização na idade certa, desmatamento líquido zero até 2030, 30 Casas da Mulher Brasileira e jornada de 40 horas; boa parte do texto descreve continuidade de programas já existentes, com números de execução do mandato atual e não de metas futuras.",
+   "data_fato": "2026-08",
+   "fontes": [
+    {
+     "titulo": "Programa de governo de Luiz Inácio Lula da Silva: Diretrizes para o Programa de Transformação do Brasil (registrado no TSE)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+     "data": "2026-09-29",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ],
+   "contraponto": "A campanha apresenta o programa como continuidade de políticas já implementadas, o que, em sua visão, dá lastro de execução às propostas.",
+   "limitacoes": "A classificação é desta pesquisa e depende da seleção de propostas; não mede qualidade técnica nem mérito."
+  },
+  {
+   "id": "propostas-lula-02",
+   "candidato": "lula",
+   "criterio": "propostas",
+   "tema": "fontes de custeio",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "O plano não indica custo nem fonte de recurso para nenhuma das 18 propostas selecionadas, exceto referências a fundos e programas já existentes. A seção econômica afirma que o resultado fiscal virá do crescimento, do controle do gasto primário e da justiça tributária, sem metas numéricas para 2027 a 2030.",
+   "data_fato": "2026-08",
+   "fontes": [
+    {
+     "titulo": "Programa de governo de Luiz Inácio Lula da Silva: Diretrizes para o Programa de Transformação do Brasil (registrado no TSE)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+     "data": "2026-09-29",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Plano de governo de Lula mantém gastos e não prevê cortes (Célio Yano)",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-de-governo-lula-economia/",
+     "data": "2026-08-17",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A campanha sustenta que o arcabouço fiscal limita o crescimento das despesas e que o déficit primário de 2026 deve ficar perto de 0,4% do PIB.",
+   "limitacoes": "Ausência de custeio no plano não implica, por si, que as medidas sejam inviáveis; muitas são continuidade de despesas já orçadas."
+  },
+  {
+   "id": "propostas-lula-03",
+   "candidato": "lula",
+   "criterio": "propostas",
+   "tema": "regra fiscal e dívida",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "A Gazeta do Povo avaliou que o plano de Lula não apresenta agenda de redução de despesas e que a manutenção do arcabouço não impediu a alta da dívida bruta, de 71,4% para 81,9% do PIB desde 2023, segundo o Banco Central.",
+   "data_fato": "2026-08-17",
+   "fontes": [
+    {
+     "titulo": "Plano de governo de Lula mantém gastos e não prevê cortes (Célio Yano)",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-de-governo-lula-economia/",
+     "data": "2026-08-17",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O plano afirma que houve esforço fiscal de cerca de 2% do PIB entre 2023 e 2026 e que o déficit primário encerrará 2026 próximo de 0,4% do PIB.",
+   "limitacoes": "A crítica é do veículo; os economistas mencionados não são identificados."
+  },
+  {
+   "id": "propostas-lula-04",
+   "candidato": "lula",
+   "criterio": "impactos",
+   "tema": "pacote de medidas de 2026 e 2027",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Levantamento da Folhapress somou R$ 290 bilhões em medidas do governo para 2026 e 2027 (R$ 234,9 bilhões em 2026 e R$ 55,1 bilhões em 2027). Alexandre Andrade, diretor da IFI, estimou alta de 1,2 ponto percentual na dívida bruta até o fim de 2027 e necessidade de remanejamento no Orçamento de 2027.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Pacote eleitoral de Lula atinge R$ 290 bi e pressiona a dívida pública (Idiana Tomazelli e Guilherme Pimenta, Folhapress)",
+     "veiculo": "Estado de Minas / Folhapress",
+     "url": "https://www.em.com.br/politica/2026/10/7522889-pacote-eleitoral-de-lula-atinge-rs-290-bi-e-pressiona-a-divida-publica.html",
+     "data": "2026-10-18",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O Ministério do Planejamento afirma que as medidas têm naturezas, fontes e prazos distintos e não deveriam ser somadas; a Fazenda diz que os ajustes ao PLOA 2027 respeitarão a meta e o arcabouço.",
+   "limitacoes": "Trata de medidas de governo, não do programa eleitoral; a soma reúne itens de naturezas diferentes, como subsídios emergenciais a combustíveis."
+  },
+  {
+   "id": "propostas-lula-05",
+   "candidato": "lula",
+   "criterio": "impactos",
+   "tema": "efeito fiscal das novas medidas",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Felipe Salto (Warren) estimou que os efeitos fiscais agregados das novas medidas do governo podem chegar a R$ 43,6 bilhões em 2027 e a R$ 195,6 bilhões até 2030. A reportagem registrou que a meta de superávit de R$ 18,6 bilhões do PLOA 2027 exigiria abatimentos de mais de R$ 64 bilhões, calculados antes dos programas anunciados na campanha, e que a campanha não detalhou medidas de ajuste.",
+   "data_fato": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "Ajuste fiscal é lacuna dos candidatos, dizem economistas (Rosana Hessel)",
+     "veiculo": "Correio Braziliense",
+     "url": "https://www.correiobraziliense.com.br/economia/2026/10/7522909-incertezas-na-economia.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Salto afirmou, em outra reportagem, não haver descumprimento da Lei Eleitoral nem da LRF.",
+   "limitacoes": "Estimativa de um analista privado; não é cálculo oficial."
+  },
+  {
+   "id": "propostas-lula-06",
+   "candidato": "lula",
+   "criterio": "propostas",
+   "tema": "passe livre aos fins de semana",
+   "tipo": "PROMESSA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 15/10/2026, nas redes sociais, Lula anunciou que enviará PEC de passe livre no transporte público aos fins de semana, proposta ausente do plano registrado no TSE. Integrantes não identificados da equipe econômica estimaram custo de R$ 5 a 6 bilhões por ano; o deputado Jilmar Tatto (PT-SP) citou R$ 16 bilhões. A PEC não havia sido apresentada.",
+   "data_fato": "2026-10-15",
+   "fontes": [
+    {
+     "titulo": "Lula propõe usar emendas para financiar tarifa zero aos fins de semana",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/123316/lula-propoe-usar-emendas-para-financiar-tarifa-zero-aos-fins-de-semana",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Governo estima custo de até R$ 6 bilhões por ano com passe livre (Coluna da Victoria Abel)",
+     "veiculo": "SBT News",
+     "url": "https://sbtnews.sbt.com.br/colunas/coluna-da-victoria/governo-estima-custo-de-ate-r-6-bilhoes-por-ano-com-passe-livre",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A campanha indicou o compartilhamento do custeio com emendas parlamentares; em algumas capitais já há gratuidade municipal aos domingos.",
+   "limitacoes": "Não há texto da PEC nem estimativa oficial publicada; as estimativas divergem e têm escopos diferentes."
+  },
+  {
+   "id": "propostas-lula-07",
+   "candidato": "lula",
+   "criterio": "propostas",
+   "tema": "emendas: plano e discurso",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Há tensão entre o plano, que qualifica as emendas parlamentares como distorção que 'sequestra' o orçamento (p. 15 e 16), e a proposta de campanha de custear o passe livre compartilhando recursos com essas emendas. O Congresso em Foco registrou que R$ 16 bilhões equivaleriam a 26% das emendas previstas para 2026.",
+   "data_fato": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "Programa de governo de Luiz Inácio Lula da Silva: Diretrizes para o Programa de Transformação do Brasil (registrado no TSE)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+     "data": "2026-09-29",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Lula propõe usar emendas para financiar tarifa zero aos fins de semana",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/123316/lula-propoe-usar-emendas-para-financiar-tarifa-zero-aos-fins-de-semana",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A proposta pode ser lida como tentativa de dar destinação vinculada às emendas, o que seria compatível com a crítica à dispersão de recursos.",
+   "limitacoes": "Avaliação desta pesquisa a partir da comparação de textos; a forma de financiamento não foi detalhada."
+  },
+  {
+   "id": "propostas-lula-08",
+   "candidato": "lula",
+   "criterio": "propostas",
+   "tema": "fim da escala 6x1",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "A proposta mais quantificada do plano na área do trabalho (40 horas sem redução salarial, nos termos aprovados na Câmara) foi concretizada antes da eleição: o Senado aprovou a PEC 221/2019 em dois turnos em 14/10/2026 (75 a 1) e o Congresso a promulgou em 16/10/2026, com transição de 42 horas em 60 dias e 40 horas em 14 meses após a publicação.",
+   "data_fato": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "Congresso promulga PEC que extingue a escala de trabalho 6 X 1",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-congresso/congresso-promulga-pec-que-extingue-a-escala-de-trabalho-6-x-1/",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Senado aprova PEC do fim da escala 6x1 em primeiro turno com 75 votos favoráveis e 1 contra",
+     "veiculo": "Bahia Notícias",
+     "url": "https://www.bahianoticias.com.br/noticia/322453-senado-aprova-pec-do-fim-da-escala-6x1-em-primeiro-turno-com-75-votos-favoraveis-e-1-contra",
+     "data": "2026-10-14",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A PEC tramitava desde 2019 e foi aprovada com apoio de quase todas as bancadas, inclusive da oposição; a autoria e o mérito não são exclusivos do governo.",
+   "limitacoes": "A aprovação mostra viabilidade política da medida, não seus efeitos econômicos."
+  },
+  {
+   "id": "propostas-lula-09",
+   "candidato": "lula",
+   "criterio": "impactos",
+   "tema": "fim da escala 6x1",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "As estimativas de impacto da redução de jornada divergem: entidades empresariais (CNI, CNC, Firjan) projetam aumentos expressivos de custo de pessoal e preços, enquanto o Ipea estimou custo extra médio do trabalho de 7,8% e impacto de 1% a 6,6% no custo total das empresas, com necessidade de apoio a empresas de até nove empregados.",
+   "data_fato": "2026-04",
+   "fontes": [
+    {
+     "titulo": "Fim da escala 6x1: estudos divergem sobre impactos no PIB e inflação",
+     "veiculo": "Diario de Pernambuco",
+     "url": "https://www.diariodepernambuco.com.br/economia/2026/04/11713101-fim-da-escala-6x1-estudos-divergem-sobre-impactos-no-pib-e-inflacao.html",
+     "data": "2026-04",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Defensores da medida apontam ganhos de saúde e produtividade; críticos apontam risco de informalidade e inflação.",
+   "limitacoes": "Valores obtidos de resultado de busca e da reportagem indicada; recomenda-se conferir os estudos originais. A medida já não é apenas proposta, pois foi promulgada."
+  },
+  {
+   "id": "propostas-lula-10",
+   "candidato": "lula",
+   "criterio": "impactos",
+   "tema": "Pé-de-Meia",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Estudo do Insper (março de 2026), por simulação ex-ante, estimou redução de 6,3 pontos percentuais na evasão de jovens vulneráveis com acesso ao Pé-de-Meia. Em fevereiro de 2025, o TCU deu 120 dias ao governo para adequar o programa às regras orçamentárias, após questionamento sobre pagamentos fora do Orçamento.",
+   "data_fato": "2026-03-13",
+   "fontes": [
+    {
+     "titulo": "Insper lança livro que avalia impacto do Pé-de-Meia e aponta caminhos para reduzir evasão no ensino médio",
+     "veiculo": "Insper",
+     "url": "https://www.insper.edu.br/pt/conteudos/politicas-publicas/insper-lanca-livro-que-avalia-impacto-do-pe-de-meia-e-aponta-caminhos-para-reduzir-evasao-no-ensino-medio",
+     "data": "2026-03-13",
+     "tipo_fonte": "ACADEMICA"
+    },
+    {
+     "titulo": "TCU determina 120 dias para governo tomar providências para incluir Pé-de-Meia no Orçamento",
+     "veiculo": "Diário do Grande ABC",
+     "url": "https://www.dgabc.com.br/Noticia/4203307/tcu-determina-120-dias-para-governo-tomar-providencias-para-incluir-pe-de-meia-no-orcamento",
+     "data": "2025-02-12",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O governo defendeu a legalidade do modelo e buscou incluir o programa no orçamento anual da Educação.",
+   "limitacoes": "A estimativa do Insper não é avaliação de resultado observado; não se confirmou nesta pesquisa a situação orçamentária do programa em 2026."
+  },
+  {
+   "id": "propostas-lula-11",
+   "candidato": "lula",
+   "criterio": "propostas",
+   "tema": "Ministério da Segurança Pública",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "A criação do Ministério da Segurança Pública está condicionada, no próprio plano, à aprovação da PEC da Segurança. A PEC foi aprovada na Câmara em março de 2026 e na CCJ do Senado em 14/10/2026, sem alteração do texto; o resultado do plenário do Senado, previsto para 15/10/2026, não foi confirmado nesta pesquisa.",
+   "data_fato": "2026-10-14",
+   "fontes": [
+    {
+     "titulo": "PEC da Segurança Pública é aprovada na Câmara",
+     "veiculo": "Revista Oeste",
+     "url": "https://revistaoeste.com/politica/pec-da-seguranca-publica-e-aprovada-na-camara/",
+     "data": "2026-03",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "CCJ do Senado aprova PEC da Segurança Pública; texto segue para o plenário",
+     "veiculo": "Diário do Nordeste",
+     "url": "https://diariodonordeste.verdesmares.com.br/pontopoder/ccj-do-senado-aprova-pec-da-seguranca-publica-texto-segue-para-o-plenario-1.3798560",
+     "data": "2026-10-14",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "PEC da Segurança não tira autonomia dos estados, dizem analistas",
+     "veiculo": "Agência Pública",
+     "url": "https://apublica.org/2025/12/pec-da-seguranca-nao-tira-autonomia-dos-estados-dizem-analistas/",
+     "data": "2025-12",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Governadores e parlamentares de oposição criticaram possível interferência federal nos estados; analistas ouvidos pela Agência Pública negaram perda de autonomia estadual.",
+   "limitacoes": "A proposta depende de evento legislativo cujo desfecho não foi verificado."
+  },
+  {
+   "id": "propostas-lula-12",
+   "candidato": "lula",
+   "criterio": "impactos",
+   "tema": "salário mínimo e Previdência",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "A continuidade da valorização do salário mínimo, prevista no plano, tem efeito redistributivo reconhecido por Guilherme Klein (UFRJ), mas Daniel Duque (FGV/IBRE) avaliou que a política 'definitivamente não é sustentável a longo prazo', dado que cerca de 70% dos beneficiários do INSS recebem o piso.",
+   "data_fato": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "O que Flávio Bolsonaro e Lula propõem sobre reajuste do salário mínimo e aposentadorias (Iara Diniz, BBC News Brasil)",
+     "veiculo": "BBC News Brasil, republicado por O Povo",
+     "url": "https://www.opovo.com.br/agencia/bbc/2026/10/19/o-que-flavio-bolsonaro-e-lula-propoem-sobre-reajuste-do-salario-minimo-e-aposentadorias.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O governo atribui à política ganhos reais de renda e de consumo; o plano não prevê alteração da vinculação.",
+   "limitacoes": "Avaliações individuais; não há estimativa de custo da regra para 2027 a 2030 nas fontes consultadas."
+  },
+  {
+   "id": "propostas-lula-13",
+   "candidato": "lula",
+   "criterio": "propostas",
+   "tema": "isenção do IR e compensação",
+   "tipo": "DADO_OFICIAL",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "O plano apresenta a isenção do IR até R$ 5.000 como marco de justiça tributária. Segundo a Folhapress, a renúncia foi estimada em R$ 28 bilhões em 2026, enquanto a compensação prevista com a retenção de IR sobre dividendos caiu de R$ 29,9 bilhões para R$ 10,5 bilhões.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Programa de governo de Luiz Inácio Lula da Silva: Diretrizes para o Programa de Transformação do Brasil (registrado no TSE)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+     "data": "2026-09-29",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Pacote eleitoral de Lula atinge R$ 290 bi e pressiona a dívida pública (Idiana Tomazelli e Guilherme Pimenta, Folhapress)",
+     "veiculo": "Estado de Minas / Folhapress",
+     "url": "https://www.em.com.br/politica/2026/10/7522889-pacote-eleitoral-de-lula-atinge-rs-290-bi-e-pressiona-a-divida-publica.html",
+     "data": "2026-10-18",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O governo trata a isenção como compensada no desenho aprovado pelo Congresso.",
+   "limitacoes": "Números de estimativa oficial reportados pela imprensa; a medida já é lei e não proposta nova."
+  },
+  {
+   "id": "propostas-flavio-01",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "grau de detalhamento",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Das 18 propostas do plano de Flávio Bolsonaro selecionadas nesta frente, 8 têm meta, valor ou prazo (ALTO), 9 trazem medida específica (MEDIO) e 1 são diretrizes genéricas (BAIXO). Há metas numéricas como crescimento de 4% ao ano, R$ 900 bilhões em infraestrutura, 2,5 milhões de moradias, corte de ao menos 10 ministérios, 500 mil vagas prisionais, desmatamento ilegal zero até 2029 e dobrar o investimento federal em segurança.",
+   "data_fato": "2026-08",
+   "fontes": [
+    {
+     "titulo": "Plano de governo de Flávio Bolsonaro 2027 a 2030 (registrado no TSE)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017104726",
+     "data": "2026-09-29",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ],
+   "contraponto": "Críticos observam que metas numéricas sem custo e cronograma não equivalem a detalhamento operacional.",
+   "limitacoes": "A classificação é desta pesquisa e depende da seleção de propostas; não mede qualidade técnica nem mérito."
+  },
+  {
+   "id": "propostas-flavio-02",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "fontes de custeio",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "O plano não estima o custo das desonerações, da redução do custo do trabalho, do aumento do investimento em segurança ou da correção da tabela SUS, nem a economia do corte de ministérios. A única fonte de recursos descrita é a do programa de infraestrutura (fundo lastreado em ativos e imóveis da União, PPPs, concessões e BNDES), sem divisão entre recursos públicos e privados.",
+   "data_fato": "2026-08",
+   "fontes": [
+    {
+     "titulo": "Plano de governo de Flávio Bolsonaro 2027 a 2030 (registrado no TSE)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017104726",
+     "data": "2026-09-29",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "O que se sabe sobre o plano econômico de Flávio Bolsonaro (Camila Nascimento e Simone Kafruni)",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-eleicoes/o-que-se-sabe-sobre-o-plano-economico-de-flavio-bolsonaro/",
+     "data": "2026-10-13",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Tesouraço: o que prevê a cartilha de Flávio Bolsonaro para a economia",
+     "veiculo": "Forbes Brasil",
+     "url": "https://forbes.com.br/forbes-money/2026/10/tesouraco-flavio-bolsonaro-plano-economico/",
+     "data": "2026-10-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A coordenação econômica afirma que o 'tesouraço' na despesa e a securitização de ativos financiariam o conjunto.",
+   "limitacoes": "A ausência de custeio no documento não comprova inviabilidade; a campanha pode detalhar medidas após a eleição."
+  },
+  {
+   "id": "propostas-flavio-03",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "meta de corte e securitização",
+   "tipo": "ALEGACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Fora do plano, a coordenadora econômica Daniella Marques afirmou à GloboNews, em 03/08/2026, que o corte de despesas seria de 1,5% do PIB (cerca de R$ 190 bilhões) e que a securitização da dívida ativa poderia gerar R$ 200 a 400 bilhões, sem detalhar a contribuição de cada medida nem as despesas permanentes a reduzir.",
+   "data_fato": "2026-08-03",
+   "fontes": [
+    {
+     "titulo": "Daniella Marques diz que plano de Flávio Bolsonaro prevê corte de R$ 190 bi em gastos",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/daniella-marques-diz-que-plano-de-flavio-bolsonaro-preve-corte-de-r-190-bi-em-gastos/",
+     "data": "2026-08-03",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Adolfo Sachsida, também da campanha, falou em reorganizar as contas em até 18 meses com PEC de consolidação fiscal e preservação de aposentadorias e benefícios sociais.",
+   "limitacoes": "Declaração de integrante da campanha, sem documento técnico; receitas de securitização são extraordinárias e não financiam despesas permanentes por si."
+  },
+  {
+   "id": "propostas-flavio-04",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "consistência interna do ajuste",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Economistas ouvidos pelo Correio Braziliense questionaram a coerência entre corte de impostos, superávits e ampliação de gastos: Monica de Bolle (Peterson Institute) disse que 'a conta das promessas não fecha de jeito algum'; Sergio Vale (MB Associados), que o corte 'não para em pé'; Alessandra Ribeiro (Tendências), que faltam detalhes. A reportagem registrou que Flávio prometeu não mexer no reajuste do Bolsa Família nem nos pisos de saúde e educação, o que limita o corte.",
+   "data_fato": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "Ajuste fiscal é lacuna dos candidatos, dizem economistas (Rosana Hessel)",
+     "veiculo": "Correio Braziliense",
+     "url": "https://www.correiobraziliense.com.br/economia/2026/10/7522909-incertezas-na-economia.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A campanha nega cortes em benefícios sociais e afirma que o ajuste viria de despesas administrativas, estatais e venda ou securitização de ativos.",
+   "limitacoes": "Avaliações de analistas privados; não há cálculo oficial independente do plano."
+  },
+  {
+   "id": "propostas-flavio-05",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "tamanho do corte e despesas discricionárias",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Guilherme Klein (UFRJ, Made/USP) comparou o corte de cerca de R$ 250 bilhões atribuído à equipe com as despesas discricionárias do Executivo previstas para 2027 (cerca de R$ 222 bilhões) e avaliou como 'zero' a viabilidade orçamentária de conciliar o ajuste com reajustes reais do mínimo e das aposentadorias. Daniel Duque (FGV/IBRE) considerou a correção apenas pela inflação insuficiente para resolver a situação fiscal.",
+   "data_fato": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "O que Flávio Bolsonaro e Lula propõem sobre reajuste do salário mínimo e aposentadorias (Iara Diniz, BBC News Brasil)",
+     "veiculo": "BBC News Brasil, republicado por O Povo",
+     "url": "https://www.opovo.com.br/agencia/bbc/2026/10/19/o-que-flavio-bolsonaro-e-lula-propoem-sobre-reajuste-do-salario-minimo-e-aposentadorias.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A campanha afirma que propostas discutidas em conversas informais não representam sua posição oficial.",
+   "limitacoes": "O valor de R$ 250 bilhões vem de reportagem sobre estudos internos e não consta do plano registrado."
+  },
+  {
+   "id": "propostas-flavio-06",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "salário mínimo e aposentadorias: plano e discurso",
+   "tipo": "PROMESSA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em entrevista à TV Globo em 16/10/2026, Flávio afirmou que manterá reajustes do mínimo acima da inflação e não desvinculará as aposentadorias do piso. Esses compromissos não constam do plano registrado no TSE, que não traz fórmula de reajuste, e contrastam com relatos de estudos da equipe para corrigir Previdência e BPC apenas pela inflação.",
+   "data_fato": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "O que Flávio Bolsonaro e Lula propõem sobre reajuste do salário mínimo e aposentadorias (Iara Diniz, BBC News Brasil)",
+     "veiculo": "BBC News Brasil, republicado por O Povo",
+     "url": "https://www.opovo.com.br/agencia/bbc/2026/10/19/o-que-flavio-bolsonaro-e-lula-propoem-sobre-reajuste-do-salario-minimo-e-aposentadorias.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "O que se sabe sobre o plano econômico de Flávio Bolsonaro (Camila Nascimento e Simone Kafruni)",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-eleicoes/o-que-se-sabe-sobre-o-plano-economico-de-flavio-bolsonaro/",
+     "data": "2026-10-13",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A campanha nega que os estudos relatados sejam posição oficial; Sachsida disse em setembro que a equipe preparou medidas para manter a vinculação.",
+   "limitacoes": "A promessa verbal pode ser incorporada a documentos posteriores; a contradição é entre fontes de campanha, não um ato de governo."
+  },
+  {
+   "id": "propostas-flavio-07",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "compra e congelamento de dívidas",
+   "tipo": "PROMESSA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "No debate de 18/10/2026, Flávio propôs que o governo compre dívidas da população com os bancos, congelando por seis meses as de pessoas físicas e por um ano as de pessoas jurídicas, e prometeu manter o reajuste de 15% do Bolsa Família. Nenhuma das medidas consta do plano registrado e o candidato não explicou a origem dos recursos.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Flávio diz no debate que manterá reajuste de 15% do Bolsa Família",
+     "veiculo": "A Crítica de Campo Grande",
+     "url": "https://acritica.net/nacional/debate-flavio-mantem-reajuste-15-bolsa-familia/",
+     "data": "2026-10-18",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio e Lula trocam ataques e citam Luchsinger, Vorcaro e SUS no 1º debate",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-chegam-para-primeiro-debate-presidencial-neste-domingo-18/",
+     "data": "2026-10-18",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O plano prevê orientação financeira pela CAIXA e o programa Ganha-Ganha; a campanha associa o refinanciamento ao papel da CAIXA como 'Banco da Prosperidade'.",
+   "limitacoes": "Não foi localizada estimativa de custo independente da compra de dívidas."
+  },
+  {
+   "id": "propostas-flavio-08",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "escala 6x1: plano e voto",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "O plano defende o negociado sobre o legislado e critica o governo por, na 'discussão de jornada', ignorar essa prevalência (p. 44 e 45). Flávio classificou a PEC do fim da escala 6x1 como 'inoportuna e eleitoreira' em maio de 2026 e, em 13/10/2026, anunciou voto favorável, dizendo que a maioria dos trabalhadores quer a mudança.",
+   "data_fato": "2026-10-13",
+   "fontes": [
+    {
+     "titulo": "Plano de governo de Flávio Bolsonaro 2027 a 2030 (registrado no TSE)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017104726",
+     "data": "2026-09-29",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Fim da escala 6x1: contra ou a favor? Veja o que Flávio Bolsonaro já disse sobre o tema (Mariana Fernandes)",
+     "veiculo": "O Povo",
+     "url": "https://www.opovo.com.br/noticias/economia/2026/10/14/flavio-bolsonaro-muda-voto-sobre-escala-6x1.html",
+     "data": "2026-10-14",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Senado aprova PEC do fim da escala 6x1 em primeiro turno com 75 votos favoráveis e 1 contra",
+     "veiculo": "Bahia Notícias",
+     "url": "https://www.bahianoticias.com.br/noticia/322453-senado-aprova-pec-do-fim-da-escala-6x1-em-primeiro-turno-com-75-votos-favoraveis-e-1-contra",
+     "data": "2026-10-14",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio afirmou que o grupo defende proposta 'ainda melhor', com liberdade para o trabalhador montar a própria escala, e atribuiu ao governo a compensação a empresários.",
+   "limitacoes": "Mudança de voto parlamentar não altera o texto do plano; há divergência entre veículos sobre o registro nominal do voto."
+  },
+  {
+   "id": "propostas-flavio-09",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "revisão da reforma tributária",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "A proposta tributária variou ao longo da campanha: em maio, Rogério Marinho falou em PEC para suspender a reforma por um ano; o plano registrado prevê revisão e redução do IVA sem alíquota-alvo; em outubro, Daniella Marques afirmou que a revisão dispensaria nova discussão constitucional. O plano não indica como compensar a perda de arrecadação.",
+   "data_fato": "2026-10-07",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro vai suspender reforma tributária por um ano para rediscuti-la, diz coordenador",
+     "veiculo": "Jornal de Brasília",
+     "url": "https://jornaldebrasilia.com.br/noticias/economia/flavio-bolsonaro-vai-suspender-reforma-tributaria-por-um-ano-para-rediscuti-la-diz-coordenador/",
+     "data": "2026-05",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro volta a dizer que revisará a reforma tributária e a alíquota do IVA",
+     "veiculo": "Portal da Reforma Tributária (com informações do Estadão)",
+     "url": "https://www.reformatributaria.com/reforma-tributaria-nas-eleicoes/flavio-bolsonaro-volta-a-dizer-que-revisara-a-reforma-tributaria-e-a-aliquota-do-iva/",
+     "data": "2026-10-07",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "O que se sabe sobre o plano econômico de Flávio Bolsonaro (Camila Nascimento e Simone Kafruni)",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-eleicoes/o-que-se-sabe-sobre-o-plano-economico-de-flavio-bolsonaro/",
+     "data": "2026-10-13",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A equipe afirma não ser contra a CBS e mira a alíquota, a seu ver entre as mais altas do mundo.",
+   "limitacoes": "Declarações de campanha; o instrumento jurídico necessário depende do que se pretende alterar."
+  },
+  {
+   "id": "propostas-flavio-10",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "presídios e vagas prisionais",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Carolina Ricardo (Instituto Sou da Paz) classificou o plano prisional como 'uma grande propaganda', sem planejamento para os cerca de 700 mil presos existentes; Felippe Angeli (Justa) afirmou que os estados, responsáveis pela maior parte dos presídios, 'não têm a menor condição' de suportar a expansão de 500 mil vagas.",
+   "data_fato": "2026-09-08",
+   "fontes": [
+    {
+     "titulo": "Proposta sobre facções de Flávio Bolsonaro contraria candidatos do próprio PL e especialistas (Kaique Dalapola)",
+     "veiculo": "Brasil de Fato",
+     "url": "https://www.brasildefato.com.br/2026/09/08/proposta-sobre-faccoes-de-flavio-bolsonaro-contraria-candidatos-do-proprio-pl-e-especialistas/",
+     "data": "2026-09-08",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O plano prevê que as vagas sejam criadas em parceria com os estados; candidatos estaduais do PL defendem PPPs para financiar novas vagas.",
+   "limitacoes": "Veículo de linha editorial identificada; especialistas de organizações da sociedade civil com posição conhecida no debate penal."
+  },
+  {
+   "id": "propostas-flavio-11",
+   "candidato": "flavio",
+   "criterio": "impactos",
+   "tema": "modelo prisional de El Salvador",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Jenifer Moraes (Mackenzie Campinas) avaliou que o modelo de El Salvador, adotado sob estado de exceção, é incompatível com a Constituição brasileira e que o encarceramento ampliado sem controle do sistema penitenciário pode fortalecer facções nascidas nos presídios.",
+   "data_fato": "2026-09-05",
+   "fontes": [
+    {
+     "titulo": "Ações de Bukele, endossadas pela direita, podem ser replicadas no Brasil? (Manuela de Moura)",
+     "veiculo": "Metrópoles",
+     "url": "https://www.metropoles.com/mundo/acoes-de-bukele-endossadas-pela-direita-podem-ser-replicadas-no-brasil",
+     "data": "2026-09-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O plano restringe o modelo a lideranças e presos de alta periculosidade, com regras sobre celulares e visitas; a campanha afirma atuar dentro da lei.",
+   "limitacoes": "Avaliação de uma única especialista; não há estimativa de impacto sobre criminalidade."
+  },
+  {
+   "id": "propostas-flavio-12",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "maioridade penal e instrumentos",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "A redução da maioridade penal prevista no plano depende de emenda constitucional, aprovada por 3/5 em dois turnos em cada Casa e não sujeita a sanção presidencial, embora o plano fale em 'apoiar e sancionar'. O plano não detalha o regime aplicável a adolescentes de 14 anos.",
+   "data_fato": "2026-08-13",
+   "fontes": [
+    {
+     "titulo": "Plano de governo de Flávio Bolsonaro 2027 a 2030 (registrado no TSE)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017104726",
+     "data": "2026-09-29",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Flávio propõe cinco novos presídios federais e redução da maioridade penal (Jussara Soares e Leonardo Ribbeiro)",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-propoe-cinco-novos-presidios-federais-e-reducao-da-maioridade-penal/",
+     "data": "2026-08-13",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "No debate de 18/10/2026, Flávio defendeu que menor que comete crime de adulto responda como adulto; parte da doutrina discute se o tema é cláusula pétrea.",
+   "limitacoes": "A controvérsia sobre cláusula pétrea não foi aprofundada nesta frente."
+  },
+  {
+   "id": "propostas-flavio-13",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "corte de ministérios",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "O plano promete cortar no mínimo 10 ministérios, sem indicar quais nem a economia esperada; no debate de 18/10/2026, Flávio prometeu criar o Ministério da Prosperidade.",
+   "data_fato": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "Plano de governo de Flávio Bolsonaro 2027 a 2030 (registrado no TSE)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017104726",
+     "data": "2026-09-29",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Flávio e Lula trocam ataques e citam Luchsinger, Vorcaro e SUS no 1º debate",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-chegam-para-primeiro-debate-presidencial-neste-domingo-18/",
+     "data": "2026-10-18",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Tesouraço: o que prevê a cartilha de Flávio Bolsonaro para a economia",
+     "veiculo": "Forbes Brasil",
+     "url": "https://forbes.com.br/forbes-money/2026/10/tesouraco-flavio-bolsonaro-plano-economico/",
+     "data": "2026-10-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A criação de uma pasta pode estar contida no saldo líquido de cortes; Sachsida mencionou redução de 39 para 25 ministérios em projeto próprio, distinto do plano.",
+   "limitacoes": "Não há documento que detalhe a nova estrutura ministerial."
+  }
+ ],
+ "linha_do_tempo": [
+  {
+   "candidato": "flavio",
+   "data": "2026-08-03",
+   "titulo": "Coordenadora econômica cita corte de 1,5% do PIB",
+   "descricao": "Daniella Marques afirma à GloboNews que o plano prevê corte de cerca de R$ 190 bilhões e securitização da dívida ativa de R$ 200 a 400 bilhões.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Daniella Marques diz que plano de Flávio Bolsonaro prevê corte de R$ 190 bi em gastos",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/daniella-marques-diz-que-plano-de-flavio-bolsonaro-preve-corte-de-r-190-bi-em-gastos/",
+     "data": "2026-08-03",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-08",
+   "titulo": "Planos de governo registrados no TSE",
+   "descricao": "Lula (84 páginas) e Flávio Bolsonaro (76 páginas) registram seus programas na Justiça Eleitoral.",
+   "categoria": "eleicao",
+   "fontes": [
+    {
+     "titulo": "Programa de governo de Luiz Inácio Lula da Silva: Diretrizes para o Programa de Transformação do Brasil (registrado no TSE)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+     "data": "2026-09-29",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Plano de governo de Flávio Bolsonaro 2027 a 2030 (registrado no TSE)",
+     "veiculo": "TSE, DivulgaCandContas",
+     "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017104726",
+     "data": "2026-09-29",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-10-13",
+   "titulo": "Flávio anuncia voto pelo fim da escala 6x1",
+   "descricao": "Após críticas anteriores à PEC, o candidato declara que votará a favor no Senado.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Fim da escala 6x1: contra ou a favor? Veja o que Flávio Bolsonaro já disse sobre o tema (Mariana Fernandes)",
+     "veiculo": "O Povo",
+     "url": "https://www.opovo.com.br/noticias/economia/2026/10/14/flavio-bolsonaro-muda-voto-sobre-escala-6x1.html",
+     "data": "2026-10-14",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-14",
+   "titulo": "Senado aprova PEC do fim da escala 6x1",
+   "descricao": "Aprovação em dois turnos por 75 votos a 1; o texto não volta à Câmara.",
+   "categoria": "legislativo",
+   "fontes": [
+    {
+     "titulo": "Senado aprova PEC do fim da escala 6x1 em primeiro turno com 75 votos favoráveis e 1 contra",
+     "veiculo": "Bahia Notícias",
+     "url": "https://www.bahianoticias.com.br/noticia/322453-senado-aprova-pec-do-fim-da-escala-6x1-em-primeiro-turno-com-75-votos-favoraveis-e-1-contra",
+     "data": "2026-10-14",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Congresso promulga PEC que extingue a escala de trabalho 6 X 1",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-congresso/congresso-promulga-pec-que-extingue-a-escala-de-trabalho-6-x-1/",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2026-10-15",
+   "titulo": "Lula anuncia PEC de passe livre aos fins de semana",
+   "descricao": "Proposta fora do plano registrado; custeio indicado com emendas parlamentares.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Lula propõe usar emendas para financiar tarifa zero aos fins de semana",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/123316/lula-propoe-usar-emendas-para-financiar-tarifa-zero-aos-fins-de-semana",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-16",
+   "titulo": "Congresso promulga fim da escala 6x1",
+   "descricao": "Promulgação em sessão solene com presença de Lula; transição de 42 horas em 60 dias e 40 horas em 14 meses após a publicação.",
+   "categoria": "legislativo",
+   "fontes": [
+    {
+     "titulo": "Congresso promulga PEC que extingue a escala de trabalho 6 X 1",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-congresso/congresso-promulga-pec-que-extingue-a-escala-de-trabalho-6-x-1/",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-10-16",
+   "titulo": "Flávio promete mínimo acima da inflação",
+   "descricao": "Em entrevista à TV Globo, afirma que manterá ganho real do mínimo e a vinculação das aposentadorias, compromisso ausente do plano.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "O que Flávio Bolsonaro e Lula propõem sobre reajuste do salário mínimo e aposentadorias (Iara Diniz, BBC News Brasil)",
+     "veiculo": "BBC News Brasil, republicado por O Povo",
+     "url": "https://www.opovo.com.br/agencia/bbc/2026/10/19/o-que-flavio-bolsonaro-e-lula-propoem-sobre-reajuste-do-salario-minimo-e-aposentadorias.html",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-10-18",
+   "titulo": "Primeiro debate do 2º turno",
+   "descricao": "Flávio propõe compra e congelamento de dívidas e mantém reajuste de 15% do Bolsa Família; Lula defende o Ministério da Segurança Pública e a responsabilidade fiscal.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Flávio e Lula trocam ataques e citam Luchsinger, Vorcaro e SUS no 1º debate",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-chegam-para-primeiro-debate-presidencial-neste-domingo-18/",
+     "data": "2026-10-18",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio diz no debate que manterá reajuste de 15% do Bolsa Família",
+     "veiculo": "A Crítica de Campo Grande",
+     "url": "https://acritica.net/nacional/debate-flavio-mantem-reajuste-15-bolsa-familia/",
+     "data": "2026-10-18",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  }
+ ],
+ "lacunas": [
+  "Ambos: não foi localizada análise da IFI, do Tesouro ou de consultoria que avalie o custo total de cada plano registrado no TSE.",
+  "Ambos: a cota de buscas na web desta frente se esgotou; reportagens originais de Folha, Estadão e Valor foram consultadas apenas por republicações ou resumos, e não foi possível ampliar a busca por avaliações favoráveis nomeadas.",
+  "Lula: não foi encontrada avaliação externa nomeada que defenda a viabilidade fiscal do plano como um todo; também não se localizaram estimativas de custo para o Farmácia Popular com exames, a nova edição do Novo PAC ou o retorno da Petrobras à distribuição.",
+  "Lula: o resultado da votação da PEC da Segurança no plenário do Senado (prevista para 15/10/2026) não foi confirmado.",
+  "Lula: não há estimativa oficial publicada do custo do passe livre aos fins de semana; a PEC não havia sido apresentada.",
+  "Flávio: não foi encontrada avaliação externa nomeada favorável às propostas de segurança pública ou à viabilidade fiscal do plano; as avaliações localizadas são majoritariamente críticas.",
+  "Flávio: não foi localizada estimativa de custo da compra e congelamento de dívidas, da redução de impostos sobre energia e combustíveis, do fim do IOF câmbio ou da correção da tabela SUS.",
+  "Flávio: não foi localizada avaliação técnica independente sobre a licença ambiental por decurso de prazo e o Empréstimo Contingente à Renda.",
+  "Ambos: os trechos literais foram copiados dos arquivos extraídos dos PDFs do TSE, com quebras de linha convertidas em espaços."
+ ],
+ "propostas": [
+  {
+   "id": "lula-arcabouco-fiscal",
+   "candidato": "lula",
+   "area": "economia",
+   "titulo": "Manutenção do arcabouço fiscal e busca de queda sustentada dos juros",
+   "resumo": "O plano mantém a regra fiscal vigente desde 2023 e associa a ela a criação de condições para redução sustentada dos juros, com inflação controlada.",
+   "trecho": "vamos criar as condições para uma redução sustentada das taxas de juros, com inflação controlada e assegurando uma política fiscal responsável. Para isso, manteremos o novo arcabouço fiscal, que controlou o crescimento das despesas sem prejudicar as políticas sociais e permitiu uma redução significativa do déficit primário.",
+   "pagina": 49,
+   "detalhamento": "MEDIO",
+   "instrumento": "Manutenção de lei complementar já vigente; execução via LDO e LOA (leis ordinárias anuais)",
+   "depende_de": "Congresso Nacional (LDO e LOA); Banco Central (juros, por decisão autônoma do Copom)",
+   "custo_ou_fonte_de_recurso_indicado": "O plano atribui o resultado fiscal à retomada do crescimento, ao controle do aumento do gasto primário, à justiça tributária e ao combate a privilégios, sem quantificar metas para 2027 a 2030.",
+   "avaliacoes_externas": [
+    {
+     "resumo": "A Gazeta do Povo registrou que o plano não traz agenda clara de redução de despesas e que, segundo crítica de economistas não identificados, limitar o crescimento do gasto não basta para controlar a dívida, que subiu de 71,4% para 81,9% do PIB desde 2023 (dados do Banco Central).",
+     "fonte": {
+      "titulo": "Plano de governo de Lula mantém gastos e não prevê cortes (Célio Yano)",
+      "veiculo": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-de-governo-lula-economia/",
+      "data": "2026-08-17",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    },
+    {
+     "resumo": "Alexandre Andrade, diretor da IFI, estimou que o conjunto de medidas de 2026 e 2027 pode elevar a dívida bruta em 1,2 ponto percentual até o fim de 2027 e que despesas novas exigirão remanejamento no Orçamento de 2027.",
+     "fonte": {
+      "titulo": "Pacote eleitoral de Lula atinge R$ 290 bi e pressiona a dívida pública (Idiana Tomazelli e Guilherme Pimenta, Folhapress)",
+      "veiculo": "Estado de Minas / Folhapress",
+      "url": "https://www.em.com.br/politica/2026/10/7522889-pacote-eleitoral-de-lula-atinge-rs-290-bi-e-pressiona-a-divida-publica.html",
+      "data": "2026-10-18",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "lula-novo-pac-2",
+   "candidato": "lula",
+   "area": "economia",
+   "titulo": "Nova edição do Novo PAC com concessões rodoviárias e ferroviárias",
+   "resumo": "Promete nova edição do Novo PAC, mantendo a combinação de obras públicas e concessões, com ritmo nas concessões rodoviárias e intensificação das ferroviárias.",
+   "trecho": "A nova edição do Novo PAC manterá a articulação dos investimentos públicos e privados em infraestrutura logística, dando sequência a obras públicas e concessões. Manteremos o ritmo nas concessões rodoviárias e intensificaremos as de ferrovias em duas frentes: leilão de novos projetos e repactuação dos contratos existentes.",
+   "pagina": 53,
+   "detalhamento": "MEDIO",
+   "instrumento": "Orçamento (LOA) e atos administrativos de concessão (editais e leilões)",
+   "depende_de": "Congresso Nacional (dotações), TCU (controle das concessões), setor privado (leilões)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado para a nova edição; o plano informa apenas valores executados na edição atual (R$ 1,3 trilhão até o fim de 2026).",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-salario-minimo",
+   "candidato": "lula",
+   "area": "economia",
+   "titulo": "Continuidade da política de valorização do salário mínimo",
+   "resumo": "Mantém a política de reajuste do salário mínimo com ganho real, apresentada como instrumento de distribuição de renda.",
+   "trecho": "o novo mandato de Lula dará continuidade à política de valorização do salário mínimo como meio estratégico de distribuição de renda, combate à pobreza e promoção do desenvolvimento econômico e social.",
+   "pagina": 74,
+   "detalhamento": "MEDIO",
+   "instrumento": "Lei ordinária já vigente (regra adotada desde 2023)",
+   "depende_de": "Congresso Nacional (eventual alteração da regra); impacto em despesas previdenciárias e assistenciais vinculadas ao piso",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": [
+    {
+     "resumo": "A BBC informa que a regra vigente combina INPC e crescimento do PIB de dois anos antes, com ganho real limitado a 2,5%. Daniel Duque (FGV/IBRE) avaliou que a política não é sustentável no longo prazo; Guilherme Klein (UFRJ, Made/USP) defende sua relevância para a redução da desigualdade, admitindo discutir vinculação parcial dos benefícios.",
+     "fonte": {
+      "titulo": "O que Flávio Bolsonaro e Lula propõem sobre reajuste do salário mínimo e aposentadorias (Iara Diniz, BBC News Brasil)",
+      "veiculo": "BBC News Brasil, republicado por O Povo",
+      "url": "https://www.opovo.com.br/agencia/bbc/2026/10/19/o-que-flavio-bolsonaro-e-lula-propoem-sobre-reajuste-do-salario-minimo-e-aposentadorias.html",
+      "data": "2026-10-19",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "lula-imposto-seletivo",
+   "candidato": "lula",
+   "area": "tributacao",
+   "titulo": "Uso do Imposto Seletivo para desestimular produtos nocivos à saúde",
+   "resumo": "Ao regulamentar a reforma tributária do consumo, pretende usar o Imposto Seletivo como instrumento de saúde pública.",
+   "trecho": "Ao regulamentar a reforma tributária, vamos, por meio do Imposto Seletivo, desestimular produtos nocivos à saúde.",
+   "pagina": 59,
+   "detalhamento": "BAIXO",
+   "instrumento": "Lei que fixe alíquotas e alcance do Imposto Seletivo",
+   "depende_de": "Congresso Nacional",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado (medida arrecadatória; o plano não estima receita).",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-fndr",
+   "candidato": "lula",
+   "area": "tributacao",
+   "titulo": "Regulamentação do Fundo Nacional de Desenvolvimento Regional",
+   "resumo": "Regulamentar o fundo criado na reforma tributária para substituir a guerra fiscal do ICMS por investimentos regionais.",
+   "trecho": "No âmbito da reforma tributária foi criado o Fundo Nacional de Desenvolvimento Regional que será regulamentado no próximo período. Seus recursos permitirão apoiar investimentos e políticas redutoras das desigualdades sociais e regionais, em substituição da predatória guerra tributária do ICMS.",
+   "pagina": 56,
+   "detalhamento": "MEDIO",
+   "instrumento": "Regulamentação legal do fundo previsto na reforma tributária",
+   "depende_de": "Congresso Nacional; estados (destinatários)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-mcmv",
+   "candidato": "lula",
+   "area": "social",
+   "titulo": "Manutenção e ampliação do Minha Casa Minha Vida",
+   "resumo": "Mantém e amplia o MCMV para todas as faixas de renda, com novos instrumentos como o Compra Assistida e uso de imóveis da União.",
+   "trecho": "O MCMV será mantido e ampliado no próximo mandato, para todas as faixas de renda e preservando seu foco nas famílias de mais baixa renda.",
+   "pagina": 45,
+   "detalhamento": "MEDIO",
+   "instrumento": "Orçamento (LOA), FGTS (Conselho Curador) e atos administrativos",
+   "depende_de": "Congresso Nacional; Conselho Curador do FGTS; municípios",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado; o plano não fixa nova meta de unidades para 2027 a 2030 (a meta citada, 3 milhões, refere-se ao fim de 2026).",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-fim-6x1",
+   "candidato": "lula",
+   "area": "social",
+   "titulo": "Fim da escala 6x1 e jornada de 40 horas sem redução salarial",
+   "resumo": "Compromisso de atuar no Senado pela aprovação da PEC que reduz a jornada a 40 horas semanais e extingue a escala 6x1.",
+   "trecho": "Manteremos nossa ação junto ao Senado Federal para assegurar o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas, sem redução salarial, nos termos aprovados na Câmara dos Deputados.",
+   "pagina": 75,
+   "detalhamento": "ALTO",
+   "instrumento": "Emenda constitucional (PEC 221/2019)",
+   "depende_de": "Congresso Nacional (3/5 em dois turnos em cada Casa)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado (custo recai sobre empregadores; o plano não trata de compensação).",
+   "avaliacoes_externas": [
+    {
+     "resumo": "O Senado aprovou a PEC em 14/10/2026 (75 votos a 1) e o Congresso a promulgou em 16/10/2026; a jornada cai para 42 horas 60 dias após a publicação e para 40 horas 14 meses após a publicação.",
+     "fonte": {
+      "titulo": "Congresso promulga PEC que extingue a escala de trabalho 6 X 1",
+      "veiculo": "Poder360",
+      "url": "https://www.poder360.com.br/poder-congresso/congresso-promulga-pec-que-extingue-a-escala-de-trabalho-6-x-1/",
+      "data": "2026-10-16",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    },
+    {
+     "resumo": "Estudos divergem sobre o impacto: entidades empresariais (CNI, CNC, Firjan) projetam aumentos expressivos de custo, e o Ipea estima custo extra médio do trabalho de 7,8%, com impacto de 1% a 6,6% no custo total das empresas.",
+     "fonte": {
+      "titulo": "Fim da escala 6x1: estudos divergem sobre impactos no PIB e inflação",
+      "veiculo": "Diario de Pernambuco",
+      "url": "https://www.diariodepernambuco.com.br/economia/2026/04/11713101-fim-da-escala-6x1-estudos-divergem-sobre-impactos-no-pib-e-inflacao.html",
+      "data": "2026-04",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "lula-casas-mulher",
+   "candidato": "lula",
+   "area": "social",
+   "titulo": "Conclusão de 30 Casas da Mulher Brasileira e 15 Centros de Referência",
+   "resumo": "Amplia a rede de proteção às mulheres, com metas físicas de conclusão de equipamentos e distribuição de kits de monitoramento de agressores aos estados.",
+   "trecho": "Vamos dar sequência ao Pacto, ampliando a rede de proteção às mulheres – concluiremos as 30 Casas da Mulher Brasileira e os 15 Centros de Referência da Mulher Brasileira. Ampliaremos as Salas Lilás e vamos adquirir e distribuir aos Estados kits para aprimorar o monitoramento de agressores.",
+   "pagina": 21,
+   "detalhamento": "ALTO",
+   "instrumento": "Orçamento (LOA) e convênios com estados e municípios",
+   "depende_de": "Estados e municípios (gestão dos equipamentos); Congresso (dotações)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-desmatamento-zero",
+   "candidato": "lula",
+   "area": "ambiental",
+   "titulo": "Desmatamento líquido zero até 2030",
+   "resumo": "Reafirma a meta de desmatamento líquido zero até 2030, com planos de prevenção e controle e o Plano Nacional de Manejo Integrado do Fogo.",
+   "trecho": "No próximo mandato, continuaremos trabalhando para alcançar o desmatamento líquido zero até 2030, meta que reafirmamos.",
+   "pagina": 70,
+   "detalhamento": "ALTO",
+   "instrumento": "Atos administrativos (planos de controle, fiscalização) e orçamento",
+   "depende_de": "Estados (licenciamento e fiscalização), órgãos ambientais federais, Congresso (dotações)",
+   "custo_ou_fonte_de_recurso_indicado": "O plano cita fontes de financiamento climático existentes (Fundo Clima, Eco Invest, Fundo Amazônia, TFFF), sem vincular valores à meta.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-petrobras-distribuicao",
+   "candidato": "lula",
+   "area": "economia",
+   "titulo": "Retorno da Petrobras à distribuição de combustíveis",
+   "resumo": "Defende que a Petrobras volte ao segmento de distribuição, amplie o refino e a atuação da Transpetro em GNL.",
+   "trecho": "A Petrobras deverá retornar ao segmento de distribuição de combustíveis, expandindo sua capacidade de refino e ampliando a atuação da Transpetro para logística de GNL.",
+   "pagina": 67,
+   "detalhamento": "MEDIO",
+   "instrumento": "Decisões societárias da Petrobras (conselho de administração e assembleia), com orientação do acionista controlador",
+   "depende_de": "Petrobras (governança societária, acionistas minoritários), CADE e ANP (regulação)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-alfabetizacao-80",
+   "candidato": "lula",
+   "area": "educacao",
+   "titulo": "Meta de 80% de crianças alfabetizadas na idade certa",
+   "resumo": "Mantém o Compromisso Nacional Criança Alfabetizada, com meta de 80% das crianças alfabetizadas na idade certa.",
+   "trecho": "Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa.",
+   "pagina": 31,
+   "detalhamento": "ALTO",
+   "instrumento": "Ato administrativo e pactuação federativa (programa já instituído)",
+   "depende_de": "Estados e municípios (redes de ensino)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-pe-de-meia",
+   "candidato": "lula",
+   "area": "educacao",
+   "titulo": "Continuidade e fortalecimento do Pé-de-Meia",
+   "resumo": "Mantém e fortalece o incentivo financeiro à permanência no ensino médio para jovens em situação de pobreza.",
+   "trecho": "Vamos dar continuidade e fortalecer o Pé-de-Meia. Nenhum jovem em situação de pobreza ou vulnerabilidade social no Brasil deve deixar a escola por falta de renda.",
+   "pagina": 32,
+   "detalhamento": "MEDIO",
+   "instrumento": "Lei e orçamento (inclusão integral do programa na LOA)",
+   "depende_de": "Congresso Nacional; TCU (controle orçamentário)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": [
+    {
+     "resumo": "Livro do Insper (março de 2026) estima, por avaliação ex-ante (simulação), redução de 6,3 pontos percentuais na evasão de jovens vulneráveis que acessam o programa.",
+     "fonte": {
+      "titulo": "Insper lança livro que avalia impacto do Pé-de-Meia e aponta caminhos para reduzir evasão no ensino médio",
+      "veiculo": "Insper",
+      "url": "https://www.insper.edu.br/pt/conteudos/politicas-publicas/insper-lanca-livro-que-avalia-impacto-do-pe-de-meia-e-aponta-caminhos-para-reduzir-evasao-no-ensino-medio",
+      "data": "2026-03-13",
+      "tipo_fonte": "ACADEMICA"
+     }
+    },
+    {
+     "resumo": "Em fevereiro de 2025, o TCU deu 120 dias para o governo adequar o programa às regras orçamentárias, após questionamento sobre execução fora do Orçamento.",
+     "fonte": {
+      "titulo": "TCU determina 120 dias para governo tomar providências para incluir Pé-de-Meia no Orçamento",
+      "veiculo": "Diário do Grande ABC",
+      "url": "https://www.dgabc.com.br/Noticia/4203307/tcu-determina-120-dias-para-governo-tomar-providencias-para-incluir-pe-de-meia-no-orcamento",
+      "data": "2025-02-12",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "lula-farmacia-exames",
+   "candidato": "lula",
+   "area": "saude",
+   "titulo": "Inclusão de exames laboratoriais no Farmácia Popular",
+   "resumo": "Amplia o Farmácia Popular, mantido 100% gratuito, para incluir exames de diagnóstico e monitoramento de doenças crônicas.",
+   "trecho": "Uma inovação do programa será incluir exames laboratoriais, de diagnóstico e de monitoramento de condições crônicas de saúde, que afetam parcela significativa da população, tais como hipertensão arterial e diabetes.",
+   "pagina": 36,
+   "detalhamento": "MEDIO",
+   "instrumento": "Ato administrativo do Ministério da Saúde e orçamento",
+   "depende_de": "Congresso (dotações); rede privada conveniada",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-fila-unica",
+   "candidato": "lula",
+   "area": "saude",
+   "titulo": "Fila única digital ordenada por risco clínico na atenção especializada",
+   "resumo": "Aprimorar a regulação do acesso à atenção especializada com fila única digital, uso de inteligência artificial e transporte sanitário.",
+   "trecho": "Aprimoraremos ainda mais a regulação do acesso à atenção especializada, garantindo maior transparência das filas e utilizando inteligência artificial, com fila única digital e ordenada pelo risco clínico, com transporte sanitário em todas as regiões de saúde.",
+   "pagina": 38,
+   "detalhamento": "MEDIO",
+   "instrumento": "Atos administrativos e pactuação no SUS (comissões intergestores)",
+   "depende_de": "Estados e municípios (gestão das filas e da regulação)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-ministerio-seguranca",
+   "candidato": "lula",
+   "area": "seguranca",
+   "titulo": "Criação do Ministério da Segurança Pública após a PEC da Segurança",
+   "resumo": "Condiciona a criação do ministério à aprovação da PEC da Segurança Pública proposta pelo Executivo, para coordenar o SUSP com estados e municípios.",
+   "trecho": "Uma vez aprovada a PEC da Segurança Pública proposta pelo Executivo, criaremos o Ministério da Segurança Pública para coordenar, em articulação com estados e municípios, a execução das políticas nacionais de segurança pública no âmbito do Sistema Único de Segurança Pública (SUSP).",
+   "pagina": 30,
+   "detalhamento": "MEDIO",
+   "instrumento": "Emenda constitucional (PEC 18/2025) e lei ou medida provisória de organização ministerial",
+   "depende_de": "Congresso Nacional; estados (polícias)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado; em outra passagem (p. 27 e 28), o plano cita R$ 10 bilhões do FIIS previstos no Programa Brasil Contra o Crime Organizado para estados e municípios.",
+   "avaliacoes_externas": [
+    {
+     "resumo": "A PEC foi aprovada pela Câmara em março de 2026 (461 a 14 no segundo turno, segundo a Revista Oeste); a CCJ do Senado aprovou o texto em 14/10/2026, mantendo a versão da Câmara. O resultado do plenário do Senado não foi confirmado nesta pesquisa.",
+     "fonte": {
+      "titulo": "CCJ do Senado aprova PEC da Segurança Pública; texto segue para o plenário",
+      "veiculo": "Diário do Nordeste",
+      "url": "https://diariodonordeste.verdesmares.com.br/pontopoder/ccj-do-senado-aprova-pec-da-seguranca-publica-texto-segue-para-o-plenario-1.3798560",
+      "data": "2026-10-14",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    },
+    {
+     "resumo": "Analistas ouvidos pela Agência Pública sustentaram que a PEC não retira a autonomia dos estados, ponto central das críticas de governadores e da oposição.",
+     "fonte": {
+      "titulo": "PEC da Segurança não tira autonomia dos estados, dizem analistas",
+      "veiculo": "Agência Pública",
+      "url": "https://apublica.org/2025/12/pec-da-seguranca-nao-tira-autonomia-dos-estados-dizem-analistas/",
+      "data": "2025-12",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "lula-pacto-execucao-penal",
+   "candidato": "lula",
+   "area": "seguranca",
+   "titulo": "Plano Pena Justa e Pacto Nacional de Execução Penal",
+   "resumo": "Cumprir as metas do Plano Pena Justa e instituir um pacto nacional de execução penal voltado ao enfrentamento do crime organizado.",
+   "trecho": "Cumpriremos as metas do Plano Pena Justa e instituiremos o Pacto Nacional de Execução Penal para o Enfrentamento ao Crime Organizado, fortalecendo a governança do sistema prisional e a cooperação entre União, estados e sistema de justiça.",
+   "pagina": 28,
+   "detalhamento": "BAIXO",
+   "instrumento": "Ato administrativo e acordos de cooperação federativa",
+   "depende_de": "Estados (sistemas prisionais), Poder Judiciário",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-alianca-tfff",
+   "candidato": "lula",
+   "area": "politica_externa",
+   "titulo": "Prioridade à Aliança Global contra a Fome e ao Fundo Florestas Tropicais para Sempre",
+   "resumo": "Define como prioridades externas a Aliança Global contra a Fome e a Pobreza e a agenda climática, incluindo o TFFF.",
+   "trecho": "Serão prioridades de nossa ação externa a implementação da Aliança Global contra a Fome e a Pobreza e o enfrentamento da emergência climática, inclusive o Fundo Florestas Tropicais para Sempre (TFFF).",
+   "pagina": 81,
+   "detalhamento": "BAIXO",
+   "instrumento": "Ação diplomática e acordos internacionais",
+   "depende_de": "Outros países e organismos multilaterais (adesão e aportes)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado; o plano informa que o TFFF implementará suas estruturas de governança para iniciar investimentos (p. 71).",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "lula-emendas",
+   "candidato": "lula",
+   "area": "governabilidade",
+   "titulo": "Enfrentamento do sistema de emendas parlamentares",
+   "resumo": "Qualifica o atual sistema de emendas como distorção orçamentária e propõe debatê-lo com a sociedade, sem medida concreta de redução.",
+   "trecho": "Propomos ainda enfrentar uma grave distorção na elaboração e gestão do orçamento federal – o atual sistema de emendas parlamentares. No orçamento de 2026, as emendas somaram R$ 50 bilhões, consumindo aproximadamente um quinto dos recursos discricionários do Poder Executivo.",
+   "pagina": 15,
+   "detalhamento": "BAIXO",
+   "instrumento": "Emenda constitucional (as emendas impositivas estão na Constituição)",
+   "depende_de": "Congresso Nacional (3/5 em dois turnos), cujos membros são os beneficiários diretos",
+   "custo_ou_fonte_de_recurso_indicado": "Não se aplica (medida de alocação).",
+   "avaliacoes_externas": [
+    {
+     "resumo": "A Gazeta do Povo observou que, apesar de criticar as emendas (R$ 50 bilhões em 2026), o plano não propõe reduzir esse volume.",
+     "fonte": {
+      "titulo": "Plano de governo de Lula mantém gastos e não prevê cortes (Célio Yano)",
+      "veiculo": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-de-governo-lula-economia/",
+      "data": "2026-08-17",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    },
+    {
+     "resumo": "Em 15/10/2026, Lula anunciou PEC de passe livre aos fins de semana e disse que o custeio seria compartilhado com emendas parlamentares.",
+     "fonte": {
+      "titulo": "Lula propõe usar emendas para financiar tarifa zero aos fins de semana",
+      "veiculo": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/123316/lula-propoe-usar-emendas-para-financiar-tarifa-zero-aos-fins-de-semana",
+      "data": "2026-10-16",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "flavio-regra-fiscal",
+   "candidato": "flavio",
+   "area": "economia",
+   "titulo": "Nova regra fiscal focada na dívida e controle de gastos discricionários dos três Poderes",
+   "resumo": "Substituir o arcabouço vigente por regras voltadas à estabilização e redução da dívida, com superávits primários e limite de crédito subsidiado pelo Tesouro.",
+   "trecho": "Vamos construir o equilíbrio fiscal duradouro, entregando superávits primários e limitando o crédito subsidiado com recursos do Tesouro, mitigando pressões inflacionárias. E haverá uma regra clara de controle de gastos discricionários dos três Poderes da União.",
+   "pagina": 71,
+   "detalhamento": "MEDIO",
+   "instrumento": "Lei complementar e possivelmente emenda constitucional (a coordenação da campanha falou em PEC de consolidação fiscal)",
+   "depende_de": "Congresso Nacional",
+   "custo_ou_fonte_de_recurso_indicado": "O plano não fixa meta numérica nem prazo ('no menor prazo possível'). Fora do plano, Daniella Marques citou corte de 1,5% do PIB (cerca de R$ 190 bilhões) e securitização da dívida ativa (R$ 200 a 400 bilhões).",
+   "avaliacoes_externas": [
+    {
+     "resumo": "Guilherme Klein (UFRJ, Made/USP) comparou o corte de cerca de R$ 250 bilhões atribuído à equipe com as despesas discricionárias de 2027, de cerca de R$ 222 bilhões, concluindo que o ajuste teria de atingir despesas obrigatórias, sobretudo a Previdência.",
+     "fonte": {
+      "titulo": "O que Flávio Bolsonaro e Lula propõem sobre reajuste do salário mínimo e aposentadorias (Iara Diniz, BBC News Brasil)",
+      "veiculo": "BBC News Brasil, republicado por O Povo",
+      "url": "https://www.opovo.com.br/agencia/bbc/2026/10/19/o-que-flavio-bolsonaro-e-lula-propoem-sobre-reajuste-do-salario-minimo-e-aposentadorias.html",
+      "data": "2026-10-19",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    },
+    {
+     "resumo": "Monica de Bolle (Peterson Institute) disse que 'a conta das promessas não fecha de jeito algum'; Sergio Vale (MB Associados) afirmou que a proposta de corte 'não para em pé'; Alessandra Ribeiro (Tendências) considerou 'pouquíssimo factível' repetir receitas com privatizações e venda de imóveis.",
+     "fonte": {
+      "titulo": "Ajuste fiscal é lacuna dos candidatos, dizem economistas (Rosana Hessel)",
+      "veiculo": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/10/7522909-incertezas-na-economia.html",
+      "data": "2026-10-19",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "flavio-crescimento-4",
+   "candidato": "flavio",
+   "area": "economia",
+   "titulo": "Meta de crescimento sustentado de 4% ao ano",
+   "resumo": "Fixa como meta dobrar o ritmo de crescimento médio das duas últimas décadas, com base em investimento privado e segurança jurídica.",
+   "trecho": "Nossa meta é dobrar esse ritmo e alcançar um crescimento sustentado de 4% ao ano ao longo da próxima década, apoiado no investimento privado, na segurança jurídica e na competitividade do agro, da indústria e dos serviços.",
+   "pagina": 49,
+   "detalhamento": "ALTO",
+   "instrumento": "Conjunto de políticas (não é medida autônoma)",
+   "depende_de": "Setor privado, Congresso (reformas), Banco Central (juros)",
+   "custo_ou_fonte_de_recurso_indicado": "Não se aplica.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "flavio-infra-900bi",
+   "candidato": "flavio",
+   "area": "economia",
+   "titulo": "R$ 900 bilhões em infraestrutura em quatro anos",
+   "resumo": "Promete investimento de R$ 900 bilhões em rodovias, hidrovias, portos, aeroportos e ferrovias, com Ferrogrão, Trem do Nordeste e Transnordestina.",
+   "trecho": "Vamos investir R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias.",
+   "pagina": 51,
+   "detalhamento": "ALTO",
+   "instrumento": "Concessões e PPPs (atos administrativos e contratos), orçamento e financiamento do BNDES; marcos regulatórios por lei",
+   "depende_de": "Setor privado, Congresso, TCU, órgãos de licenciamento ambiental",
+   "custo_ou_fonte_de_recurso_indicado": "Indicado de forma genérica (p. 50 e 51): fundo lastreado na securitização de ativos e imóveis da União, PPPs, concessões e financiamentos do BNDES; não há divisão entre recursos públicos e privados.",
+   "avaliacoes_externas": [
+    {
+     "resumo": "O Poder360 registrou que o plano não informa a parcela dos R$ 900 bilhões que viria de recursos públicos.",
+     "fonte": {
+      "titulo": "O que se sabe sobre o plano econômico de Flávio Bolsonaro (Camila Nascimento e Simone Kafruni)",
+      "veiculo": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes/o-que-se-sabe-sobre-o-plano-economico-de-flavio-bolsonaro/",
+      "data": "2026-10-13",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "flavio-revisao-reforma-iva",
+   "candidato": "flavio",
+   "area": "tributacao",
+   "titulo": "Revisão da reforma tributária do consumo e redução do IVA",
+   "resumo": "Revisar e redimensionar a reforma tributária em curso e os aumentos de impostos, reduzindo o IVA e as exceções, sem indicar a alíquota-alvo.",
+   "trecho": "Vamos promover a revisão e o redimensionamento da reforma tributária em curso e da majoração de impostos efetuada pelo atual governo, com o objetivo de reduzir efetivamente a carga sobre a produção e o consumo. Vamos corrigir suas distorções, reduzir o IVA, hoje projetado num dos patamares mais altos do mundo, e assegurar a não cumulatividade, para que não se cobre imposto sobre imposto.",
+   "pagina": 30,
+   "detalhamento": "MEDIO",
+   "instrumento": "Alteração da emenda constitucional e da lei complementar da reforma tributária (o plano não especifica)",
+   "depende_de": "Congresso Nacional; estados e municípios (IBS)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado; o plano não diz como compensar a perda de arrecadação.",
+   "avaliacoes_externas": [
+    {
+     "resumo": "O Poder360 apontou que o plano não define alíquota alternativa do IVA nem a forma de compensar perdas de arrecadação.",
+     "fonte": {
+      "titulo": "O que se sabe sobre o plano econômico de Flávio Bolsonaro (Camila Nascimento e Simone Kafruni)",
+      "veiculo": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes/o-que-se-sabe-sobre-o-plano-economico-de-flavio-bolsonaro/",
+      "data": "2026-10-13",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    },
+    {
+     "resumo": "Em 06/10/2026, Daniella Marques afirmou que a revisão dispensaria nova discussão constitucional; em maio, Rogério Marinho havia falado em PEC para suspender a reforma por um ano.",
+     "fonte": {
+      "titulo": "Flávio Bolsonaro volta a dizer que revisará a reforma tributária e a alíquota do IVA",
+      "veiculo": "Portal da Reforma Tributária (com informações do Estadão)",
+      "url": "https://www.reformatributaria.com/reforma-tributaria-nas-eleicoes/flavio-bolsonaro-volta-a-dizer-que-revisara-a-reforma-tributaria-e-a-aliquota-do-iva/",
+      "data": "2026-10-07",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "flavio-energia-cde",
+   "candidato": "flavio",
+   "area": "tributacao",
+   "titulo": "Redução de impostos sobre energia e combustíveis e redução gradual da CDE",
+   "resumo": "Simplificar a conta de luz, reduzir gradualmente a CDE e as fontes incentivadas, mantendo a tarifa social, e reduzir impostos sobre energia e combustíveis.",
+   "trecho": "Vamos simplificar a conta de luz, racionalizando encargos e subsídios cruzados, e promover a redução gradual da CDE e das fontes incentivadas, mantida a tarifa social para quem mais precisa dela. Vamos reduzir impostos sobre energia elétrica e combustíveis",
+   "pagina": 31,
+   "detalhamento": "MEDIO",
+   "instrumento": "Lei (encargos setoriais e tributos federais); atos da ANEEL; ICMS depende dos estados",
+   "depende_de": "Congresso Nacional, ANEEL, estados (ICMS)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": [
+    {
+     "resumo": "A Forbes Brasil registrou que o plano promete reduzir impostos sobre energia e combustíveis sem especificar tributos ou alíquotas.",
+     "fonte": {
+      "titulo": "Tesouraço: o que prevê a cartilha de Flávio Bolsonaro para a economia",
+      "veiculo": "Forbes Brasil",
+      "url": "https://forbes.com.br/forbes-money/2026/10/tesouraco-flavio-bolsonaro-plano-economico/",
+      "data": "2026-10-05",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "flavio-retorno-beneficio",
+   "candidato": "flavio",
+   "area": "social",
+   "titulo": "Manutenção dos programas sociais com retorno imediato ao benefício após o seguro-desemprego",
+   "resumo": "Mantém os programas sociais e garante que quem perder o emprego volte ao benefício sem fila, mantidas as condições de elegibilidade.",
+   "trecho": "E garantiremos o retorno imediato e sem fila ao benefício após o seguro-desemprego, mantidas as condições de elegibilidade, para que ninguém tenha medo de tentar um emprego e acabar desamparado se não der certo.",
+   "pagina": 43,
+   "detalhamento": "MEDIO",
+   "instrumento": "Ato administrativo e ajuste normativo do Bolsa Família (lei e decreto)",
+   "depende_de": "Ministério responsável e municípios (Cadastro Único)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "flavio-casa-verde-amarela",
+   "candidato": "flavio",
+   "area": "social",
+   "titulo": "Retomada do Casa Verde e Amarela com meta de 2,5 milhões de residências",
+   "resumo": "Retomar o programa habitacional do governo anterior com meta de 2,5 milhões de moradias e a menor taxa de juros possível.",
+   "trecho": "Vamos retomar o Casa Verde e Amarela, com meta de 2,5 milhões de residências e a menor taxa de juros possível no financiamento.",
+   "pagina": 47,
+   "detalhamento": "ALTO",
+   "instrumento": "Lei (programa habitacional), orçamento e FGTS",
+   "depende_de": "Congresso Nacional; Conselho Curador do FGTS; municípios",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "flavio-desmatamento-ilegal-2029",
+   "candidato": "flavio",
+   "area": "ambiental",
+   "titulo": "Zerar o desmatamento ilegal até 2029",
+   "resumo": "Meta de zerar o desmatamento ilegal até 2029, com fiscalização apoiada em satélite e inteligência artificial e foco em grilagem.",
+   "trecho": "Teremos a meta de zerar o desmatamento ilegal até 2029, retomando e levando até o fim o compromisso que já assumimos no Governo Bolsonaro perante o mundo",
+   "pagina": 58,
+   "detalhamento": "ALTO",
+   "instrumento": "Atos administrativos (fiscalização) e orçamento",
+   "depende_de": "Órgãos ambientais federais e estaduais",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "flavio-licenca-tacita",
+   "candidato": "flavio",
+   "area": "ambiental",
+   "titulo": "Concessão de licença ambiental por decurso de prazo",
+   "resumo": "Se o órgão ambiental não decidir no prazo, a licença deve ser concedida; prevê também estabilidade de regras de até 20 anos para grandes projetos.",
+   "trecho": "Se não decidir nem se manifestar dentro desse prazo, a licença deve ser concedida, porque a demora do Estado não pode ser um castigo para quem fez a sua parte.",
+   "pagina": 50,
+   "detalhamento": "MEDIO",
+   "instrumento": "Lei (licenciamento ambiental)",
+   "depende_de": "Congresso Nacional; possível controle de constitucionalidade pelo STF",
+   "custo_ou_fonte_de_recurso_indicado": "Não se aplica.",
+   "avaliacoes_externas": [
+    {
+     "resumo": "A Forbes Brasil descreveu a proposta como concessão de licença ambiental quando o órgão não se manifesta no prazo, sem avaliação de especialistas.",
+     "fonte": {
+      "titulo": "Tesouraço: o que prevê a cartilha de Flávio Bolsonaro para a economia",
+      "veiculo": "Forbes Brasil",
+      "url": "https://forbes.com.br/forbes-money/2026/10/tesouraco-flavio-bolsonaro-plano-economico/",
+      "data": "2026-10-05",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "flavio-voucher-creche",
+   "candidato": "flavio",
+   "area": "educacao",
+   "titulo": "Voucher-creche onde faltar vaga pública",
+   "resumo": "Ampliar creches em período integral e, onde não houver vaga pública, conceder voucher para a rede privada credenciada.",
+   "trecho": "Onde não houver vaga na rede pública, a família receberá um voucher-creche para acesso à rede privada credenciada até a vaga pública surgir",
+   "pagina": 21,
+   "detalhamento": "MEDIO",
+   "instrumento": "Lei e orçamento; pactuação com municípios (competência prioritária municipal na educação infantil)",
+   "depende_de": "Municípios; Congresso (financiamento)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "flavio-ecr",
+   "candidato": "flavio",
+   "area": "educacao",
+   "titulo": "Empréstimo Contingente à Renda no financiamento estudantil",
+   "resumo": "Substituir o modelo atual de financiamento estudantil por empréstimo cuja parcela é proporcional à renda e só é paga após o emprego.",
+   "trecho": "vamos adotar o Empréstimo Contingente à Renda: o estudante só começa a pagar quando estiver empregado e ganhando, o valor da parcela é proporcional ao que ele recebe e o prazo é bem mais longo.",
+   "pagina": 37,
+   "detalhamento": "MEDIO",
+   "instrumento": "Lei (alteração do financiamento estudantil)",
+   "depende_de": "Congresso Nacional; Receita Federal ou sistema de arrecadação (cobrança vinculada à renda)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "flavio-tabela-sus",
+   "candidato": "flavio",
+   "area": "saude",
+   "titulo": "Correção efetiva da tabela SUS",
+   "resumo": "Garantir condições para corrigir a defasagem da tabela SUS, com remuneração que cubra o custo real do atendimento.",
+   "trecho": "Vamos garantir as condições para que seja possível a correção efetiva da tabela SUS.",
+   "pagina": 37,
+   "detalhamento": "BAIXO",
+   "instrumento": "Orçamento (LOA) e atos do Ministério da Saúde",
+   "depende_de": "Congresso Nacional (dotações)",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado; o próprio plano reconhece que a lei de reajuste ficou 'presa ao orçamento'.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "flavio-maioridade-penal",
+   "candidato": "flavio",
+   "area": "seguranca",
+   "titulo": "Redução da maioridade penal para 16 anos e punição a partir de 14 em crimes graves",
+   "resumo": "Apoiar e sancionar a redução da maioridade penal de 18 para 16 anos e punir maiores de 14 anos por crimes graves.",
+   "trecho": "O novo governo do Brasil vai apoiar e sancionar a redução da maioridade penal de 18 para 16 anos. Vamos punir também maiores de 14 anos que cometerem crimes graves, como estupro, tráfico, tortura e assassinato.",
+   "pagina": 13,
+   "detalhamento": "ALTO",
+   "instrumento": "Emenda constitucional (a idade penal está fixada na Constituição); PEC não depende de sanção presidencial",
+   "depende_de": "Congresso Nacional (3/5 em dois turnos); controle pelo STF quanto a cláusulas pétreas, tema debatido",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": [
+    {
+     "resumo": "A CNN Brasil registrou que o plano não detalha o regime jurídico nem as penas aplicáveis aos adolescentes de 14 anos.",
+     "fonte": {
+      "titulo": "Flávio propõe cinco novos presídios federais e redução da maioridade penal (Jussara Soares e Leonardo Ribbeiro)",
+      "veiculo": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-propoe-cinco-novos-presidios-federais-e-reducao-da-maioridade-penal/",
+      "data": "2026-08-13",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "flavio-presidios-treva",
+   "candidato": "flavio",
+   "area": "seguranca",
+   "titulo": "Cinco presídios federais de segurança máxima e 500 mil novas vagas em quatro anos",
+   "resumo": "Criar cinco presídios federais inspirados no modelo de El Salvador e, com os estados, meio milhão de vagas para zerar o déficit carcerário.",
+   "trecho": "Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário.",
+   "pagina": 14,
+   "detalhamento": "ALTO",
+   "instrumento": "Orçamento (LOA), convênios com estados e alteração da Lei de Execução Penal para regras de visitas",
+   "depende_de": "Estados (responsáveis pela maior parte do sistema prisional); Congresso",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado.",
+   "avaliacoes_externas": [
+    {
+     "resumo": "Carolina Ricardo (Instituto Sou da Paz) classificou o plano como 'uma grande propaganda'; Felippe Angeli (Justa) afirmou que os estados 'não têm a menor condição' de suportar a expansão.",
+     "fonte": {
+      "titulo": "Proposta sobre facções de Flávio Bolsonaro contraria candidatos do próprio PL e especialistas (Kaique Dalapola)",
+      "veiculo": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2026/09/08/proposta-sobre-faccoes-de-flavio-bolsonaro-contraria-candidatos-do-proprio-pl-e-especialistas/",
+      "data": "2026-09-08",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    },
+    {
+     "resumo": "Jenifer Moraes (Mackenzie Campinas) avaliou que o modelo salvadorenho é incompatível com a estrutura constitucional brasileira.",
+     "fonte": {
+      "titulo": "Ações de Bukele, endossadas pela direita, podem ser replicadas no Brasil? (Manuela de Moura)",
+      "veiculo": "Metrópoles",
+      "url": "https://www.metropoles.com/mundo/acoes-de-bukele-endossadas-pela-direita-podem-ser-replicadas-no-brasil",
+      "data": "2026-09-05",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  },
+  {
+   "id": "flavio-dobrar-seguranca",
+   "candidato": "flavio",
+   "area": "seguranca",
+   "titulo": "Dobrar os investimentos federais em segurança pública",
+   "resumo": "Dobrar os investimentos federais em segurança ao longo do mandato.",
+   "trecho": "O novo governo do Brasil vai dobrar os investimentos federais em segurança pública ao longo do mandato.",
+   "pagina": 15,
+   "detalhamento": "ALTO",
+   "instrumento": "Orçamento (LOA)",
+   "depende_de": "Congresso Nacional",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado; o plano cita que o governo federal destina 0,4% dos gastos à segurança, sem dizer de onde viria o acréscimo em meio ao 'tesouraço'.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "flavio-ocde-iof",
+   "candidato": "flavio",
+   "area": "politica_externa",
+   "titulo": "Retomada da adesão à OCDE com fim gradual do IOF sobre câmbio",
+   "resumo": "Retomar o cronograma de adesão à OCDE, incluindo o fim gradual do IOF sobre câmbio, e preparar abertura comercial.",
+   "trecho": "O passo mais urgente é retomar o cronograma interrompido de adesão à OCDE, incluindo o fim gradual do IOF sobre o câmbio, que é condição obrigatória do processo.",
+   "pagina": 63,
+   "detalhamento": "MEDIO",
+   "instrumento": "Decreto (alíquotas do IOF) e ação diplomática; normas de convergência por lei",
+   "depende_de": "OCDE (processo de acessão), Congresso Nacional",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado (o fim do IOF câmbio implica perda de receita não estimada).",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "flavio-fim-reeleicao",
+   "candidato": "flavio",
+   "area": "governabilidade",
+   "titulo": "Fim da reeleição para Presidente da República",
+   "resumo": "Propõe o fim da reeleição presidencial, citando PEC de autoria do próprio candidato no Senado.",
+   "trecho": "E propomos o fim da reeleição para o cargo de Presidente da República. Ao contrário do PT, o nosso projeto é de país, não de poder.",
+   "pagina": 66,
+   "detalhamento": "MEDIO",
+   "instrumento": "Emenda constitucional",
+   "depende_de": "Congresso Nacional (3/5 em dois turnos)",
+   "custo_ou_fonte_de_recurso_indicado": "Não se aplica.",
+   "avaliacoes_externas": []
+  },
+  {
+   "id": "flavio-corte-ministerios",
+   "candidato": "flavio",
+   "area": "administracao",
+   "titulo": "Corte de no mínimo 10 ministérios e redução de cargos comissionados",
+   "resumo": "Reforma administrativa com corte de ao menos dez ministérios, redução de comissionados e despesas administrativas e combate a supersalários.",
+   "trecho": "Isso inclui o corte de no mínimo 10 ministérios, a redução de cargos comissionados e de despesas administrativas e o combate aos penduricalhos e supersalários que corroem o orçamento",
+   "pagina": 69,
+   "detalhamento": "ALTO",
+   "instrumento": "Medida provisória ou lei de organização dos ministérios; decretos para cargos; supersalários exigem lei e possivelmente emenda constitucional",
+   "depende_de": "Congresso Nacional",
+   "custo_ou_fonte_de_recurso_indicado": "Não indicado (a economia esperada não é estimada).",
+   "avaliacoes_externas": [
+    {
+     "resumo": "A Forbes Brasil e o Poder360 apontaram que o plano não identifica quais ministérios seriam extintos nem quantos cargos seriam cortados.",
+     "fonte": {
+      "titulo": "Tesouraço: o que prevê a cartilha de Flávio Bolsonaro para a economia",
+      "veiculo": "Forbes Brasil",
+      "url": "https://forbes.com.br/forbes-money/2026/10/tesouraco-flavio-bolsonaro-plano-economico/",
+      "data": "2026-10-05",
+      "tipo_fonte": "JORNALISTICA"
+     }
+    }
+   ]
+  }
+ ]
+}

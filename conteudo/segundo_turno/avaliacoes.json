@@ -59,7 +59,7 @@
   "candidato": "flavio",
   "nota": 5,
   "suficiencia": "MEDIA",
-  "justificativa": "Sem gestão executiva, não há resultado mensurável próprio. Votou contra a PEC da Transição, o arcabouço fiscal e a reforma tributária (votos que também refletem a posição de oposição) e a favor da PEC dos Precatórios, que adiou despesas. Promete regra fiscal com gatilho de dívida sem definir o patamar e corte de 1,5% do PIB sem detalhamento, ponto questionado por economistas de mercado ouvidos pela imprensa. Resultados do governo de Jair Bolsonaro aparecem apenas como contexto. Faixa 5-6.",
+  "justificativa": "Sem gestão executiva, não há resultado mensurável próprio. Votou contra a PEC da Transição, o arcabouço fiscal e a reforma tributária (votos que também refletem a posição de oposição) e a favor da PEC dos Precatórios, que adiou despesas. Promete regra fiscal com gatilho de dívida sem definir o patamar; o detalhamento do corte de gastos é avaliado no critério de propostas. Resultados do governo de Jair Bolsonaro aparecem apenas como contexto. Faixa 5-6.",
   "evidencias": [
    "economia-flavio-01",
    "economia-flavio-02",
@@ -68,9 +68,7 @@
    "economia-flavio-06",
    "economia-flavio-07",
    "economia-flavio-08",
-   "economia-flavio-16",
-   "economia-flavio-10",
-   "economia-flavio-11"
+   "economia-flavio-16"
   ],
   "limitacoes": "A nota avalia posições e votos, não gestão; por isso a suficiência é parcial."
  },
@@ -79,7 +77,7 @@
   "candidato": "lula",
   "nota": 5.5,
   "suficiencia": "MEDIA",
-  "justificativa": "Das 18 propostas analisadas, 4 têm meta, valor ou prazo e 4 são diretrizes genéricas; nenhuma indica custo ou fonte de recursos. Parte delas dá continuidade a programas existentes, o que aumenta a viabilidade, e a principal meta trabalhista (fim da escala 6x1) foi aprovada pelo Congresso durante a campanha. Em sentido contrário, o Ministério da Segurança depende de emenda constitucional, a PEC do passe livre (tarifa zero aos fins de semana) foi anunciada fora do plano, sem confirmação de envio ao Congresso até 21/10, e contrasta com a crítica do próprio plano às emendas parlamentares, e analistas estimam custo fiscal relevante das novas medidas. Faixa 5-6.",
+  "justificativa": "Das 18 propostas analisadas, 4 têm meta, valor ou prazo e 4 são diretrizes genéricas; nenhuma indica custo ou fonte de recursos. Parte delas dá continuidade a programas existentes, o que aumenta a viabilidade, e a principal meta trabalhista (fim da escala 6x1) foi aprovada pelo Congresso durante a campanha. Em sentido contrário, o Ministério da Segurança depende de emenda constitucional, a PEC do passe livre (tarifa zero aos fins de semana) foi anunciada fora do plano, sem confirmação de envio ao Congresso até 21/10, e contrasta com a crítica do próprio plano às emendas parlamentares, e avaliações apontam que o plano não traz agenda de redução de despesas; o custo fiscal estimado das novas medidas é tratado no critério de impactos. Faixa 5-6.",
   "evidencias": [
    "propostas-lula-01",
    "propostas-lula-02",
@@ -90,8 +88,6 @@
    "propostas-lula-11",
    "propostas-lula-13",
    "economia-lula-21",
-   "propostas-lula-04",
-   "propostas-lula-05",
    "atualizacao-campanha-lula-05"
   ],
   "limitacoes": "Não foi localizada avaliação oficial (IFI ou Tesouro) do custo total do plano; a seleção cobre 18 propostas, não o plano inteiro."
@@ -124,7 +120,7 @@
   "candidato": "lula",
   "nota": 5.5,
   "suficiencia": "MEDIA",
-  "justificativa": "As condenações da Lava Jato foram anuladas pelo STF por incompetência do juízo e por suspeição do juiz, sem exame de mérito; os casos foram depois arquivados, em parte por prescrição (que o MPF contestou), e houve absolvições em casos isolados. Não há, nas fontes consultadas, investigação em curso contra o próprio Lula; o filho é investigado no caso do INSS. A indicação de seu ex-advogado ao STF foi criticada por entidades de transparência, e o TCU determinou a inclusão integral do Pé-de-Meia no orçamento. Faixa 5-6: processos anulados ou arquivados sem julgamento de mérito. Em 20/10, autorizou a quebra dos próprios sigilos e dos de familiares, condicionando a medida a reciprocidade do adversário; a PF pediu a prorrogação de inquéritos sobre o filho, dos quais Lula não é alvo.",
+  "justificativa": "As condenações da Lava Jato foram anuladas pelo STF por incompetência do juízo e por suspeição do juiz, sem exame de mérito; os casos foram depois arquivados, em parte por prescrição (que o MPF contestou), e houve absolvições em casos isolados. Não há, nas fontes consultadas, investigação em curso contra o próprio Lula; o filho é investigado no caso do INSS. A indicação de seu ex-advogado ao STF foi criticada por entidades de transparência. Faixa 5-6: processos anulados ou arquivados sem julgamento de mérito. Em 20/10, autorizou a quebra dos próprios sigilos e dos de familiares, condicionando a medida a reciprocidade do adversário; a PF pediu a prorrogação de inquéritos sobre o filho, dos quais Lula não é alvo.",
   "evidencias": [
    "integridade-lula-01",
    "integridade-lula-02",
@@ -136,11 +132,10 @@
    "integridade-lula-10",
    "integridade-lula-12",
    "integridade-lula-07",
-   "propostas-lula-10",
    "atualizacao-campanha-lula-03",
    "atualizacao-fatos-lula-01"
   ],
-  "limitacoes": "Anulação não equivale a absolvição nem a condenação. Ficaram sem levantamento sigilos impostos, cartão corporativo e outros apontamentos do TCU."
+  "limitacoes": "Anulação não equivale a absolvição nem a condenação. Ficaram sem levantamento sigilos impostos, cartão corporativo e apontamentos do TCU (a determinação sobre o Pé-de-Meia está registrada no critério de impactos)."
  },
  {
   "criterio": "integridade",
@@ -169,7 +164,7 @@
   "candidato": "lula",
   "nota": 7,
   "suficiencia": "ALTA",
-  "justificativa": "Vetou a redução de penas dos condenados pelo 8 de janeiro, reconheceu o resultado do 1º turno e declarou que aceitará eventual derrota. Em sentido contrário, o TSE suspendeu liminarmente ao menos quatro peças de sua campanha por associarem o adversário a crimes sem base fática mínima, determinou a remoção de vídeos de seu perfil e concedeu direito de resposta ao adversário; há ainda declarações sobre regulação das redes e reforma do Judiciário que dividem avaliações. Em 21/10, o TSE suspendeu mais uma peça de sua campanha, e Lula afirmou que não pode debater com ladrão, referindo-se a adversário sem condenação. O Itamaraty repudiou como ingerência externa os ataques de Javier Milei às urnas brasileiras. Faixa 7-8, no limite inferior.",
+  "justificativa": "Vetou a redução de penas dos condenados pelo 8 de janeiro, reconheceu o resultado do 1º turno e declarou que aceitará eventual derrota. Em sentido contrário, o TSE suspendeu liminarmente ao menos quatro peças de sua campanha por associarem o adversário a crimes sem base fática mínima, determinou a remoção de vídeos de seu perfil; há ainda declarações sobre regulação das redes e reforma do Judiciário que dividem avaliações. Em 21/10, o TSE suspendeu mais uma peça de sua campanha. O Itamaraty repudiou como ingerência externa os ataques de Javier Milei às urnas brasileiras. Faixa 7-8, no limite inferior.",
   "evidencias": [
    "democracia-lula-01",
    "democracia-lula-03",
@@ -183,9 +178,7 @@
    "campanha-lula-05",
    "campanha-lula-06",
    "democracia-lula-18",
-   "campanha-lula-07",
    "atualizacao-campanha-lula-08",
-   "atualizacao-fatos-lula-03",
    "atualizacao-fatos-lula-06"
   ],
   "limitacoes": "As decisões do TSE sobre propaganda são liminares; a posição sobre a Venezuela é tratada no critério de coerência."
@@ -297,7 +290,7 @@
   "candidato": "lula",
   "nota": 5,
   "suficiencia": "MEDIA",
-  "justificativa": "Prometeu em 2022 um só mandato e disputa a reeleição; criticou o orçamento secreto e pagou volume recorde de emendas; relativizou a democracia venezuelana em 2023 e depois não reconheceu a eleição de 2024. Na amostra de checagens, 5 de 12 declarações foram falsas e 5 parcialmente verdadeiras, com erros recorrentes em dados fiscais; no debate de 18/10, os placares variaram conforme a agência (nenhuma falsa no Estadão Verifica, 2 de 17 na Lupa e 2 de 23 no placar do Aos Fatos reproduzido pela imprensa, de menor peso). Cumpriu a promessa de mudar a política de preços da Petrobras (evidência de peso baixo). Faixa 5-6. Em 19/10, admitiu ter mudado de posição e passou a defender responsabilização penal a partir de 16 anos para crimes hediondos.",
+  "justificativa": "Prometeu em 2022 um só mandato e disputa a reeleição; criticou o orçamento secreto e pagou volume recorde de emendas; relativizou a democracia venezuelana em 2023 e depois não reconheceu a eleição de 2024. Na amostra de checagens, 5 de 12 declarações foram falsas e 5 parcialmente verdadeiras, com erros recorrentes em dados fiscais; no debate de 18/10, os placares variaram conforme a agência (nenhuma falsa no Estadão Verifica, 2 de 17 na Lupa e 2 de 23 no placar do Aos Fatos reproduzido pela imprensa, de menor peso). Cumpriu a promessa de mudar a política de preços da Petrobras (evidência de peso baixo). Faixa 5-6. Em 19/10, admitiu ter mudado de posição e passou a defender responsabilização penal a partir de 16 anos para crimes hediondos. Em 20/10, condicionou o debate da Globo à quebra de sigilos do adversário e disse que não pode debater com ladrão, referindo-se a quem não tem condenação; o TSE concedeu direito de resposta ao adversário contra vídeo de seu perfil.",
   "evidencias": [
    "trajetoria-lula-17",
    "trajetoria-lula-18",
@@ -311,7 +304,9 @@
    "campanha-lula-13",
    "campanha-lula-15",
    "democracia-lula-11",
-   "atualizacao-campanha-lula-02"
+   "atualizacao-campanha-lula-02",
+   "atualizacao-fatos-lula-03",
+   "campanha-lula-07"
   ],
   "limitacoes": "A amostra de checagens reflete o que as agências escolheram verificar e não é aleatória. No debate de 18/10, o Ranking dos Políticos, organização de método próprio não signatária da IFCN, apontou proporção de falas falsas maior para Lula (19,1%) do que para Flávio (10,3%), ao contrário das três agências."
  },

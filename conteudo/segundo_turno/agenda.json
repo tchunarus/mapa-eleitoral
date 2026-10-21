@@ -239,7 +239,7 @@
   "data": "2026-10-23",
   "hora": "21h20",
   "titulo": "Debate da TV Globo entre Lula e Flávio",
-  "descricao": "Último debate, após o Jornal Nacional, nos Estúdios Globo (RJ), mediação de César Tralli; transmissão por TV Globo, GloboNews e g1. Blocos: regiões do país, seis de dez temas e tema livre, com considerações finais. Exame informa que as duas campanhas assinaram as regras; em 20/10, Lula condicionou sua ida à quebra de sigilos de Flávio.",
+  "descricao": "Último debate, após o Jornal Nacional, nos Estúdios Globo (RJ), com mediação de César Tralli e transmissão por TV Globo, GloboNews e g1. Blocos: regiões do país, seis de dez temas propostos e tema livre, com considerações finais.",
   "fontes": [
    {
     "titulo": "Debate da Globo entre Lula e Flávio Bolsonaro; veja data, horário, regras e como assistir",
@@ -270,7 +270,7 @@
     "tipo_fonte": "JORNALISTICA"
    }
   ],
-  "situacao": "Situação em 21/10/2026: as duas campanhas confirmaram presença e enviaram à emissora as atas com as regras. Em 20/10, porém, Lula condicionou sua participação a que Flávio autorize a quebra dos próprios sigilos bancário, fiscal e telefônico, como ele próprio fez no TSE; até a última verificação, não havia notícia de autorização de Flávio, e aliados dele indicavam que não aceitariam a condição. A realização do debate com os dois candidatos não está, portanto, garantida.",
+  "situacao": "As duas campanhas confirmaram presença e enviaram à emissora as atas com as regras. Em 20/10, porém, Lula condicionou sua participação a que Flávio autorize a quebra dos próprios sigilos bancário, fiscal e telefônico, como ele próprio fez no TSE; até a última verificação, não havia notícia de autorização de Flávio, e aliados dele indicavam que não aceitariam a condição. A realização do debate com os dois candidatos não está, portanto, garantida.",
   "fontes_situacao": [
    {
     "titulo": "Lula condiciona debate decisivo à quebra de sigilo de Flávio Bolsonaro",
@@ -301,7 +301,8 @@
     "tipo_fonte": "JORNALISTICA"
    }
   ],
-  "destaque": true
+  "destaque": true,
+  "situacao_em": "2026-10-21"
  },
  {
   "data": "2026-10-24",

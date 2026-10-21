@@ -120,6 +120,8 @@ def validar(d):
                 erros.append(f'{lugar}: evidência inexistente {x}')
             elif ev[x]['candidato'] != a.get('candidato'):
                 erros.append(f'{lugar}: evidência {x} é de outra candidatura')
+            elif ev[x]['criterio'] != a.get('criterio'):
+                erros.append(f'{lugar}: evidência {x} pertence ao critério {ev[x]["criterio"]}')
         if not (a.get('justificativa') or '').strip():
             erros.append(f'{lugar}: sem justificativa')
     if d['avaliacoes']:
@@ -161,8 +163,20 @@ def validar(d):
         _fontes(lugar, a.get('fontes'), erros)
         if a.get('situacao'):
             _fontes(lugar + '.situacao', a.get('fontes_situacao'), erros)
-    if el.get('atualizado_em') and not DATA.match(el['atualizado_em']):
+            # a ressalva precisa ser revista a cada atualização: sua data acompanha a da análise
+            if a.get('situacao_em') != el.get('atualizado_em'):
+                erros.append(f'{lugar}: situacao_em ({a.get("situacao_em")}) difere de eleicao.atualizado_em; revise a ressalva')
+    atual = el.get('atualizado_em')
+    if atual is not None and not DATA.match(atual):
         erros.append('eleicao.atualizado_em inválida')
+    if atual:
+        # a data exibida como "Atualizado em" não pode ser anterior ao fato ou fonte mais recente da base
+        datas = [e.get('data_fato') for e in d['evidencias']] + [f.get('data') for e in d['evidencias'] for f in e.get('fontes') or []]
+        datas += [c.get('data') for c in d['checagens']] + [f.get('data') for c in d['checagens'] for f in c.get('fontes_verificacao') or []]
+        datas += [t.get('data') for t in d['linha_do_tempo']]
+        mais_recente = max((x[:len(atual)] for x in datas if x and DATA.match(x)), default='')
+        if mais_recente > atual:
+            erros.append(f'eleicao.atualizado_em ({atual}) é anterior ao dado mais recente da base ({mais_recente})')
     for dim in (d['conclusao'] or {}).get('dimensoes', []):
         for x in dim.get('evidencias') or []:
             if x not in ev:

@@ -1168,15 +1168,26 @@ function visao() {
 }
 
 // agenda: destaque para o próximo evento marcado como destaque (o debate) e lista dos próximos eventos
-const hoje = () => new Date().toLocaleDateString("sv-SE", { timeZone: "America/Sao_Paulo" });
+// "agora" no fuso de Brasília, como AAAA-MM-DD HH:MM, para comparar com a data e a hora dos eventos
+const agoraBR = () => new Date().toLocaleString("sv-SE", { timeZone: "America/Sao_Paulo" }).slice(0, 16);
+// um evento segue na agenda até 3 horas depois do horário marcado (ou até o fim do dia, se não houver hora);
+// datas só com mês (AAAA-MM) valem até o fim do mês
+function aindaVale(a) {
+  const agora = agoraBR(), d = String(a.data || "");
+  if (d.length < 10) return d >= agora.slice(0, d.length);
+  const m = /^(\d{1,2})h(\d{2})?/.exec(a.hora || "");
+  if (!m) return d >= agora.slice(0, 10);
+  const fim = new Date(`${d}T${m[1].padStart(2, "0")}:${m[2] || "00"}:00-03:00`).getTime() + 3 * 3600e3;
+  return Date.now() <= fim;
+}
 const DIA = d => { const t = new Date(d + "T12:00:00"); if (isNaN(t)) return FMT(d); const x = t.toLocaleDateString("pt-BR", { weekday: "long", day: "2-digit", month: "2-digit" }); return x.charAt(0).toUpperCase() + x.slice(1); };
 function agenda() {
-  const ag = (S.d.agenda || []).filter(a => a.data >= hoje());
+  const ag = (S.d.agenda || []).filter(aindaVale);
   if (!ag.length) return "";
   const dst = ag.find(a => a.destaque);
   const card = dst ? `<div class="st-debate reveal">${ico("clock")}<div><p class="el-mini">Próximo debate</p>
       <h3>${esc(DIA(dst.data))}${dst.hora ? `, ${esc(dst.hora)}` : ""}</h3><p><b>${esc(dst.titulo)}</b>. ${esc(dst.descricao || "")}</p>
-      ${dst.situacao ? `<p class="st-debate-sit">${ico("alert")} ${esc(dst.situacao)}</p>` : ""}
+      ${dst.situacao ? `<p class="st-debate-sit">${ico("alert")} <span><b>Situação em ${esc(FMT(dst.situacao_em))}.</b> ${esc(dst.situacao)}</span></p>` : ""}
       <details><summary class="small">Fontes</summary>${fontes((dst.fontes || []).concat(dst.fontes_situacao || []))}</details></div></div>` : "";
   const lista = ag.filter(a => a !== dst).slice(0, 8).map(a => `<li><span class="mono small">${esc(FMT(a.data))}${a.hora ? ` · ${esc(a.hora)}` : ""}</span><span>${esc(a.titulo)}${a.descricao ? `<span class="small muted"> · ${esc(a.descricao)}</span>` : ""}</span>
       ${(a.fontes || [])[0] && a.fontes[0].url ? `<a class="ref small" href="${esc(a.fontes[0].url)}" target="_blank" rel="noopener">fonte</a>` : ""}</li>`).join("");
@@ -1307,6 +1318,7 @@ function metodologia() {
   (d.checagens || []).forEach(e => (e.fontes_verificacao || []).forEach(f => add(f)));
   (d.linha_do_tempo || []).forEach(e => (e.fontes || []).forEach(f => add(f)));
   ((d.eleicao.situacao || {}).fontes || []).forEach(f => add(f));
+  (d.agenda || []).forEach(e => (e.fontes || []).concat(e.fontes_situacao || []).forEach(f => add(f)));
   const lista = Object.values(todas).sort((a, b) => String(b.data).localeCompare(String(a.data)));
   const porTipo = Object.keys(d.rotulos.tipo_fonte).map(t => [t, lista.filter(f => f.tipo_fonte === t).length]);
   const porVeiculo = {}; lista.forEach(f => { porVeiculo[f.veiculo] = (porVeiculo[f.veiculo] || 0) + 1; });

@@ -2308,21 +2308,5 @@
     "tipo_fonte": "JORNALISTICA"
    }
   ]
- },
- {
-  "candidato": "ambos",
-  "data": "2026-10-23",
-  "titulo": "Debate da Globo (previsto)",
-  "descricao": "Último debate, nos Estúdios Globo, com mediação de César Tralli.",
-  "categoria": "campanha",
-  "fontes": [
-   {
-    "titulo": "Lula e Flávio têm 3 debates e duas sabatinas marcados",
-    "veiculo": "Poder360",
-    "url": "https://poder360.com.br/poder-eleicoes/lula-e-flavio-tem-3-debates-e-duas-sabatinas-marcados",
-    "data": "2026-10-10",
-    "tipo_fonte": "JORNALISTICA"
-   }
-  ]
  }
 ]

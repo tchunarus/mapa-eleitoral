@@ -1,0 +1,1073 @@
+{
+ "frente": "integridade",
+ "evidencias": [
+  {
+   "id": "integridade-lula-01",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Lava Jato: anulação por incompetência (HC 193726)",
+   "tipo": "DECISAO_JUDICIAL_DEFINITIVA",
+   "sentido": "MISTO",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Em 08/03/2021, o ministro Edson Fachin (STF), no HC 193726, declarou a incompetência da 13ª Vara Federal de Curitiba para quatro ações penais contra Lula (triplex do Guarujá, sítio de Atibaia, sede e doações do Instituto Lula) e anulou os atos decisórios, com remessa à Justiça Federal do DF. Em 14/04/2021, o Plenário do STF rejeitou, por 8 votos a 3, o agravo da PGR e confirmou a decisão. A decisão tratou de competência, sem exame do mérito das acusações.",
+   "data_fato": "2021-04-14",
+   "fontes": [
+    {
+     "titulo": "STF confirma anulação de condenações do ex-presidente Lula na Lava Jato",
+     "veiculo": "STF (portal de notícias)",
+     "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/",
+     "data": "2021-04-15",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Fachin anula todas as condenações de Lula na Lava Jato",
+     "veiculo": "CartaCapital",
+     "url": "https://www.cartacapital.com.br/politica/fachin-anula-todas-as-condenacoes-de-lula-na-lava-jato/",
+     "data": "2021-03-08",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A PGR recorreu sustentando a competência de Curitiba; ficaram vencidos os ministros Nunes Marques, Marco Aurélio e Luiz Fux. A defesa (Cristiano Zanin e Valeska Teixeira Zanin Martins) afirmou que a incompetência era alegada desde 2016 e que a decisão não repara os danos sofridos.",
+   "limitacoes": "Anulação por incompetência não equivale a absolvição: não houve juízo sobre a existência ou não dos fatos. O trânsito em julgado não foi conferido em certidão; trata-se de decisão do Plenário sobre agravo, sem notícia de recurso remanescente nas fontes consultadas."
+  },
+  {
+   "id": "integridade-lula-02",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Lava Jato: suspeição de Sergio Moro (HC 164493)",
+   "tipo": "DECISAO_JUDICIAL_DEFINITIVA",
+   "sentido": "MISTO",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Em 23/06/2021, o Plenário do STF manteve, por 7 votos a 4, a decisão da Segunda Turma que declarou a suspeição do ex-juiz Sergio Moro na ação penal do triplex do Guarujá, com anulação de todas as decisões dele no caso, inclusive atos da fase pré-processual.",
+   "data_fato": "2021-06-23",
+   "fontes": [
+    {
+     "titulo": "STF confirma suspeição de Sergio Moro na ação do triplex do Guarujá",
+     "veiculo": "STF (portal de notícias)",
+     "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=468086&ori=1",
+     "data": "2021-06-23",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ],
+   "contraponto": "Ficaram vencidos Fachin, Barroso, Marco Aurélio e Fux, que entendiam que a Turma não poderia julgar a suspeição após o arquivamento do HC pelo relator; Fux e Marco Aurélio também questionaram o uso de mensagens obtidas por meio ilícito. A defesa de Lula sustentou desde o início a parcialidade do magistrado.",
+   "limitacoes": "A suspeição diz respeito à conduta do juiz, não ao mérito da acusação. A maioria fundamentou-se em limites regimentais à revisão de decisões de Turma pelo Plenário; a extensão a outros processos não foi examinada nesta evidência."
+  },
+  {
+   "id": "integridade-lula-03",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Triplex do Guarujá: arquivamento por prescrição",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 27/01/2022, a juíza Pollyanna Alves, da 12ª Vara Federal Criminal de Brasília, arquivou o caso do triplex a pedido do MPF, que reconheceu a prescrição (prazo reduzido à metade por Lula ter mais de 70 anos) e afirmou que as provas anuladas pelo STF não poderiam ser aproveitadas.",
+   "data_fato": "2022-01-27",
+   "fontes": [
+    {
+     "titulo": "Justiça arquiva caso do tríplex contra Lula",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/justica/justica-arquiva-caso-do-triplex-contra-lula/",
+     "data": "2022-01-28",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "MPF reconhece prescrição e pede arquivamento de ação contra Lula por tríplex no Guarujá",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/republica/breves/mpf-reconhece-prescricao-e-pede-arquivamento-de-acao-contra-lula-por-triplex-no-guaruja/",
+     "data": "2021-12",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A defesa afirmou que o caso teve ilegalidades graves e que, além da idade, a parcialidade de Moro tornava nulos todos os elementos dos autos. Lula declarou nas redes que a verdade venceu.",
+   "limitacoes": "Extinção da punibilidade por prescrição não é juízo de mérito: não declara inocência nem culpa. A situação recursal posterior não foi confirmada em fonte primária."
+  },
+  {
+   "id": "integridade-lula-04",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Sítio de Atibaia: denúncia rejeitada em Brasília",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 21/08/2021, a juíza substituta Pollyanna Kelly Alves (12ª Vara Federal do DF) rejeitou a denúncia do sítio de Atibaia por falta de justa causa, porque o MPF não indicou provas que subsistissem à anulação pelo STF, e declarou extinta a punibilidade de Lula por prescrição. Em 29/09/2021, rejeitou novamente a ratificação da denúncia proposta pelo MPF.",
+   "data_fato": "2021-09-29",
+   "fontes": [
+    {
+     "titulo": "Juíza de Brasília rejeita denúncia contra Lula por sítio e extingue punição",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/republica/juiza-de-brasilia-rejeita-denuncia-contra-lula-por-sitio-e-extingue-punicao/",
+     "data": "2021-08-22",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Justiça do DF volta a rejeitar denúncia contra Lula no caso do sítio de Atibaia",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/justica/justica-do-df-volta-a-negar-denuncia-contra-lula-no-caso-do-sitio-de-atibaia/",
+     "data": "2021-09-29",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O MPF contestou o entendimento sobre a prescrição. A defesa afirmou que a decisão encerrou mais um caso usado pela Lava Jato e lembrou os 580 dias de prisão de Lula.",
+   "limitacoes": "Rejeição de denúncia por ausência de provas válidas remanescentes e prescrição não equivale a absolvição de mérito. Em 2022, o Poder360 registrou possibilidade de o TRF1 rever a decisão; o desfecho recursal não foi localizado."
+  },
+  {
+   "id": "integridade-lula-05",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Instituto Lula, terreno e caças Gripen: trancamento pelo STF",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em fevereiro de 2023, o ministro Ricardo Lewandowski (STF) determinou o trancamento de três ações contra Lula em Brasília (doações da Odebrecht ao Instituto Lula, compra de terreno para o instituto e caças Gripen, da Operação Zelotes), por considerar as provas derivadas do acordo de leniência da Odebrecht ilícitas e ausente a justa causa. As duas primeiras estavam suspensas desde setembro de 2021 e a terceira desde março de 2022.",
+   "data_fato": "2023-02",
+   "fontes": [
+    {
+     "titulo": "Lewandowski encerra três ações contra Lula que estavam suspensas",
+     "veiculo": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-02/lewandowski-encerra-tres-acoes-contra-lula-que-estavam-suspensas",
+     "data": "2023-02-18",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lewandowski encerra 3 investigações contra Lula",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/justica/lewandowski-encerra-3-investigacoes-contra-lula/",
+     "data": "2023-02",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "As fontes consultadas não registram manifestação da PGR. A defesa baseou o pedido em material da Operação Spoofing.",
+   "limitacoes": "Trancamento por ilicitude de prova e falta de justa causa não é absolvição de mérito. A data exata da decisão e eventuais recursos não foram confirmados."
+  },
+  {
+   "id": "integridade-lula-06",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Quadrilhão do PT: absolvição sumária",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 04/12/2019, o juiz Marcus Vinicius Reis Bastos (12ª Vara Federal do DF) absolveu sumariamente Lula, Dilma Rousseff, Antonio Palocci, Guido Mantega e João Vaccari Neto da acusação de organização criminosa (processo 1026137-89.2018.4.01.3400), por entender que a denúncia não descrevia vínculo associativo nem os elementos do tipo.",
+   "data_fato": "2019-12-04",
+   "fontes": [
+    {
+     "titulo": "Juiz absolve Lula, Dilma, Palocci e Mantega em ação do quadrilhão do PT",
+     "veiculo": "Migalhas",
+     "url": "https://www.migalhas.com.br/quentes/316506/juiz-absolve-lula--dilma--palocci-e-mantega-em-acao-do--quadrilhao-do-pt",
+     "data": "2019-12-05",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula diz que foi absolvido, mas segue com problemas na Justiça",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/justica/lula-diz-que-foi-absolvido-mas-segue-com-problemas-na-justica/",
+     "data": "2022-08-29",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "A denúncia fora apresentada em 2017 pelo então PGR Rodrigo Janot. O Poder360 corrigiu em 2022 que a absolvição não foi por falta de provas, mas porque o fato narrado não constituía crime.",
+   "limitacoes": "Absolvição sumária com fundamento na atipicidade da conduta narrada; o trânsito em julgado não foi confirmado nas fontes consultadas."
+  },
+  {
+   "id": "integridade-lula-07",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Panorama das ações e investigações (até 2021)",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Levantamento da Gazeta do Povo (02/10/2021) listou 20 ações e investigações contra Lula: absolvições em casos como MP 471 (montadoras, junho de 2021) e pressão sobre Nestor Cerveró (julho de 2018), além do Quadrilhão; nos demais, rejeição de denúncia, arquivamento, trancamento, prescrição ou anulação, sem condenação vigente.",
+   "data_fato": "2021-10-02",
+   "fontes": [
+    {
+     "titulo": "Lula livre? Como ficaram as 20 ações e investigações contra o petista",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/republica/lula-livre-como-ficaram-as-20-acoes-e-investigacoes-contra-o-ex-presidente/",
+     "data": "2021-10-02",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Segundo a mesma linha de cobertura, parte dos desfechos decorreu de nulidades e prescrição, e não de exame das provas.",
+   "limitacoes": "Compilação jornalística com situação de outubro de 2021; não substitui consulta processual individual. Desfechos posteriores (trancamentos de 2023) aparecem em evidência própria."
+  },
+  {
+   "id": "integridade-lula-08",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "Discurso de absolvição em todos os processos",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "No debate da Band de 28/08/2022, Lula afirmou ter sido absolvido em todos os 26 processos. O Poder360 apontou que as decisões do STF anularam ou suspenderam processos sem examinar as provas, o que não equivale a absolvição; parte dos casos foi encerrada por prescrição ou trancamento.",
+   "data_fato": "2022-08-28",
+   "fontes": [
+    {
+     "titulo": "Lula diz que foi absolvido, mas segue com problemas na Justiça",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/justica/lula-diz-que-foi-absolvido-mas-segue-com-problemas-na-justica/",
+     "data": "2022-08-29",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "Lula sustenta que é inocente e que pagou o preço de ser inocente; tecnicamente, não há contra ele condenação transitada em julgado, o que preserva a presunção de inocência.",
+   "limitacoes": "A evidência trata da precisão da afirmação pública, não da existência de crime. Há absolvições de mérito em alguns casos, de modo que a afirmação é parcialmente imprecisa, e não integralmente falsa."
+  },
+  {
+   "id": "integridade-lula-09",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Indicação do ex-advogado Cristiano Zanin ao STF",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Lula indicou ao STF Cristiano Zanin, que fora seu advogado nos processos da Lava Jato. O Senado aprovou a indicação em 21/06/2023, por 58 votos a 18, após aprovação na CCJ.",
+   "data_fato": "2023-06-21",
+   "fontes": [
+    {
+     "titulo": "Por 58 votos a 18, Senado aprova indicação de Zanin para o STF",
+     "veiculo": "Metrópoles",
+     "url": "https://www.metropoles.com/brasil/por-58-votos-a-18-senado-aprova-indicacao-de-zanin-para-o-stf",
+     "data": "2023-06-21",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Na sabatina, Zanin afirmou que não seria subordinado ao presidente e que eventuais impedimentos seguiriam os critérios legais. A indicação é prerrogativa constitucional do presidente e foi aprovada pela maioria absoluta do Senado.",
+   "limitacoes": "O fato não indica ilegalidade; a avaliação sobre conflito de interesses é interpretativa. A atuação de Zanin como ministro não foi examinada nesta frente."
+  },
+  {
+   "id": "integridade-lula-10",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Fraude do INSS: filho do presidente investigado",
+   "tipo": "INVESTIGACAO_OU_DENUNCIA",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "No inquérito sobre descontos indevidos do INSS, sob relatoria do ministro André Mendonça (STF), a PF requereu em janeiro de 2026 e o relator autorizou a quebra dos sigilos bancário, fiscal e telemático de Fábio Luís Lula da Silva, filho do presidente, a partir de indícios de repasses atribuídos ao chamado Careca do INSS. As fontes consultadas não indicam que o presidente Lula seja investigado.",
+   "data_fato": "2026-01",
+   "fontes": [
+    {
+     "titulo": "PF pediu quebra de sigilos de Lulinha e André Mendonça autorizou",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-justica/pf-pediu-quebra-de-sigilos-de-lulinha-e-andre-mendonca-autorizou/",
+     "data": "2026-02-26",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Por que a investigação sobre o Careca do INSS e Lulinha está travada na PF",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/republica/por-que-a-investigacao-sobre-o-careca-do-inss-e-lulinha-esta-travada-na-pf/",
+     "data": "2026-07-02",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A defesa de Fábio Luís nega ligação comercial com o investigado e conhecimento de irregularidades. Lula declarou em dezembro de 2025 que o filho seria investigado se estivesse envolvido e, em fevereiro de 2026, que pagaria o preço se fosse o caso.",
+   "limitacoes": "Quebra de sigilo é medida investigativa, não juízo de culpa; não há denúncia. O fato refere-se a familiar do candidato, e não ao candidato."
+  },
+  {
+   "id": "integridade-lula-11",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Fraude do INSS: Sindnapi e Frei Chico",
+   "tipo": "INVESTIGACAO_OU_DENUNCIA",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "O Sindnapi, entidade da qual José Ferreira da Silva (Frei Chico), irmão de Lula, é vice-presidente, foi alvo da operação da PF e da CGU deflagrada em 23/04/2025 sobre descontos associativos não autorizados (estimados em R$ 6,3 bilhões entre 2019 e 2024). Frei Chico não é investigado segundo a CNN e a Agência Câmara. Em 16/10/2025, a CPMI do INSS rejeitou, por 19 votos a 11, os 11 requerimentos de sua convocação.",
+   "data_fato": "2025-10-16",
+   "fontes": [
+    {
+     "titulo": "Sindicato de irmão de Lula é alvo de operação contra fraudes no INSS",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/politica/sindicato-de-irmao-de-lula-e-alvo-de-operacao-contra-fraudes-no-inss/",
+     "data": "2025-04-23",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "CPMI do INSS rejeita convocação de Frei Chico, irmão de Lula",
+     "veiculo": "Agência Câmara de Notícias",
+     "url": "https://www.camara.leg.br/noticias/1212823-cpmi-do-inss-rejeita-convocacao-de-frei-chico-irmao-de-lula",
+     "data": "2025-10-16",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ],
+   "contraponto": "A oposição classificou a rejeição como blindagem; a base governista argumentou que Frei Chico não tem atuação administrativa ou financeira na entidade e não é alvo da PF. O sindicato declarou apoiar a apuração.",
+   "limitacoes": "Investigação da entidade não implica responsabilidade do dirigente ou do candidato. O período estimado das fraudes abrange os governos Bolsonaro e Lula."
+  },
+  {
+   "id": "integridade-lula-12",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Fraude do INSS: indiciamentos de julho de 2026",
+   "tipo": "INVESTIGACAO_OU_DENUNCIA",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 14/07/2026, a PF enviou ao STF relatório da primeira etapa da Operação Sem Desconto com indiciamento de 48 pessoas, entre elas o ex-presidente do INSS Alessandro Stefanutto, o ex-procurador-geral do órgão e Antônio Carlos Camilo Antunes, por organização criminosa, lavagem e corrupção passiva. Lula, Fábio Luís e Frei Chico não constam entre os indiciados citados.",
+   "data_fato": "2026-07-14",
+   "fontes": [
+    {
+     "titulo": "PF indicia Careca do INSS e mais 47 pessoas em inquérito sobre fraudes",
+     "veiculo": "Correio Braziliense",
+     "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+     "data": "2026-07-14",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Defesas de indiciados ressaltam que indiciamento não equivale a denúncia nem a condenação; cabe à PGR decidir.",
+   "limitacoes": "A fonte consultada não informa o período de gestão de Stefanutto nem sua indicação; o vínculo político com o governo não foi conferido aqui. Uma única fonte jornalística aberta."
+  },
+  {
+   "id": "integridade-lula-13",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Fraude do INSS: ritmo da investigação na PF",
+   "tipo": "ALEGACAO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "A Gazeta do Povo relatou em 02/07/2026 que a PF informou ao STF ter apenas dez servidores no caso, que metade do material apreendido ainda não fora analisada e que, em abril de 2026, houve troca na coordenação do inquérito, afastando da linha de frente o delegado que pedira a quebra do sigilo de Fábio Luís.",
+   "data_fato": "2026-07-02",
+   "fontes": [
+    {
+     "titulo": "Por que a investigação sobre o Careca do INSS e Lulinha está travada na PF",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/republica/por-que-a-investigacao-sobre-o-careca-do-inss-e-lulinha-esta-travada-na-pf/",
+     "data": "2026-07-02",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A reportagem não atribui a troca a ordem do governo; não há, nas fontes consultadas, manifestação oficial da PF sobre o motivo.",
+   "limitacoes": "Fonte única; não demonstra interferência política. Registrada como contexto de transparência do inquérito."
+  },
+  {
+   "id": "integridade-lula-14",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "Banco Master: ausência de indício de pedido de Lula",
+   "tipo": "INTERPRETACAO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "A agência de checagem Aos Fatos classificou como distorção a alegação de que filmes sobre Lula teriam sido financiados por Daniel Vorcaro, afirmando não haver indícios de que Lula tenha solicitado financiamento ao banqueiro; Lula negou e o diretor Oliver Stone afirmou que nem o Master nem empresas ligadas a Vorcaro financiaram o documentário.",
+   "data_fato": "2026-05-14",
+   "fontes": [
+    {
+     "titulo": "Para defender Flávio, bolsonaristas distorcem fatos sobre Vorcaro, Lula e financiamento de filme",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/flavio-bolsonaristas-vorcaro-lula-filme/",
+     "data": "2026-05-14",
+     "tipo_fonte": "CHECAGEM"
+    }
+   ],
+   "contraponto": "A alegação partiu de aliados de Flávio Bolsonaro, citados em nota de coluna do O Globo (13/05/2026), que não trazia valores.",
+   "limitacoes": "Checagem jornalística baseada nas informações disponíveis em maio de 2026; não exclui fatos posteriores não localizados."
+  },
+  {
+   "id": "integridade-flavio-01",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "Rachadinha: denúncia do MP-RJ (2020)",
+   "tipo": "INVESTIGACAO_OU_DENUNCIA",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em novembro de 2020, o MP-RJ denunciou Flávio Bolsonaro, Fabrício Queiroz e outras 15 pessoas por peculato, lavagem de dinheiro e organização criminosa, sustentando que o então deputado estadual se apropriou de parte dos salários de servidores do gabinete na Alerj e usou cerca de R$ 1 milhão, entre 2010 e 2014, em despesas pessoais e compra de imóveis.",
+   "data_fato": "2020-11",
+   "fontes": [
+    {
+     "titulo": "STJ anula quebra de sigilo bancário e fiscal de Flávio Bolsonaro no caso das 'rachadinhas'",
+     "veiculo": "Diário do Nordeste (conteúdo Folhapress)",
+     "url": "https://diariodonordeste.verdesmares.com.br/politica/stj-anula-quebra-de-sigilo-bancario-e-fiscal-de-flavio-bolsonaro-no-caso-das-rachadinhas-1.3051176",
+     "data": "2021-02-23",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio nega as acusações, atribui a investigação a perseguição de membros do MP-RJ e afirma que nada foi encontrado contra ele.",
+   "limitacoes": "Denúncia é acusação, não prova; foi posteriormente rejeitada após anulação das provas (ver evidências seguintes), sem exame de mérito."
+  },
+  {
+   "id": "integridade-flavio-02",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "Rachadinha: STJ anula quebra de sigilos",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 23/02/2021, a Quinta Turma do STJ, por 4 votos a 1 (vencido o relator Felix Fischer), anulou a quebra dos sigilos bancário e fiscal de Flávio e de outras 94 pessoas determinada em 2019 pelo juiz Flávio Itabaiana (27ª Vara Criminal do Rio), por deficiência de fundamentação da decisão.",
+   "data_fato": "2021-02-23",
+   "fontes": [
+    {
+     "titulo": "STJ anula quebra de sigilo bancário e fiscal de Flávio Bolsonaro no caso das 'rachadinhas'",
+     "veiculo": "Diário do Nordeste (conteúdo Folhapress)",
+     "url": "https://diariodonordeste.verdesmares.com.br/politica/stj-anula-quebra-de-sigilo-bancario-e-fiscal-de-flavio-bolsonaro-no-caso-das-rachadinhas-1.3051176",
+     "data": "2021-02-23",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Rachadinhas: STJ anula quebra de sigilo fiscal de Flávio Bolsonaro",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/corrupcao/rachadinhas-stj-anula-quebra-de-sigilo-fiscal-de-flavio-bolsonaro/",
+     "data": "2021-02-23",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O MP-RJ e o MPF recorreram da decisão. A defesa questionou os relatórios do Coaf que apontaram movimentações suspeitas.",
+   "limitacoes": "Nulidade por vício formal da decisão de quebra; não há juízo sobre a existência dos fatos. Recursos do MP não tiveram desfecho localizado."
+  },
+  {
+   "id": "integridade-flavio-03",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "Rachadinha: STJ anula decisões do juiz de primeiro grau",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 09/11/2021, a Quinta Turma do STJ, por 4 votos a 1, acolheu embargos da defesa e anulou as decisões do juiz da 27ª Vara Criminal do Rio, por entender que a investigação deveria ter sido conduzida pelo Órgão Especial do TJRJ; foram atingidas buscas, quebras de sigilo e a prisão de Fabrício Queiroz.",
+   "data_fato": "2021-11-09",
+   "fontes": [
+    {
+     "titulo": "STJ anula decisões contra Flávio Bolsonaro no caso das rachadinhas",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/politica/stj-anula-decisoes-contra-flavio-bolsonaro-no-caso-das-rachadinhas/",
+     "data": "2021-11-09",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "STJ anula todas as decisões de 1ª instância sobre rachadinhas de Flávio Bolsonaro",
+     "veiculo": "Folha Vitória",
+     "url": "https://www.folhavitoria.com.br/politica/stj-anula-todas-as-decisoes-de-1-instancia-sobre-rachadinhas-de-flavio-bolsonaro/",
+     "data": "2021-11-09",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio declarou que a investigação foi ilegal e fruto de perseguição. O MP-RJ ficou com a opção de renovar pedidos de quebra de sigilo.",
+   "limitacoes": "Nulidade por incompetência; o mérito não foi examinado. Em abril de 2023, o STJ admitiu recurso extraordinário do MP-RJ contra esse acórdão (ver evidência própria)."
+  },
+  {
+   "id": "integridade-flavio-04",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "Rachadinha: STF anula relatórios do Coaf e mantém foro (HC 201965 e Rcl 41910)",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "MISTO",
+   "peso_probatorio": "ALTO",
+   "afirmacao": "Em 30/11/2021, a Segunda Turma do STF, por maioria (vencido Edson Fachin), concedeu o HC 201965 e anulou quatro dos cinco relatórios de inteligência financeira do Coaf, por entender que o MP-RJ os obteve por comunicação direta antes de autorização judicial, e julgou improcedente a Reclamação 41910 do MP-RJ, mantendo a competência do Órgão Especial do TJRJ.",
+   "data_fato": "2021-11-30",
+   "fontes": [
+    {
+     "titulo": "2ª Turma decide que provas contra Flávio Bolsonaro no caso das chamadas rachadinhas são ilegais",
+     "veiculo": "STF (portal de notícias)",
+     "url": "https://noticias.stf.jus.br/postsnoticias/2a-turma-decide-que-provas-contra-flavio-bolsonaro-no-caso-das-chamadas-rachadinhas-sao-ilegais/",
+     "data": "2021-11-30",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "STF mantém foro de Flávio Bolsonaro no caso das rachadinhas",
+     "veiculo": "Metrópoles",
+     "url": "https://www.metropoles.com/brasil/stf-mantem-foro-de-flavio-bolsonaro-no-caso-das-rachadinhas",
+     "data": "2021-11-30",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Fachin entendeu que a 27ª Vara Criminal era competente. O relator Gilmar Mendes qualificou o procedimento como investigação disfarçada, e a maioria assinalou que o MP-RJ perdeu o prazo da via recursal própria quanto ao foro.",
+   "limitacoes": "Decisão sobre licitude da prova e competência, sem exame de mérito; o primeiro relatório do Coaf permaneceu válido."
+  },
+  {
+   "id": "integridade-flavio-05",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "Rachadinha: denúncia rejeitada pelo TJRJ",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 16/05/2022, o Órgão Especial do TJRJ, a pedido do próprio MP-RJ, rejeitou (arquivou) a denúncia das rachadinhas em razão da anulação das provas. O MP-RJ registrou não haver óbice à renovação das investigações com novas provas, e a relatora afirmou que a decisão não impede nova denúncia.",
+   "data_fato": "2022-05-16",
+   "fontes": [
+    {
+     "titulo": "Justiça arquiva denúncia contra Flávio Bolsonaro por rachadinhas",
+     "veiculo": "Congresso em Foco",
+     "url": "https://congressoemfoco.com.br/area/justica/justica-arquiva-denuncia-contra-flavio-bolsonaro-por-rachadinhas",
+     "data": "2022-05-16",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Tribunal de Justiça do Rio arquiva denúncia por 'rachadinhas' contra Flávio Bolsonaro",
+     "veiculo": "Folha de Pernambuco",
+     "url": "https://www.folhape.com.br/politica/tribunal-de-justica-do-rio-arquiva-denuncia-por-rachadinhas-contra/227033/",
+     "data": "2022-05-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A defesa considera o caso encerrado e afirma que adotará medidas judiciais em caso de desdobramentos.",
+   "limitacoes": "A rejeição não faz coisa julgada material sobre os fatos; não é absolvição. Não se localizou nova denúncia até a data desta pesquisa."
+  },
+  {
+   "id": "integridade-flavio-06",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "Rachadinha: recurso do MP-RJ pendente no STF",
+   "tipo": "INCONCLUSIVO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Em abril de 2023, o STJ admitiu recurso extraordinário do MP-RJ contra o acórdão que anulou as decisões de primeiro grau, levando ao STF a discussão sobre a tese dos mandatos cruzados. Não foi localizado julgamento desse recurso.",
+   "data_fato": "2023-04-18",
+   "fontes": [
+    {
+     "titulo": "STJ envia ao STF recurso contra nulidades no caso Flávio Bolsonaro",
+     "veiculo": "Consultor Jurídico",
+     "url": "https://conjur.com.br/2023-abr-18/stj-envia-stf-recurso-nulidades-flavio-bolsonaro/",
+     "data": "2023-04-18",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A defesa sustenta que o caso está encerrado.",
+   "limitacoes": "A página do Conjur retornou erro de acesso; a informação baseia-se no título e no resumo da busca. Situação atual não confirmada em fonte primária."
+  },
+  {
+   "id": "integridade-flavio-07",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "Caso Dark Horse / Banco Master: inquérito no STF",
+   "tipo": "INVESTIGACAO_OU_DENUNCIA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "A pedido da PF e com aval da PGR, o ministro André Mendonça (STF) incluiu Flávio Bolsonaro como investigado, em julho de 2026, em apuração vinculada ao INQ 5026 sobre repasses do ex-banqueiro Daniel Vorcaro (Banco Master) para financiar o filme Dark Horse, sobre Jair Bolsonaro; os crimes apurados são lavagem de dinheiro, evasão de divisas e corrupção. A suspeita é de que os recursos foram disponibilizados a pedido do senador.",
+   "data_fato": "2026-07-22",
+   "fontes": [
+    {
+     "titulo": "Mendonça incluiu Flávio Bolsonaro como investigado no caso Dark Horse",
+     "veiculo": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-incluiu-flavio-bolsonaro-como-investigado-no-caso-dark-horse",
+     "data": "2026-09-11",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio Bolsonaro chega ao primeiro turno investigado pela PF, com relações com Vorcaro expostas",
+     "veiculo": "Brasil de Fato",
+     "url": "https://www.brasildefato.com.br/2026/10/03/flavio-bolsonaro-chega-ao-primeiro-turno-investigado-pela-pf-com-relacoes-com-vorcaro-expostas-e-vice-suspeito-de-estupro/",
+     "data": "2026-10-03",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio é investigado no STF por financiamento do “Dark Horse”",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-justica/flavio-e-investigado-no-stf-por-financiamento-do-dark-horse/",
+     "data": "2026-09-11",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio nega irregularidade e afirma tratar-se de patrocínio privado para um filme privado, sem recursos públicos nem contrapartida ligada ao mandato; não negou a autenticidade dos áudios.",
+   "limitacoes": "Investigação em curso, sob sigilo, sem denúncia. Há divergência de data (22 ou 23 de julho) e de valores (R$ 61 milhões segundo a Agência Brasil; US$ 24 milhões negociados e US$ 10,6 milhões enviados segundo o Intercept, citado pelo Brasil de Fato)."
+  },
+  {
+   "id": "integridade-flavio-08",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "Mensagens e áudio com Vorcaro",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 13/05/2026, o Intercept Brasil publicou mensagens e áudio de Flávio Bolsonaro a Daniel Vorcaro cobrando parcelas para o filme Dark Horse, inclusive mensagem de 16/11/2025, véspera da prisão do banqueiro, em que dizia estar com ele sempre. O Banco Master foi liquidado em 18/11/2025.",
+   "data_fato": "2026-05-13",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro nega conteúdo de matéria de site sobre apoio de Vorcaro para filme",
+     "veiculo": "InfoMoney",
+     "url": "https://www.infomoney.com.br/?p=3330424",
+     "data": "2026-05-13",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio diz que é mentira financiamento de Vorcaro para filme de Bolsonaro: é dinheiro privado (Estadão Conteúdo)",
+     "veiculo": "O Liberal / Estadão Conteúdo",
+     "url": "https://www.oliberal.com/politica/flavio-diz-que-e-mentira-financiamento-de-vorcaro-para-filme-de-bolsonaro-e-dinheiro-privado-1.1120869",
+     "data": "2026-05-13",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Antes da publicação, Flávio disse que a informação era mentira e que se tratava de dinheiro privado; segundo a Agência Brasil, não negou a autenticidade do áudio.",
+   "limitacoes": "As mensagens demonstram a interlocução e os pedidos de recursos, não a prática de crime, que depende da apuração sobre a origem e o destino dos valores."
+  },
+  {
+   "id": "integridade-flavio-09",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "Declarações sobre a relação com Vorcaro",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "A agência Aos Fatos documentou, em 24/09/2026, divergências entre declarações de Flávio e documentos sobre Vorcaro: negou conhecer o banqueiro e depois foram reveladas mensagens e encontros; negou e depois confirmou as mensagens no mesmo dia (13/05/2026); afirmou que o último pagamento ao filme foi em maio de 2025, enquanto relatório do Coaf divulgado pela piauí registra transferência em 16/09/2025.",
+   "data_fato": "2026-09-24",
+   "fontes": [
+    {
+     "titulo": "Flávio mentiu ao menos 43 vezes sobre elo com Vorcaro",
+     "veiculo": "Aos Fatos",
+     "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+     "data": "2026-09-24",
+     "tipo_fonte": "CHECAGEM"
+    },
+    {
+     "titulo": "Flávio diz que é mentira financiamento de Vorcaro para filme de Bolsonaro: é dinheiro privado (Estadão Conteúdo)",
+     "veiculo": "O Liberal / Estadão Conteúdo",
+     "url": "https://www.oliberal.com/politica/flavio-diz-que-e-mentira-financiamento-de-vorcaro-para-filme-de-bolsonaro-e-dinheiro-privado-1.1120869",
+     "data": "2026-05-13",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A assessoria de Flávio não respondeu à Aos Fatos até a publicação; o senador sustenta que o financiamento é privado e lícito e que a produtora prestou contas por perícia.",
+   "limitacoes": "A contagem de 43 declarações enganosas é do veículo de checagem. A evidência trata da consistência do discurso, não de responsabilidade penal."
+  },
+  {
+   "id": "integridade-flavio-10",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "Novo inquérito: relação com Willer Tomaz",
+   "tipo": "INVESTIGACAO_OU_DENUNCIA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 08/10/2026, chegou ao STF, distribuído ao ministro Alexandre de Moraes, inquérito da PF originado no Rio Grande do Sul (apostas e meios de pagamento) que apura suspeita de lavagem de dinheiro na relação de Flávio com o advogado Willer Tomaz: viagens pagas, conta da Alcazar Holding em que Flávio constaria como usuário master e vínculos de Tomaz com a Rede Loto, autorizada pela Loterj.",
+   "data_fato": "2026-10-08",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro é alvo de segundo inquérito no STF por suspeita de lavagem de dinheiro",
+     "veiculo": "CartaCapital",
+     "url": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-e-alvo-de-segundo-inquerito-no-stf-por-suspeita-de-lavagem-de-dinheiro/",
+     "data": "2026-10-18",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio é alvo de inquérito na PF por suspeita de lavagem de dinheiro",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/123352/flavio-e-alvo-de-inquerito-na-pf-por-suspeita-de-lavagem-de-dinheiro",
+     "data": "2026-10-18",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Novo inquérito contra Flávio Bolsonaro chega ao STF, cita relação com Willer Tomaz e terá Moraes como relator",
+     "veiculo": "ND Mais",
+     "url": "https://ndmais.com.br/justica/novo-inquerito-contra-flavio-bolsonaro-chega-ao-stf/",
+     "data": "2026-10-19",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Em nota da campanha, Flávio afirma motivação política, relação de amizade entre as famílias e que nunca teve acesso a conta como usuário master. A defesa de Tomaz nega movimentação irregular, diz que a Rede Loto nunca operou e critica a quebra de sigilo como pescaria probatória.",
+   "limitacoes": "Fase inicial; não há denúncia. A movimentação de cerca de R$ 130 milhões na conta de Tomaz não foi vinculada ao senador, segundo o Congresso em Foco. Informação originada do Estadão e do R7, não conferida nos autos."
+  },
+  {
+   "id": "integridade-flavio-11",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "Discurso sobre o desfecho das rachadinhas",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Após a anulação das provas pelo STJ em novembro de 2021, Flávio afirmou que nada foi encontrado contra ele. As decisões do STJ e do STF anularam provas e atos por vício formal e incompetência, sem examinar o mérito, e o TJRJ ressalvou a possibilidade de nova denúncia.",
+   "data_fato": "2021-11-09",
+   "fontes": [
+    {
+     "titulo": "STJ anula decisões contra Flávio Bolsonaro no caso das rachadinhas",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/politica/stj-anula-decisoes-contra-flavio-bolsonaro-no-caso-das-rachadinhas/",
+     "data": "2021-11-09",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Justiça arquiva denúncia contra Flávio Bolsonaro por rachadinhas",
+     "veiculo": "Congresso em Foco",
+     "url": "https://congressoemfoco.com.br/area/justica/justica-arquiva-denuncia-contra-flavio-bolsonaro-por-rachadinhas",
+     "data": "2022-05-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O senador sustenta que a investigação foi ilegal; não há condenação contra ele, o que preserva a presunção de inocência.",
+   "limitacoes": "Avalia a precisão do discurso, não a existência de crime. Simétrica à evidência integridade-lula-08."
+  },
+  {
+   "id": "integridade-flavio-12",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "INSS: alegações sobre entorno do senador",
+   "tipo": "ALEGACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "O Brasil de Fato relatou que, em fevereiro de 2026, requerimento à CPMI do INSS pediu a convocação de Flávio para explicar vínculos de seu entorno com o Careca do INSS, e que reportagem do ICL Notícias (setembro de 2026) apontou que a empresa Bravo Grafeno, ligada ao senador, estava registrada na mesma sala de ao menos 16 empresas associadas ao investigado.",
+   "data_fato": "2026-09",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro chega ao primeiro turno investigado pela PF, com relações com Vorcaro expostas",
+     "veiculo": "Brasil de Fato",
+     "url": "https://www.brasildefato.com.br/2026/10/03/flavio-bolsonaro-chega-ao-primeiro-turno-investigado-pela-pf-com-relacoes-com-vorcaro-expostas-e-vice-suspeito-de-estupro/",
+     "data": "2026-10-03",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio nega envolvimento com o esquema do INSS.",
+   "limitacoes": "Fonte única, de linha editorial alinhada à oposição ao candidato; não há investigação formal contra Flávio no caso INSS localizada nas fontes consultadas."
+  },
+  {
+   "id": "integridade-flavio-13",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "Emendas parlamentares indicadas",
+   "tipo": "ALEGACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Segundo o Brasil de Fato, levantamento do UOL (01/10/2026) apontou que emendas indicadas por Flávio terminaram em contratos com empresas e entidades sob investigação ou questionamento, e mensagens obtidas pela PF tratariam de emenda de cerca de R$ 200 mil a instituto ligado aos irmãos Brazão.",
+   "data_fato": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro chega ao primeiro turno investigado pela PF, com relações com Vorcaro expostas",
+     "veiculo": "Brasil de Fato",
+     "url": "https://www.brasildefato.com.br/2026/10/03/flavio-bolsonaro-chega-ao-primeiro-turno-investigado-pela-pf-com-relacoes-com-vorcaro-expostas-e-vice-suspeito-de-estupro/",
+     "data": "2026-10-03",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio afirma que o gabinete indica as emendas, mas não escolhe as empresas contratadas depois, e que eventuais irregularidades devem ser apuradas pelos órgãos de controle.",
+   "limitacoes": "Informação de segunda mão (UOL citado por veículo de linha oposta ao candidato); a reportagem original não foi aberta. Não indica responsabilidade do senador pela execução."
+  }
+ ],
+ "linha_do_tempo": [
+  {
+   "candidato": "lula",
+   "data": "2019-12-04",
+   "titulo": "Absolvição sumária no Quadrilhão do PT",
+   "descricao": "12ª Vara Federal do DF absolve sumariamente Lula e outros por atipicidade da conduta narrada.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Juiz absolve Lula, Dilma, Palocci e Mantega em ação do quadrilhão do PT",
+     "veiculo": "Migalhas",
+     "url": "https://www.migalhas.com.br/quentes/316506/juiz-absolve-lula--dilma--palocci-e-mantega-em-acao-do--quadrilhao-do-pt",
+     "data": "2019-12-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2021-03-08",
+   "titulo": "Fachin declara incompetência de Curitiba",
+   "descricao": "HC 193726: anulação dos atos decisórios em quatro ações e remessa à Justiça Federal do DF.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Fachin anula todas as condenações de Lula na Lava Jato",
+     "veiculo": "CartaCapital",
+     "url": "https://www.cartacapital.com.br/politica/fachin-anula-todas-as-condenacoes-de-lula-na-lava-jato/",
+     "data": "2021-03-08",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2021-04-14",
+   "titulo": "Plenário do STF confirma anulação",
+   "descricao": "Agravo da PGR rejeitado por 8 a 3.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "STF confirma anulação de condenações do ex-presidente Lula na Lava Jato",
+     "veiculo": "STF (portal de notícias)",
+     "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/",
+     "data": "2021-04-15",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2021-06-23",
+   "titulo": "Plenário mantém suspeição de Moro",
+   "descricao": "Por 7 a 4, mantida a decisão da Segunda Turma no caso do triplex.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "STF confirma suspeição de Sergio Moro na ação do triplex do Guarujá",
+     "veiculo": "STF (portal de notícias)",
+     "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=468086&ori=1",
+     "data": "2021-06-23",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2021-08-21",
+   "titulo": "Denúncia do sítio de Atibaia rejeitada",
+   "descricao": "12ª Vara Federal do DF rejeita denúncia e reconhece prescrição; nova rejeição em 29/09/2021.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Juíza de Brasília rejeita denúncia contra Lula por sítio e extingue punição",
+     "veiculo": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/republica/juiza-de-brasilia-rejeita-denuncia-contra-lula-por-sitio-e-extingue-punicao/",
+     "data": "2021-08-22",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Justiça do DF volta a rejeitar denúncia contra Lula no caso do sítio de Atibaia",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/justica/justica-do-df-volta-a-negar-denuncia-contra-lula-no-caso-do-sitio-de-atibaia/",
+     "data": "2021-09-29",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2022-01-27",
+   "titulo": "Triplex arquivado por prescrição",
+   "descricao": "Arquivamento a pedido do MPF.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Justiça arquiva caso do tríplex contra Lula",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/justica/justica-arquiva-caso-do-triplex-contra-lula/",
+     "data": "2022-01-28",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2023-02",
+   "titulo": "Lewandowski tranca três ações remanescentes",
+   "descricao": "Instituto Lula (doações e terreno) e caças Gripen.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Lewandowski encerra três ações contra Lula que estavam suspensas",
+     "veiculo": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-02/lewandowski-encerra-tres-acoes-contra-lula-que-estavam-suspensas",
+     "data": "2023-02-18",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2023-06-21",
+   "titulo": "Senado aprova Zanin para o STF",
+   "descricao": "Ex-advogado de Lula aprovado por 58 a 18.",
+   "categoria": "governo",
+   "fontes": [
+    {
+     "titulo": "Por 58 votos a 18, Senado aprova indicação de Zanin para o STF",
+     "veiculo": "Metrópoles",
+     "url": "https://www.metropoles.com/brasil/por-58-votos-a-18-senado-aprova-indicacao-de-zanin-para-o-stf",
+     "data": "2023-06-21",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2025-04-23",
+   "titulo": "Operação contra fraudes no INSS",
+   "descricao": "PF e CGU deflagram operação; Sindnapi entre as entidades alvo; descontos estimados em R$ 6,3 bilhões entre 2019 e 2024.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Sindicato de irmão de Lula é alvo de operação contra fraudes no INSS",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/politica/sindicato-de-irmao-de-lula-e-alvo-de-operacao-contra-fraudes-no-inss/",
+     "data": "2025-04-23",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "lula",
+   "data": "2026-01",
+   "titulo": "Quebra de sigilos de Fábio Luís autorizada",
+   "descricao": "Mendonça autoriza, a pedido da PF, quebra de sigilos do filho do presidente no inquérito do INSS.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "PF pediu quebra de sigilos de Lulinha e André Mendonça autorizou",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-justica/pf-pediu-quebra-de-sigilos-de-lulinha-e-andre-mendonca-autorizou/",
+     "data": "2026-02-26",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "ambos",
+   "data": "2026-07-14",
+   "titulo": "PF indicia 48 no caso INSS",
+   "descricao": "Relatório da primeira etapa enviado ao STF.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "PF indicia Careca do INSS e mais 47 pessoas em inquérito sobre fraudes",
+     "veiculo": "Correio Braziliense",
+     "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+     "data": "2026-07-14",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2020-11",
+   "titulo": "Denúncia das rachadinhas",
+   "descricao": "MP-RJ denuncia Flávio por peculato, lavagem e organização criminosa.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "STJ anula quebra de sigilo bancário e fiscal de Flávio Bolsonaro no caso das 'rachadinhas'",
+     "veiculo": "Diário do Nordeste (conteúdo Folhapress)",
+     "url": "https://diariodonordeste.verdesmares.com.br/politica/stj-anula-quebra-de-sigilo-bancario-e-fiscal-de-flavio-bolsonaro-no-caso-das-rachadinhas-1.3051176",
+     "data": "2021-02-23",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2021-02-23",
+   "titulo": "STJ anula quebra de sigilos",
+   "descricao": "Quinta Turma, 4 a 1, por deficiência de fundamentação.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "STJ anula quebra de sigilo bancário e fiscal de Flávio Bolsonaro no caso das 'rachadinhas'",
+     "veiculo": "Diário do Nordeste (conteúdo Folhapress)",
+     "url": "https://diariodonordeste.verdesmares.com.br/politica/stj-anula-quebra-de-sigilo-bancario-e-fiscal-de-flavio-bolsonaro-no-caso-das-rachadinhas-1.3051176",
+     "data": "2021-02-23",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Rachadinhas: STJ anula quebra de sigilo fiscal de Flávio Bolsonaro",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/corrupcao/rachadinhas-stj-anula-quebra-de-sigilo-fiscal-de-flavio-bolsonaro/",
+     "data": "2021-02-23",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2021-11-09",
+   "titulo": "STJ anula decisões de primeiro grau",
+   "descricao": "Quinta Turma, 4 a 1, reconhece competência do Órgão Especial do TJRJ.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "STJ anula decisões contra Flávio Bolsonaro no caso das rachadinhas",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/politica/stj-anula-decisoes-contra-flavio-bolsonaro-no-caso-das-rachadinhas/",
+     "data": "2021-11-09",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2021-11-30",
+   "titulo": "STF anula relatórios do Coaf e mantém foro",
+   "descricao": "HC 201965 concedido e Rcl 41910 improcedente.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "2ª Turma decide que provas contra Flávio Bolsonaro no caso das chamadas rachadinhas são ilegais",
+     "veiculo": "STF (portal de notícias)",
+     "url": "https://noticias.stf.jus.br/postsnoticias/2a-turma-decide-que-provas-contra-flavio-bolsonaro-no-caso-das-chamadas-rachadinhas-sao-ilegais/",
+     "data": "2021-11-30",
+     "tipo_fonte": "PRIMARIA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2022-05-16",
+   "titulo": "TJRJ rejeita denúncia",
+   "descricao": "Órgão Especial, a pedido do MP-RJ, sem impedimento a nova denúncia com novas provas.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Justiça arquiva denúncia contra Flávio Bolsonaro por rachadinhas",
+     "veiculo": "Congresso em Foco",
+     "url": "https://congressoemfoco.com.br/area/justica/justica-arquiva-denuncia-contra-flavio-bolsonaro-por-rachadinhas",
+     "data": "2022-05-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-05-13",
+   "titulo": "Reveladas mensagens com Vorcaro",
+   "descricao": "Intercept Brasil publica áudio e mensagens sobre o filme Dark Horse.",
+   "categoria": "campanha",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro nega conteúdo de matéria de site sobre apoio de Vorcaro para filme",
+     "veiculo": "InfoMoney",
+     "url": "https://www.infomoney.com.br/?p=3330424",
+     "data": "2026-05-13",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio diz que é mentira financiamento de Vorcaro para filme de Bolsonaro: é dinheiro privado (Estadão Conteúdo)",
+     "veiculo": "O Liberal / Estadão Conteúdo",
+     "url": "https://www.oliberal.com/politica/flavio-diz-que-e-mentira-financiamento-de-vorcaro-para-filme-de-bolsonaro-e-dinheiro-privado-1.1120869",
+     "data": "2026-05-13",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-07-22",
+   "titulo": "Flávio incluído como investigado no caso Dark Horse",
+   "descricao": "Mendonça atende pedido da PF com aval da PGR.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Mendonça incluiu Flávio Bolsonaro como investigado no caso Dark Horse",
+     "veiculo": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-incluiu-flavio-bolsonaro-como-investigado-no-caso-dark-horse",
+     "data": "2026-09-11",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  },
+  {
+   "candidato": "flavio",
+   "data": "2026-10-08",
+   "titulo": "Novo inquérito chega ao STF",
+   "descricao": "Suspeita de lavagem na relação com Willer Tomaz; relator Alexandre de Moraes.",
+   "categoria": "judicial",
+   "fontes": [
+    {
+     "titulo": "Flávio Bolsonaro é alvo de segundo inquérito no STF por suspeita de lavagem de dinheiro",
+     "veiculo": "CartaCapital",
+     "url": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-e-alvo-de-segundo-inquerito-no-stf-por-suspeita-de-lavagem-de-dinheiro/",
+     "data": "2026-10-18",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Flávio é alvo de inquérito na PF por suspeita de lavagem de dinheiro",
+     "veiculo": "Congresso em Foco",
+     "url": "https://www.congressoemfoco.com.br/noticia/123352/flavio-e-alvo-de-inquerito-na-pf-por-suspeita-de-lavagem-de-dinheiro",
+     "data": "2026-10-18",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ]
+  }
+ ],
+ "lacunas": [
+  "Ambos: situação do registro de candidatura no TSE em 2026 (deferimento, impugnações, recursos) não confirmada; o portal do TSE recusou acesso automatizado (HTTP 403) e o limite de buscas da sessão foi atingido. A participação de ambos no 2º turno consta da especificação, mas não foi conferida diretamente.",
+  "Ambos: prestação de contas de campanha 2026 e eventuais questionamentos no TSE não pesquisados por indisponibilidade da fonte primária (DivulgaCandContas) e do limite de buscas.",
+  "Ambos: valores totais das declarações de bens de 2026 não localizados.",
+  "Lula: sigilos de 100 anos ou outros sigilos impostos no mandato atual, uso de cartão corporativo e avaliações do TCU sobre a gestão não foram pesquisados com fonte nesta rodada.",
+  "Lula: decisão do ministro Dias Toffoli (2023) sobre provas do acordo de leniência da Odebrecht e desfecho recursal dos casos de Atibaia (TRF1) e do Quadrilhão não confirmados em fonte aberta.",
+  "Lula: data exata da decisão de Lewandowski de fevereiro de 2023 e eventual recurso da PGR não localizados.",
+  "Flávio: julgamento do recurso extraordinário do MP-RJ no STF (admitido pelo STJ em abril de 2023) e eventual reabertura das investigações das rachadinhas não localizados.",
+  "Flávio: ação civil do MP-RJ de ressarcimento relativa às rachadinhas (mencionada em resultado de busca, com negativa de quebra de sigilo pela 14ª Vara de Fazenda Pública) sem data e fonte aberta; não registrada como evidência.",
+  "Flávio: investigações sobre compra de imóveis (inclusive a casa em Brasília adquirida em 2021) não pesquisadas com fonte nesta rodada.",
+  "Flávio: notas fiscais do escritório ligado ao senador (R$ 1,5 milhão) e relatos de ex-sócio citados pelo Brasil de Fato não foram conferidos em fonte original e não foram registrados como evidência.",
+  "Flávio: emendas de relator ou emendas PIX ligadas ao senador e avaliações do TCU não verificadas em fonte primária.",
+  "Ambos: não se localizou fonte jornalística de linha editorial próxima ao candidato Lula sobre os inquéritos de Flávio, nem de linha próxima a Flávio sobre o caso Dark Horse, além do Estadão Conteúdo e da InfoMoney."
+ ]
+}

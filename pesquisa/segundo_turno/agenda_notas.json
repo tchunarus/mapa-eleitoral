@@ -1,0 +1,38 @@
+{
+ "Debate da TV Globo entre Lula e Flávio": {
+  "situacao": "As duas campanhas confirmaram presença e enviaram à emissora as atas com as regras. Em 20/10, porém, Lula condicionou sua participação a que Flávio autorize a quebra dos próprios sigilos bancário, fiscal e telefônico, como ele próprio fez no TSE; até a última verificação, não havia notícia de autorização de Flávio, e aliados dele indicavam que não aceitariam a condição. A realização do debate com os dois candidatos não está, portanto, garantida.",
+  "fontes_situacao": [
+   {
+    "titulo": "Lula condiciona debate decisivo à quebra de sigilo de Flávio Bolsonaro",
+    "veiculo": "RIC",
+    "url": "https://ric.com.br/politica/lula-condiciona-debate-decisivo-a-quebra-de-sigilo-de-flavio-bolsonaro/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula fala em quebra de sigilo; Flávio responde que petista não tem celular",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/lula-fala-em-quebra-de-sigilo-flavio-responde-que-petista-nao-tem-celular/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Se Flávio apresentar um documento autorizando quebrar o sigilo, vai ter debate, diz Lula",
+    "veiculo": "Terra",
+    "url": "https://www.terra.com.br/noticias/brasil/politica/se-flavio-apresentar-um-documento-autorizando-quebrar-o-sigilo-vai-ter-debate-diz-lula,556c857629890bd4f4a25135a1e14aaa011vutan.html",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Debate da Globo entre Lula e Flávio Bolsonaro; veja data, horário, regras e como assistir",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/debate-da-globo-entre-lula-e-flavio-bolsonaro-veja-data-horario-regras-e-como-assistir/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "destaque": true,
+  "situacao_em": "2026-10-21",
+  "descricao": "Último debate, após o Jornal Nacional, nos Estúdios Globo (RJ), com mediação de César Tralli e transmissão por TV Globo, GloboNews e g1. Blocos: regiões do país, seis de dez temas propostos e tema livre, com considerações finais."
+ }
+}

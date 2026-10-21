@@ -61,6 +61,30 @@ class TestSegundoTurno(unittest.TestCase):
         d = base(); d['evidencias'] = d['evidencias'][:1]; d['avaliacoes'] = []
         self.assertTrue(any('sem evidência para' in a for a in st.validar(d)[1]))
 
+    def test_evidencia_de_outro_criterio(self):
+        d = base(); d['criterios'].append({'id': 'coerencia', 'nome': 'Coerência', 'ordem': 2})
+        d['evidencias'][0]['criterio'] = 'coerencia'
+        self.assertTrue(any('pertence ao critério coerencia' in e for e in self.erros(d)))
+
+    def test_agenda_exige_data_titulo_e_fonte(self):
+        d = base(); d['agenda'] = [{'data': '2026-10-23', 'titulo': '', 'fontes': []}]
+        e = self.erros(d)
+        self.assertTrue(any('sem data ou título' in x for x in e) and any('agenda.1: sem fonte' in x for x in e))
+
+    def test_ressalva_da_agenda_exige_fonte_e_data_da_atualizacao(self):
+        d = base(); d['eleicao']['atualizado_em'] = '2026-10-21'
+        d['agenda'] = [{'data': '2026-10-23', 'titulo': 'Debate', 'fontes': [dict(F)], 'situacao': 'Condicionado.', 'situacao_em': '2026-10-20'}]
+        e = self.erros(d)
+        self.assertTrue(any('agenda.1.situacao: sem fonte' in x for x in e) and any('revise a ressalva' in x for x in e))
+        d['agenda'][0].update(situacao_em='2026-10-21', fontes_situacao=[dict(F)])
+        self.assertEqual(self.erros(d), [])
+
+    def test_atualizado_em_nao_pode_ser_anterior_aos_dados(self):
+        d = base(); d['eleicao']['atualizado_em'] = '2026-10-01'
+        self.assertTrue(any('anterior ao dado mais recente' in e for e in self.erros(d)))
+        d['eleicao']['atualizado_em'] = '2026-10-05'
+        self.assertEqual(self.erros(d), [])
+
     def test_dados_publicados_validos(self):
         e, _ = st.validar(st.carregar())
         self.assertEqual(e, [])
