@@ -139,6 +139,7 @@ function visao() {
   return `${cabecalho("Lula e Flávio Bolsonaro: análise comparativa", "Evidências verificáveis, classificadas e com fonte, organizadas em oito critérios definidos antes da análise. As notas seguem uma rubrica publicada; você pode mudar os pesos e ver como suas prioridades alteram o resultado.")}
     
     <div class="st-oficial reveal">${ico("check")}<div><p><b>Situação oficial.</b> ${esc(sit.texto || "")}</p>${fontes(sit.fontes)}</div></div>
+    ${agenda()}
     <div class="st-cands">${cards}</div>
     ${(d.avaliacoes || []).length ? `<section class="blk"><div class="sec-head"><h2>Notas por critério</h2><a class="ref small" href="#/2turno/simulador">Ajustar pesos</a></div>${grafico(p)}</section>` :
       `<section class="blk">${vazio("As notas por critério serão publicadas depois da revisão das evidências.")}</section>`}
@@ -149,6 +150,22 @@ function visao() {
         ["sliders", "Você decide os pesos", "A média muda conforme a importância que você atribui a cada critério. Nada aqui é recomendação de voto."],
         ["alert", "Lacunas declaradas", "Cada nota indica se a evidência é suficiente, parcial ou insuficiente, e quais são as limitações."]].map(([i, t, x]) =>
         `<div class="st-guia-i">${ico(i)}<b>${esc(t)}</b><p class="small">${esc(x)}</p></div>`).join("")}</div></section>`;
+}
+
+// agenda: destaque para o próximo evento marcado como destaque (o debate) e lista dos próximos eventos
+const hoje = () => new Date().toLocaleDateString("sv-SE", { timeZone: "America/Sao_Paulo" });
+const DIA = d => { const t = new Date(d + "T12:00:00"); if (isNaN(t)) return FMT(d); const x = t.toLocaleDateString("pt-BR", { weekday: "long", day: "2-digit", month: "2-digit" }); return x.charAt(0).toUpperCase() + x.slice(1); };
+function agenda() {
+  const ag = (S.d.agenda || []).filter(a => a.data >= hoje());
+  if (!ag.length) return "";
+  const dst = ag.find(a => a.destaque);
+  const card = dst ? `<div class="st-debate reveal">${ico("clock")}<div><p class="el-mini">Próximo debate</p>
+      <h3>${esc(DIA(dst.data))}${dst.hora ? `, ${esc(dst.hora)}` : ""}</h3><p><b>${esc(dst.titulo)}</b>. ${esc(dst.descricao || "")}</p>
+      ${dst.situacao ? `<p class="st-debate-sit">${ico("alert")} ${esc(dst.situacao)}</p>` : ""}
+      <details><summary class="small">Fontes</summary>${fontes((dst.fontes || []).concat(dst.fontes_situacao || []))}</details></div></div>` : "";
+  const lista = ag.filter(a => a !== dst).slice(0, 8).map(a => `<li><span class="mono small">${esc(FMT(a.data))}${a.hora ? ` · ${esc(a.hora)}` : ""}</span><span>${esc(a.titulo)}${a.descricao ? `<span class="small muted"> · ${esc(a.descricao)}</span>` : ""}</span>
+      ${(a.fontes || [])[0] && a.fontes[0].url ? `<a class="ref small" href="${esc(a.fontes[0].url)}" target="_blank" rel="noopener">fonte</a>` : ""}</li>`).join("");
+  return `<section class="st-agenda">${card}${lista ? `<details class="st-agenda-l" open><summary class="el-mini">Agenda até a votação</summary><ul>${lista}</ul></details>` : ""}</section>`;
 }
 
 function criterios(q) {
@@ -303,7 +320,7 @@ function render(h) {
   const q = {}; (qs || "").split("&").filter(Boolean).forEach(x => { const [k, v] = x.split("="); q[k] = decodeURIComponent(v || ""); });
   const [sec, id] = rota.split("/");
   if (id) q.id = id;
-  MN.util.status(`<span><span class="pulse"></span>Dados de ${esc(MN.util.FMTH(d.gerado_em))}</span>`);
+  MN.util.status(`<span><span class="pulse"></span>Atualizado em <b>${esc(FMT(d.eleicao.atualizado_em || d.gerado_em))}</b></span>`);
   return ({ "": visao, criterios, propostas, tempo, checagens, simulador, conclusao, metodologia }[sec] || visao)(q);
 }
 let tip = null;

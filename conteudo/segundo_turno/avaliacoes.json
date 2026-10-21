@@ -35,7 +35,7 @@
   "candidato": "lula",
   "nota": 6.5,
   "suficiencia": "ALTA",
-  "justificativa": "Os dados oficiais registram crescimento contínuo desde 2023, desemprego no menor nível da série e, nos dois primeiros mandatos, crescimento elevado e grau de investimento. Em sentido contrário, a dívida bruta subiu de 71,7% para 82,9% do PIB, a inflação está acima do teto da meta, as metas fiscais foram rebaixadas e só cumpridas com exclusões legais, e a IFI e o FMI apontam necessidade de ajuste estrutural e dívida crescente sem novas medidas. Fica entre as faixas 5-6 e 7-8: resultados econômicos positivos com risco fiscal relevante e documentado.",
+  "justificativa": "Os dados oficiais registram crescimento contínuo desde 2023, desemprego no menor nível da série e, nos dois primeiros mandatos, crescimento elevado e grau de investimento. Em sentido contrário, a dívida bruta subiu de 71,7% para 82,9% do PIB, a inflação está acima do teto da meta, as metas fiscais foram rebaixadas e só cumpridas com exclusões legais, e, no Focus de 19/10, o mercado projeta inflação de 5,22% em 2026 e déficit primário maior; a IFI e o FMI apontam necessidade de ajuste estrutural e dívida crescente sem novas medidas. Fica entre as faixas 5-6 e 7-8: resultados econômicos positivos com risco fiscal relevante e documentado.",
   "evidencias": [
    "economia-lula-01",
    "economia-lula-02",
@@ -48,7 +48,9 @@
    "economia-lula-12",
    "economia-lula-13",
    "economia-lula-15",
-   "economia-lula-19"
+   "economia-lula-19",
+   "atualizacao-fatos-lula-07",
+   "atualizacao-fatos-lula-05"
   ],
   "limitacoes": "Parte das séries oficiais foi lida em reproduções da imprensa; resultados econômicos também dependem do ciclo internacional e do Banco Central."
  },
@@ -77,7 +79,7 @@
   "candidato": "lula",
   "nota": 5.5,
   "suficiencia": "MEDIA",
-  "justificativa": "Das 18 propostas analisadas, 4 têm meta, valor ou prazo e 4 são diretrizes genéricas; nenhuma indica custo ou fonte de recursos. Parte delas dá continuidade a programas existentes, o que aumenta a viabilidade, e a principal meta trabalhista (fim da escala 6x1) foi aprovada pelo Congresso durante a campanha. Em sentido contrário, o Ministério da Segurança depende de emenda constitucional, a PEC do passe livre foi anunciada fora do plano e contrasta com a crítica do próprio plano às emendas parlamentares, e analistas estimam custo fiscal relevante das novas medidas. Faixa 5-6.",
+  "justificativa": "Das 18 propostas analisadas, 4 têm meta, valor ou prazo e 4 são diretrizes genéricas; nenhuma indica custo ou fonte de recursos. Parte delas dá continuidade a programas existentes, o que aumenta a viabilidade, e a principal meta trabalhista (fim da escala 6x1) foi aprovada pelo Congresso durante a campanha. Em sentido contrário, o Ministério da Segurança depende de emenda constitucional, a PEC do passe livre (tarifa zero aos fins de semana) foi anunciada fora do plano, sem confirmação de envio ao Congresso até 21/10, e contrasta com a crítica do próprio plano às emendas parlamentares, e analistas estimam custo fiscal relevante das novas medidas. Faixa 5-6.",
   "evidencias": [
    "propostas-lula-01",
    "propostas-lula-02",
@@ -89,7 +91,8 @@
    "propostas-lula-13",
    "economia-lula-21",
    "propostas-lula-04",
-   "propostas-lula-05"
+   "propostas-lula-05",
+   "atualizacao-campanha-lula-05"
   ],
   "limitacoes": "Não foi localizada avaliação oficial (IFI ou Tesouro) do custo total do plano; a seleção cobre 18 propostas, não o plano inteiro."
  },
@@ -98,7 +101,7 @@
   "candidato": "flavio",
   "nota": 5.5,
   "suficiencia": "MEDIA",
-  "justificativa": "O plano é mais quantificado (8 das 18 propostas com meta, valor ou prazo) e indica, de forma genérica, a fonte dos investimentos em infraestrutura, mas não estima o custo das desonerações nem a economia dos cortes; economistas de linhas diversas apontam que a conta entre corte de impostos, superávit e novos gastos não fecha. Várias medidas dependem de emenda constitucional (maioridade penal, revisão do IVA, fim da reeleição), e compromissos do 2º turno (mínimo acima da inflação, compra de dívidas, apoio ao fim da 6x1) não constam do plano e contrastam com posições anteriores. Faixa 5-6.",
+  "justificativa": "O plano é mais quantificado (8 das 18 propostas com meta, valor ou prazo) e indica, de forma genérica, a fonte dos investimentos em infraestrutura, mas não estima o custo das desonerações nem a economia dos cortes; economistas de linhas diversas apontam que a conta entre corte de impostos, superávit e novos gastos não fecha. Várias medidas dependem de emenda constitucional (maioridade penal, revisão do IVA, fim da reeleição), e compromissos do 2º turno (mínimo acima da inflação, compra de dívidas, apoio ao fim da 6x1) não constam do plano e contrastam com posições anteriores; entre 19 e 21/10 a campanha anunciou devolução de parte de pagamentos via Pix e a volta do Perse, sem indicar custo. Faixa 5-6.",
   "evidencias": [
    "propostas-flavio-01",
    "propostas-flavio-02",
@@ -110,7 +113,9 @@
    "propostas-flavio-09",
    "propostas-flavio-10",
    "propostas-flavio-12",
-   "economia-flavio-11"
+   "economia-flavio-11",
+   "atualizacao-campanha-flavio-04",
+   "atualizacao-campanha-flavio-05"
   ],
   "limitacoes": "Não foram encontradas avaliações favoráveis assinadas para nenhum dos dois planos; a seleção cobre 18 propostas."
  },
@@ -119,7 +124,7 @@
   "candidato": "lula",
   "nota": 5.5,
   "suficiencia": "MEDIA",
-  "justificativa": "As condenações da Lava Jato foram anuladas pelo STF por incompetência do juízo e por suspeição do juiz, sem exame de mérito; os casos foram depois arquivados, em parte por prescrição (que o MPF contestou), e houve absolvições em casos isolados. Não há, nas fontes consultadas, investigação em curso contra o próprio Lula; o filho é investigado no caso do INSS. A indicação de seu ex-advogado ao STF foi criticada por entidades de transparência, e o TCU determinou a inclusão integral do Pé-de-Meia no orçamento. Faixa 5-6: processos anulados ou arquivados sem julgamento de mérito.",
+  "justificativa": "As condenações da Lava Jato foram anuladas pelo STF por incompetência do juízo e por suspeição do juiz, sem exame de mérito; os casos foram depois arquivados, em parte por prescrição (que o MPF contestou), e houve absolvições em casos isolados. Não há, nas fontes consultadas, investigação em curso contra o próprio Lula; o filho é investigado no caso do INSS. A indicação de seu ex-advogado ao STF foi criticada por entidades de transparência, e o TCU determinou a inclusão integral do Pé-de-Meia no orçamento. Faixa 5-6: processos anulados ou arquivados sem julgamento de mérito. Em 20/10, autorizou a quebra dos próprios sigilos e dos de familiares, condicionando a medida a reciprocidade do adversário; a PF pediu a prorrogação de inquéritos sobre o filho, dos quais Lula não é alvo.",
   "evidencias": [
    "integridade-lula-01",
    "integridade-lula-02",
@@ -131,7 +136,9 @@
    "integridade-lula-10",
    "integridade-lula-12",
    "integridade-lula-07",
-   "propostas-lula-10"
+   "propostas-lula-10",
+   "atualizacao-campanha-lula-03",
+   "atualizacao-fatos-lula-01"
   ],
   "limitacoes": "Anulação não equivale a absolvição nem a condenação. Ficaram sem levantamento sigilos impostos, cartão corporativo e outros apontamentos do TCU."
  },
@@ -140,7 +147,7 @@
   "candidato": "flavio",
   "nota": 4,
   "suficiencia": "MEDIA",
-  "justificativa": "O caso das rachadinhas foi encerrado por anulação de provas e de atos, sem exame de mérito, com recurso do MP-RJ cujo julgamento não foi localizado. Em 2026, o STF incluiu Flávio como investigado, a pedido da PF e com aval da PGR, no caso dos repasses de Daniel Vorcaro para o filme Dark Horse; as mensagens com o banqueiro foram publicadas e confirmadas; e outro inquérito sobre suposta lavagem chegou ao STF em outubro. Faixa 3-4: múltiplas investigações em curso com indícios noticiados por fontes diversas.",
+  "justificativa": "O caso das rachadinhas foi encerrado por anulação de provas e de atos, sem exame de mérito, com recurso do MP-RJ cujo julgamento não foi localizado. Em 2026, o STF incluiu Flávio como investigado, a pedido da PF e com aval da PGR, no caso dos repasses de Daniel Vorcaro para o filme Dark Horse; as mensagens com o banqueiro foram publicadas e confirmadas; e outro inquérito sobre suposta lavagem chegou ao STF em outubro. Faixa 3-4: múltiplas investigações em curso com indícios noticiados por fontes diversas. No inquérito relatado por Alexandre de Moraes, a PF aponta Flávio como usuário principal de conta de empresa ligada ao advogado Willer Tomaz, sem indicar contrapartida; no caso Dark Horse, pediu mais 90 dias de investigação. Não houve resposta formal à proposta de quebra recíproca de sigilos.",
   "evidencias": [
    "integridade-flavio-01",
    "integridade-flavio-02",
@@ -150,7 +157,10 @@
    "integridade-flavio-06",
    "integridade-flavio-07",
    "integridade-flavio-08",
-   "integridade-flavio-10"
+   "integridade-flavio-10",
+   "atualizacao-fatos-flavio-01",
+   "atualizacao-fatos-flavio-02",
+   "atualizacao-campanha-flavio-08"
   ],
   "limitacoes": "Investigação não é culpa; os inquéritos estão sob sigilo e não houve denúncia nem julgamento. Alegações de fonte única foram registradas com peso baixo e não sustentam a nota."
  },
@@ -159,7 +169,7 @@
   "candidato": "lula",
   "nota": 7,
   "suficiencia": "ALTA",
-  "justificativa": "Vetou a redução de penas dos condenados pelo 8 de janeiro, reconheceu o resultado do 1º turno e declarou que aceitará eventual derrota. Em sentido contrário, o TSE suspendeu liminarmente ao menos quatro peças de sua campanha por associarem o adversário a crimes sem base fática mínima, determinou a remoção de vídeos de seu perfil e concedeu direito de resposta ao adversário; há ainda declarações sobre regulação das redes e reforma do Judiciário que dividem avaliações. Faixa 7-8, no limite inferior.",
+  "justificativa": "Vetou a redução de penas dos condenados pelo 8 de janeiro, reconheceu o resultado do 1º turno e declarou que aceitará eventual derrota. Em sentido contrário, o TSE suspendeu liminarmente ao menos quatro peças de sua campanha por associarem o adversário a crimes sem base fática mínima, determinou a remoção de vídeos de seu perfil e concedeu direito de resposta ao adversário; há ainda declarações sobre regulação das redes e reforma do Judiciário que dividem avaliações. Em 21/10, o TSE suspendeu mais uma peça de sua campanha, e Lula afirmou que não pode debater com ladrão, referindo-se a adversário sem condenação. O Itamaraty repudiou como ingerência externa os ataques de Javier Milei às urnas brasileiras. Faixa 7-8, no limite inferior.",
   "evidencias": [
    "democracia-lula-01",
    "democracia-lula-03",
@@ -173,7 +183,10 @@
    "campanha-lula-05",
    "campanha-lula-06",
    "democracia-lula-18",
-   "campanha-lula-07"
+   "campanha-lula-07",
+   "atualizacao-campanha-lula-08",
+   "atualizacao-fatos-lula-03",
+   "atualizacao-fatos-lula-06"
   ],
   "limitacoes": "As decisões do TSE sobre propaganda são liminares; a posição sobre a Venezuela é tratada no critério de coerência."
  },
@@ -182,7 +195,7 @@
   "candidato": "flavio",
   "nota": 4,
   "suficiencia": "ALTA",
-  "justificativa": "Declarou que aceitará o resultado e reconheceu o 1º turno. Em sentido contrário, chamou de farsa o julgamento do pai e de ditador um ministro do STF; agradeceu publicamente a Trump no dia do anúncio das tarifas contra o Brasil e pediu a aplicação da Lei Magnitsky, depois imposta a um ministro do STF; defende anistia aos condenados pela trama golpista e pelo 8 de janeiro; associou as urnas a empresa estrangeira (o TSE desmentiu e ele depois reconheceu o erro); e falou em usar a maioria no Congresso para mudar a Constituição e redemocratizar o país, esclarecendo no dia seguinte que se referia a emendas constitucionais. O TSE também mandou remover publicação falsa de seu perfil e proibiu peça de sua chapa. Faixa 3-4: propostas concretas que reduzem a responsabilização por ataques às instituições.",
+  "justificativa": "Declarou que aceitará o resultado e reconheceu o 1º turno. Em sentido contrário, chamou de farsa o julgamento do pai e de ditador um ministro do STF; agradeceu publicamente a Trump no dia do anúncio das tarifas contra o Brasil e pediu a aplicação da Lei Magnitsky, depois imposta a um ministro do STF; defende anistia aos condenados pela trama golpista e pelo 8 de janeiro; associou as urnas a empresa estrangeira (o TSE desmentiu e ele depois reconheceu o erro); e falou em usar a maioria no Congresso para mudar a Constituição e redemocratizar o país, esclarecendo no dia seguinte que se referia a emendas constitucionais. O TSE também mandou remover publicação falsa de seu perfil, suspendeu inserções de sua chapa e, em 19/10, determinou o bloqueio do impulsionamento pago de aliados em ação da coligação adversária; em sentido inverso, negou pedido para suspender propaganda sua sobre indicadores do governo. Faixa 3-4: propostas concretas que reduzem a responsabilização por ataques às instituições.",
   "evidencias": [
    "democracia-flavio-02",
    "democracia-flavio-03",
@@ -197,7 +210,10 @@
    "democracia-flavio-14",
    "campanha-flavio-11",
    "campanha-flavio-05",
-   "campanha-flavio-06"
+   "campanha-flavio-06",
+   "atualizacao-campanha-flavio-09",
+   "atualizacao-campanha-flavio-10",
+   "atualizacao-fatos-flavio-04"
   ],
   "limitacoes": "Anistia e reforma do Judiciário são, formalmente, matérias que o Congresso pode votar; a nota pondera o objeto dessas propostas, o que envolve juízo de valor sinalizado na natureza do critério."
  },
@@ -206,7 +222,7 @@
   "candidato": "lula",
   "nota": 6,
   "suficiencia": "MEDIA",
-  "justificativa": "Aprovou o arcabouço fiscal, a reforma tributária e a isenção do IR até R$ 5 mil, e a taxa de conversão de seus projetos de lei (37%) superou a do governo anterior. Ao mesmo tempo, teve a menor taxa de conversão de medidas provisórias entre os governos comparados, 49% dos vetos apreciados derrubados e a primeira rejeição de indicado ao STF desde 1894. Disputa com coligação de sete partidos e, no 2º turno, recebeu apoio de cinco governadores eleitos e de diretórios do MDB em dez estados. Faixa 5-6: vitórias e derrotas relevantes.",
+  "justificativa": "Aprovou o arcabouço fiscal, a reforma tributária e a isenção do IR até R$ 5 mil, e a taxa de conversão de seus projetos de lei (37%) superou a do governo anterior. Ao mesmo tempo, teve a menor taxa de conversão de medidas provisórias entre os governos comparados, 49% dos vetos apreciados derrubados e a primeira rejeição de indicado ao STF desde 1894. Disputa com coligação de sete partidos e, no 2º turno, recebeu apoio de cinco governadores eleitos e de diretórios do MDB em dez estados. Faixa 5-6: vitórias e derrotas relevantes. O Congresso eleito para 2027 tem o PL como maior bancada da Câmara (121 deputados), com a federação do PT em segundo lugar (88).",
   "evidencias": [
    "trajetoria-lula-05",
    "trajetoria-lula-06",
@@ -218,25 +234,28 @@
    "trajetoria-lula-12",
    "trajetoria-lula-15",
    "trajetoria-lula-16",
-   "trajetoria-lula-14"
+   "trajetoria-lula-14",
+   "atualizacao-fatos-lula-09"
   ],
-  "limitacoes": "Não foi levantada a composição partidária do Congresso eleito em 2026, decisiva para o próximo mandato."
+  "limitacoes": "A composição do Senado em 2027 é projeção sujeita ao 2º turno estadual; apoio partidário não garante votos."
  },
  {
   "criterio": "governabilidade",
   "candidato": "flavio",
-  "nota": 5,
+  "nota": 5.5,
   "suficiencia": "MEDIA",
-  "justificativa": "Disputou o 1º turno sem coligação, mas no 2º turno reuniu apoio formal de Republicanos, Novo, Podemos, União Progressista, diretórios do MDB em 17 estados e 12 governadores eleitos. Preside comissão e relatou leis relevantes, mas não há histórico documentado de aprovação de agenda própria nem vitória de articulação atribuível a ele. Faixa 5-6, no limite inferior: base ampla em formação, sem histórico de negociação de agenda.",
+  "justificativa": "Disputou o 1º turno sem coligação, mas no 2º turno reuniu apoio formal de Republicanos, Novo, Podemos, União Progressista, diretórios do MDB em 17 estados e 12 governadores eleitos. O Congresso eleito para 2027 favorece essa coalizão: o PL tem a maior bancada da Câmara (121 deputados, a maior de um partido desde 1990), seguido de União-PP (87), e também lidera a projeção do Senado. Seu histórico pessoal de articulação é limitado: preside comissão e relatou leis relevantes, sem aprovação documentada de agenda própria. Faixa 5-6: base parlamentar potencialmente ampla, com pouca experiência de negociação de agenda.",
   "evidencias": [
    "trajetoria-flavio-07",
    "trajetoria-flavio-11",
    "trajetoria-flavio-12",
    "trajetoria-flavio-13",
    "trajetoria-flavio-14",
-   "campanha-flavio-01"
+   "campanha-flavio-01",
+   "atualizacao-fatos-flavio-08",
+   "atualizacao-campanha-flavio-07"
   ],
-  "limitacoes": "Apoios eleitorais não garantem votos no Congresso; a composição do Congresso eleito não foi levantada."
+  "limitacoes": "A composição do Senado em 2027 é projeção sujeita ao 2º turno estadual; apoios eleitorais e bancadas não garantem votos."
  },
  {
   "criterio": "impactos",
@@ -263,12 +282,13 @@
   "candidato": "flavio",
   "nota": 5,
   "suficiencia": "BAIXA",
-  "justificativa": "Sem políticas próprias implementadas, a avaliação recai sobre o que defende: manutenção do Bolsa Família e meta de zerar o desmatamento ilegal até 2029, de um lado; de outro, voto favorável à nova lei de licenciamento, controversa entre especialistas, com emendas para reduzir a responsabilidade de financiadores por danos ambientais; ampliação de 500 mil vagas prisionais com elementos do modelo de El Salvador, que especialistas associam a riscos; e, segundo reportagem, preparação pela equipe de revogação do Estatuto do Desarmamento. Faixa 5-6: efeitos esperados mistos e evidência insuficiente para conclusão.",
+  "justificativa": "Sem políticas próprias implementadas, a avaliação recai sobre o que defende: manutenção do Bolsa Família e meta de zerar o desmatamento ilegal até 2029, de um lado; de outro, voto favorável à nova lei de licenciamento, controversa entre especialistas, com emendas para reduzir a responsabilidade de financiadores por danos ambientais; ampliação de 500 mil vagas prisionais com elementos do modelo de El Salvador, que especialistas associam a riscos; promessa de acabar com entraves ambientais na regularização fundiária no Pará e, segundo reportagem, preparação pela equipe de revogação do Estatuto do Desarmamento. Faixa 5-6: efeitos esperados mistos e evidência insuficiente para conclusão.",
   "evidencias": [
    "economia-flavio-18",
    "economia-flavio-19",
    "economia-flavio-20",
-   "propostas-flavio-11"
+   "propostas-flavio-11",
+   "atualizacao-campanha-flavio-02"
   ],
   "limitacoes": "A comparação é estruturalmente assimétrica: um candidato é avaliado por políticas executadas e o outro por políticas prometidas. Recomenda-se ler este critério com cautela ou retirá-lo no simulador."
  },
@@ -277,7 +297,7 @@
   "candidato": "lula",
   "nota": 5,
   "suficiencia": "MEDIA",
-  "justificativa": "Prometeu em 2022 um só mandato e disputa a reeleição; criticou o orçamento secreto e pagou volume recorde de emendas; relativizou a democracia venezuelana em 2023 e depois não reconheceu a eleição de 2024. Na amostra de checagens, 5 de 12 declarações foram falsas e 5 parcialmente verdadeiras, com erros recorrentes em dados fiscais; no debate de 18/10, os placares variaram conforme a agência (nenhuma falsa no Estadão Verifica, 2 de 17 na Lupa e 2 de 23 no placar do Aos Fatos reproduzido pela imprensa, de menor peso). Cumpriu a promessa de mudar a política de preços da Petrobras (evidência de peso baixo). Faixa 5-6.",
+  "justificativa": "Prometeu em 2022 um só mandato e disputa a reeleição; criticou o orçamento secreto e pagou volume recorde de emendas; relativizou a democracia venezuelana em 2023 e depois não reconheceu a eleição de 2024. Na amostra de checagens, 5 de 12 declarações foram falsas e 5 parcialmente verdadeiras, com erros recorrentes em dados fiscais; no debate de 18/10, os placares variaram conforme a agência (nenhuma falsa no Estadão Verifica, 2 de 17 na Lupa e 2 de 23 no placar do Aos Fatos reproduzido pela imprensa, de menor peso). Cumpriu a promessa de mudar a política de preços da Petrobras (evidência de peso baixo). Faixa 5-6. Em 19/10, admitiu ter mudado de posição e passou a defender responsabilização penal a partir de 16 anos para crimes hediondos.",
   "evidencias": [
    "trajetoria-lula-17",
    "trajetoria-lula-18",
@@ -290,7 +310,8 @@
    "campanha-lula-12",
    "campanha-lula-13",
    "campanha-lula-15",
-   "democracia-lula-11"
+   "democracia-lula-11",
+   "atualizacao-campanha-lula-02"
   ],
   "limitacoes": "A amostra de checagens reflete o que as agências escolheram verificar e não é aleatória. No debate de 18/10, o Ranking dos Políticos, organização de método próprio não signatária da IFCN, apontou proporção de falas falsas maior para Lula (19,1%) do que para Flávio (10,3%), ao contrário das três agências."
  },
@@ -299,7 +320,7 @@
   "candidato": "flavio",
   "nota": 3.5,
   "suficiencia": "MEDIA",
-  "justificativa": "Classificou a PEC do fim da escala 6x1 como inoportuna e eleitoreira e passou a apoiá-la em outubro; variou sobre Petrobras e reforma tributária; disse que o irmão errou ao agradecer pelas tarifas sem mencionar a própria publicação. O Aos Fatos reuniu ao menos 43 declarações enganosas suas sobre a relação com Daniel Vorcaro. Na amostra, 8 de 12 declarações foram falsas; no debate de 18/10, 2 de 15 falsas e 5 enganosas no Estadão Verifica; 9 de 24 falsas na Lupa; e 10 de 21 no placar do Aos Fatos reproduzido pela imprensa, de menor peso. Faixa 3-4.",
+  "justificativa": "Classificou a PEC do fim da escala 6x1 como inoportuna e eleitoreira e passou a apoiá-la em outubro; variou sobre Petrobras e reforma tributária; disse que o irmão errou ao agradecer pelas tarifas sem mencionar a própria publicação. O Aos Fatos reuniu ao menos 43 declarações enganosas suas sobre a relação com Daniel Vorcaro. Na amostra, 8 de 12 declarações foram falsas; no debate de 18/10, 2 de 15 falsas e 5 enganosas no Estadão Verifica; 9 de 24 falsas na Lupa; e 10 de 21 no placar do Aos Fatos reproduzido pela imprensa, de menor peso. Faixa 3-4. Em 20/10, o Aos Fatos classificou como incorreta sua alegação, repetida em debate e entrevista, de recorde de empresas fechadas.",
   "evidencias": [
    "trajetoria-flavio-15",
    "trajetoria-flavio-16",
@@ -310,7 +331,9 @@
    "campanha-flavio-09",
    "campanha-flavio-10",
    "campanha-flavio-14",
-   "campanha-flavio-16"
+   "campanha-flavio-16",
+   "atualizacao-campanha-flavio-13",
+   "atualizacao-campanha-flavio-03"
   ],
   "limitacoes": "A amostra de checagens reflete o que as agências escolheram verificar e não é aleatória. No debate de 18/10, o Ranking dos Políticos, organização de método próprio não signatária da IFCN, apontou proporção de falas falsas maior para Lula (19,1%) do que para Flávio (10,3%), ao contrário das três agências."
  }

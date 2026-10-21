@@ -1,5 +1,1275 @@
 [
  {
+  "id": "atualizacao-campanha-lula-01",
+  "candidato": "lula",
+  "criterio": "governabilidade",
+  "tema": "agenda de 19/10 (Porto Alegre e sabatina do SBT)",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 19/10/2026, Lula fez caminhada e ato 'Brasil Pronto pra Mais' no Centro Histórico de Porto Alegre (concentração às 16h, ato às 17h) e concedeu sabatina ao SBT Brasil, exibida a partir das 19h45, conduzida por Basília Rodrigues, Marina Demori e Simone Queiroz. Na sabatina, disse pretender ampliar votos em Minas Gerais, recuperar apoio no Sul e reduzir a diferença em São Paulo.",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "Decisão 2026: veja a agenda de Lula e Flávio Bolsonaro nesta segunda-feira (19)",
+    "veiculo": "Times Brasil",
+    "url": "https://timesbrasil.com.br/brasil/decisao-2026-veja-a-agenda-de-lula-e-flavio-bolsonaro-nesta-segunda-feira-19/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula concederá entrevista ao SBT nesta segunda-feira (19)",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/123401/lula-concedera-entrevista-ao-sbt-nesta-segunda-feira-19",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "SBT realiza sabatina com presidente Lula",
+    "veiculo": "SBT News",
+    "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/sbt-realiza-sabatina-com-candidatos-a-presidencia",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "As fontes descrevem a agenda divulgada pela campanha e a cobertura da entrevista; não há transcrição integral da sabatina.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-lula-02",
+  "candidato": "lula",
+  "criterio": "coerencia",
+  "tema": "maioridade penal (mudança de posição)",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Na sabatina do SBT (19/10/2026), Lula admitiu ter mudado de posição e passou a defender a responsabilização penal a partir de 16 anos apenas para crimes hediondos, dizendo ter pedido ao líder do PT no Senado, Camilo Santana, emenda nesse sentido à PEC da Segurança Pública. Afirmou: \"Temos que ter a capacidade de mudar de opinião quando nós somos convencidos de que é importante\". Na mesma entrevista, manteve a defesa das saídas temporárias de presos.",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "Lula admite mudança de discurso sobre maioridade penal",
+    "veiculo": "SBT News",
+    "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/lula-admite-mudanca-de-discurso-sobre-maioridade-penal",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula admite ter mudado de opinião sobre maioridade penal, mas mantém apoio às \"saidinhas\"",
+    "veiculo": "Ric.com.br",
+    "url": "https://ric.com.br/politica/lula-defende-maioridade-penal-e-saidinhas/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Segundo o SBT News, o tema gera divergências dentro do PT; adversários associam a mudança à busca de votos do eleitorado de direita.",
+  "limitacoes": "Não se localizou a emenda protocolada nem seu andamento; a afirmação de Lula de que a ideia constava do programa de Haddad em 2018 não foi verificada. A redução da maioridade depende de emenda constitucional (3/5 em dois turnos em cada Casa).",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-lula-03",
+  "candidato": "lula",
+  "criterio": "integridade",
+  "tema": "autorização condicionada de quebra de sigilos",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 20/10/2026, a defesa de Lula protocolou no TSE (e encaminhou ao STF) autorização para a quebra dos seus sigilos bancário, fiscal e telefônico e dos de familiares, nos últimos oito anos, condicionada a que Flávio Bolsonaro faça o mesmo em relação a si, familiares e cinco empresas (entre elas a offshore Alcazar Holdings); a petição fixou prazo de resposta até 21/10 e prevê publicação dos dados no DivulgaCandContas. No TSE, o pedido foi distribuído ao ministro André Mendonça.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Lula pede quebra dos próprios sigilos, mas condiciona liberação a Flávio",
+    "veiculo": "Poder360",
+    "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-pede-quebra-dos-proprios-sigilos-mas-condiciona-liberacao-a-flavio/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula autoriza ao TSE quebra dos próprios sigilos se Flávio fizer o mesmo",
+    "veiculo": "Conjur",
+    "url": "https://conjur.com.br/2026-out-20/lula-autoriza-ao-tse-quebra-dos-proprios-sigilos-se-flavio-fizer-o-mesmo/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Aliados de Flávio classificam a iniciativa como 'factóide' e 'armadilha' eleitoral (ver evidência atualizacao-campanha-flavio-08).",
+  "limitacoes": "A autorização não produz efeito sem a adesão do adversário; não há decisão judicial sobre o pedido até 21/10. O gesto não comprova nem afasta qualquer fato investigado, inclusive o inquérito do INSS em que já houve quebra de sigilos do filho do presidente.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-lula-05",
+  "candidato": "lula",
+  "criterio": "propostas",
+  "tema": "PEC da Tarifa Zero aos fins de semana (desdobramento)",
+  "tipo": "PROMESSA",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em coletiva em São Luís (20/10/2026), Lula anunciou que enviaria ao Congresso em 21/10 a PEC de gratuidade do transporte coletivo aos sábados e domingos, vinculando-a ao fim da escala 6x1. Segundo a CNN Brasil, o governo estima impacto em torno de R$ 10 bilhões, a ser coberto com emendas parlamentares; o senador Camilo Santana não esclareceu se o custeio será integralmente por emendas.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "A 5 dias das eleições, Lula anuncia envio da PEC da Tarifa Zero na quarta",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-enviara-pec-da-tarifa-zero-ao-congresso-na-quarta-21/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Reta final do 2º turno: Flávio promete volta do Perse; Lula, tarifa zero",
+    "veiculo": "Itatiaia (conteúdo CNN Brasil)",
+    "url": "https://www.itatiaia.com.br/politica/reta-final-do-2o-turno-flavio-promete-volta-do-perse-lula-tarifa-zero/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula confirma PEC da Tarifa Zero; Flávio tem apoio de sertanejos",
+    "veiculo": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-confirma-pec-da-tarifa-zero-flavio-tem-apoio-de-sertanejos",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Analistas ouvidos pela CNN Brasil consideram improvável que o Congresso ceda parte das emendas impositivas; o jornalista Daniel Rittner afirmou que a proposta \"não tem quase nenhuma chance de acontecer\".",
+  "limitacoes": "Até a coleta (21/10), nenhuma fonte confirmou o protocolo da PEC. A estimativa de custo não foi detalhada; reportagem anterior da CNN citava cálculos preliminares superiores a R$ 80 bilhões, com escopo não esclarecido. O anúncio original (15/10) já está na base.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-lula-06",
+  "candidato": "lula",
+  "criterio": "governabilidade",
+  "tema": "agenda de 20 e 21/10 (Nordeste e Minas)",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 20/10/2026, Lula fez ato pela manhã em São Luís (MA) e, à tarde, caminhada entre Juazeiro (BA) e Petrolina (PE). Para 21/10, a campanha divulgou comício/caminhada na Praça da Estação, em Belo Horizonte (15h ou 16h, conforme a fonte), e entrevista à TV Record às 19h50.",
+  "data_fato": "2026-10-21",
+  "fontes": [
+   {
+    "titulo": "Confira a agenda dos presidenciáveis nesta terça-feira (20)",
+    "veiculo": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/confira-agenda-dos-presidenciaveis-nesta-terca-feira-20",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Agenda dos candidatos: Lula faz comício em BH; Flávio Bolsonaro tem atos em SP e Fortaleza",
+    "veiculo": "CartaCapital",
+    "url": "https://www.cartacapital.com.br/politica/agenda-dos-candidatos-lula-faz-comicio-em-bh-flavio-bolsonaro-tem-atos-em-sp-e-fortaleza/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Eleições 2026: confira as agendas de Flávio e Lula nesta quarta (21/10)",
+    "veiculo": "Metrópoles",
+    "url": "https://www.metropoles.com/brasil/eleicoes-2026-confira-as-agendas-de-flavio-e-lula-nesta-quarta-21-10",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio e Lula têm atos em Minas na reta final",
+    "veiculo": "Patos Notícias",
+    "url": "https://patosnoticias.com.br/flavio-e-lula-tem-atos-em-minas-na-reta-final/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Agendas divulgadas pelas campanhas podem mudar; as fontes divergem quanto ao horário em Belo Horizonte.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-lula-07",
+  "candidato": "lula",
+  "criterio": "governabilidade",
+  "tema": "novos apoios no Paraná",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "FAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "O senador Flávio Arns (PSB-PR) declarou apoio a Lula em 20/10/2026, durante visita de Geraldo Alckmin a Curitiba, e o ex-prefeito de Curitiba Rafael Greca (MDB), que concorreu como vice na chapa de Sandro Alex (PSD) ao governo do Paraná, declarou apoio a Lula em 19/10.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Flávio Arns declara apoio a Lula no 2º turno",
+    "veiculo": "Gazeta do Povo (Tribuna do Paraná)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/flavio-arns-declara-apoio-a-lula-no-2o-turno/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "No Paraná, Sandro Alex e o governador Ratinho Junior (PSD) apoiam Flávio Bolsonaro, segundo a mesma reportagem.",
+  "limitacoes": "Apoios individuais não indicam transferência de votos nem compromisso partidário.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-lula-08",
+  "candidato": "lula",
+  "criterio": "democracia",
+  "tema": "propaganda sobre assédio suspensa (Bellizze)",
+  "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 21/10/2026, o ministro Marco Aurélio Bellizze (TSE), a pedido de Flávio Bolsonaro, determinou que a coligação de Lula suspendesse propaganda que combinava cenas encenadas por atores (homem abordando mulheres numa padaria) com vídeo original de Flávio e terminava com 'Com Flávio Bolsonaro, as mulheres perdem'. O ministro entendeu que a encenação pode levar o eleitor a crer que as situações retratadas ocorreram.",
+  "data_fato": "2026-10-21",
+  "fontes": [
+   {
+    "titulo": "TSE manda Lula suspender propaganda que associa Flávio a assédio",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-lula-suspender-propaganda-que-associa-flavio-a-assedio/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Flávio alegou que o vídeo original foi gravado em ambiente privado, entre amigos, imitando o irmão Jair Renan, sem mulheres presentes. A reportagem não registra manifestação da campanha de Lula.",
+  "limitacoes": "Decisão monocrática, sem informação sobre prazo, multa ou dispositivos aplicados; sujeita a revisão.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-lula-09",
+  "candidato": "lula",
+  "criterio": "coerencia",
+  "tema": "antecipação do calendário do Bolsa Família",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "O governo federal unificou e antecipou o calendário de outubro do Bolsa Família, com todos os pagamentos entre 19 e 21/10/2026 (antes terminariam em 30/10), medida estendida a novembro e dezembro; a parcela de outubro é a primeira com o piso reajustado para R$ 691. O MDS afirmou que a medida é 'de caráter exclusivamente técnico e preventivo', diante de riscos associados ao El Niño.",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "Como será feito o pagamento antecipado do Bolsa Família antes do 2º turno das Eleições 2026",
+    "veiculo": "O Tempo (Folhapress)",
+    "url": "https://www.otempo.com.br/economia/2026/10/21/como-sera-feito-o-pagamento-antecipado-do-bolsa-familia-antes-do-2-turno-das-eleicoes-2026",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Aliados de Flávio criticam fala de assessora econômica sobre Bolsa Família",
+    "veiculo": "Metrópoles (coluna Igor Gadelha)",
+    "url": "https://www.metropoles.com/colunas/igor-gadelha/aliados-de-flavio-criticam-fala-de-daniella-marques-sobre-bolsa-familia",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Segundo a Folhapress, a proximidade da votação alimentou questionamentos sobre o caráter eleitoral da medida; o MDS negou essa natureza. A reportagem lembra que, em 2022, Lula criticou o aumento do benefício promovido pelo governo Bolsonaro antes da eleição.",
+  "limitacoes": "A fonte não identifica o ato normativo da antecipação nem registra representação ao TSE; não se comprova finalidade eleitoral.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-lula-10",
+  "candidato": "lula",
+  "criterio": "integridade",
+  "tema": "financiamento: receitas e fundo eleitoral",
+  "tipo": "DADO_OFICIAL",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Segundo levantamento da Folhapress no DivulgaCandContas (extração de 20/10, receitas até 16/10), a campanha de Lula arrecadou R$ 118,4 milhões, dos quais R$ 115 milhões transferidos pelo PT do fundo eleitoral (cerca de 97%). Entre 5 e 16/10, recebeu R$ 772,5 mil de pessoas físicas (R$ 678,9 mil por financiamento coletivo e R$ 94 mil diretamente); o maior doador individual da campanha deu R$ 500 mil em 4/9.",
+  "data_fato": "2026-10-16",
+  "fontes": [
+   {
+    "titulo": "Doações a Flávio quase triplicam no 2º turno e chegam a 26 vezes o valor recebido por Lula",
+    "veiculo": "Jornal de Brasília (Folhapress)",
+    "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/doacoes-a-flavio-quase-triplicam-no-2o-turno-e-chegam-a-26-vezes-o-valor-recebido-por-lula/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Quem financia as campanhas de Lula e Flávio Bolsonaro",
+    "veiculo": "Nexo Jornal",
+    "url": "https://www.nexojornal.com.br/grafico/2026/10/16/doadores-lula-flavio-bolsonaro-2026",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Prestação parcial; a final vence em 14/11/2026. As parcelas informadas somam R$ 772,9 mil, R$ 400 acima do total publicado. Nomes de doadores pessoas físicas omitidos por minimização de dados.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-lula-11",
+  "candidato": "lula",
+  "criterio": "integridade",
+  "tema": "financiamento: despesas e gastos com a Meta",
+  "tipo": "DADO_OFICIAL",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Segundo prestações parciais no DivulgaCandContas citadas em reportagem de 20/10/2026, a campanha de Lula declarou R$ 65,68 milhões em despesas, das quais R$ 2,59 milhões pagas à Meta (Facebook Serviços Online do Brasil), cerca de 4% do total.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Campanhas de Lula e Flávio Bolsonaro já declararam R$ 10 milhões em gastos com a Meta",
+    "veiculo": "Blog do Amaury Alencar",
+    "url": "https://www.blogdoamauryalencar.com.br/2026/10/campanhas-de-lula-e-flavio-bolsonaro-ja.html",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Fonte secundária, sem data de referência dos dados e com origem editorial não identificada; conferir no DivulgaCandContas. O valor de despesas coincide com o de setembro, o que sugere dado não atualizado.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-01",
+  "candidato": "flavio",
+  "criterio": "governabilidade",
+  "tema": "agenda de 19/10 (Marabá e Manaus)",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 19/10/2026, Flávio participou de motocarreata em Marabá (PA), às 11h, e do evento 'Bloco do 22' em Manaus (AM), às 20h (horário de Brasília).",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "Decisão 2026: veja a agenda de Lula e Flávio Bolsonaro nesta segunda-feira (19)",
+    "veiculo": "Times Brasil",
+    "url": "https://timesbrasil.com.br/brasil/decisao-2026-veja-a-agenda-de-lula-e-flavio-bolsonaro-nesta-segunda-feira-19/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Em ato no Pará, Flávio Bolsonaro promete que vai acabar com ‘entraves ambientais’",
+    "veiculo": "((o))eco",
+    "url": "https://oeco.org.br/noticias/em-ato-no-para-flavio-bolsonaro-promete-que-vai-acabar-com-entraves-ambientais/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Agenda divulgada pela campanha; não há balanço de público.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-02",
+  "candidato": "flavio",
+  "criterio": "impactos",
+  "tema": "'entraves ambientais' e regularização fundiária",
+  "tipo": "PROMESSA",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "No ato de Marabá (19/10/2026), Flávio prometeu a 'maior regularização fundiária que o Pará já viu' e disse: \"Esses entraves que existem, ambientais, principalmente por razões ideológicas, isso vai acabar\".",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "Em ato no Pará, Flávio Bolsonaro promete que vai acabar com ‘entraves ambientais’",
+    "veiculo": "((o))eco",
+    "url": "https://oeco.org.br/noticias/em-ato-no-para-flavio-bolsonaro-promete-que-vai-acabar-com-entraves-ambientais/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "O ((o))eco relaciona a fala à Reserva Legal (80% da propriedade na Amazônia) e lembra proposta de Flávio de 2019 para eliminá-la, arquivada no mesmo ano; essa ligação é análise do veículo.",
+  "limitacoes": "A promessa não especifica quais normas seriam alteradas; não consta detalhamento no plano de governo.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-03",
+  "candidato": "flavio",
+  "criterio": "coerencia",
+  "tema": "transição de dois anos no Bolsa Família",
+  "tipo": "PROMESSA",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 19/10/2026, a coordenadora econômica Daniella Marques disse à CBN Bahia que um governo Flávio criaria regra de transição de dois anos no Bolsa Família, com crédito da Caixa e do Banco do Nordeste e um 'Ministério da Prosperidade'. No mesmo dia, Flávio afirmou no Instagram que quem obtiver emprego formal ou abrir empresa continuará recebendo o benefício por até dois anos; o Poder360 registrou que ele 'mudou o tom' em relação à fala da assessora.",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "Campanha de Flávio propõe transição de 2 anos no Bolsa Família",
+    "veiculo": "Poder360",
+    "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-propoe-transicao-de-2-anos-no-bolsa-familia/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Coordenadora econômica de Flávio promete regra de transição para Bolsa Família",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/coordenadora-economica-de-flavio-promete-regra-de-transicao-para-bolsa-familia/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Aliados de Flávio criticam fala de assessora econômica sobre Bolsa Família",
+    "veiculo": "Metrópoles (coluna Igor Gadelha)",
+    "url": "https://www.metropoles.com/colunas/igor-gadelha/aliados-de-flavio-criticam-fala-de-daniella-marques-sobre-bolsa-familia",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Aliados de Flávio criticaram o momento da fala; Daniella disse ter sido tirada de contexto e afirmou: \"Não iremos cortar programas sociais\". Parlamentares do PT leram a proposta como desligamento em dois anos. A regra atual permite receber 50% do benefício por até 18 meses após superar a renda de elegibilidade.",
+  "limitacoes": "O plano de governo não menciona a proposta nem o Bolsa Família; o desenho final é incerto.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-04",
+  "candidato": "flavio",
+  "criterio": "propostas",
+  "tema": "'Vira Pix' (devolução de pagamentos via Pix)",
+  "tipo": "PROMESSA",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 20/10/2026, a campanha de Flávio divulgou, nas redes de Daniella Marques, a proposta de devolver ao pagador parte dos valores pagos via Pix em contas e prestações, em parceria com a Caixa. Segundo a CNN Brasil, a proposta não indica fonte de financiamento, contas elegíveis, percentual nem custo, e não consta do plano registrado no TSE.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Vira PIX: campanha de Flávio promete cashback em pagamentos de contas",
+    "veiculo": "Juruá 24 Horas (reprodução de CNN Brasil)",
+    "url": "https://jurua24horas.com/noticia/vira-pix-campanha-de-flavio-promete-cashback-em-pagamentos-de-contas",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Reta final do 2º turno: Flávio promete volta do Perse; Lula, tarifa zero",
+    "veiculo": "Itatiaia (conteúdo CNN Brasil)",
+    "url": "https://www.itatiaia.com.br/politica/reta-final-do-2o-turno-flavio-promete-volta-do-perse-lula-tarifa-zero/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A CNN Brasil informou ter procurado a campanha sem resposta.",
+  "limitacoes": "Avaliação de viabilidade limitada à falta de detalhamento; não há estimativa oficial de custo.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-05",
+  "candidato": "flavio",
+  "criterio": "propostas",
+  "tema": "retomada do Perse",
+  "tipo": "PROMESSA",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em vídeo divulgado em 20/10/2026, Flávio prometeu restabelecer o Perse 'para todos os setores de eventos culturais, shows e turismo' e afirmou: \"Eu vou salvar o setor de shows\". O programa, criado em 2021, foi encerrado em 2025 após atingir o teto de R$ 15 bilhões em renúncia.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Perse: Flávio Bolsonaro promete volta de benefícios fiscais para setor de eventos",
+    "veiculo": "Estado de Minas",
+    "url": "https://www.em.com.br/politica/2026/10/7524383-perse-flavio-bolsonaro-promete-volta-de-beneficios-fiscais-para-setor-de-eventos.html",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Reta final do 2º turno: Flávio promete volta do Perse; Lula, tarifa zero",
+    "veiculo": "Itatiaia (conteúdo CNN Brasil)",
+    "url": "https://www.itatiaia.com.br/politica/reta-final-do-2o-turno-flavio-promete-volta-do-perse-lula-tarifa-zero/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Segundo a Receita Federal, citada pela CNN Brasil, mais de duas mil empresas usavam o benefício de forma ilegal em julho de 2024; há apurações sobre uso indevido.",
+  "limitacoes": "A promessa não estima custo nem fonte de compensação; o Estado de Minas é ambíguo sobre o motivo do encerramento (teto ou irregularidades).",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-06",
+  "candidato": "flavio",
+  "criterio": "governabilidade",
+  "tema": "agenda de 20 e 21/10 e apoio de sertanejos",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 20/10/2026, Flávio não teve agenda pública e gravou propaganda em São Paulo e Goiânia; em Goiás, reuniu-se com artistas sertanejos (entre eles Gusttavo Lima e Zezé di Camargo) e gravou vídeo na casa de Gusttavo Lima. O vice Alfredo Gaspar fez ato em Caucaia (CE), onde disse que o governo não vai 'desmanchar nada que está dando certo'. Para 21/10, a campanha divulgou ato em Guarulhos (SP) às 11h com o governador Tarcísio de Freitas e o 'Bloco do 22' em Fortaleza às 19h.",
+  "data_fato": "2026-10-21",
+  "fontes": [
+   {
+    "titulo": "Confira a agenda dos presidenciáveis nesta terça-feira (20)",
+    "veiculo": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/confira-agenda-dos-presidenciaveis-nesta-terca-feira-20",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Sem agendas públicas, Flávio terá terça dedicada a gravações de campanha",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/sem-agendas-publicas-flavio-tera-terca-dedicada-a-gravacoes-de-campanha/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula confirma PEC da Tarifa Zero; Flávio tem apoio de sertanejos",
+    "veiculo": "Informa Noroeste (com informações da Agência Brasil)",
+    "url": "https://informanoroeste.com.br/lula-confirma-pec-da-tarifa-zero-flavio-tem-apoio-de-sertanejos/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "No Ceará, vice de Flávio faz ato e fala de programas sociais",
+    "veiculo": "O Povo",
+    "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/20/no-ceara-vice-de-flavio-faz-ato-e-fala-de-programas-sociais.html",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Agenda dos candidatos: Lula faz comício em BH; Flávio Bolsonaro tem atos em SP e Fortaleza",
+    "veiculo": "CartaCapital",
+    "url": "https://www.cartacapital.com.br/politica/agenda-dos-candidatos-lula-faz-comicio-em-bh-flavio-bolsonaro-tem-atos-em-sp-e-fortaleza/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Eleições 2026: confira as agendas de Flávio e Lula nesta quarta (21/10)",
+    "veiculo": "Metrópoles",
+    "url": "https://www.metropoles.com/brasil/eleicoes-2026-confira-as-agendas-de-flavio-e-lula-nesta-quarta-21-10",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Agendas sujeitas a mudança; a fonte de O Povo indicava 18h para o ato de Fortaleza.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-07",
+  "candidato": "flavio",
+  "criterio": "governabilidade",
+  "tema": "apoio condicionado de grupo empresarial",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "MISTO",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Em 20/10/2026, o grupo empresarial Convergência Brasil divulgou manifesto de apoio a Flávio, condicionado a compromissos: quantificar a economia com cortes, definir a meta de resultado primário de 2027, não criar exceções ao arcabouço fiscal e adotar critérios transparentes para indicações a tribunais superiores e agências reguladoras.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Convergência Brasil declara apoio a Flávio Bolsonaro no segundo turno e cobra compromisso com ajuste fiscal",
+    "veiculo": "Revista Oeste",
+    "url": "https://revistaoeste.com/politica/convergencia-brasil-flavio-bolsonaro/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "O manifesto afirma que \"Apoio, para nós, não é cheque em branco\".",
+  "limitacoes": "Fonte única; a reportagem não descreve a composição nem a representatividade da entidade.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-08",
+  "candidato": "flavio",
+  "criterio": "integridade",
+  "tema": "resposta ao desafio dos sigilos",
+  "tipo": "ALEGACAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Até 20/10/2026, Flávio não respondeu formalmente à proposta de quebra recíproca de sigilos; disse não ter 'absolutamente nada a esconder', sem dizer se autorizaria a medida. Aliados ouvidos pelo SBT News e pela CNN Brasil afirmaram que ele não aderiria; um integrante da campanha disse que \"Lula não vai ter esse gostinho\".",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Análise: Flávio Bolsonaro trata quebra de sigilo como \"factóide\"",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/analise-flavio-bolsonaro-trata-quebra-de-sigilo-como-factoide/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio não vai aceitar desafio de Lula para abrir sigilos",
+    "veiculo": "SBT News (coluna do Túlio)",
+    "url": "https://sbtnews.sbt.com.br/colunas/coluna-do-tulio/flavio-nao-vai-aceitar-desafio-de-lula-para-abrir-sigilos",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Os aliados afirmam que a medida nada acrescentaria ao debate e seria 'armadilha' para desgaste na reta final.",
+  "limitacoes": "Baseado em fontes reservadas e análise; recusa a ato voluntário não implica culpa, e a presunção de inocência se aplica às investigações em curso.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-09",
+  "candidato": "flavio",
+  "criterio": "democracia",
+  "tema": "AIJE: aliados com impulsionamento bloqueado (Cueva)",
+  "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "ALTO",
+  "afirmacao": "Em 19/10/2026, o corregedor-geral eleitoral Ricardo Villas Bôas Cueva, em AIJE da coligação de Lula contra a coligação de Flávio, determinou que Meta e X bloqueiem até 25/10 o impulsionamento pago e o tratamento privilegiado das contas de Nikolas Ferreira e Pablo Marçal (multa diária de R$ 500 mil por plataforma) e proibiu ambos de republicar conteúdos já removidos em seis processos (multa de R$ 50 mil). Flávio, Alfredo Gaspar, Nikolas e Marçal têm cinco dias para defesa.",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "Corregedor eleitoral proíbe Nikolas e Marçal de voltar a divulgar conteúdos proibidos pelo TSE",
+    "veiculo": "Tribunal Superior Eleitoral",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/corregedor-eleitoral-proibe-nikolas-e-marcal-de-voltar-a-divulgar-conteudos-proibidos-pelo-tse",
+    "data": "2026-10-19",
+    "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "TSE: Cueva proíbe Nikolas e Marçal de voltar a divulgar conteúdos removidos",
+    "veiculo": "Metrópoles (coluna Manoela Alcântara)",
+    "url": "https://metropoles.com/colunas/manoela-alcantara/tse-cueva-proibe-nikolas-e-marcal-de-voltar-a-divulgar-conteudos-removidos",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE proíbe Nikolas e Marçal de republicar conteúdos falsos sobre Lula e restringe impulsionamento",
+    "veiculo": "CartaCapital",
+    "url": "https://www.cartacapital.com.br/justica/tse-proibe-nikolas-e-marcal-de-republicar-conteudos-falsos-sobre-lula-e-restringe-impulsionamento/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A acusação sustenta que Nikolas e Marçal seriam os principais difusores da campanha de Flávio fora dos canais oficiais. Cueva negou suspender a monetização, exigir relatórios diários e emitir ordem genérica sobre oferta de prêmios por propaganda.",
+  "limitacoes": "Decisão monocrática sujeita a referendo do Plenário; as medidas atingem terceiros, não peças da própria campanha. A AIJE está em fase inicial, sem juízo sobre abuso. Página do TSE não aberta diretamente (HTTP 403); conteúdo conferido pela cobertura jornalística.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-10",
+  "candidato": "flavio",
+  "criterio": "democracia",
+  "tema": "inserção 'Smart Brasil' suspensa (identificação do vice)",
+  "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "A ministra Estela Aranha (TSE) atendeu parcialmente pedido de tutela de urgência da coligação de Lula e suspendeu a inserção televisiva de Flávio 'Propostas de Flávio para mudar o Brasil. Flávio vai fazer o Smart Brasil', exibida em 14/10, até que seja adaptada às exigências de identificação do vice Alfredo Gaspar (nome claro e legível, não inferior a 30% do titular).",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "TSE acolhe pedido de Lula e suspende propaganda eleitoral de Flávio Bolsonaro",
+    "veiculo": "Brasil 247 (com informações do Metrópoles)",
+    "url": "https://www.brasil247.com/geral/tse-acolhe-pedido-de-lula-e-suspende-propaganda-eleitoral-de-flavio-bolsonaro/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A campanha pode seguir divulgando a proposta 'Smart Brasil' em outras peças; a ministra negou notificar diretamente as emissoras.",
+  "limitacoes": "Liminar a ser submetida ao Plenário; data exata da decisão não informada (notícia de 19/10); fonte de linha editorial favorável a Lula reproduzindo o Metrópoles, sem número de processo.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-11",
+  "candidato": "flavio",
+  "criterio": "integridade",
+  "tema": "financiamento: receitas, fundo eleitoral e doações",
+  "tipo": "DADO_OFICIAL",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Segundo levantamento da Folhapress no DivulgaCandContas (extração de 20/10, receitas até 16/10), a campanha de Flávio arrecadou R$ 95,5 milhões, com R$ 47 milhões do fundo eleitoral transferidos pelo PL (todos antes do 1º turno) e R$ 13,7 milhões do Fundo Partidário. Entre 5 e 16/10, recebeu R$ 20,3 milhões de pessoas físicas (cerca de 26 vezes o valor recebido por Lula no período), ante R$ 7,5 milhões no 1º turno; a maior doação individual foi de R$ 2 milhões, em 15/10.",
+  "data_fato": "2026-10-16",
+  "fontes": [
+   {
+    "titulo": "Doações a Flávio quase triplicam no 2º turno e chegam a 26 vezes o valor recebido por Lula",
+    "veiculo": "Jornal de Brasília (Folhapress)",
+    "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/doacoes-a-flavio-quase-triplicam-no-2o-turno-e-chegam-a-26-vezes-o-valor-recebido-por-lula/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Quem financia as campanhas de Lula e Flávio Bolsonaro",
+    "veiculo": "Nexo Jornal",
+    "url": "https://www.nexojornal.com.br/grafico/2026/10/16/doadores-lula-flavio-bolsonaro-2026",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Prestação parcial; a final vence em 14/11/2026. Nomes de doadores pessoas físicas omitidos por minimização de dados. Concentração de doações não indica irregularidade.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-12",
+  "candidato": "flavio",
+  "criterio": "integridade",
+  "tema": "financiamento: despesas e gastos com a Meta",
+  "tipo": "DADO_OFICIAL",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Segundo prestações parciais no DivulgaCandContas citadas em reportagem de 20/10/2026, a campanha de Flávio declarou R$ 74,57 milhões em despesas, das quais R$ 7,45 milhões pagas à Meta, cerca de 10% do total e quase três vezes o valor declarado por Lula com a empresa.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Campanhas de Lula e Flávio Bolsonaro já declararam R$ 10 milhões em gastos com a Meta",
+    "veiculo": "Blog do Amaury Alencar",
+    "url": "https://www.blogdoamauryalencar.com.br/2026/10/campanhas-de-lula-e-flavio-bolsonaro-ja.html",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Fonte secundária, sem data de referência dos dados e com origem editorial não identificada; conferir no DivulgaCandContas.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-13",
+  "candidato": "flavio",
+  "criterio": "coerencia",
+  "tema": "repetição da alegação de recorde de falências",
+  "tipo": "INTERPRETACAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "O Aos Fatos (20/10/2026) concluiu que a alegação de Flávio de 'recorde de empresas fechadas' e de fuga de empresas para o Paraguai, repetida no debate da Band (18/10) e na entrevista à Globo (16/10), é incorreta, e contou ao menos 25 repetições no ano. Os dados da Serasa mostram queda de falências entre 2024 e 2025; o recorde é de recuperações judiciais.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Na contramão dos dados, Flávio Bolsonaro mente ao falar em recorde de falências de empresas",
+    "veiculo": "Aos Fatos",
+    "url": "https://aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+    "data": "2026-10-20",
+    "tipo_fonte": "CHECAGEM"
+   }
+  ],
+  "contraponto": "O próprio Aos Fatos registra alta de 36% nas falências entre janeiro e maio de 2026 em relação a 2025; a campanha não respondeu ao pedido de manifestação.",
+  "limitacoes": "Checagem de um único veículo; ver item correspondente em 'checagens'.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-campanha-flavio-14",
+  "candidato": "flavio",
+  "criterio": "coerencia",
+  "tema": "alvo de conteúdos falsos (Lupa, 19 e 20/10)",
+  "tipo": "INTERPRETACAO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "A Lupa classificou como falsos, em 19/10, post que atribuía à CNN Brasil reportagem ligando Flávio a compra de votos e, em 20/10, imagem gerada por IA simulando notícia de O Globo segundo a qual ele elevaria a idade mínima de aposentadoria masculina para 70 anos.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Reportagem da CNN Brasil sobre compra de votos não cita Flávio Bolsonaro",
+    "veiculo": "Agência Lupa",
+    "url": "https://www.agencialupa.org/verificacao/2026/10/19/reportagem-da-cnn-brasil-sobre-compra-de-votos-nao-cita-flavio-bolsonaro/",
+    "data": "2026-10-19",
+    "tipo_fonte": "CHECAGEM"
+   },
+   {
+    "titulo": "É falso que Flávio Bolsonaro propôs elevar idade mínima da aposentadoria para 70 anos",
+    "veiculo": "Agência Lupa",
+    "url": "https://www.agencialupa.org/verificacao/2026/10/20/e-falso-que-flavio-bolsonaro-propos-elevar-idade-minima-da-aposentadoria-para-70-anos/",
+    "data": "2026-10-20",
+    "tipo_fonte": "CHECAGEM"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Os autores das publicações originais não foram identificados.",
+  "frente": "atualizacao_campanha"
+ },
+ {
+  "id": "atualizacao-fatos-lula-01",
+  "candidato": "lula",
+  "criterio": "integridade",
+  "tema": "inquéritos sobre Fábio Luís (Lulinha): prorrogação pendente",
+  "tipo": "INVESTIGACAO_OU_DENUNCIA",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Segundo o SBT News (21/10/2026), a PF pediu em 2 de outubro, sob sigilo, a prorrogação de dois inquéritos sobre Fábio Luís Lula da Silva relatados pelo ministro André Mendonça (STF), com diligências pendentes sobre vínculos societários, movimentações bancárias, agendas em órgãos federais e viagens; até 20/10 não havia decisão, e os autos estavam no gabinete da Presidência do STF desde setembro. As fontes não indicam que o presidente Lula seja investigado, e não há indiciamento nem denúncia contra o filho.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "PF pede prorrogação de inquéritos sobre Lulinha",
+    "veiculo": "SBT News",
+    "url": "https://sbtnews.sbt.com.br/noticia/politica/pf-pede-prorrogacao-de-inqueritos-sobre-lulinha",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lulinha entregou sigilos a Mendonça e pode prestar depoimento, diz advogado",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/lulinha-entregou-sigilos-a-mendonca-e-pode-prestar-depoimento-diz-advogado/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A defesa de Fábio Luís sustenta que a PF não teria reunido elementos sequer para ouvi-lo, que o caminho seria o arquivamento e que ele entregou seus sigilos fiscal, bancário e telemático ao relator; essas afirmações são da defesa e não foram confirmadas pela reportagem. A CNN informa três inquéritos (dois com Mendonça e um com Flávio Dino), número que diverge do SBT.",
+  "limitacoes": "Investigação sem conclusão; não prova crime de Fábio Luís nem envolvimento do presidente. Os pedidos tramitam sob sigilo, e o número de inquéritos e a autoridade que decidirá a prorrogação divergem entre as fontes.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-lula-03",
+  "candidato": "lula",
+  "criterio": "coerencia",
+  "tema": "imputação ao adversário no comício de Juazeiro",
+  "tipo": "OPINIAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em ato de campanha em Juazeiro (BA), em 20/10/2026, Lula vinculou o debate da TV Globo à apresentação, por Flávio, de autorização para quebra de sigilo e afirmou que \"o presidente da República não pode debater com ladrão\". Flávio não foi condenado por crime; é investigado em dois inquéritos no STF, e a denúncia das rachadinhas foi rejeitada em 2022.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Lula condiciona debate na Globo à abertura de sigilo de Flávio",
+    "veiculo": "Poder360",
+    "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-condiciona-debate-na-globo-a-abertura-de-sigilo-de-flavio/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula confirma PEC da Tarifa Zero; Flávio tem apoio de sertanejos",
+    "veiculo": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-confirma-pec-da-tarifa-zero-flavio-tem-apoio-de-sertanejos",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "O entorno de Flávio tratou o desafio como \"factóide\" e decidiu não responder diretamente (CNN Brasil, 20/10). A Agência Brasil registra que Lula repetiu o desafio em São Luís e entre Juazeiro e Petrolina.",
+  "limitacoes": "A reportagem não afirma que Lula tenha condicionado a própria presença no debate; a fala é retórica de campanha e não equivale a imputação formal.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-lula-05",
+  "candidato": "lula",
+  "criterio": "economia_fiscal",
+  "tema": "Prospera MEI: perdão de dívidas e novo teto",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "MISTO",
+  "peso_probatorio": "ALTO",
+  "afirmacao": "O PLP 186/2026 (Prospera MEI), de iniciativa do governo, foi aprovado pela Câmara em 14/10 (461 a 4, segundo a imprensa) e pelo Senado em 15/10/2026 (78 votos a 0, registro oficial), e Lula anunciou sua sanção para 21/10. O texto eleva o teto do MEI para R$ 110 mil em 2027 e R$ 140 mil em 2028, permite dois empregados e perdoa débitos com a União até 13/10/2026; a Fazenda estima renúncia de R$ 1,57 bilhão em 2027, R$ 3,15 bilhões em 2028 e R$ 3,38 bilhões em 2029 pelo novo teto, e o governo calcula perdão de cerca de R$ 12,6 bilhões para 3,6 milhões de MEIs.",
+  "data_fato": "2026-10-21",
+  "fontes": [
+   {
+    "titulo": "Dados Abertos do Senado: votações nominais de 13 a 21/10/2026 (PEC 221/2019 e PLP 186/2026, com votos individuais)",
+    "veiculo": "Senado Federal",
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-10-13&dataFim=2026-10-21",
+    "data": "2026-10-21",
+    "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "Lula sanciona hoje novo teto dos MEIs; saiba o que muda",
+    "veiculo": "SBT News",
+    "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-sanciona-hoje-novo-teto-dos-me-is-saiba-o-que-muda",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula anuncia sanção de anistia a dívidas de MEIs e envio da PEC da Tarifa Zero",
+    "veiculo": "Estado de Minas (texto do Correio Braziliense)",
+    "url": "https://www.em.com.br/politica/2026/10/7524538-lula-anuncia-sancao-de-anistia-a-dividas-de-meis-e-envio-da-pec-da-tarifa-zero.html",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula sanciona lei que perdoa dívidas e aumenta teto de faturamento para MEIs",
+    "veiculo": "Revista Fórum",
+    "url": "https://revistaforum.com.br/politica/lula-sanciona-aumento-teto-perdao-dividas-mei/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A aprovação foi praticamente unânime nas duas Casas, inclusive com voto favorável de Flávio no Senado. Não se localizou, no período, avaliação independente (IFI ou consultoria) sobre o custo da remissão nem crítica nomeada ao projeto.",
+  "limitacoes": "Até a redação, não se confirmou no Diário Oficial o número da lei complementar nem eventuais vetos. A sanção ocorre a quatro dias do 2º turno; as estimativas de impacto são do próprio governo e não incluem, segundo a reportagem, o custo do perdão de dívidas.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-lula-06",
+  "candidato": "lula",
+  "criterio": "democracia",
+  "tema": "Itamaraty rebate Milei sobre o sistema eleitoral",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "FAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 20/10/2026, o Itamaraty divulgou nota classificando declarações de Javier Milei contra o Judiciário e o voto eletrônico brasileiros como \"nova e inaceitável tentativa de ingerência externa no processo democrático brasileiro\", e afirmou que o sistema de votação é seguro e teve a lisura atestada por observadores internacionais no 1º turno. Milei havia escrito no X esperar que a campanha de Lula não envolvesse \"roubar a eleição\".",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Itamaraty rebate declaração de Milei sobre fraude na eleição brasileira",
+    "veiculo": "O Tempo",
+    "url": "https://www.otempo.com.br/politica/governo/2026/10/20/itamaraty-rebate-declaracao-de-milei-sobre-fraude-na-eleicao-brasileira",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Itamaraty reage a Milei e o acusa de tentar interferir nas eleições brasileiras",
+    "veiculo": "Estado de Minas",
+    "url": "https://www.em.com.br/politica/2026/10/7524505-itamaraty-reage-a-milei-e-o-acusa-de-tentar-interferir-nas-eleicoes-brasileiras.html",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Milei apoia publicamente Flávio Bolsonaro; o governo argentino não respondeu à nota nas fontes consultadas. As relações bilaterais estavam abaladas desde julho, quando o embaixador brasileiro em Buenos Aires foi chamado a consultas.",
+  "limitacoes": "A nota foi conhecida por reproduções jornalísticas; o texto integral no portal do Itamaraty não foi aberto. A nota é ato do governo, e não declaração pessoal de Lula.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-lula-07",
+  "candidato": "lula",
+  "criterio": "economia_fiscal",
+  "tema": "Focus de 19/10: inflação, PIB e resultado primário",
+  "tipo": "DADO_OFICIAL",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "ALTO",
+  "afirmacao": "No Relatório Focus publicado pelo Banco Central em 19/10/2026 (estatísticas até 16/10), a mediana das projeções de mercado para o IPCA de 2026 ficou em 5,22% (acima do teto de 4,5% da meta) e a de 2027 subiu de 4,30% para 4,32%; a do PIB de 2027 caiu de 1,40% para 1,32% (1,83% em 2026). A mediana do resultado primário de 2026 piorou de déficit de 0,41% para 0,48% do PIB, a dívida bruta projetada para 2026 é de 83,4% do PIB, e a Selic esperada para o fim de 2026 é de 13,25%.",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "Focus: Relatório de Mercado (estatísticas até 16/10/2026, publicado em 19/10/2026)",
+    "veiculo": "Banco Central do Brasil",
+    "url": "https://www.bcb.gov.br/content/focus/focus/R20261016.pdf",
+    "data": "2026-10-19",
+    "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "Expectativas de Mercado Anuais (Sistema de Expectativas, API Olinda), medianas de 09/10 e 16/10/2026",
+    "veiculo": "Banco Central do Brasil",
+    "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais",
+    "data": "2026-10-21",
+    "tipo_fonte": "PRIMARIA"
+   }
+  ],
+  "contraponto": "A mediana do IPCA de 2026 recuou marginalmente em relação à edição anterior (de 5,2245% para 5,2190%), e a da Selic se manteve. Não se localizou manifestação do governo sobre esta edição.",
+  "limitacoes": "O Focus reúne expectativas de instituições de mercado, não resultados observados nem avaliação oficial do Banco Central. A atribuição das variações ao governo, ao quadro eleitoral ou a fatores externos não pode ser feita a partir do dado.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-lula-08",
+  "candidato": "lula",
+  "criterio": "integridade",
+  "tema": "CPMI sobre Roberta Luchsinger e Lulinha",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "MISTO",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Em 19/10/2026, a senadora Damares Alves (Republicanos-DF) e a deputada Coronel Fernanda (PL-MT) iniciaram coleta de assinaturas para CPMI sobre as relações de Roberta Luchsinger com Fábio Luís Lula da Silva; no mesmo dia, o governo orientou sua base a assinar o requerimento, e a líder do governo no Senado, Teresa Leitão (PT-PE), confirmou que o assinaria. A instalação exige 171 deputados e 27 senadores e a leitura em sessão do Congresso.",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "Damares busca assinaturas para instalar CPMI sobre Roberta Luchsinger",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/123396/damares-busca-assinaturas-para-instalar-cpmi-sobre-roberta-luchsinger",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Governo orienta bancada a apoiar CPMI sobre Roberta Luchsinger",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/123399/governo-orienta-bancada-a-apoiar-cpmi-sobre-roberta-luchsinger",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "O Grande Debate: CPMIs sobre Lulinha e Flávio Bolsonaro vão sair do papel?",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/o-grande-debate-cpmis-sobre-lulinha-e-flavio-bolsonaro-vao-sair-do-papel/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "O ministro José Guimarães (SRI) disse que a investigação não encontrará obstáculos do governo; o Planalto nega contratos com Luchsinger e questionou a divulgação das acusações às vésperas do 2º turno. Luchsinger e Fábio Luís negam irregularidades.",
+  "limitacoes": "Requerimento em coleta de assinaturas, sem instalação; o número de assinaturas não foi confirmado em fonte aberta. O apoio do governo é declaração política e não comprova disposição efetiva de colaborar com investigações.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-lula-09",
+  "candidato": "lula",
+  "criterio": "governabilidade",
+  "tema": "bancadas eleitas em 2026 (Câmara e Senado)",
+  "tipo": "DADO_OFICIAL",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Para a legislatura iniciada em fevereiro de 2027, a federação PT-PCdoB-PV elegeu 88 deputados (70 do PT), segunda bancada da Câmara, atrás do PL (121); a seguir vêm União-PP (87), PSD (43), Republicanos (41) e MDB (36). No Senado, a projeção após o 1º turno dá ao PT 9 cadeiras, ante 28 do PL, 12 da federação União Progressista e 8 do MDB.",
+  "data_fato": "2026-10-05",
+  "fontes": [
+   {
+    "titulo": "PL terá maior bancada da Câmara; federação do PT mantém segundo lugar",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Nova Câmara: veja os 513 deputados federais eleitos em 2026",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/122927/nova-camara-veja-os-513-deputados-federais-eleitos-em-2026",
+    "data": "2026-10",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "13 partidos terão representação no Senado em 2027",
+    "veiculo": "Rádio Senado",
+    "url": "https://www12.senado.leg.br/radio/1/noticia/2026/10/05/13-partidos-terao-representacao-no-senado-em-2027",
+    "data": "2026-10-05",
+    "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "Veja quem são os novos senadores e como fica a composição do Senado",
+    "veiculo": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-sao-os-novos-senadores-e-como-fica-composicao-do-senado",
+    "data": "2026-10",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A composição do Senado pode mudar com o 2º turno de governadores no Acre, Amazonas e Tocantins e com o julgamento de registros sub judice; a soma divulgada pela Rádio Senado é de 80 cadeiras.",
+  "limitacoes": "Números de bancada não determinam a base de apoio de um governo, que depende de alianças; os totais da Câmara vêm da própria Câmara via CNN (99,99% das urnas), não do painel do TSE, que não foi acessado.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-lula-10",
+  "candidato": "lula",
+  "criterio": "integridade",
+  "tema": "registro de candidatura no TSE",
+  "tipo": "DECISAO_JUDICIAL_DEFINITIVA",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "O plenário virtual do TSE aprovou por unanimidade, em 02/09/2026, o registro da chapa Luiz Inácio Lula da Silva e Geraldo Alckmin (coligação de PT e PSB), relatado pelo ministro André Mendonça. As reportagens consultadas não mencionam impugnação ao registro.",
+  "data_fato": "2026-09-02",
+  "fontes": [
+   {
+    "titulo": "TSE aprova registros de seis candidatos à Presidência da República (Agência Brasil)",
+    "veiculo": "A Gazeta (ES)",
+    "url": "https://www.agazeta.com.br/brasil/tse-aprova-registros-de-seis-candidatos-a-presidencia-da-republica-0926",
+    "data": "2026-09-03",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE começa a julgar registros de Lula, Flávio Bolsonaro e Zema",
+    "veiculo": "Correio da Manhã",
+    "url": "https://www.correiodamanha.com.br/politica/2026/08/315354-tse-comeca-a-julgar-registros-de-lula-flavio-bolsonaro-e-zema.html",
+    "data": "2026-08-31",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "O portal do TSE recusou acesso automatizado (HTTP 403); o acórdão, a certidão de trânsito e o parecer do MPE sobre este registro não foram lidos. Classificação como definitiva baseia-se na ausência de notícia de recurso, não em certidão.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-flavio-01",
+  "candidato": "flavio",
+  "criterio": "integridade",
+  "tema": "inquérito Willer Tomaz: detalhes divulgados",
+  "tipo": "INVESTIGACAO_OU_DENUNCIA",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Divulgado a partir de 18/10/2026, o inquérito sob relatoria de Alexandre de Moraes (STF) descreve, segundo a PF, viagens de Flávio custeadas por empresas ligadas a Willer Tomaz, a indicação do senador como \"usuário master\" de conta da Alcazar Holding (empresa de Tomaz), pedido de funcionária do advogado ao banco, em maio de 2025, para retirar o nome de Flávio da conta, e movimentação de cerca de R$ 130 milhões numa conta de Tomaz entre março e maio de 2025. A Gazeta do Povo registra que, segundo a PF, não há indícios de contrapartida de Flávio a Tomaz; não há denúncia.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Flávio é alvo de inquérito na PF por suspeita de lavagem de dinheiro",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/123352/flavio-e-alvo-de-inquerito-na-pf-por-suspeita-de-lavagem-de-dinheiro",
+    "data": "2026-10-18",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Polícia Federal pede para abrir segundo inquérito contra Flávio Bolsonaro",
+    "veiculo": "O Povo (agências)",
+    "url": "https://mais.opovo.com.br/jornal/politica/2026/10/19/policia-federal-pede-para-abrir-segundo-inquerito-contra-flavio-bolsonaro.html",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "PF e Moraes ampliam pressão sobre Flávio a poucos dias do 2º turno",
+    "veiculo": "Gazeta do Povo",
+    "url": "https://www.gazetadopovo.com.br/republica/pf-e-moraes-ampliam-pressao-sobre-flavio-a-poucos-dias-do-2o-turno/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Flávio afirma que a relação é de amizade entre as famílias, nega ter compartilhado conta com Tomaz ou suas empresas e chamou as notícias de \"fake news\"; a campanha fala em perseguição pela proximidade com a eleição. Tomaz nega vínculo comercial ou financeiro e estranhou a divulgação \"a poucas horas do debate\".",
+  "limitacoes": "Fase de inquérito, sem denúncia nem decisão de mérito; a investigação não estabeleceu que os R$ 130 milhões pertençam ao senador, e a condição de \"usuário master\" não demonstra, por si, movimentação de recursos por ele. A distribuição ao STF data de 08/10 (já na base); o novo são os detalhes e as respostas.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-flavio-02",
+  "candidato": "flavio",
+  "criterio": "integridade",
+  "tema": "Dark Horse: PF pede prorrogação",
+  "tipo": "INVESTIGACAO_OU_DENUNCIA",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "A PF pediu ao ministro André Mendonça (STF) mais 90 dias para concluir o inquérito sobre o financiamento do filme Dark Horse, cujo prazo terminara em 10/10/2026, alegando dúvidas e inconsistências sobre a origem dos recursos e a finalidade das remessas; a documentação fiscal, bancária e de câmbio da produtora ainda está em perícia. Flávio está entre os investigados; não houve indiciamento nem denúncia, e a decisão sobre a prorrogação não foi localizada.",
+  "data_fato": "2026-10-16",
+  "fontes": [
+   {
+    "titulo": "PF pede mais 90 dias a Mendonça para investigar caso Dark Horse",
+    "veiculo": "Gazeta do Povo",
+    "url": "https://www.gazetadopovo.com.br/republica/pf-pede-mais-90-dias-a-mendonca-para-investigar-caso-dark-horse/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "PF pede mais 90 dias para investigar Dark Horse",
+    "veiculo": "Folha de Pernambuco",
+    "url": "https://www.folhape.com.br/politica/pf-pede-mais-90-dias-para-investigar-dark-horse/518933/",
+    "data": "2026-10",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "PF e Moraes ampliam pressão sobre Flávio a poucos dias do 2º turno",
+    "veiculo": "Gazeta do Povo",
+    "url": "https://www.gazetadopovo.com.br/republica/pf-e-moraes-ampliam-pressao-sobre-flavio-a-poucos-dias-do-2o-turno/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Flávio confirmou ter pedido apoio financeiro a Daniel Vorcaro para o filme e nega irregularidades; já afirmou que não há dinheiro público na obra.",
+  "limitacoes": "O pedido é de 16/10 (as fontes divergem entre quinta e sexta-feira) e foi repercutido em 20/10, dentro do período. As reportagens divergem sobre a condição processual de cada citado; pedido de prorrogação não indica culpa.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-flavio-04",
+  "candidato": "flavio",
+  "criterio": "democracia",
+  "tema": "TSE mantém propaganda 'recordes do governo Lula'",
+  "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+  "sentido": "FAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 19/10/2026, a ministra Estela Aranha (TSE) negou liminar da coligação de Lula para suspender propaganda de Flávio exibida em 13/10, que associa ao governo indicadores de endividamento, inadimplência, carga tributária, feminicídios e denúncias de trabalho escravo (processo 0602957-08.2026.6.00.0000). Para a ministra, não ficou demonstrado que as informações sejam manifestamente falsas, e a retirada restringiria previamente a liberdade de expressão política.",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "Ministra do TSE mantém propaganda de Flávio sobre recordes de Lula",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/123388/ministra-do-tse-mantem-propaganda-de-flavio-sobre-recordes-de-lula",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A coligação de Lula sustenta que os dados foram apresentados de forma descontextualizada e podem induzir o eleitor a erro; a ministra reconheceu que a controvérsia está no significado político dos indicadores e na falta de contexto.",
+  "limitacoes": "Decisão liminar; o mérito do pedido de direito de resposta ainda será julgado. Negar a suspensão não equivale a atestar a exatidão ou o contexto de cada dado.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-flavio-05",
+  "candidato": "flavio",
+  "criterio": "democracia",
+  "tema": "pedido ao TSE sobre amplificação coordenada",
+  "tipo": "ALEGACAO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Na noite de 20/10/2026, a campanha de Flávio pediu ao presidente do TSE, ministro Kassio Nunes Marques, que a Meta informe medidas sobre o canal \"Exército do Lula\", coordenado pelo deputado André Janones, e dados de anúncios de páginas favoráveis a Lula, e que Google, X e Meta adotem medidas contra amplificação artificial coordenada de temas eleitorais.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Flávio pede ao TSE informações sobre impulsionamento de páginas lulistas",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-pede-ao-tse-informacoes-sobre-impulsionamento-de-paginas-lulistas/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Segundo a própria petição, o WhatsApp não identificou sinais de comportamento coordenado no canal. A reportagem não registra resposta da campanha de Lula.",
+  "limitacoes": "Pedido sem decisão até 21/10; as alegações sobre orientação de buscas em massa são da parte requerente.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-flavio-06",
+  "candidato": "flavio",
+  "criterio": "experiencia",
+  "tema": "atuação no Senado em 19 a 21/10 e voto no Prospera MEI",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "ALTO",
+  "afirmacao": "Os Dados Abertos do Senado não registram votação nominal no plenário entre 19 e 21/10/2026 nem proposição de autoria de Flávio apresentada em outubro; suas últimas proposições listadas são o PL 5196/2026 (27/08, frações de agravantes no Código Penal) e a PEC 17/2026 (02/09, requisitos para ministros do STF). Na votação mais recente, em 15/10/2026, Flávio votou \"Sim\" ao PLP 186/2026 (Prospera MEI), aprovado por 78 a 0.",
+  "data_fato": "2026-10-21",
+  "fontes": [
+   {
+    "titulo": "Dados Abertos do Senado: votações nominais de 13 a 21/10/2026 (PEC 221/2019 e PLP 186/2026, com votos individuais)",
+    "veiculo": "Senado Federal",
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-10-13&dataFim=2026-10-21",
+    "data": "2026-10-21",
+    "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "Dados Abertos do Senado: proposições de autoria do senador Flávio Bolsonaro (código 5894) apresentadas desde 01/08/2026",
+    "veiculo": "Senado Federal",
+    "url": "https://legis.senado.leg.br/dadosabertos/processo?codigoParlamentarAutor=5894&dataInicioApresentacao=2026-08-01",
+    "data": "2026-10-21",
+    "tipo_fonte": "PRIMARIA"
+   }
+  ],
+  "contraponto": "O período coincide com a reta final do 2º turno, em que a atividade deliberativa do Senado é reduzida para todos os senadores.",
+  "limitacoes": "A ausência de votações no período não indica falta do senador; não foram consultados discursos em plenário, requerimentos ou atividade em comissões.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-flavio-07",
+  "candidato": "flavio",
+  "criterio": "integridade",
+  "tema": "CPMI proposta pelo PT sobre Vorcaro e Tomaz",
+  "tipo": "ALEGACAO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Em 19/10/2026, os líderes do PT na Câmara, Pedro Uczai (SC), e no Senado, Camilo Santana (CE), anunciaram requerimento de CPMI para investigar as relações de Flávio com Daniel Vorcaro e Willer Tomaz, com base nos dois inquéritos em curso no STF; a líder do governo no Senado declarou apoio.",
+  "data_fato": "2026-10-19",
+  "fontes": [
+   {
+    "titulo": "Governo orienta bancada a apoiar CPMI sobre Roberta Luchsinger",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/123399/governo-orienta-bancada-a-apoiar-cpmi-sobre-roberta-luchsinger",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "O Grande Debate: CPMIs sobre Lulinha e Flávio Bolsonaro vão sair do papel?",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/o-grande-debate-cpmis-sobre-lulinha-e-flavio-bolsonaro-vao-sair-do-papel/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Flávio afirma não ter nada a esconder e, em outras ocasiões, cobrou a instalação da CPMI do Banco Master; a campanha atribui as iniciativas a motivação eleitoral.",
+  "limitacoes": "Iniciativa de adversários políticos, anunciada e não instalada; número de assinaturas não confirmado. Requerimento de CPMI não é prova.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-flavio-08",
+  "candidato": "flavio",
+  "criterio": "governabilidade",
+  "tema": "bancadas eleitas em 2026 (Câmara e Senado)",
+  "tipo": "DADO_OFICIAL",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "O PL elegeu 121 deputados, maior bancada da Câmara para a legislatura de 2027 e a maior de um único partido desde 1990, segundo a CNN; seguem a federação PT-PCdoB-PV (88), União-PP (87), PSD (43), Republicanos (41) e MDB (36). No Senado, o PL elegeu 19 das 54 vagas e, na projeção após o 1º turno, terá 28 das 81 cadeiras, seguido por União Progressista (12), PT (9) e MDB (8).",
+  "data_fato": "2026-10-05",
+  "fontes": [
+   {
+    "titulo": "PL terá maior bancada da Câmara; federação do PT mantém segundo lugar",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Nova Câmara: veja os 513 deputados federais eleitos em 2026",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/122927/nova-camara-veja-os-513-deputados-federais-eleitos-em-2026",
+    "data": "2026-10",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "13 partidos terão representação no Senado em 2027",
+    "veiculo": "Rádio Senado",
+    "url": "https://www12.senado.leg.br/radio/1/noticia/2026/10/05/13-partidos-terao-representacao-no-senado-em-2027",
+    "data": "2026-10-05",
+    "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "Veja quem são os novos senadores e como fica a composição do Senado",
+    "veiculo": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-sao-os-novos-senadores-e-como-fica-composicao-do-senado",
+    "data": "2026-10",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A composição do Senado pode mudar com o 2º turno de governadores no Acre, Amazonas e Tocantins e com registros sub judice; a soma divulgada pela Rádio Senado é de 80 cadeiras.",
+  "limitacoes": "Bancada própria não equivale a maioria governista, que depende de alianças; os totais da Câmara vêm da própria Câmara via CNN (99,99% das urnas), não do painel do TSE, que não foi acessado.",
+  "frente": "atualizacao_fatos"
+ },
+ {
+  "id": "atualizacao-fatos-flavio-09",
+  "candidato": "flavio",
+  "criterio": "integridade",
+  "tema": "registro de candidatura no TSE",
+  "tipo": "DECISAO_JUDICIAL_DEFINITIVA",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "O plenário virtual do TSE aprovou por unanimidade, em 02/09/2026, o registro da chapa Flávio Bolsonaro e Alfredo Gaspar (PL), relatado pela ministra Estela Aranha. Antes do protocolo, em 13/08, o sistema Filia mostrou o senador vinculado ao partido Missão; o presidente do TSE restabeleceu a filiação ao PL, autorizou o registro e determinou apuração do episódio.",
+  "data_fato": "2026-09-02",
+  "fontes": [
+   {
+    "titulo": "TSE aprova registros de seis candidatos à Presidência da República (Agência Brasil)",
+    "veiculo": "A Gazeta (ES)",
+    "url": "https://www.agazeta.com.br/brasil/tse-aprova-registros-de-seis-candidatos-a-presidencia-da-republica-0926",
+    "data": "2026-09-03",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE começa a julgar registros de Lula, Flávio Bolsonaro e Zema",
+    "veiculo": "Correio da Manhã",
+    "url": "https://www.correiodamanha.com.br/politica/2026/08/315354-tse-comeca-a-julgar-registros-de-lula-flavio-bolsonaro-e-zema.html",
+    "data": "2026-08-31",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE suspende sistema de filiação partidária e Flávio Bolsonaro (PL) tem candidatura à Presidência registrada após problema com o partido Missão",
+    "veiculo": "Brasil de Fato",
+    "url": "https://www.brasildefato.com.br/2026/08/14/tse-suspende-sistema-de-filiacao-partidaria-e-flavio-bolsonaro-pl-tem-candidatura-a-presidencia-registrada-apos-problema-com-o-partido-missao/",
+    "data": "2026-08-14",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "O portal do TSE recusou acesso automatizado (HTTP 403); o acórdão, a certidão de trânsito e o parecer do MPE sobre este registro não foram lidos, e o resultado da apuração sobre a filiação indevida não foi localizado. Classificação como definitiva baseia-se na ausência de notícia de recurso.",
+  "frente": "atualizacao_fatos"
+ },
+ {
   "id": "campanha-lula-01",
   "candidato": "lula",
   "criterio": "governabilidade",

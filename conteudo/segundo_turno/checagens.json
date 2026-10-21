@@ -2,6 +2,72 @@
  {
   "id": "chk-001",
   "alvo": "lula",
+  "declaracao": "Afirmou que o legado de Lula seria um 'recorde de empresas fechadas' e que nunca tantas empresas se mudaram para o Paraguai.",
+  "autor": "Flávio Bolsonaro",
+  "veiculo": "debate (Band) e entrevista (TV Globo)",
+  "data": "2026-10-18",
+  "contexto": "Declarações no debate da Band (18/10) e na entrevista à TV Globo (16/10), repetidas ao menos 25 vezes no ano segundo o Aos Fatos.",
+  "classificacao": "FALSO",
+  "explicacao": "O Aos Fatos considerou a alegação incorreta: segundo a Serasa Experian, as falências caíram entre 2024 e 2025 e nenhum total anual do governo Lula superou os de 2012 a 2019; o saldo de abertura de empresas segue positivo; o recorde é de recuperações judiciais. Sobre o Paraguai, 232 empresas brasileiras aderiram à maquila entre 2007 e 2026, com pico entre 2016 e 2020, sem levantamento que demonstre fuga. Ressalva: alta de 36% nas falências de janeiro a maio de 2026.",
+  "fontes_verificacao": [
+   {
+    "titulo": "Na contramão dos dados, Flávio Bolsonaro mente ao falar em recorde de falências de empresas",
+    "veiculo": "Aos Fatos",
+    "url": "https://aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+    "data": "2026-10-20",
+    "tipo_fonte": "CHECAGEM"
+   }
+  ],
+  "url_primaria": "",
+  "origem": "flavio"
+ },
+ {
+  "id": "chk-002",
+  "alvo": "flavio",
+  "declaracao": "Captura atribuída à CNN Brasil afirma que a polícia descobriu compra de votos para Flávio Bolsonaro em estados do Norte e do Nordeste.",
+  "autor": "Perfil no Facebook (não identificado)",
+  "veiculo": "Facebook",
+  "data": "2026-10-19",
+  "contexto": "Publicação que vincula a Flávio reportagem da CNN Brasil de 03/10/2026 sobre apreensão de R$ 27 milhões pela PF.",
+  "classificacao": "FALSO",
+  "explicacao": "A Lupa verificou que a reportagem original não cita Flávio Bolsonaro; a CNN Brasil publicou desmentido em 07/10. Aos Fatos e UOL Confere chegaram a conclusões semelhantes.",
+  "fontes_verificacao": [
+   {
+    "titulo": "Reportagem da CNN Brasil sobre compra de votos não cita Flávio Bolsonaro",
+    "veiculo": "Agência Lupa",
+    "url": "https://www.agencialupa.org/verificacao/2026/10/19/reportagem-da-cnn-brasil-sobre-compra-de-votos-nao-cita-flavio-bolsonaro/",
+    "data": "2026-10-19",
+    "tipo_fonte": "CHECAGEM"
+   }
+  ],
+  "url_primaria": "https://www.agencialupa.org/verificacao/2026/10/19/reportagem-da-cnn-brasil-sobre-compra-de-votos-nao-cita-flavio-bolsonaro/",
+  "origem": "terceiros"
+ },
+ {
+  "id": "chk-003",
+  "alvo": "flavio",
+  "declaracao": "Suposta notícia de O Globo afirma que Flávio Bolsonaro elevaria a idade mínima de aposentadoria dos homens de 65 para 70 anos.",
+  "autor": "Perfil no Instagram (não identificado)",
+  "veiculo": "Instagram e WhatsApp",
+  "data": "2026-10-20",
+  "contexto": "Imagem com 514 compartilhamentos no Instagram até 18/10/2026.",
+  "classificacao": "FALSO",
+  "explicacao": "A Lupa não encontrou a reportagem no site de O Globo nem em outros veículos; o plano de governo registrado no TSE não trata de regras de aposentadoria, e ferramenta de detecção estimou 97% de probabilidade de a imagem ter sido gerada por IA. Boatos.org e Reuters também verificaram o conteúdo.",
+  "fontes_verificacao": [
+   {
+    "titulo": "É falso que Flávio Bolsonaro propôs elevar idade mínima da aposentadoria para 70 anos",
+    "veiculo": "Agência Lupa",
+    "url": "https://www.agencialupa.org/verificacao/2026/10/20/e-falso-que-flavio-bolsonaro-propos-elevar-idade-minima-da-aposentadoria-para-70-anos/",
+    "data": "2026-10-20",
+    "tipo_fonte": "CHECAGEM"
+   }
+  ],
+  "url_primaria": "",
+  "origem": "terceiros"
+ },
+ {
+  "id": "chk-004",
+  "alvo": "lula",
   "declaracao": "Afirmou ter herdado déficit de 2,8% quando assumiu o governo.",
   "autor": "Luiz Inácio Lula da Silva",
   "veiculo": "debate (Band)",
@@ -22,7 +88,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-002",
+  "id": "chk-005",
   "alvo": "lula",
   "declaracao": "Disse que o país só voltou a crescer acima de 3% depois de seu retorno à Presidência.",
   "autor": "Luiz Inácio Lula da Silva",
@@ -51,7 +117,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-003",
+  "id": "chk-006",
   "alvo": "lula",
   "declaracao": "Afirmou que o governo Bolsonaro liberou 1,1 bilhão de balas.",
   "autor": "Luiz Inácio Lula da Silva",
@@ -73,7 +139,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-004",
+  "id": "chk-007",
   "alvo": "lula",
   "declaracao": "Afirmou que o salário mínimo compra hoje 2,2 cestas básicas, contra 1,8 no governo Bolsonaro.",
   "autor": "Luiz Inácio Lula da Silva",
@@ -95,7 +161,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-005",
+  "id": "chk-008",
   "alvo": "flavio",
   "declaracao": "Afirmou que Flávio foi o único deputado da Alerj a votar contra a ampliação da licença-maternidade em 2009.",
   "autor": "Luiz Inácio Lula da Silva",
@@ -124,7 +190,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-006",
+  "id": "chk-009",
   "alvo": "flavio",
   "declaracao": "Acusou Flávio de comprar casa de R$ 10 milhões paga em parte com dinheiro do BRB.",
   "autor": "Luiz Inácio Lula da Silva",
@@ -153,7 +219,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-007",
+  "id": "chk-010",
   "alvo": "lula",
   "declaracao": "Afirmou que seu governo realizou a maior demarcação de terras indígenas do país.",
   "autor": "Luiz Inácio Lula da Silva",
@@ -175,7 +241,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-008",
+  "id": "chk-011",
   "alvo": "lula",
   "declaracao": "Disse que o governo aprovou 99% de suas propostas no Congresso.",
   "autor": "Luiz Inácio Lula da Silva",
@@ -204,7 +270,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-009",
+  "id": "chk-012",
   "alvo": "lula",
   "declaracao": "Disse ter criado 22 milhões de empregos formais em oito anos.",
   "autor": "Luiz Inácio Lula da Silva",
@@ -226,7 +292,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-010",
+  "id": "chk-013",
   "alvo": "lula",
   "declaracao": "Sobre a lobista Roberta Luchsinger: 'Eu não conheço essa moça'.",
   "autor": "Luiz Inácio Lula da Silva",
@@ -248,7 +314,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-011",
+  "id": "chk-014",
   "alvo": "lula",
   "declaracao": "Atribuiu a um ministro da Previdência de 2019 participação na quadrilha que fraudou o INSS.",
   "autor": "Luiz Inácio Lula da Silva",
@@ -270,7 +336,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-012",
+  "id": "chk-015",
   "alvo": "lula",
   "declaracao": "'Eu já acabei com a fome duas vezes.'",
   "autor": "Luiz Inácio Lula da Silva",
@@ -292,7 +358,7 @@
   "origem": "lula"
  },
  {
-  "id": "chk-013",
+  "id": "chk-016",
   "alvo": "lula",
   "declaracao": "Montagem com aparência de reportagem do g1 atribui a Lula frase de cunho sexual que o associa à pedofilia.",
   "autor": "Perfis anônimos em redes sociais (X, Facebook, WhatsApp)",
@@ -314,7 +380,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-014",
+  "id": "chk-017",
   "alvo": "lula",
   "declaracao": "Imagem mostra Lula jovem segurando placa '171' para sugerir prisão por estelionato.",
   "autor": "Perfis em redes sociais (não identificados)",
@@ -336,7 +402,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-015",
+  "id": "chk-018",
   "alvo": "lula",
   "declaracao": "Vídeo apresentado como reunião recente de Lula com ministros do STF e Viviane Barci de Moraes durante a crise do caso Moraes-Vorcaro.",
   "autor": "Perfis em redes sociais (não identificados)",
@@ -358,7 +424,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-016",
+  "id": "chk-019",
   "alvo": "lula",
   "declaracao": "Posts afirmam que Lula avalia desistir da candidatura à reeleição.",
   "autor": "Perfis no TikTok e no X (não identificados)",
@@ -380,7 +446,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-017",
+  "id": "chk-020",
   "alvo": "lula",
   "declaracao": "Postagens afirmam que Lula renunciou à Presidência e desistiu da reeleição.",
   "autor": "Perfis no Instagram (não identificados)",
@@ -402,7 +468,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-018",
+  "id": "chk-021",
   "alvo": "lula",
   "declaracao": "Vídeo atribui ao deputado Gustavo Gayer a afirmação de que Lula está inelegível por crime eleitoral.",
   "autor": "Perfil de 'entretenimento' com 73,5 mil seguidores (Instagram, Facebook)",
@@ -424,7 +490,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-019",
+  "id": "chk-022",
   "alvo": "lula",
   "declaracao": "Vídeo com imagem de William Waack afirma que o governo Lula anularia as eleições se Flávio vencesse ('O PT não aceitará a derrota').",
   "autor": "Perfis no Facebook e no Threads (não identificados)",
@@ -446,7 +512,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-020",
+  "id": "chk-023",
   "alvo": "lula",
   "declaracao": "Fotos e vídeos apresentados como 'provas' de que Lula foi substituído por um clone ou sósia.",
   "autor": "Perfis em redes sociais (não identificados)",
@@ -468,7 +534,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-021",
+  "id": "chk-024",
   "alvo": "lula",
   "declaracao": "Afirmou que a criminalidade 'explodiu' no Brasil sob Lula.",
   "autor": "Flávio Bolsonaro",
@@ -497,7 +563,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-022",
+  "id": "chk-025",
   "alvo": "lula",
   "declaracao": "Disse que os roubos de celular não diminuíram no governo Lula.",
   "autor": "Flávio Bolsonaro",
@@ -519,7 +585,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-023",
+  "id": "chk-026",
   "alvo": "lula",
   "declaracao": "Afirmou que Lula acionou a Justiça para restabelecer a saída temporária de presos.",
   "autor": "Flávio Bolsonaro",
@@ -548,7 +614,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-024",
+  "id": "chk-027",
   "alvo": "lula",
   "declaracao": "Afirmou que Lula foi condenado em todas as instâncias e depois 'descondenado'.",
   "autor": "Flávio Bolsonaro",
@@ -570,7 +636,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-025",
+  "id": "chk-028",
   "alvo": "lula",
   "declaracao": "Disse que Lula gastou R$ 7 bilhões com viagens da primeira-dama Janja.",
   "autor": "Flávio Bolsonaro",
@@ -599,7 +665,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-026",
+  "id": "chk-029",
   "alvo": "lula",
   "declaracao": "Citou áudio de Vorcaro sobre R$ 30 milhões em dinheiro para o Instituto Lula.",
   "autor": "Flávio Bolsonaro",
@@ -628,7 +694,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-027",
+  "id": "chk-030",
   "alvo": "lula",
   "declaracao": "Afirmou que o governo atual deixa dívida de R$ 11 trilhões, recorde negativo.",
   "autor": "Flávio Bolsonaro",
@@ -650,7 +716,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-028",
+  "id": "chk-031",
   "alvo": "lula",
   "declaracao": "Disse que Lula vetou a restrição à saidinha e que o Congresso precisou derrubar o veto.",
   "autor": "Flávio Bolsonaro",
@@ -672,7 +738,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-029",
+  "id": "chk-032",
   "alvo": "flavio",
   "declaracao": "Disse nunca ter defendido mudanças nas regras de identificação de armas e munições.",
   "autor": "Flávio Bolsonaro",
@@ -694,7 +760,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-030",
+  "id": "chk-033",
   "alvo": "flavio",
   "declaracao": "Sobre o 8 de janeiro: 'Não foi encontrada uma arma no 8 de Janeiro'.",
   "autor": "Flávio Bolsonaro",
@@ -723,7 +789,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-031",
+  "id": "chk-034",
   "alvo": "flavio",
   "declaracao": "Afirmou que a produtora prestou contas de todos os gastos do filme Dark Horse.",
   "autor": "Flávio Bolsonaro",
@@ -745,7 +811,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-032",
+  "id": "chk-035",
   "alvo": "flavio",
   "declaracao": "Conjunto de 43 declarações sobre sua relação com Daniel Vorcaro e o Banco Master (fevereiro a setembro de 2026).",
   "autor": "Flávio Bolsonaro",
@@ -767,7 +833,7 @@
   "origem": "flavio"
  },
  {
-  "id": "chk-033",
+  "id": "chk-036",
   "alvo": "flavio",
   "declaracao": "Vídeo em que Flávio anunciaria cortes em pensões, no 13º salário e no Pé-de-Meia ('vamos mudar esse Brasil, fazendo cortes na economia').",
   "autor": "Perfis em redes sociais (não identificados)",
@@ -789,7 +855,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-034",
+  "id": "chk-037",
   "alvo": "flavio",
   "declaracao": "Vídeo em que Flávio diria que o 'trabalhador vai ter que decidir: menos direitos e emprego ou todos os direitos e desemprego'.",
   "autor": "Perfis em redes sociais (não identificados)",
@@ -811,7 +877,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-035",
+  "id": "chk-038",
   "alvo": "flavio",
   "declaracao": "Vídeo em que Flávio prometeria 'aumento do salário mínimo em até R$ 3 mil reais'.",
   "autor": "Perfil no TikTok (não identificado)",
@@ -833,7 +899,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-036",
+  "id": "chk-039",
   "alvo": "flavio",
   "declaracao": "Vídeo em que Zeca Pagodinho declararia apoio à candidatura de Flávio Bolsonaro.",
   "autor": "Perfil no TikTok que também publicou deepfakes de Zezé Di Camargo pró-Bolsonaro",
@@ -855,7 +921,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-037",
+  "id": "chk-040",
   "alvo": "flavio",
   "declaracao": "Imagem de Flávio com espingarda diante de elefante abatido, simulando capa da revista piauí.",
   "autor": "Perfis no X e Facebook críticos a Flávio; repercutida pelo ator José de Abreu",
@@ -877,7 +943,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-038",
+  "id": "chk-041",
   "alvo": "flavio",
   "declaracao": "Publicações afirmam que a PF concluiu não haver indícios de crime nas mensagens entre Flávio e Vorcaro.",
   "autor": "Perfis em redes sociais favoráveis ao senador",
@@ -899,7 +965,7 @@
   "origem": "terceiros"
  },
  {
-  "id": "chk-039",
+  "id": "chk-042",
   "alvo": "ambos",
   "declaracao": "Alegação de que filmes sobre Lula e Temer também receberam dinheiro de Vorcaro, usada em defesa de Flávio.",
   "autor": "Perfis bolsonaristas em redes sociais",

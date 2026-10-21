@@ -122,16 +122,16 @@
     "lula": {
      "vantagens": "Aprovou reformas estruturais (arcabouço, tributária, IR) e converteu em lei proporção de projetos maior que o governo anterior.",
      "fragilidades": "Derrotas expressivas: vetos derrubados, medidas provisórias caducadas, rejeição de indicado ao STF.",
-     "riscos": "Dependência de coalizões instáveis em votações relevantes."
+     "riscos": "Congresso eleito com o PL como maior bancada da Câmara e a federação do PT em segundo lugar."
     },
     "flavio": {
-     "vantagens": "Ampla coalizão de 2º turno, com 12 governadores e partidos de centro-direita.",
+     "vantagens": "Ampla coalizão de 2º turno, com 12 governadores, e Congresso eleito com o PL como maior bancada da Câmara.",
      "fragilidades": "Sem histórico documentado de aprovação de agenda própria; 1º turno sem coligação.",
      "riscos": "Coalizão heterogênea formada em período eleitoral."
     }
    },
-   "leitura": "Distância pequena; o histórico de Lula é real e misto, e a base de Flávio é potencial.",
-   "insuficiencias": "A composição do Congresso eleito em 2026 não foi levantada."
+   "leitura": "Distância pequena: o histórico de Lula é real e misto; a base de Flávio é potencial, mas o Congresso eleito, com o PL como maior bancada, favorece sua coalizão.",
+   "insuficiencias": "A composição do Senado em 2027 é projeção sujeita ao 2º turno estadual."
   },
   {
    "id": "impactos",
@@ -173,7 +173,7 @@
   }
  ],
  "metodologia": {
-  "limites": "A pesquisa foi feita em 19/10/2026 por seis frentes temáticas com o mesmo roteiro para os dois candidatos, com limite de buscas que deixou lacunas declaradas (financiamento de campanha, composição do Congresso eleito, bens, TCU). O portal do TSE recusa acesso automatizado, e parte das informações eleitorais vem de notícias do próprio TSE e da imprensa. Os links foram testados automaticamente (298 de 317 responderam; os demais bloqueiam robôs ou não responderam a tempo).",
+  "limites": "A pesquisa foi feita em 19/10/2026 por seis frentes temáticas, com o mesmo roteiro para os dois candidatos, e atualizada em 21/10/2026 com os fatos de 19 a 21/10. Ficaram lacunas declaradas: despesas de campanha (apenas receitas até 16/10 foram levantadas com fonte forte), declarações de bens e apontamentos do TCU. O portal do TSE recusa acesso automatizado, e parte das informações eleitorais vem de notícias do próprio TSE e da imprensa. Os links foram testados automaticamente.",
   "tipos": {
    "FATO_COMPROVADO": "Fato documentado por fonte primária ou por fontes jornalísticas convergentes.",
    "DADO_OFICIAL": "Número de órgão oficial (IBGE, Banco Central, Tesouro, INPE, Câmara, Senado).",

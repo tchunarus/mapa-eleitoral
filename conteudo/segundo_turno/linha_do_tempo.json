@@ -1911,6 +1911,68 @@
   ]
  },
  {
+  "candidato": "flavio",
+  "data": "2026-10-18",
+  "titulo": "Divulgados detalhes do inquérito Willer Tomaz",
+  "descricao": "Imprensa noticia conta da Alcazar Holding com Flávio como usuário master e R$ 130 milhões em conta de Tomaz; Flávio nega.",
+  "categoria": "judicial",
+  "fontes": [
+   {
+    "titulo": "Flávio é alvo de inquérito na PF por suspeita de lavagem de dinheiro",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/123352/flavio-e-alvo-de-inquerito-na-pf-por-suspeita-de-lavagem-de-dinheiro",
+    "data": "2026-10-18",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Polícia Federal pede para abrir segundo inquérito contra Flávio Bolsonaro",
+    "veiculo": "O Povo (agências)",
+    "url": "https://mais.opovo.com.br/jornal/politica/2026/10/19/policia-federal-pede-para-abrir-segundo-inquerito-contra-flavio-bolsonaro.html",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "ambos",
+  "data": "2026-10-19",
+  "titulo": "Pedidos de CPMI sobre Lulinha e sobre Flávio",
+  "descricao": "Oposição coleta assinaturas sobre Luchsinger e Lulinha; PT anuncia requerimento sobre Flávio; governo orienta apoio a ambos.",
+  "categoria": "legislativo",
+  "fontes": [
+   {
+    "titulo": "Damares busca assinaturas para instalar CPMI sobre Roberta Luchsinger",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/123396/damares-busca-assinaturas-para-instalar-cpmi-sobre-roberta-luchsinger",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Governo orienta bancada a apoiar CPMI sobre Roberta Luchsinger",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/123399/governo-orienta-bancada-a-apoiar-cpmi-sobre-roberta-luchsinger",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "ambos",
+  "data": "2026-10-19",
+  "titulo": "Focus: primário de 2026 piora nas projeções",
+  "descricao": "Mediana do déficit primário de 2026 passa de 0,41% para 0,48% do PIB; IPCA de 2026 em 5,22%.",
+  "categoria": "governo",
+  "fontes": [
+   {
+    "titulo": "Focus: Relatório de Mercado (estatísticas até 16/10/2026, publicado em 19/10/2026)",
+    "veiculo": "Banco Central do Brasil",
+    "url": "https://www.bcb.gov.br/content/focus/focus/R20261016.pdf",
+    "data": "2026-10-19",
+    "tipo_fonte": "PRIMARIA"
+   }
+  ]
+ },
+ {
   "candidato": "ambos",
   "data": "2026-10-19",
   "titulo": "Contexto: Freedom House, Freedom in the World 2026",
@@ -1923,6 +1985,327 @@
     "url": "https://freedomhouse.org/country/brazil/freedom-world/2026",
     "data": "2026-10-19",
     "tipo_fonte": "PRIMARIA"
+   }
+  ]
+ },
+ {
+  "candidato": "flavio",
+  "data": "2026-10-19",
+  "titulo": "Campanha de Flávio propõe transição de 2 anos no Bolsa Família",
+  "descricao": "Fala de Daniella Marques à CBN Bahia; Flávio reformula a proposta no Instagram.",
+  "categoria": "campanha",
+  "fontes": [
+   {
+    "titulo": "Campanha de Flávio propõe transição de 2 anos no Bolsa Família",
+    "veiculo": "Poder360",
+    "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-propoe-transicao-de-2-anos-no-bolsa-familia/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "flavio",
+  "data": "2026-10-19",
+  "titulo": "Cueva restringe impulsionamento de Nikolas e Marçal",
+  "descricao": "Liminar em AIJE da coligação de Lula; Flávio e Gaspar devem apresentar defesa em cinco dias.",
+  "categoria": "judicial",
+  "fontes": [
+   {
+    "titulo": "TSE: Cueva proíbe Nikolas e Marçal de voltar a divulgar conteúdos removidos",
+    "veiculo": "Metrópoles (coluna Manoela Alcântara)",
+    "url": "https://metropoles.com/colunas/manoela-alcantara/tse-cueva-proibe-nikolas-e-marcal-de-voltar-a-divulgar-conteudos-removidos",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Corregedor eleitoral proíbe Nikolas e Marçal de voltar a divulgar conteúdos proibidos pelo TSE",
+    "veiculo": "Tribunal Superior Eleitoral",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/corregedor-eleitoral-proibe-nikolas-e-marcal-de-voltar-a-divulgar-conteudos-proibidos-pelo-tse",
+    "data": "2026-10-19",
+    "tipo_fonte": "PRIMARIA"
+   }
+  ]
+ },
+ {
+  "candidato": "flavio",
+  "data": "2026-10-19",
+  "titulo": "Inserção 'Smart Brasil' suspensa",
+  "descricao": "Estela Aranha suspende peça por identificação inadequada do vice Alfredo Gaspar.",
+  "categoria": "judicial",
+  "fontes": [
+   {
+    "titulo": "TSE acolhe pedido de Lula e suspende propaganda eleitoral de Flávio Bolsonaro",
+    "veiculo": "Brasil 247 (com informações do Metrópoles)",
+    "url": "https://www.brasil247.com/geral/tse-acolhe-pedido-de-lula-e-suspende-propaganda-eleitoral-de-flavio-bolsonaro/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "flavio",
+  "data": "2026-10-19",
+  "titulo": "TSE mantém propaganda de Flávio sobre o governo",
+  "descricao": "Ministra Estela Aranha nega liminar contra a peça 'recordes do governo Lula'.",
+  "categoria": "judicial",
+  "fontes": [
+   {
+    "titulo": "Ministra do TSE mantém propaganda de Flávio sobre recordes de Lula",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/123388/ministra-do-tse-mantem-propaganda-de-flavio-sobre-recordes-de-lula",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "lula",
+  "data": "2026-10-19",
+  "titulo": "Sabatina de Lula no SBT",
+  "descricao": "Admite mudança de posição sobre maioridade penal (16 anos para crimes hediondos) e anuncia autorização de quebra de sigilos.",
+  "categoria": "campanha",
+  "fontes": [
+   {
+    "titulo": "SBT realiza sabatina com presidente Lula",
+    "veiculo": "SBT News",
+    "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/sbt-realiza-sabatina-com-candidatos-a-presidencia",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula admite mudança de discurso sobre maioridade penal",
+    "veiculo": "SBT News",
+    "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/lula-admite-mudanca-de-discurso-sobre-maioridade-penal",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "lula",
+  "data": "2026-10-19",
+  "titulo": "Antecipação do calendário do Bolsa Família",
+  "descricao": "Pagamentos de outubro concentrados de 19 a 21/10; MDS cita prevenção ao El Niño.",
+  "categoria": "governo",
+  "fontes": [
+   {
+    "titulo": "Como será feito o pagamento antecipado do Bolsa Família antes do 2º turno das Eleições 2026",
+    "veiculo": "O Tempo (Folhapress)",
+    "url": "https://www.otempo.com.br/economia/2026/10/21/como-sera-feito-o-pagamento-antecipado-do-bolsa-familia-antes-do-2-turno-das-eleicoes-2026",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "lula",
+  "data": "2026-10-19",
+  "titulo": "Lula desafia Flávio a abrir sigilos",
+  "descricao": "Em vídeo, Lula dá uma semana para Flávio aceitar abertura recíproca de sigilos.",
+  "categoria": "campanha",
+  "fontes": [
+   {
+    "titulo": "Lula afirma que abrirá sigilo bancário se Flávio fizer o mesmo",
+    "veiculo": "Poder360",
+    "url": "https://www.poder360.com.br/poder-eleicoes/lula-afirma-que-abrira-sigilo-bancario-se-flavio-fizer-o-mesmo/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula diz que autorizará quebra dos sigilos dele e de familiares",
+    "veiculo": "Congresso em Foco",
+    "url": "https://www.congressoemfoco.com.br/noticia/123402/lula-diz-que-autorizara-quebra-dos-sigilos-dele-e-de-familiares",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "ambos",
+  "data": "2026-10-20",
+  "titulo": "Financiamento declarado até 16/10",
+  "descricao": "Lula: R$ 118,4 mi (97% do fundo eleitoral). Flávio: R$ 95,5 mi, com R$ 20,3 mi de pessoas físicas no 2º turno.",
+  "categoria": "campanha",
+  "fontes": [
+   {
+    "titulo": "Doações a Flávio quase triplicam no 2º turno e chegam a 26 vezes o valor recebido por Lula",
+    "veiculo": "Jornal de Brasília (Folhapress)",
+    "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/doacoes-a-flavio-quase-triplicam-no-2o-turno-e-chegam-a-26-vezes-o-valor-recebido-por-lula/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "flavio",
+  "data": "2026-10-20",
+  "titulo": "Flávio promete Vira Pix e volta do Perse",
+  "descricao": "Propostas divulgadas pela coordenação econômica, sem estimativa de custo.",
+  "categoria": "campanha",
+  "fontes": [
+   {
+    "titulo": "Vira PIX: campanha de Flávio promete cashback em pagamentos de contas",
+    "veiculo": "Juruá 24 Horas (reprodução de CNN Brasil)",
+    "url": "https://jurua24horas.com/noticia/vira-pix-campanha-de-flavio-promete-cashback-em-pagamentos-de-contas",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Perse: Flávio Bolsonaro promete volta de benefícios fiscais para setor de eventos",
+    "veiculo": "Estado de Minas",
+    "url": "https://www.em.com.br/politica/2026/10/7524383-perse-flavio-bolsonaro-promete-volta-de-beneficios-fiscais-para-setor-de-eventos.html",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "flavio",
+  "data": "2026-10-20",
+  "titulo": "Flávio pede ao TSE dados sobre impulsionamento pró-Lula",
+  "descricao": "Pedido ao presidente do TSE sobre o canal Exército do Lula e anúncios de páginas lulistas.",
+  "categoria": "judicial",
+  "fontes": [
+   {
+    "titulo": "Flávio pede ao TSE informações sobre impulsionamento de páginas lulistas",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-pede-ao-tse-informacoes-sobre-impulsionamento-de-paginas-lulistas/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "lula",
+  "data": "2026-10-20",
+  "titulo": "Lula protocola autorização condicionada de quebra de sigilos",
+  "descricao": "Petição ao TSE e ao STF condicionada à reciprocidade de Flávio; relator no TSE, André Mendonça.",
+  "categoria": "campanha",
+  "fontes": [
+   {
+    "titulo": "Lula pede quebra dos próprios sigilos, mas condiciona liberação a Flávio",
+    "veiculo": "Poder360",
+    "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-pede-quebra-dos-proprios-sigilos-mas-condiciona-liberacao-a-flavio/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula autoriza ao TSE quebra dos próprios sigilos se Flávio fizer o mesmo",
+    "veiculo": "Conjur",
+    "url": "https://conjur.com.br/2026-out-20/lula-autoriza-ao-tse-quebra-dos-proprios-sigilos-se-flavio-fizer-o-mesmo/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "lula",
+  "data": "2026-10-20",
+  "titulo": "Lula protocola autorização de quebra de sigilos",
+  "descricao": "Petição ao TSE e ao STF, condicionada à reciprocidade de Flávio; relator prévio no TSE, André Mendonça.",
+  "categoria": "judicial",
+  "fontes": [
+   {
+    "titulo": "Lula protocola quebra de sigilo bancário no TSE e STF",
+    "veiculo": "SBT News",
+    "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-protocola-quebra-de-sigilo-bancario-e-telefonico-no-tse",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "lula",
+  "data": "2026-10-20",
+  "titulo": "Itamaraty rebate Milei",
+  "descricao": "Nota classifica ataques de Milei ao Judiciário e às urnas como tentativa de ingerência externa.",
+  "categoria": "governo",
+  "fontes": [
+   {
+    "titulo": "Itamaraty rebate declaração de Milei sobre fraude na eleição brasileira",
+    "veiculo": "O Tempo",
+    "url": "https://www.otempo.com.br/politica/governo/2026/10/20/itamaraty-rebate-declaracao-de-milei-sobre-fraude-na-eleicao-brasileira",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Itamaraty reage a Milei e o acusa de tentar interferir nas eleições brasileiras",
+    "veiculo": "Estado de Minas",
+    "url": "https://www.em.com.br/politica/2026/10/7524505-itamaraty-reage-a-milei-e-o-acusa-de-tentar-interferir-nas-eleicoes-brasileiras.html",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "lula",
+  "data": "2026-10-21",
+  "titulo": "Bellizze suspende propaganda de Lula sobre assédio",
+  "descricao": "Pedido de Flávio; cenas encenadas podem induzir o eleitor a erro.",
+  "categoria": "judicial",
+  "fontes": [
+   {
+    "titulo": "TSE manda Lula suspender propaganda que associa Flávio a assédio",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-lula-suspender-propaganda-que-associa-flavio-a-assedio/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "lula",
+  "data": "2026-10-21",
+  "titulo": "Sanção anunciada do Prospera MEI",
+  "descricao": "Lei (PLP 186/2026) eleva teto do MEI e perdoa dívidas com a União; número da lei não confirmado.",
+  "categoria": "governo",
+  "fontes": [
+   {
+    "titulo": "Lula sanciona hoje novo teto dos MEIs; saiba o que muda",
+    "veiculo": "SBT News",
+    "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-sanciona-hoje-novo-teto-dos-me-is-saiba-o-que-muda",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Dados Abertos do Senado: votações nominais de 13 a 21/10/2026 (PEC 221/2019 e PLP 186/2026, com votos individuais)",
+    "veiculo": "Senado Federal",
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-10-13&dataFim=2026-10-21",
+    "data": "2026-10-21",
+    "tipo_fonte": "PRIMARIA"
+   }
+  ]
+ },
+ {
+  "candidato": "lula",
+  "data": "2026-10-21",
+  "titulo": "TSE suspende propaganda de Lula sobre 'assédio'",
+  "descricao": "Ministro Bellizze entende que encenação pode sugerir como reais condutas não praticadas.",
+  "categoria": "judicial",
+  "fontes": [
+   {
+    "titulo": "TSE manda Lula suspender propaganda que associa Flávio a assédio",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-lula-suspender-propaganda-que-associa-flavio-a-assedio/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ {
+  "candidato": "lula",
+  "data": "2026-10-21",
+  "titulo": "PF aguarda decisão sobre prorrogar inquéritos de Lulinha",
+  "descricao": "Pedidos de 2/10, sob sigilo, sem decisão até 20/10.",
+  "categoria": "judicial",
+  "fontes": [
+   {
+    "titulo": "PF pede prorrogação de inquéritos sobre Lulinha",
+    "veiculo": "SBT News",
+    "url": "https://sbtnews.sbt.com.br/noticia/politica/pf-pede-prorrogacao-de-inqueritos-sobre-lulinha",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
    }
   ]
  },

@@ -26,7 +26,7 @@ sys.path.insert(0, AQUI)
 import repositorio  # noqa: E402
 
 PASTA = os.path.join(repositorio.RAIZ, 'conteudo', 'segundo_turno')
-ARQUIVOS = ('eleicao', 'criterios', 'evidencias', 'avaliacoes', 'checagens', 'linha_do_tempo', 'conclusao')
+ARQUIVOS = ('eleicao', 'criterios', 'evidencias', 'avaliacoes', 'checagens', 'linha_do_tempo', 'conclusao', 'agenda')
 
 TIPO_EVIDENCIA = {
     'FATO_COMPROVADO': 'Fato comprovado', 'DADO_OFICIAL': 'Dado oficial',
@@ -154,6 +154,15 @@ def validar(d):
         if not DATA.match(str(t.get('data') or '')):
             erros.append(f'{lugar}: data inválida')
         _fontes(lugar, t.get('fontes'), erros)
+    for i, a in enumerate(d.get('agenda') or [], 1):
+        lugar = f'agenda.{i}'
+        if not DATA.match(str(a.get('data') or '')) or not a.get('titulo'):
+            erros.append(f'{lugar}: sem data ou título')
+        _fontes(lugar, a.get('fontes'), erros)
+        if a.get('situacao'):
+            _fontes(lugar + '.situacao', a.get('fontes_situacao'), erros)
+    if el.get('atualizado_em') and not DATA.match(el['atualizado_em']):
+        erros.append('eleicao.atualizado_em inválida')
     for dim in (d['conclusao'] or {}).get('dimensoes', []):
         for x in dim.get('evidencias') or []:
             if x not in ev:
