@@ -1,0 +1,93 @@
+{
+ "economia-lula-13": {
+  "texto": "Com dados da IFI, a CNN registra exceções aos limites de gastos de R$ 147,7 bilhões em 2024-2026 e de R$ 389,0 bilhões em 2023-2026, medida distinta da soma das exclusões da meta.",
+  "fontes": [
+   {
+    "titulo": "Governo Lula deve fechar 2026 com R$ 148 bi fora do limite fiscal, diz IFI",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-lula-deve-fechar-2026-com-r-148-bi-fora-do-limite-fiscal-diz-ifi/",
+    "data": "2025-12-08",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ "propostas-lula-04": {
+  "texto": "Cálculo próprio da IFI, divulgado por CNN Brasil e InfoMoney, aponta R$ 298,4 bilhões mobilizados em 2026 (R$ 93,8 bilhões de impacto primário), com metodologia diferente da do levantamento da Folhapress.",
+  "fontes": [
+   {
+    "titulo": "\"Pacote de bondades\" de Lula soma quase R$ 300 bi às vésperas do 2º turno",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-de-bondades-de-lula-soma-quase-r-290-bi-as-vesperas-do-2o-turno/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/com-eleicoes-beneficios-anunciados-por-lula-ja-mobilizam-r-300-bilhoes-em-2026/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ "propostas-lula-02": {
+  "texto": "O InfoMoney atribui à campanha de Lula a meta de superávit primário de 1,3% do PIB até 2030, na trajetória da LDO, ressalvando que não se trata de proposta definitiva e que não há valores de corte.",
+  "fontes": [
+   {
+    "titulo": "Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos?",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/propostas-lula-flavio-ajuste-fiscal/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ "trajetoria-flavio-14": {
+  "texto": "Segundo a CNN Brasil, Flávio atribuiu os limites do texto à interferência de forças externas no Legislativo e chamou a dosimetria de primeiro degrau.",
+  "fontes": [
+   {
+    "titulo": "Flávio agradece parlamentares e chama dosimetria de primeiro degrau",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-agradece-parlamentares-e-chama-dosimetria-de-primeiro-degrau/",
+    "data": "2025-12-17",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ "democracia-flavio-10": {
+  "texto": "A CNN Brasil confirma o encontro, a menção à Smartmatic e a nota de 22/07 em que Flávio negou questionar o sistema eleitoral, mas atribui a ele referência a relatório sobre as eleições venezuelanas de 2010.",
+  "fontes": [
+   {
+    "titulo": "Flávio Bolsonaro nega questionar sistema eleitoral brasileiro",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-bolsonaro-nega-questionar-sistema-eleitoral-brasileiro/",
+    "data": "2026-07-22",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ "campanha-lula-04": {
+  "texto": "A CNN Brasil noticiou liminar de Nunes Marques, datada de 26/09/2026, contra jingle de rádio de Lula que associava Flávio ao caso Master e à rachadinha; não foi possível confirmar se é a mesma peça.",
+  "fontes": [
+   {
+    "titulo": "Nunes Marques suspende jingle de Lula que liga Flávio a Vorcaro",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/nunes-marques-suspende-jingle-de-lula-que-liga-flavio-a-vorcaro/",
+    "data": "2026-09-27",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ },
+ "campanha-lula-06": {
+  "texto": "Segundo a CNN Brasil, a decisão de Mendonça proibiu novo impulsionamento e republicação do vídeo, com base na vedação de impulsionamento de propaganda negativa, sem mencionar multa nem uso de inteligência artificial.",
+  "fontes": [
+   {
+    "titulo": "Mendonça segue Plenário e proíbe vídeo de Lula que liga Flávio a milícias",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/mendonca-segue-plenario-e-proibe-video-de-lula-que-liga-flavio-a-milicias/",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ]
+ }
+}

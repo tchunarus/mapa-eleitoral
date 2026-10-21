@@ -1,0 +1,174 @@
+{
+ "divergentes": [
+  {
+   "evidencia_id": "economia-lula-13",
+   "confirma": false,
+   "nota": "Com dados da IFI, a CNN registra exceções aos limites de gastos de R$ 147,7 bilhões em 2024-2026 e R$ 389,0 bilhões em 2023-2026, medida diferente da soma de mais de R$ 170 bilhões em exclusões da meta citada na base; a matéria não traz a avaliação da IFI sobre ancoragem de expectativas.",
+   "fonte": {
+    "titulo": "Governo Lula deve fechar 2026 com R$ 148 bi fora do limite fiscal, diz IFI",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-lula-deve-fechar-2026-com-r-148-bi-fora-do-limite-fiscal-diz-ifi/",
+    "data": "2025-12-08",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_economia"
+  },
+  {
+   "evidencia_id": "propostas-lula-04",
+   "confirma": false,
+   "nota": "A CNN divulga cálculo da IFI de R$ 298,4 bilhões mobilizados em 2026 (R$ 185,7 bilhões em crédito subsidiado, R$ 63,2 bilhões em despesas primárias, R$ 30,6 bilhões em renúncia), levantamento distinto dos R$ 290 bilhões da Folhapress para 2026 e 2027; não traz a estimativa de 1,2 p.p. na dívida.",
+   "fonte": {
+    "titulo": "\"Pacote de bondades\" de Lula soma quase R$ 300 bi às vésperas do 2º turno",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-de-bondades-de-lula-soma-quase-r-290-bi-as-vesperas-do-2o-turno/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_economia"
+  },
+  {
+   "evidencia_id": "propostas-lula-04",
+   "confirma": false,
+   "nota": "O InfoMoney registra o mesmo cálculo da IFI (R$ 298,4 bilhões em 2026, dos quais R$ 93,8 bilhões de impacto primário), com metodologia e valores diferentes dos da Folhapress citados na base.",
+   "fonte": {
+    "titulo": "Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/com-eleicoes-beneficios-anunciados-por-lula-ja-mobilizam-r-300-bilhoes-em-2026/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_economia"
+  },
+  {
+   "evidencia_id": "propostas-lula-02",
+   "confirma": false,
+   "nota": "O InfoMoney atribui ao lado de Lula a meta de superávit primário de 1,3% do PIB até 2030, seguindo a trajetória da LDO, o que relativiza a ausência de metas numéricas; a própria matéria ressalva que as alternativas não são propostas definitivas e não traz valores de corte.",
+   "fonte": {
+    "titulo": "Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos?",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/propostas-lula-flavio-ajuste-fiscal/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_economia"
+  },
+  {
+   "evidencia_id": "trajetoria-lula-05",
+   "confirma": false,
+   "nota": "A CNN informa sanção e publicação no DOU em 31/08/2023, enquanto a base, com base na legislação oficial, data a LC 200 de 30/08/2023 com publicação em 31/08/2023.",
+   "fonte": {
+    "titulo": "Lula sanciona novo marco fiscal e veta dois trechos",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/lula-sanciona-novo-marco-fiscal-e-veta-dois-trechos/",
+    "data": "2023-08-31",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_economia"
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-14",
+   "confirma": false,
+   "nota": "Confirma a aprovação por 48 a 25 em 17/12/2025 e a fala de que o texto não era o que a oposição queria, mas a CNN atribui a limitação à interferência de forças externas no Legislativo, e não à composição do Congresso; registra ainda a expressão primeiro degrau.",
+   "fonte": {
+    "titulo": "Flávio agradece parlamentares e chama dosimetria de \"primeiro degrau\"",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-agradece-parlamentares-e-chama-dosimetria-de-primeiro-degrau/",
+    "data": "2025-12-17",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_economia"
+  },
+  {
+   "evidencia_id": "integridade-lula-01",
+   "confirma": false,
+   "nota": "A reportagem confirma o placar de 8 a 3 no Plenário, mas situa a sessão em 15/04/2021 (a base indica 14/04) e não menciona agravo da PGR, apenas agravos regimentais no HC 193.726.",
+   "fonte": {
+    "titulo": "Plenário do STF declara incompetência de Curitiba para julgar Lula",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-abr-15/stf-forma-maioria-declarar-incompetencia-curitiba-julgar-lula/",
+    "data": "2021-04-15",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_instituicoes"
+  },
+  {
+   "evidencia_id": "integridade-lula-01",
+   "confirma": false,
+   "nota": "A reportagem confirma o placar de 8 a 3 e a confirmação da decisão de Fachin, mas situa o julgamento do mérito do agravo em 15/04/2021 (em 14/04 o Plenário apenas fixou sua competência para julgar o caso), e registra que o destino dos autos (DF ou São Paulo) ainda seria definido.",
+   "fonte": {
+    "titulo": "STF derruba condenações de Lula na Lava Jato",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/343754/stf-derruba-condenacoes-de-lula-na-lava-jato",
+    "data": "2021-04-15",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_instituicoes"
+  },
+  {
+   "evidencia_id": "integridade-flavio-01",
+   "confirma": false,
+   "nota": "A reportagem data o oferecimento da denúncia em 19/10/2020 (divulgada em novembro), descreve o esquema entre 2007 e 2018, inclui apropriação indébita e cita R$ 2,7 milhões em dinheiro vivo, sem mencionar o valor de R$ 1 milhão entre 2010 e 2014 nem os outros 15 denunciados.",
+   "fonte": {
+    "titulo": "MP denuncia Flávio Bolsonaro por esquema de rachadinha na Alerj",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2020-nov-04/mp-denuncia-flavio-bolsonaro-esquema-rachadinha-alerj/",
+    "data": "2020-11-04",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_instituicoes"
+  },
+  {
+   "evidencia_id": "democracia-flavio-10",
+   "confirma": false,
+   "nota": "A reportagem confirma o encontro de 21/07/2026, a menção à Smartmatic, o pedido de observadores e a nota de 22/07 negando questionar o sistema, mas atribui a Flávio referência a relatório sobre as eleições venezuelanas de 2010 (a base indica 2012) e situa o desmentido do TSE em 2020, sem registrar republicação em 22/07/2026.",
+   "fonte": {
+    "titulo": "Flávio Bolsonaro nega questionar sistema eleitoral brasileiro",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-bolsonaro-nega-questionar-sistema-eleitoral-brasileiro/",
+    "data": "2026-07-22",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_instituicoes"
+  },
+  {
+   "evidencia_id": "campanha-lula-04",
+   "confirma": false,
+   "nota": "A reportagem descreve liminar de Nunes Marques contra jingle de rádio de Lula que associava Flávio ao caso Master e à rachadinha, omitindo o arquivamento da denúncia, mas data a decisão em 26/09/2026 (a base indica 22/09), não nomeia o jingle nem informa inserções e emissoras; não é possível afirmar se é a mesma peça.",
+   "fonte": {
+    "titulo": "Nunes Marques suspende jingle de Lula que liga Flávio a Vorcaro",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/nunes-marques-suspende-jingle-de-lula-que-liga-flavio-a-vorcaro/",
+    "data": "2026-09-27",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_instituicoes"
+  },
+  {
+   "evidencia_id": "campanha-lula-06",
+   "confirma": false,
+   "nota": "A reportagem de 15/10/2026 trata de decisão de Mendonça sobre o vídeo de Lula que apresenta Flávio como defensor das milícias, mas descreve proibição de novo impulsionamento e de republicação (com base na vedação de impulsionamento de propaganda negativa), sem mencionar suspensão de peça de TV, multa de R$ 10 mil nem uso de inteligência artificial.",
+   "fonte": {
+    "titulo": "Mendonça segue Plenário e proíbe vídeo de Lula que liga Flávio a milícias",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/mendonca-segue-plenario-e-proibe-video-de-lula-que-liga-flavio-a-milicias/",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_instituicoes"
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-lula-10",
+   "confirma": false,
+   "nota": "A reportagem não trata do julgamento de 02/09, mas registra que, em 26/08/2026, o ministro André Mendonça rejeitou, por intempestividade e sem exame de mérito, pedido de um eleitor para impugnar o registro de Lula por suposto vínculo com o PCC, o que diverge da observação da base de que não houve impugnação.",
+   "fonte": {
+    "titulo": "TSE rejeita pedido de impugnação de candidatura de Lula por elo com PCC",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-rejeita-pedido-de-impugnacao-de-candidatura-de-lula-por-elo-com-pcc/",
+    "data": "2026-08-26",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   "frente": "reforco_nacional_instituicoes"
+  }
+ ],
+ "sem_evidencia": []
+}

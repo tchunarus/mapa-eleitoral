@@ -9,8 +9,8 @@
    "tipo": "DECISAO_JUDICIAL_DEFINITIVA",
    "sentido": "MISTO",
    "peso_probatorio": "ALTO",
-   "afirmacao": "Em 08/03/2021, o ministro Edson Fachin (STF), no HC 193726, declarou a incompetência da 13ª Vara Federal de Curitiba para quatro ações penais contra Lula (triplex do Guarujá, sítio de Atibaia, sede e doações do Instituto Lula) e anulou os atos decisórios, com remessa à Justiça Federal do DF. Em 14/04/2021, o Plenário do STF rejeitou, por 8 votos a 3, o agravo da PGR e confirmou a decisão. A decisão tratou de competência, sem exame do mérito das acusações.",
-   "data_fato": "2021-04-14",
+   "afirmacao": "Em 08/03/2021, o ministro Edson Fachin (STF), no HC 193726, declarou a incompetência da 13ª Vara Federal de Curitiba para quatro ações penais contra Lula (triplex do Guarujá, sítio de Atibaia, sede e doações do Instituto Lula) e anulou os atos decisórios, com remessa à Justiça Federal do DF. Em 15/04/2021, o Plenário do STF rejeitou, por 8 votos a 3, os agravos contra essa decisão e a confirmou (no dia anterior, havia fixado a própria competência para julgar o caso). A decisão tratou de competência, sem exame do mérito das acusações.",
+   "data_fato": "2021-04-15",
    "fontes": [
     {
      "titulo": "STF confirma anulação de condenações do ex-presidente Lula na Lava Jato",
@@ -366,14 +366,21 @@
    "tipo": "INVESTIGACAO_OU_DENUNCIA",
    "sentido": "CONTEXTO",
    "peso_probatorio": "MEDIO",
-   "afirmacao": "Em novembro de 2020, o MP-RJ denunciou Flávio Bolsonaro, Fabrício Queiroz e outras 15 pessoas por peculato, lavagem de dinheiro e organização criminosa, sustentando que o então deputado estadual se apropriou de parte dos salários de servidores do gabinete na Alerj e usou cerca de R$ 1 milhão, entre 2010 e 2014, em despesas pessoais e compra de imóveis.",
-   "data_fato": "2020-11",
+   "afirmacao": "Em denúncia apresentada em 19/10/2020 e divulgada em novembro, o MP-RJ acusou Flávio Bolsonaro, Fabrício Queiroz e outras 15 pessoas por peculato, lavagem de dinheiro e organização criminosa, sustentando que o então deputado estadual se apropriou de parte dos salários de servidores do gabinete na Alerj e usou cerca de R$ 1 milhão, entre 2010 e 2014, em despesas pessoais e compra de imóveis.",
+   "data_fato": "2020-10-19",
    "fontes": [
     {
      "titulo": "STJ anula quebra de sigilo bancário e fiscal de Flávio Bolsonaro no caso das 'rachadinhas'",
      "veiculo": "Diário do Nordeste (conteúdo Folhapress)",
      "url": "https://diariodonordeste.verdesmares.com.br/politica/stj-anula-quebra-de-sigilo-bancario-e-fiscal-de-flavio-bolsonaro-no-caso-das-rachadinhas-1.3051176",
      "data": "2021-02-23",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "MP denuncia Flávio Bolsonaro por esquema de rachadinha na Alerj",
+     "veiculo": "Consultor Jurídico (Conjur)",
+     "url": "https://conjur.com.br/2020-nov-04/mp-denuncia-flavio-bolsonaro-esquema-rachadinha-alerj/",
+     "data": "2020-11-04",
      "tipo_fonte": "JORNALISTICA"
     }
    ],

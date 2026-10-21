@@ -305,7 +305,7 @@
    "tipo": "DECISAO_JUDICIAL_DEFINITIVA",
    "sentido": "CONTEXTO",
    "peso_probatorio": "MEDIO",
-   "afirmacao": "O plenário virtual do TSE aprovou por unanimidade, em 02/09/2026, o registro da chapa Luiz Inácio Lula da Silva e Geraldo Alckmin (coligação de PT e PSB), relatado pelo ministro André Mendonça. As reportagens consultadas não mencionam impugnação ao registro.",
+   "afirmacao": "O plenário virtual do TSE aprovou por unanimidade, em 02/09/2026, o registro da chapa Luiz Inácio Lula da Silva e Geraldo Alckmin (coligação de PT e PSB), relatado pelo ministro André Mendonça. Antes, em 26/08/2026, o relator rejeitou, por intempestividade e sem exame de mérito, pedido de impugnação apresentado por um eleitor.",
    "data_fato": "2026-09-02",
    "fontes": [
     {
@@ -320,6 +320,13 @@
      "veiculo": "Correio da Manhã",
      "url": "https://www.correiodamanha.com.br/politica/2026/08/315354-tse-comeca-a-julgar-registros-de-lula-flavio-bolsonaro-e-zema.html",
      "data": "2026-08-31",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "TSE rejeita pedido de impugnação de candidatura de Lula por elo com PCC",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/tse-rejeita-pedido-de-impugnacao-de-candidatura-de-lula-por-elo-com-pcc/",
+     "data": "2026-08-26",
      "tipo_fonte": "JORNALISTICA"
     }
    ],

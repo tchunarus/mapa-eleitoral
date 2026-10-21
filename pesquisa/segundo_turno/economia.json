@@ -176,26 +176,33 @@
    "tipo": "DADO_OFICIAL",
    "sentido": "FAVORAVEL",
    "peso_probatorio": "ALTO",
-   "afirmacao": "A PNAD Contínua registrou desocupação de 5,4% no trimestre encerrado em janeiro de 2026, a menor da série comparável iniciada em 2012, igualando o trimestre agosto-outubro de 2025.",
-   "data_fato": "2026-03-05",
+   "afirmacao": "A PNAD Contínua registrou desocupação de 5,1% no trimestre encerrado em dezembro de 2025, a menor da série iniciada em 2012, e taxa média de 5,6% em 2025, ante 6,6% em 2024. No trimestre encerrado em março de 2026, a taxa subiu para 6,1%, movimento sazonal habitual no início do ano.",
+   "data_fato": "2025-12",
    "fontes": [
     {
-     "titulo": "Desemprego fica em 5,4% no trimestre encerrado em janeiro de 2026 (Agência Brasil)",
-     "veiculo": "CUT (reprodução da Agência Brasil)",
-     "url": "https://www.cut.org.br/noticias/desemprego-fica-em-5-4-no-trimestre-encerrado-em-janeiro-de-2026-9a19/amp",
-     "data": "2026-03-05",
-     "tipo_fonte": "JORNALISTICA"
+     "titulo": "Desocupação cai para 5,1% em dezembro, e 2025 tem melhores resultados da série histórica",
+     "veiculo": "IBGE, Agência de Notícias",
+     "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/45761-desocupacao-cai-para-5-1-em-dezembro-e-2025-tem-melhores-resultados-da-serie-historica",
+     "data": "2026-01-30",
+     "tipo_fonte": "PRIMARIA"
     },
     {
-     "titulo": "Fitch mantém nota BB para o Brasil, estável, porém longe do grau de investimento",
-     "veiculo": "Forbes Brasil",
-     "url": "https://forbes.com.br/forbes-money/2026/06/fitch-mantem-nota-bb-para-o-brasil-estavel-porem-longe-do-grau-de-investimento/",
-     "data": "2026-06-16",
+     "titulo": "PNAD Contínua: taxa de desocupação é de 6,1% e taxa de subutilização é de 14,3% no trimestre encerrado em março",
+     "veiculo": "IBGE, Agência de Notícias",
+     "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46502-pnad-continua-taxa-de-desocupacao-e-de-6-1-e-taxa-de-subutilizacao-e-de-14-3-no-trimestre-encerrado-em-marco",
+     "data": "2026-04",
+     "tipo_fonte": "PRIMARIA"
+    },
+    {
+     "titulo": "Desemprego cai para 5,1% no tri até dezembro, recorde da série histórica",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/desemprego-cai-para-51-no-trimestre-ate-dezembro-mostra-ibge/",
+     "data": "2026-01-30",
      "tipo_fonte": "JORNALISTICA"
     }
    ],
    "contraponto": "O Copom, em setembro de 2026, descreveu o mercado de trabalho como aquecido, o que também pressiona a inflação de serviços.",
-   "limitacoes": "O release oficial do IBGE não foi aberto diretamente; a taxa do 1º trimestre de 2026 subiu para 6,1% por sazonalidade, segundo a imprensa."
+   "limitacoes": "O dado mais recente da série não foi conferido diretamente no IBGE nesta revisão; a taxa varia sazonalmente ao longo do ano."
   },
   {
    "id": "economia-lula-08",

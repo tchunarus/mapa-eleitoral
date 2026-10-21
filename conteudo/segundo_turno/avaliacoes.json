@@ -35,7 +35,7 @@
   "candidato": "lula",
   "nota": 6.5,
   "suficiencia": "ALTA",
-  "justificativa": "Os dados oficiais registram crescimento contínuo desde 2023, desemprego no menor nível da série e, nos dois primeiros mandatos, crescimento elevado e grau de investimento. Em sentido contrário, a dívida bruta subiu de 71,7% para 82,9% do PIB, a inflação está acima do teto da meta, as metas fiscais foram rebaixadas e só cumpridas com exclusões legais, e, no Focus de 19/10, o mercado projeta inflação de 5,22% em 2026 e déficit primário maior; a IFI e o FMI apontam necessidade de ajuste estrutural e dívida crescente sem novas medidas. Fica entre as faixas 5-6 e 7-8: resultados econômicos positivos com risco fiscal relevante e documentado.",
+  "justificativa": "Os dados oficiais registram crescimento contínuo desde 2023, desemprego no menor nível da série (5,1% no trimestre encerrado em dezembro de 2025) e, nos dois primeiros mandatos, crescimento elevado e grau de investimento. Em sentido contrário, a dívida bruta subiu de 71,7% para 82,9% do PIB, a inflação está acima do teto da meta, as metas fiscais foram rebaixadas e só cumpridas com exclusões legais, e, no Focus de 19/10, o mercado projeta inflação de 5,22% em 2026 e déficit primário maior; a IFI e o FMI apontam necessidade de ajuste estrutural e dívida crescente sem novas medidas. Fica entre as faixas 5-6 e 7-8: resultados econômicos positivos com risco fiscal relevante e documentado.",
   "evidencias": [
    "economia-lula-01",
    "economia-lula-02",
@@ -68,7 +68,8 @@
    "economia-flavio-06",
    "economia-flavio-07",
    "economia-flavio-08",
-   "economia-flavio-16"
+   "economia-flavio-16",
+   "reforco-nacional_economia-flavio-01"
   ],
   "limitacoes": "A nota avalia posições e votos, não gestão; por isso a suficiência é parcial."
  },
@@ -111,7 +112,8 @@
    "propostas-flavio-12",
    "economia-flavio-11",
    "atualizacao-campanha-flavio-04",
-   "atualizacao-campanha-flavio-05"
+   "atualizacao-campanha-flavio-05",
+   "reforco-nacional_economia-flavio-02"
   ],
   "limitacoes": "Não foram encontradas avaliações favoráveis assinadas para nenhum dos dois planos; a seleção cobre 18 propostas."
  },
@@ -164,7 +166,7 @@
   "candidato": "lula",
   "nota": 7,
   "suficiencia": "ALTA",
-  "justificativa": "Vetou a redução de penas dos condenados pelo 8 de janeiro, reconheceu o resultado do 1º turno e declarou que aceitará eventual derrota. Em sentido contrário, o TSE suspendeu liminarmente ao menos quatro peças de sua campanha por associarem o adversário a crimes sem base fática mínima, determinou a remoção de vídeos de seu perfil; há ainda declarações sobre regulação das redes e reforma do Judiciário que dividem avaliações. Em 21/10, o TSE suspendeu mais uma peça de sua campanha. O Itamaraty repudiou como ingerência externa os ataques de Javier Milei às urnas brasileiras. Faixa 7-8, no limite inferior.",
+  "justificativa": "Vetou a redução de penas dos condenados pelo 8 de janeiro, reconheceu o resultado do 1º turno e declarou que aceitará eventual derrota. Em sentido contrário, o TSE suspendeu liminarmente ao menos seis peças de sua campanha por associarem o adversário a crimes sem base fática mínima, determinou a remoção de vídeos de seu perfil; há ainda declarações sobre regulação das redes e reforma do Judiciário que dividem avaliações. Em 21/10, o TSE suspendeu mais uma peça de sua campanha. O Itamaraty repudiou como ingerência externa os ataques de Javier Milei às urnas brasileiras. Faixa 7-8, no limite inferior.",
   "evidencias": [
    "democracia-lula-01",
    "democracia-lula-03",
@@ -179,7 +181,9 @@
    "campanha-lula-06",
    "democracia-lula-18",
    "atualizacao-campanha-lula-08",
-   "atualizacao-fatos-lula-06"
+   "atualizacao-fatos-lula-06",
+   "reforco-nacional_instituicoes-lula-01",
+   "reforco-nacional_instituicoes-lula-02"
   ],
   "limitacoes": "As decisões do TSE sobre propaganda são liminares; a posição sobre a Venezuela é tratada no critério de coerência."
  },
@@ -188,7 +192,7 @@
   "candidato": "flavio",
   "nota": 4,
   "suficiencia": "ALTA",
-  "justificativa": "Declarou que aceitará o resultado e reconheceu o 1º turno. Em sentido contrário, chamou de farsa o julgamento do pai e de ditador um ministro do STF; agradeceu publicamente a Trump no dia do anúncio das tarifas contra o Brasil e pediu a aplicação da Lei Magnitsky, depois imposta a um ministro do STF; defende anistia aos condenados pela trama golpista e pelo 8 de janeiro; associou as urnas a empresa estrangeira (o TSE desmentiu e ele depois reconheceu o erro); e falou em usar a maioria no Congresso para mudar a Constituição e redemocratizar o país, esclarecendo no dia seguinte que se referia a emendas constitucionais. O TSE também mandou remover publicação falsa de seu perfil, suspendeu inserções de sua chapa e, em 19/10, determinou o bloqueio do impulsionamento pago de aliados em ação da coligação adversária; em sentido inverso, negou pedido para suspender propaganda sua sobre indicadores do governo. Faixa 3-4: propostas concretas que reduzem a responsabilização por ataques às instituições.",
+  "justificativa": "Declarou que aceitará o resultado e reconheceu o 1º turno. Em sentido contrário, chamou de farsa o julgamento do pai e de ditador um ministro do STF; agradeceu publicamente a Trump no dia do anúncio das tarifas contra o Brasil e pediu a aplicação da Lei Magnitsky, depois imposta a um ministro do STF; defende anistia aos condenados pela trama golpista e pelo 8 de janeiro; associou as urnas a empresa estrangeira (o TSE desmentiu e ele depois reconheceu o erro); e falou em usar a maioria no Congresso para mudar a Constituição e redemocratizar o país, esclarecendo no dia seguinte que se referia a emendas constitucionais. O TSE também mandou excluir publicações suas que associavam Lula a facções criminosas sem base factual, remover vídeos de seu perfil, multou-o por impulsionar propaganda negativa, suspendeu inserções de sua chapa e, em 19/10, determinou o bloqueio do impulsionamento pago de aliados em ação da coligação adversária; em sentido inverso, negou pedido para suspender propaganda sua sobre indicadores do governo. Faixa 3-4: propostas concretas que reduzem a responsabilização por ataques às instituições.",
   "evidencias": [
    "democracia-flavio-02",
    "democracia-flavio-03",
@@ -206,7 +210,10 @@
    "campanha-flavio-06",
    "atualizacao-campanha-flavio-09",
    "atualizacao-campanha-flavio-10",
-   "atualizacao-fatos-flavio-04"
+   "atualizacao-fatos-flavio-04",
+   "reforco-nacional_instituicoes-flavio-01",
+   "reforco-nacional_instituicoes-flavio-02",
+   "reforco-nacional_instituicoes-flavio-04"
   ],
   "limitacoes": "Anistia e reforma do Judiciário são, formalmente, matérias que o Congresso pode votar; a nota pondera o objeto dessas propostas, o que envolve juízo de valor sinalizado na natureza do critério."
  },
@@ -255,7 +262,7 @@
   "candidato": "lula",
   "nota": 7,
   "suficiencia": "ALTA",
-  "justificativa": "Dados oficiais registram queda da pobreza e da extrema pobreza aos menores níveis da série, desigualdade no menor patamar em 2024 e queda do desmatamento na Amazônia em 2023, 2024 e 2025, com efeito das transferências de renda documentado pelo IBGE e pelo Ipea. Em sentido contrário, as novas medidas têm custo fiscal estimado relevante, a licença na Foz do Amazonas foi concedida após pressão do presidente e os efeitos da redução de jornada são controversos. Faixa 7-8.",
+  "justificativa": "Dados oficiais registram queda da pobreza e da extrema pobreza aos menores níveis da série, desigualdade no menor patamar em 2024 e queda do desmatamento na Amazônia em 2023, 2024 e 2025, até 3.335 km² entre agosto de 2025 e julho de 2026, menor área desde o início da série do Prodes, em 1988, com efeito das transferências de renda documentado pelo IBGE e pelo Ipea. Em sentido contrário, as novas medidas têm custo fiscal estimado relevante, a licença na Foz do Amazonas foi concedida após pressão do presidente e os efeitos da redução de jornada são controversos. Faixa 7-8.",
   "evidencias": [
    "economia-lula-22",
    "economia-lula-23",
@@ -266,7 +273,8 @@
    "propostas-lula-04",
    "propostas-lula-05",
    "propostas-lula-09",
-   "propostas-lula-10"
+   "propostas-lula-10",
+   "reforco-internacional-lula-10"
   ],
   "limitacoes": "Critério com forte componente valorativo: o peso relativo de redução da pobreza, desmatamento e risco fiscal depende das prioridades de cada pessoa."
  },

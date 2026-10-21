@@ -1,0 +1,912 @@
+{
+ "frente": "nacional_economia",
+ "reforcos": [
+  {
+   "evidencia_id": "economia-lula-10",
+   "confirma": true,
+   "nota": "Confirma 82,9% do PIB e R$ 11,1 trilhões em agosto de 2026 (relatório Estatísticas Fiscais do BC); a matéria não traz a comparação com 2021 nem a dívida líquida.",
+   "fonte": {
+    "titulo": "BC: Dívida bruta do governo geral avança para 82,9% do PIB em agosto",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-divida-bruta-do-governo-geral-avanca-para-829-do-pib-em-agosto/",
+    "data": "2026-09-30",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-08",
+   "confirma": true,
+   "nota": "Confirma IPCA de 0,82% em setembro e 4,58% em 12 meses; a matéria não trata da projeção do FMI.",
+   "fonte": {
+    "titulo": "IPCA: inflação sobe 0,82% em setembro, acima do esperado",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/economia/ipca-inflacao-setembro-2026-dados-ibge/",
+    "data": "2026-10-09",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-09",
+   "confirma": true,
+   "nota": "Confirma corte de 14% para 13,75%, decisão unânime e quinto corte consecutivo.",
+   "fonte": {
+    "titulo": "BC corta Selic em 0,25 ponto, para 13,75% ao ano, e deixa próximos passos em aberto",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-16092026/",
+    "data": "2026-09-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-09",
+   "confirma": true,
+   "nota": "Confirma a Selic em 13,75% e o quinto corte seguido; a matéria não informa se a decisão foi unânime.",
+   "fonte": {
+    "titulo": "BC corta a Selic pela 5ª vez seguida e taxa de juros no Brasil cai para 13,75%",
+    "veiculo": "Exame",
+    "url": "https://exame.com/economia/bc-corta-a-selic-pela-5a-vez-seguida-e-taxa-de-juros-no-brasil-cai-para-1375/",
+    "data": "2026-09-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-06",
+   "confirma": true,
+   "nota": "Confirma crescimento de 2,3% em 2025 e 3,4% em 2024; a matéria não trata do dado revisado de 2023 nem da sequência de cinco anos.",
+   "fonte": {
+    "titulo": "Com desempenho do agro, economia brasileira cresce 2,3% em 2025, diz IBGE",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/economia-brasileira-cresce-23-em-2025-diz-ibge/",
+    "data": "2026-03-03",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-07",
+   "confirma": true,
+   "nota": "Confirma 5,4% no trimestre encerrado em janeiro de 2026, igualando o trimestre agosto-outubro de 2025, menor da série comparável iniciada em 2012.",
+   "fonte": {
+    "titulo": "Taxa de desemprego fica em 5,4% no trimestre encerrado em janeiro, diz IBGE",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/taxa-de-desemprego-fica-em-54-no-trimestre-encerrado-em-janeiro-diz-ibge/",
+    "data": "2026-03-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-12",
+   "confirma": true,
+   "nota": "Confirma o cumprimento formal da meta de 2025 (0,10% do PIB após deduções, dentro da tolerância); a CNN registra déficit total de R$ 61,6 bilhões e exclusões de R$ 48,6 bilhões, diferença de arredondamento em relação aos R$ 61,7 e R$ 48,7 bilhões da base.",
+   "fonte": {
+    "titulo": "Tesouro: déficit primário após deduções é de 0,1%, acima do limite inferior da meta",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/tesouro-deficit-primario-apos-deducoes-e-de-010-do-pib-acima-do-limite-inferior-da-meta/",
+    "data": "2026-01-29",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-13",
+   "confirma": false,
+   "nota": "Com dados da IFI, a CNN registra exceções aos limites de gastos de R$ 147,7 bilhões em 2024-2026 e R$ 389,0 bilhões em 2023-2026, medida diferente da soma de mais de R$ 170 bilhões em exclusões da meta citada na base; a matéria não traz a avaliação da IFI sobre ancoragem de expectativas.",
+   "fonte": {
+    "titulo": "Governo Lula deve fechar 2026 com R$ 148 bi fora do limite fiscal, diz IFI",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-lula-deve-fechar-2026-com-r-148-bi-fora-do-limite-fiscal-diz-ifi/",
+    "data": "2025-12-08",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-16",
+   "confirma": true,
+   "nota": "Confirma que a Moody's manteve a nota Ba1 e reduziu a perspectiva de positiva para estável em 30/05/2025, citando capacidade de pagamento da dívida, reformas lentas e rigidez de gastos; a análise não trata das decisões de Fitch e S&P de 2023.",
+   "fonte": {
+    "titulo": "Análise: Redução da perspectiva de rating do Brasil é recado para governo",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/analise-reducao-da-perspectiva-de-rating-do-brasil-e-recado-para-governo/",
+    "data": "2025-05-31",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-17",
+   "confirma": true,
+   "nota": "Confirma fechamento recorde a R$ 6,267 em 18/12/2024 e leilões extraordinários do BC; a matéria não trata do anúncio do pacote de 27/11/2024.",
+   "fonte": {
+    "titulo": "Dólar dispara e fecha a R$ 6,26, nova máxima histórica; bolsa cai mais de 3%",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/mercado/mercado-hoje-ibovespa-dolar-18-dezembro-2024/",
+    "data": "2024-12-18",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-18",
+   "confirma": true,
+   "nota": "Confirma fechamento recorde de 209.066,90 pontos e dólar a R$ 4,985 em 09/10/2026, associados a pesquisas com Flávio à frente; a matéria não trata da avaliação da Fitch.",
+   "fonte": {
+    "titulo": "Ibovespa tem nova alta forte e renova máxima histórica; dólar cai a R$ 4,98",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09102026/",
+    "data": "2026-10-09",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-19",
+   "confirma": true,
+   "nota": "Confirma a sanção em 26/11/2025, a isenção até R$ 5 mil, a redução parcial até R$ 7.350 e a compensação sobre rendas acima de R$ 600 mil por ano; a matéria não informa a alíquota mínima nem o número da lei.",
+   "fonte": {
+    "titulo": "Lula sanciona isenção do IR para quem ganha até R$ 5 mil",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/lula-sanciona-isencao-do-ir-para-quem-ganha-ate-r-5-mil/",
+    "data": "2025-11-26",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-20",
+   "confirma": true,
+   "nota": "Confirma que Lula disse no Jornal Nacional de 27/08/2026 ter herdado déficit de 2,8% e que Flávio contestou a afirmação no TSE, sustentando que 2022 fechou com superávit; a matéria não traz decisão do TSE.",
+   "fonte": {
+    "titulo": "Flávio pede direito de resposta ao TSE por fala de Lula no Jornal Nacional",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/flavio-pede-direito-de-resposta-ao-tse-por-fala-de-lula-no-jornal-nacional/",
+    "data": "2026-08-28",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-22",
+   "confirma": true,
+   "nota": "Confirma a queda da pobreza de 27,3% para 23,1% e da extrema pobreza de 4,4% para 3,5% entre 2023 e 2024, menores patamares da série iniciada em 2012.",
+   "fonte": {
+    "titulo": "IBGE: Em um ano, 8,6 mi de brasileiros deixaram a pobreza, e 1,9 mi saíram da miséria",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/economia/ibge-em-um-ano-86-mi-de-brasileiros-deixaram-a-pobreza-e-19-mi-sairam-da-miseria/",
+    "data": "2025-12-03",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-23",
+   "confirma": true,
+   "nota": "Confirma Gini de 0,504 em 2024, 0,511 em 2025 e 0,543 em 2019, renda per capita recorde de R$ 2.264 e crescimento maior do topo que da base em 2025.",
+   "fonte": {
+    "titulo": "IBGE: Renda per capita tem recorde em 2025, mas ganho dos ricos eleva desigualdade",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/economia/ibge-renda-per-capita-tem-recorde-em-2025-mas-ganho-dos-ricos-eleva-desigualdade/",
+    "data": "2026-05-08",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-27",
+   "confirma": true,
+   "nota": "Confirma 5.796 km² desmatados em 2025 pelo Prodes, queda de 11,08% e menor taxa em 11 anos; a matéria não classifica o dado como estimativa ou consolidado.",
+   "fonte": {
+    "titulo": "Desmatamento na Amazônia cai 11,08% em 2025, menor taxa em 11 anos",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/df/desmatamento-na-amazonia-cai-1108-em-2025-menor-taxa-em-11-anos/",
+    "data": "2026-02-12",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-28",
+   "confirma": true,
+   "nota": "Confirma a licença do Ibama para o poço no bloco FZA-M-059, com 29 condicionantes, recebida na segunda-feira anterior à publicação (20/10/2025); a matéria não trata da pressão de Lula sobre o órgão nem da judicialização.",
+   "fonte": {
+    "titulo": "Petrobras precisará cumprir 29 condições específicas para perfurar Foz do Amazonas",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/mercados/petrobras-precisara-cumprir-29-condicoes-especificas-para-perfurar-foz-do-amazonas/",
+    "data": "2025-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-29",
+   "confirma": true,
+   "nota": "Confirma a derrubada de 52 vetos em 27/11/2025, com placares de 52 a 15 no Senado e 295 a 167 na Câmara, e registra 63 trechos vetados segundo o governo (59 no sistema do Congresso).",
+   "fonte": {
+    "titulo": "Congresso derruba vetos do licenciamento e retoma licença autodeclaratória",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/congresso-derruba-vetos-do-licenciamento-e-retoma-licenca-autodeclaratoria/",
+    "data": "2025-11-27",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-lula-05",
+   "confirma": true,
+   "nota": "Confirma a aprovação no Senado em 15/10/2026 por 78 votos e os tetos de R$ 110 mil (2027) e R$ 140 mil (2028); a matéria não traz o placar da Câmara e trata a sanção como pendente.",
+   "fonte": {
+    "titulo": "Senado aprova aumento do teto do MEI e perdão de dívidas: veja quando começa a valer",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/senado-aprova-aumento-do-teto-do-mei-e-perdao-de-dividas-veja-quando-comeca-a-valer/",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-lula-07",
+   "confirma": true,
+   "nota": "Confirma IPCA 2026 em 5,22%, IPCA 2027 de 4,30% para 4,32%, PIB 2027 de 1,40% para 1,32% e PIB 2026 em 1,83%.",
+   "fonte": {
+    "titulo": "Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-19102026/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-lula-04",
+   "confirma": false,
+   "nota": "A CNN divulga cálculo da IFI de R$ 298,4 bilhões mobilizados em 2026 (R$ 185,7 bilhões em crédito subsidiado, R$ 63,2 bilhões em despesas primárias, R$ 30,6 bilhões em renúncia), levantamento distinto dos R$ 290 bilhões da Folhapress para 2026 e 2027; não traz a estimativa de 1,2 p.p. na dívida.",
+   "fonte": {
+    "titulo": "\"Pacote de bondades\" de Lula soma quase R$ 300 bi às vésperas do 2º turno",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-de-bondades-de-lula-soma-quase-r-290-bi-as-vesperas-do-2o-turno/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-lula-04",
+   "confirma": false,
+   "nota": "O InfoMoney registra o mesmo cálculo da IFI (R$ 298,4 bilhões em 2026, dos quais R$ 93,8 bilhões de impacto primário), com metodologia e valores diferentes dos da Folhapress citados na base.",
+   "fonte": {
+    "titulo": "Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/com-eleicoes-beneficios-anunciados-por-lula-ja-mobilizam-r-300-bilhoes-em-2026/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-lula-06",
+   "confirma": true,
+   "nota": "Confirma o anúncio, em vídeo nas redes em 15/10/2026, de PEC de passe livre aos fins de semana custeada por emendas; quanto ao custo, a matéria cita apenas cálculos preliminares que poderiam superar R$ 80 bilhões, diferentes da faixa de R$ 5 a 6 bilhões da base.",
+   "fonte": {
+    "titulo": "A dez dias da eleição, Lula propõe tarifa zero no transporte público",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/a-dez-dias-da-eleicao-lula-propoe-tarifa-zero-no-transporte-publico/",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-lula-08",
+   "confirma": true,
+   "nota": "Confirma a aprovação no Senado em 14/10/2026 por 75 a 1 e a transição para 42 horas em 60 dias e 40 horas 12 meses depois.",
+   "fonte": {
+    "titulo": "Senado aprova fim da escala 6x1",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/senado-aprova-fim-da-escala-6x1/",
+    "data": "2026-10-14",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-lula-08",
+   "confirma": true,
+   "nota": "Confirma a promulgação pelo Congresso em 16/10/2026.",
+   "fonte": {
+    "titulo": "Congresso promulga PEC que acaba com a escala 6x1; acompanhe ao vivo",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/congresso-promulga-pec-que-acaba-com-a-escala-6x1/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-lula-02",
+   "confirma": false,
+   "nota": "O InfoMoney atribui ao lado de Lula a meta de superávit primário de 1,3% do PIB até 2030, seguindo a trajetória da LDO, o que relativiza a ausência de metas numéricas; a própria matéria ressalva que as alternativas não são propostas definitivas e não traz valores de corte.",
+   "fonte": {
+    "titulo": "Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos?",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/propostas-lula-flavio-ajuste-fiscal/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-lula-10",
+   "confirma": true,
+   "nota": "Confirma apenas a parte do TCU: em 12/02/2025 o tribunal deu 120 dias para o governo tomar providências para incluir o programa no Orçamento; a matéria não trata do estudo do Insper.",
+   "fonte": {
+    "titulo": "TCU dá 120 dias para governo tomar providências para incluir Pé-de-Meia no Orçamento",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/tcu-da-120-dias-para-governo-tomar-providencias-para-incluir-pe-de-meia-no-orcamento/",
+    "data": "2025-02-12",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-lula-09",
+   "confirma": true,
+   "nota": "Confirma a estimativa empresarial (CNI: R$ 178,2 a R$ 267,2 bilhões por ano, cerca de 7% da folha); texto do Estadão Conteúdo, que não menciona o estudo do Ipea.",
+   "fonte": {
+    "titulo": "CNI: Redução de jornada a 40h elevaria custo na economia em até R$ 267,2 bi por ano",
+    "veiculo": "InfoMoney (Estadão Conteúdo)",
+    "url": "https://www.infomoney.com.br/politica/cni-reducao-de-jornada-a-40h-elevaria-custo-na-economia-em-ate-r-2672-bi-por-ano/",
+    "data": "2026-02-23",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-lula-11",
+   "confirma": true,
+   "nota": "Confirma a rejeição por 42 a 34 em 29/04/2026 e a primeira rejeição de indicado ao STF desde 1894.",
+   "fonte": {
+    "titulo": "Senado rejeita Messias e impõe derrota histórica do governo Lula",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/senado-rejeita-messias-e-impoe-derrota-historica-do-governo-lula/",
+    "data": "2026-04-29",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-lula-11",
+   "confirma": true,
+   "nota": "Confirma o placar de 42 a 34; a matéria não menciona o marco de 1894.",
+   "fonte": {
+    "titulo": "Por 42 votos a 34, Jorge Messias é rejeitado pelo Senado para ocupar vaga no STF",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/jorge-messias-e-rejeitado-pelo-senado-para-ocupar-vaga-no-stf/",
+    "data": "2026-04-29",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-lula-12",
+   "confirma": true,
+   "nota": "Confirma a derrubada dos decretos do IOF na Câmara por 383 a 98 em 25/06/2025.",
+   "fonte": {
+    "titulo": "Em derrota para governo, Câmara derruba aumento do IOF; Senado ainda votará",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/com-plenario-esvaziado-camara-aprova-derrubar-alta-do-iof/",
+    "data": "2025-06-25",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-lula-12",
+   "confirma": true,
+   "nota": "Confirma a retirada de pauta da MP 1.303 por 251 a 193 em 08/10/2025 e sua caducidade.",
+   "fonte": {
+    "titulo": "Câmara aprova retirada de MP da pauta por 251 a 193; veja como votou cada deputado",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/camara-aprova-retirada-de-mp-da-pauta-por-251-a-193-veja-como-votou-cada-deputado/",
+    "data": "2025-10-08",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-lula-05",
+   "confirma": false,
+   "nota": "A CNN informa sanção e publicação no DOU em 31/08/2023, enquanto a base, com base na legislação oficial, data a LC 200 de 30/08/2023 com publicação em 31/08/2023.",
+   "fonte": {
+    "titulo": "Lula sanciona novo marco fiscal e veta dois trechos",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/lula-sanciona-novo-marco-fiscal-e-veta-dois-trechos/",
+    "data": "2023-08-31",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-lula-09",
+   "confirma": true,
+   "nota": "Confirma 88 deputados da federação PT-PCdoB-PV (70 do PT), segunda bancada atrás do PL (121), e União-PP 87, PSD 43, Republicanos 41 e MDB 36; não trata do Senado.",
+   "fonte": {
+    "titulo": "PL amplia bancada e terá 121 deputados; veja a nova composição da Câmara",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/pl-amplia-bancada-e-tera-121-deputados-veja-a-nova-composicao-da-camara/",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-lula-16",
+   "confirma": true,
+   "nota": "Confirma os cinco governadores eleitos que apoiam Lula, todos do Nordeste (BA, CE, PB, PI e SE).",
+   "fonte": {
+    "titulo": "Flávio tem apoio de 12 governadores eleitos; Lula reúne cinco para o 2º turno",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/flavio-tem-apoio-de-12-governadores-eleitos-lula-reune-cinco-para-o-2o-turno/",
+    "data": "2026-10-14",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-lula-15",
+   "confirma": true,
+   "nota": "Confirma os dez diretórios do MDB que apoiam Lula (AM, AL, BA, CE, MA, PA, PE, PI, PB e RO).",
+   "fonte": {
+    "titulo": "MDB se divide sobre 2º turno: 17 diretórios apoiam Flávio, 10 respaldam Lula",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/mdb-se-divide-sobre-2o-turno-ao-menos-17-diretorios-apoiam-flavio-10-respaldam-lula/",
+    "data": "2026-10-13",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-10",
+   "confirma": true,
+   "nota": "Confirma o corte de despesas de 1,5% do PIB, o conselho de governança fiscal e a securitização da dívida ativa; a matéria não informa o valor em reais do corte.",
+   "fonte": {
+    "titulo": "Cotada para vice, Daniella Marques detalha plano de Flávio com corte de 1,5% do PIB",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/cotada-para-vice-daniella-marques-detalha-plano-de-flavio-com-corte-de-15-do-pib/",
+    "data": "2026-08-03",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-flavio-03",
+   "confirma": true,
+   "nota": "Confirma a entrevista à GloboNews em 03/08/2026, o corte de 1,5% do PIB e a estimativa de R$ 200 a 400 bilhões com securitização da dívida ativa; a matéria não informa o valor de R$ 190 bilhões.",
+   "fonte": {
+    "titulo": "Cotada para vice, Daniella Marques detalha plano de Flávio com corte de 1,5% do PIB",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/cotada-para-vice-daniella-marques-detalha-plano-de-flavio-com-corte-de-15-do-pib/",
+    "data": "2026-08-03",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-04",
+   "confirma": true,
+   "nota": "Confirma o voto contrário de Flávio na votação de plenário que aprovou a PEC por 53 a 24 em dois turnos; a lista não trata da CCJ.",
+   "fonte": {
+    "titulo": "Reforma Tributária: veja como votou cada senador",
+    "veiculo": "Exame",
+    "url": "https://exame.com/economia/reforma-tributaria-veja-como-votou-cada-senador/",
+    "data": "2023-11-09",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-04",
+   "confirma": true,
+   "nota": "Confirma o voto contrário, a justificativa de aumento excessivo da carga e a promessa de nova regulamentação; texto do Estadão Conteúdo, sem percentual alternativo de IVA.",
+   "fonte": {
+    "titulo": "Flávio votou contra reforma tributária, mas promete enviar nova regulamentação",
+    "veiculo": "InfoMoney (Estadão Conteúdo)",
+    "url": "https://www.infomoney.com.br/politica/flavio-votou-contra-reforma-tributaria-mas-promete-enviar-nova-regulamentacao/",
+    "data": "2026-08-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-02",
+   "confirma": true,
+   "nota": "Confirma a data e os placares (64 a 16 e 64 a 13); a matéria não traz a votação nominal, de modo que o voto de Flávio segue sustentado só pelas fontes já existentes.",
+   "fonte": {
+    "titulo": "Senado aprova texto-base da PEC da Transição em dois turnos; texto vai à Câmara",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/senado-aprova-pec-da-transicao-texto-alarga-teto-de-gastos-em-r-145-bilhoes-por-2-anos/",
+    "data": "2022-12-07",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-03",
+   "confirma": true,
+   "nota": "Confirma a data e o placar de 57 a 17; a matéria não traz a votação nominal, de modo que o voto de Flávio segue sustentado só pelas fontes já existentes.",
+   "fonte": {
+    "titulo": "Senado aprova texto-base do novo arcabouço fiscal por 57 votos a 17; projeto precisará voltar à Câmara",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/senado-aprova-texto-base-do-novo-arcabouco-fiscal-por-57-votos-a-17-projeto-precisara-voltar-a-camara/",
+    "data": "2023-06-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-06",
+   "confirma": true,
+   "nota": "Confirma a aprovação em 02/12/2021 (61 a 10 no 2º turno) e o espaço fiscal para o Auxílio Brasil; a matéria não traz a votação nominal.",
+   "fonte": {
+    "titulo": "PEC dos Precatórios é aprovada em dois turnos pelo Senado; texto retorna à Câmara",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/senado-aprova-texto-base-da-pec-dos-precatorios-em-primeiro-turno/",
+    "data": "2021-12-02",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-07",
+   "confirma": true,
+   "nota": "Confirma regra fiscal com gatilho ligado à dívida bruta, com parâmetros não definidos (cenário hipotético de gasto real zero acima de 80% do PIB); texto da Reuters com fontes anônimas, sem a fala sobre governo gastador nem a Margem Equatorial.",
+   "fonte": {
+    "titulo": "Flávio prepara regra fiscal com aperto maior de gastos em caso de dívida alta",
+    "veiculo": "InfoMoney (Reuters)",
+    "url": "https://www.infomoney.com.br/politica/campanha-de-flavio-prepara-regra-com-aperto-maior-de-gastos-em-caso-de-divida-alta/",
+    "data": "2026-08-11",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-08",
+   "confirma": true,
+   "nota": "Confirma o anúncio de sete nomes em 21/08/2026, Daniella Marques como coordenadora econômica e Sachsida no grupo (não como coordenador), sem ministro da Fazenda anunciado.",
+   "fonte": {
+    "titulo": "Campanha de Flávio Bolsonaro anuncia sete novos integrantes da área econômica",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/campanha-de-flavio-bolsonaro-anuncia-sete-novos-integrantes-da-area-economica/",
+    "data": "2026-08-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-09",
+   "confirma": true,
+   "nota": "Confirma extinção de ao menos dez ministérios, nova regra fiscal referida à dívida/PIB, desestatizações e revisão de tributos; a matéria não trata dos R$ 900 bilhões em infraestrutura nem da revogação de normas.",
+   "fonte": {
+    "titulo": "Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos?",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/propostas-lula-flavio-ajuste-fiscal/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-09",
+   "confirma": true,
+   "nota": "Confirma a promessa de enxugar ao menos dez ministérios e a PEC fiscal na transição (fala de Daniella Marques em 25/08/2026); não trata de infraestrutura nem de desestatizações.",
+   "fonte": {
+    "titulo": "Menos ministérios e corte de gastos: qual o plano de Flávio Bolsonaro na economia",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/enxugamento-de-ministerios-e-de-gastos-publicos-ditam-planos-economicos-de-flavio-bolsonaro/",
+    "data": "2026-08-29",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-13",
+   "confirma": true,
+   "nota": "Confirma o recorde de 209.066,90 pontos e o dólar abaixo de R$ 5 em 09/10/2026, com queda dos DIs, após pesquisas com Flávio à frente; não trata da Fitch.",
+   "fonte": {
+    "titulo": "Ibovespa tem nova alta forte e renova máxima histórica; dólar cai a R$ 4,98",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09102026/",
+    "data": "2026-10-09",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-17",
+   "confirma": true,
+   "nota": "Confirma o pedido de direito de resposta ao TSE com a alegação de PIB de 4,8% em 2021 e superávit em 2022; não traz decisão do TSE.",
+   "fonte": {
+    "titulo": "Flávio pede direito de resposta ao TSE por fala de Lula no Jornal Nacional",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/flavio-pede-direito-de-resposta-ao-tse-por-fala-de-lula-no-jornal-nacional/",
+    "data": "2026-08-28",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-18",
+   "confirma": true,
+   "nota": "Confirma a declaração de 15/06/2026, no fórum Rumos do Brasil da Veja, de que o Bolsa Família é direito adquirido, e a intenção de ampliar a permanência após emprego formal ou abertura de empresa; não trata da fala de Sachsida.",
+   "fonte": {
+    "titulo": "Bolsa Família é um 'direito adquirido', diz Flávio Bolsonaro",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/bolsa-familia-e-um-direito-adquirido-diz-flavio-bolsonaro/",
+    "data": "2026-06-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-19",
+   "confirma": true,
+   "nota": "Confirma a aprovação do PL 2.159/2021 por 54 a 13 em 21/05/2025; a matéria não informa o voto de Flávio nem trata das emendas à MP 1.308/2025.",
+   "fonte": {
+    "titulo": "Novas regras sobre licenciamento ambiental: veja como votou cada senador",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/novas-regras-sobre-licenciamento-ambiental-veja-como-votou-cada-senador/",
+    "data": "2025-05-22",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-flavio-06",
+   "confirma": true,
+   "nota": "Confirma que, na sabatina da TV Globo de 16/10/2026, Flávio prometeu reajuste do mínimo acima da inflação e não desvincular aposentadorias do piso.",
+   "fonte": {
+    "titulo": "Flávio defende aumento real do salário mínimo e não revisar escala 6x1",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-defende-aumento-real-do-salario-minimo-e-nao-revisar-escala-6x1/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-flavio-06",
+   "confirma": true,
+   "nota": "Confirma os mesmos compromissos e acrescenta o de não alterar os pisos de saúde e educação; texto do Estadão Conteúdo.",
+   "fonte": {
+    "titulo": "Flávio diz que não vai desvincular reajuste do mínimo e nem alterar pisos de saúde",
+    "veiculo": "InfoMoney (Estadão Conteúdo)",
+    "url": "https://www.infomoney.com.br/politica/flavio-diz-que-nao-vai-desvincular-reajuste-do-minimo-e-nem-alterar-pisos-de-saude/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-flavio-07",
+   "confirma": true,
+   "nota": "Confirma a proposta feita no debate da Band (18/10/2026) de compra de dívidas com carência de seis meses (PF) e um ano (PJ), sem detalhamento operacional, e registra a crítica do ministro Dario Durigan.",
+   "fonte": {
+    "titulo": "Proposta de Flávio de comprar dívidas provocaria calote geral, diz Durigan",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/proposta-de-flavio-de-comprar-dividas-provocaria-calote-geral-diz-durigan/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-flavio-07",
+   "confirma": true,
+   "nota": "Confirma a proposta de compra de dívidas e as carências; o resumo não menciona a promessa sobre o reajuste de 15% do Bolsa Família.",
+   "fonte": {
+    "titulo": "Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-tem-ataques-acusacoes-e-propostas-economicas-veja-resumo/",
+    "data": "2026-10-18",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-flavio-13",
+   "confirma": true,
+   "nota": "Confirma a promessa de criar o Ministério da Prosperidade no debate de 18/10/2026.",
+   "fonte": {
+    "titulo": "Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-tem-ataques-acusacoes-e-propostas-economicas-veja-resumo/",
+    "data": "2026-10-18",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-flavio-08",
+   "confirma": true,
+   "nota": "Confirma o anúncio de 13/10/2026 e o voto remoto favorável em 14/10/2026, com a ressalva de discordâncias com a PEC; a matéria não contém a declaração de maio citada na base.",
+   "fonte": {
+    "titulo": "Flávio Bolsonaro vota à distância pelo fim da escala 6x1",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-vota-a-distancia-pelo-fim-da-escala-6x1/",
+    "data": "2026-10-14",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-flavio-08",
+   "confirma": true,
+   "nota": "Confirma que Flávio era contrário à proposta e passou a votar a favor, negando intenção de revê-la (sabatina de 16/10/2026).",
+   "fonte": {
+    "titulo": "Flávio defende aumento real do salário mínimo e não revisar escala 6x1",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-defende-aumento-real-do-salario-minimo-e-nao-revisar-escala-6x1/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-flavio-09",
+   "confirma": true,
+   "nota": "Confirma que em maio de 2026 a pré-campanha propunha suspender a reforma por um ano via PEC; a CNN atribui a formulação à equipe de pré-campanha (sem citar Rogério Marinho) e menciona alíquota-alvo de 19% ou menos, ausente do plano registrado.",
+   "fonte": {
+    "titulo": "Flávio quer suspender reforma tributária por um ano e rever exceções",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-quer-suspender-reforma-tributaria-por-um-ano-e-rever-excecoes/",
+    "data": "2026-05-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-flavio-02",
+   "confirma": true,
+   "nota": "Confirma que a equipe de Flávio não estimou individualmente as economias das medidas e que privatizações e venda de imóveis não representam necessariamente redução permanente de despesas.",
+   "fonte": {
+    "titulo": "Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos?",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/propostas-lula-flavio-ajuste-fiscal/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-12",
+   "confirma": true,
+   "nota": "Confirma o apoio formal de União Progressista, Novo e Republicanos em 07/10/2026 e do Podemos em 08/10/2026.",
+   "fonte": {
+    "titulo": "Podemos declara apoio a Flávio Bolsonaro no segundo turno",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/podemos-declara-apoio-a-flavio-bolsonaro-no-segundo-turno/",
+    "data": "2026-10-08",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-12",
+   "confirma": true,
+   "nota": "Confirma o apoio de 17 diretórios estaduais do MDB a Flávio, incluindo São Paulo, sem lista completa.",
+   "fonte": {
+    "titulo": "MDB se divide sobre 2º turno: 17 diretórios apoiam Flávio, 10 respaldam Lula",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/mdb-se-divide-sobre-2o-turno-ao-menos-17-diretorios-apoiam-flavio-10-respaldam-lula/",
+    "data": "2026-10-13",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-13",
+   "confirma": true,
+   "nota": "Confirma 12 dos 21 governadores eleitos com Flávio, entre eles Tarcísio, Cleitinho, Moro, Douglas Ruas, Jorginho Mello e Zucco; não trata dos candidatos no 2º turno estadual.",
+   "fonte": {
+    "titulo": "Flávio tem apoio de 12 governadores eleitos; Lula reúne cinco para o 2º turno",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/flavio-tem-apoio-de-12-governadores-eleitos-lula-reune-cinco-para-o-2o-turno/",
+    "data": "2026-10-14",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-flavio-08",
+   "confirma": true,
+   "nota": "Confirma 121 deputados do PL (22 a mais que em 2022) e as demais bancadas; não trata do marco desde 1990 nem do Senado.",
+   "fonte": {
+    "titulo": "PL amplia bancada e terá 121 deputados; veja a nova composição da Câmara",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/pl-amplia-bancada-e-tera-121-deputados-veja-a-nova-composicao-da-camara/",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-11",
+   "confirma": true,
+   "nota": "Confirma o anúncio de Alfredo Gaspar em 05/08/2026, a neutralidade do PP que barrou Tereza Cristina e a recusa do Republicanos; a matéria não cita União Brasil e Podemos.",
+   "fonte": {
+    "titulo": "Após impasse, Flávio anuncia Alfredo Gaspar como vice em chapa \"puro-sangue\" do PL",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/apos-semanas-de-impasse-flavio-anuncia-alfredo-gaspar-em-chapa-puro-sangue-do-pl/",
+    "data": "2026-08-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-14",
+   "confirma": false,
+   "nota": "Confirma a aprovação por 48 a 25 em 17/12/2025 e a fala de que o texto não era o que a oposição queria, mas a CNN atribui a limitação à interferência de forças externas no Legislativo, e não à composição do Congresso; registra ainda a expressão primeiro degrau.",
+   "fonte": {
+    "titulo": "Flávio agradece parlamentares e chama dosimetria de \"primeiro degrau\"",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-agradece-parlamentares-e-chama-dosimetria-de-primeiro-degrau/",
+    "data": "2025-12-17",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  }
+ ],
+ "evidencias": [
+  {
+   "id": "reforco-nacional_economia-lula-01",
+   "candidato": "lula",
+   "criterio": "economia_fiscal",
+   "tema": "medidas do período eleitoral (IFI)",
+   "tipo": "DADO_OFICIAL",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Levantamento da IFI do Senado, divulgado em 16/10/2026, calculou em R$ 298,4 bilhões o montante mobilizado em 2026 por medidas anunciadas pelo governo, dos quais R$ 185,7 bilhões em crédito subsidiado, R$ 63,2 bilhões em despesas primárias e R$ 30,6 bilhões em renúncia de receita. Parte das medidas, como a tarifa zero aos fins de semana e o novo teto do MEI, só produz efeito a partir de 2027.",
+   "data_fato": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "\"Pacote de bondades\" de Lula soma quase R$ 300 bi às vésperas do 2º turno",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-de-bondades-de-lula-soma-quase-r-290-bi-as-vesperas-do-2o-turno/",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026",
+     "veiculo": "InfoMoney",
+     "url": "https://www.infomoney.com.br/politica/com-eleicoes-beneficios-anunciados-por-lula-ja-mobilizam-r-300-bilhoes-em-2026/",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A maior parcela (R$ 185,7 bilhões) é de natureza financeira, em empréstimos reembolsáveis, e não equivale a gasto primário; o impacto primário estimado é de R$ 93,8 bilhões.",
+   "limitacoes": "Os números vêm de reportagens sobre o levantamento; o relatório original da IFI não foi consultado diretamente, e o total mede recursos mobilizados, não custo fiscal líquido."
+  },
+  {
+   "id": "reforco-nacional_economia-lula-02",
+   "candidato": "lula",
+   "criterio": "economia_fiscal",
+   "tema": "gastos fora dos limites fiscais",
+   "tipo": "DADO_OFICIAL",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Segundo dados da IFI divulgados pela CNN em dezembro de 2025, as exceções aos limites de gastos somaram R$ 389,0 bilhões entre 2023 e 2026 (R$ 241,3 bilhões em 2023, R$ 31,9 bilhões em 2024, R$ 41,5 bilhões em 2025 e R$ 74,3 bilhões previstos para 2026). Em outubro de 2025, levantamento da IFI a pedido do Poder360 já apontava quase R$ 400 bilhões fora da meta no período.",
+   "data_fato": "2025-12-08",
+   "fontes": [
+    {
+     "titulo": "Governo Lula deve fechar 2026 com R$ 148 bi fora do limite fiscal, diz IFI",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-lula-deve-fechar-2026-com-r-148-bi-fora-do-limite-fiscal-diz-ifi/",
+     "data": "2025-12-08",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Gasto fora da meta fiscal no governo Lula deve ser de quase R$ 400 bi",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/gasto-fora-da-meta-fiscal-no-governo-lula-deve-ser-de-quase-r-400-bi/",
+     "data": "2025-10-28",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Parte relevante das exceções decorre da PEC da Transição de 2023, do pagamento de precatórios adiados pela PEC dos Precatórios de 2021 e do decreto de calamidade do Rio Grande do Sul; as exclusões têm previsão legal.",
+   "limitacoes": "A própria matéria de dezembro apresenta inconsistência entre o título (R$ 148 bilhões em 2026) e a discriminação anual (R$ 74,3 bilhões em 2026); a Warren calculou valores um pouco menores (R$ 376,2 bilhões em 2023-2026)."
+  },
+  {
+   "id": "reforco-nacional_economia-flavio-01",
+   "candidato": "flavio",
+   "criterio": "economia_fiscal",
+   "tema": "reação do mercado e credibilidade do ajuste",
+   "tipo": "OPINIAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Gestores ouvidos pelo InfoMoney em 21/10/2026 condicionaram a manutenção da alta dos ativos a uma entrega fiscal concreta de eventual governo Flávio. Luiz Cesario (Asset1) considerou mais realista um ajuste de cerca de 1 p.p. do PIB que o de 1,5 p.p. citado pela campanha, e Roberto Motta (Genial) afirmou que, sem PEC fiscal, a lua de mel do mercado pode durar pouco.",
+   "data_fato": "2026-10-21",
+   "fontes": [
+    {
+     "titulo": "De \"lua de mel\" a \"piora intensa\": como gestores veem a reação do mercado ao 2º turno",
+     "veiculo": "InfoMoney",
+     "url": "https://infomoney.com.br/onde-investir/expectativa-mercado-segundo-turno-eleicoes-2026",
+     "data": "2026-10-21",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Os mesmos gestores registram expectativa positiva do mercado com a candidatura e a promessa de corte de R$ 200 bilhões em gastos.",
+   "limitacoes": "Trata-se de opiniões de agentes de mercado, sem estimativa própria do efeito fiscal das propostas."
+  },
+  {
+   "id": "reforco-nacional_economia-flavio-02",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "compra de dívidas das famílias",
+   "tipo": "ALEGACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Em 20/10/2026, o ministro da Fazenda, Dario Durigan, afirmou que a proposta de Flávio de comprar dívidas bancárias com carência de seis meses (pessoas físicas) e um ano (empresas) provocaria um calote geral e travaria o crédito, e que os juros continuariam a incidir durante a suspensão. Flávio havia citado abertura de mais de R$ 200 bilhões no Orçamento, sem detalhar a operacionalização.",
+   "data_fato": "2026-10-20",
+   "fontes": [
+    {
+     "titulo": "Proposta de Flávio de comprar dívidas provocaria calote geral, diz Durigan",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/proposta-de-flavio-de-comprar-dividas-provocaria-calote-geral-diz-durigan/",
+     "data": "2026-10-20",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A crítica parte de integrante do governo adversário; a CNN procurou a campanha de Flávio, que não respondeu até a publicação.",
+   "limitacoes": "Não há estimativa técnica independente do custo ou do efeito da medida sobre o crédito."
+  }
+ ],
+ "lacunas": [
+  "Estadão e UOL: os domínios estadao.com.br e uol.com.br são inacessíveis às ferramentas de busca e leitura desta pesquisa; o Estadão aparece apenas por textos do Estadão Conteúdo republicados pelo InfoMoney.",
+  "O Globo, Valor Econômico, g1, Folha de S.Paulo e Veja: buscas restritas a esses domínios não retornaram resultados e a leitura direta de g1 e Folha foi bloqueada; nenhum reforço desses veículos foi registrado, para os dois candidatos.",
+  "Estadão Verifica e checagem da Folha: não foi possível acessar checagens desses veículos sobre os números citados por Lula (déficit de 2,8%) ou por Flávio (PIB de 4,8% em 2021).",
+  "lula: economia-lula-15 (Artigo IV do FMI de julho de 2026, dívida de 97,8% do PIB) sem reportagem localizada nos veículos acessíveis; apareceram apenas o Monitor Fiscal de outubro de 2025 e projeção de abril de 2026, que tratam de outro relatório.",
+  "lula: estimativa do Ipea sobre custo da redução de jornada (7,8%) e estudo do Insper sobre o Pé-de-Meia sem reportagem localizada nos veículos acessíveis.",
+  "flavio: votos nominais de Flávio na PEC da Transição, no arcabouço fiscal, na PEC dos Precatórios e na Lei Geral do Licenciamento não aparecem nas reportagens localizadas, que só trazem os placares.",
+  "flavio: emenda de Flávio para excluir sociedades de profissionais liberais da tributação de dividendos (economia-flavio-05) e plano para revogar o Estatuto do Desarmamento (economia-flavio-20) sem reportagem localizada nos veículos acessíveis.",
+  "flavio: declaração de maio de 2026 classificando a PEC da 6x1 como inoportuna e eleitoreira não confirmada nas reportagens da CNN e da Exame consultadas.",
+  "ambos: avaliações de economistas sobre a viabilidade das contas (propostas-flavio-04, propostas-flavio-05, propostas-lula-12) só localizadas nas fontes já existentes da base (Correio Braziliense e BBC News Brasil)."
+ ]
+}

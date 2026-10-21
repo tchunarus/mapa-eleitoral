@@ -8,6 +8,9 @@ Normalizações registradas aqui, para que toda nova rodada as reproduza:
 - travessão vira vírgula e verbos em primeira pessoa ficam impessoais (IMPESSOAL);
 - evidências que repetem o mesmo fato em duas frentes são descartadas (EXCLUIR, com motivo);
 - cada checagem recebe `origem` (quem fez a declaração: uma das candidaturas ou terceiros);
+- reforços (arquivos com a chave "reforcos") acrescentam fontes a evidências existentes quando
+  confirmam o fato; os que divergem vão para divergencias_pendentes.json e só entram depois de
+  revisão, em contrapontos curados (contrapontos_revisados.json);
 - marcos da linha do tempo com mesma data, candidato e título são unificados, e eventos
   posteriores à data da análise (eleicao.json, atualizado_em) ficam só na agenda.
 
@@ -34,6 +37,10 @@ EXCLUIR = {
     'atualizacao-fatos-lula-04': 'repete atualizacao-campanha-lula-08 (decisão de Bellizze de 21/10)',
     'atualizacao-fatos-flavio-03': 'repete atualizacao-campanha-flavio-08 (resposta à quebra de sigilos)',
     'atualizacao-campanha-lula-04': 'repete atualizacao-fatos-lula-03 (condição para o debate), mais completa',
+    # rodada de reforço de fontes (21/10/2026)
+    'reforco-nacional_economia-lula-01': 'cálculo da IFI já registrado como contraponto de propostas-lula-04',
+    'reforco-nacional_economia-lula-02': 'exceções aos limites já registradas como contraponto de economia-lula-13',
+    'reforco-nacional_instituicoes-flavio-03': 'repete campanha-flavio-05 (decisão de Bellizze de 12/10)',
 }
 CAMPOS_FONTE = ('titulo', 'veiculo', 'url', 'data', 'tipo_fonte')
 
@@ -85,6 +92,27 @@ def consolidar(pq=PQ, out=OUT):
         for a in d.get('agenda', []):
             a['fontes'] = [fonte(f) for f in a.get('fontes', [])]
             ag.append(a)
+    # reforços de fontes: só confirmações entram automaticamente
+    por_id = {e['id']: e for e in ev}
+    divergentes, sem_alvo, n_reforcos = [], [], Counter()
+    for cam in sorted(glob.glob(os.path.join(pq, '*.json'))):
+        d = json.load(open(cam, encoding='utf-8'))
+        for r in limpa(d.get('reforcos') or []):
+            alvo = por_id.get(r.get('evidencia_id'))
+            if not alvo:
+                sem_alvo.append(r); continue
+            if not r.get('confirma'):
+                divergentes.append(dict(r, frente=os.path.basename(cam)[:-5])); continue
+            f = fonte(r['fonte'])
+            if f['url'] and all(f['url'] != x['url'] for x in alvo['fontes']):
+                alvo['fontes'].append(f); n_reforcos[alvo['candidato']] += 1
+    cam = os.path.join(pq, 'contrapontos_revisados.json')
+    for eid, c in (json.load(open(cam, encoding='utf-8')).items() if os.path.exists(cam) else []):
+        alvo = por_id[eid]
+        alvo['contraponto'] = ' '.join(x for x in (alvo.get('contraponto'), c['texto']) if x)
+        alvo['fontes'] += [fonte(f) for f in c.get('fontes', []) if all(f['url'] != x['url'] for x in alvo['fontes'])]
+    with open(os.path.join(pq, 'divergencias_pendentes.json'), 'w', encoding='utf-8') as f:
+        json.dump({'divergentes': divergentes, 'sem_evidencia': sem_alvo}, f, ensure_ascii=False, indent=1)
     vistos = set()
     for e in ev:
         i = e.get('id') or f"{e['frente']}-{e['candidato']}"
@@ -116,7 +144,7 @@ def consolidar(pq=PQ, out=OUT):
     for nome, dados in (('evidencias', ev), ('checagens', chk), ('linha_do_tempo', tl2), ('agenda', ag)):
         with open(os.path.join(out, nome + '.json'), 'w', encoding='utf-8') as f:
             json.dump(dados, f, ensure_ascii=False, indent=1)
-    return {'evidencias': len(ev), 'checagens': len(chk), 'linha_do_tempo': len(tl2), 'agenda': len(ag),
+    return {'reforcos': dict(n_reforcos), 'divergentes': len(divergentes), 'sem_evidencia': len(sem_alvo), 'evidencias': len(ev), 'checagens': len(chk), 'linha_do_tempo': len(tl2), 'agenda': len(ag),
             'por_criterio': dict(Counter(f"{e['candidato']}:{e['criterio']}" for e in ev))}
 
 

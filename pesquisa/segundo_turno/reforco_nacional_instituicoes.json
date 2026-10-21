@@ -1,0 +1,929 @@
+{
+ "frente": "nacional_instituicoes",
+ "reforcos": [
+  {
+   "evidencia_id": "integridade-lula-01",
+   "confirma": true,
+   "nota": "Reportagem de 08/03/2021 confirma a decisão monocrática de Fachin, a incompetência de Curitiba para triplex, sítio e Instituto Lula e a remessa à Justiça Federal do DF.",
+   "fonte": {
+    "titulo": "Ministro Fachin anula condenações de Lula e ex-presidente se torna elegível",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/ministro-fachin-anula-condenacoes-de-lula/",
+    "data": "2021-03-08",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-01",
+   "confirma": false,
+   "nota": "A reportagem confirma o placar de 8 a 3 no Plenário, mas situa a sessão em 15/04/2021 (a base indica 14/04) e não menciona agravo da PGR, apenas agravos regimentais no HC 193.726.",
+   "fonte": {
+    "titulo": "Plenário do STF declara incompetência de Curitiba para julgar Lula",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-abr-15/stf-forma-maioria-declarar-incompetencia-curitiba-julgar-lula/",
+    "data": "2021-04-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-01",
+   "confirma": false,
+   "nota": "A reportagem confirma o placar de 8 a 3 e a confirmação da decisão de Fachin, mas situa o julgamento do mérito do agravo em 15/04/2021 (em 14/04 o Plenário apenas fixou sua competência para julgar o caso), e registra que o destino dos autos (DF ou São Paulo) ainda seria definido.",
+   "fonte": {
+    "titulo": "STF derruba condenações de Lula na Lava Jato",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/343754/stf-derruba-condenacoes-de-lula-na-lava-jato",
+    "data": "2021-04-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-02",
+   "confirma": true,
+   "nota": "Confirma a sessão de 23/06/2021, o placar de 7 a 4 e a manutenção da suspeição declarada pela Segunda Turma no caso do triplex; a reportagem não menciona expressamente a fase pré-processual.",
+   "fonte": {
+    "titulo": "Moro é suspeito para julgar Lula, decide STF por 7 votos a 4",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-jun-23/moro-suspeito-julgar-lula-decide-stf-votos/",
+    "data": "2021-06-23",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-03",
+   "confirma": true,
+   "nota": "Confirma a decisão de 27/01/2022 da juíza Pollyanna Kelly Martins Alves (12ª Vara Federal do DF), a pedido do MPF, por prescrição, e a anulação dos atos de Moro inclusive na fase pré-processual; não menciona a idade de Lula como fundamento.",
+   "fonte": {
+    "titulo": "Justiça do DF arquiva caso do tríplex envolvendo o ex-presidente Lula",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/justica-do-df-arquiva-caso-do-triplex-envolvendo-o-ex-presidente-lula/",
+    "data": "2022-01-28",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-03",
+   "confirma": true,
+   "nota": "Confirma o arquivamento por prescrição a pedido do MPF, com redução do prazo pela metade por ser o réu maior de 70 anos (art. 115 do Código Penal).",
+   "fonte": {
+    "titulo": "Justiça do DF declara prescrição e arquiva ação do tríplex do Guarujá",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2022-jan-28/justica-df-declara-prescricao-arquiva-acao-triplex-guaruja/",
+    "data": "2022-01-28",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-03",
+   "confirma": true,
+   "nota": "Confirma o arquivamento do caso do triplex pela juíza da 12ª Vara Federal do DF em razão da prescrição.",
+   "fonte": {
+    "titulo": "Juíza do DF arquiva processo contra Lula no caso do tríplex do Guarujá",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/358845/juiza-do-df-arquiva-processo-contra-lula-no-caso-do-triplex-do-guaruja",
+    "data": "2022-01-28",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-04",
+   "confirma": true,
+   "nota": "Confirma a decisão de 21/08/2021 por ausência de justa causa (o MPF não indicou provas que subsistiram à anulação); o corpo do texto trata de negativa à ratificação da denúncia e não menciona prescrição.",
+   "fonte": {
+    "titulo": "Juíza de Brasília rejeita denúncia contra Lula no caso do sítio de Atibaia",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/juiza-de-brasilia-rejeita-denuncia-contra-lula-sobre-sitio-de-atibaia/",
+    "data": "2021-08-22",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-04",
+   "confirma": true,
+   "nota": "Confirma que a juíza manteve a negativa de ratificação da denúncia do sítio, que a primeira decisão reconhecera a prescrição para Lula e outros maiores de 70 anos, e a remessa ao TRF1.",
+   "fonte": {
+    "titulo": "Juíza recusa novamente denúncia contra Lula em caso do sítio",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-set-29/juiza-recusa-novamente-denuncia-lula-sitio-2/",
+    "data": "2021-09-29",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-05",
+   "confirma": true,
+   "nota": "Confirma o trancamento, publicado em 18/02/2023, das três apurações (doações da Odebrecht, terreno do Instituto Lula e caças suecos) por imprestabilidade das provas da leniência e ausência de justa causa, e as suspensões de setembro de 2021 e março de 2022.",
+   "fonte": {
+    "titulo": "Lewandowski tranca três investigações sobre Lula da extinta Lava Jato e da Zelotes",
+    "veiculo": "CNN Brasil (Estadão Conteúdo)",
+    "url": "https://www.cnnbrasil.com.br/politica/lewandowski-tranca-3-investigacoes-sobre-lula-da-extinta-lava-jato-e-da-zelotes/",
+    "data": "2023-02-18",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-05",
+   "confirma": true,
+   "nota": "Confirma o trancamento das três ações por contaminação das provas derivadas do acordo de leniência da Odebrecht.",
+   "fonte": {
+    "titulo": "Por contaminação de provas, STF tranca três ações contra Lula",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2023-fev-18/contaminacao-provas-stf-tranca-tres-acoes-lula/",
+    "data": "2023-02-18",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-09",
+   "confirma": true,
+   "nota": "Confirma a aprovação de Cristiano Zanin pelo plenário do Senado em 21/06/2023, por 58 votos a 18, após sabatina na CCJ.",
+   "fonte": {
+    "titulo": "Aprovação de Cristiano Zanin é celebrada por ministros do Supremo",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2023-jun-21/aprovacao-cristiano-zanin-celebrada-ministros-supremo/",
+    "data": "2023-06-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-11",
+   "confirma": true,
+   "nota": "Confirma que, em 16/10/2025, a CPMI do INSS rejeitou por 19 votos a 11 os pedidos de convocação de Frei Chico, vice-presidente do Sindnapi; governistas sustentaram que ele não é alvo de investigação.",
+   "fonte": {
+    "titulo": "CPMI do INSS rejeita pedido para convocar irmão de Lula",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/cpmi-do-inss-rejeito-pedido-para-convocar-frei-chico-irmao-de-lula/",
+    "data": "2025-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-01",
+   "confirma": false,
+   "nota": "A reportagem data o oferecimento da denúncia em 19/10/2020 (divulgada em novembro), descreve o esquema entre 2007 e 2018, inclui apropriação indébita e cita R$ 2,7 milhões em dinheiro vivo, sem mencionar o valor de R$ 1 milhão entre 2010 e 2014 nem os outros 15 denunciados.",
+   "fonte": {
+    "titulo": "MP denuncia Flávio Bolsonaro por esquema de rachadinha na Alerj",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2020-nov-04/mp-denuncia-flavio-bolsonaro-esquema-rachadinha-alerj/",
+    "data": "2020-11-04",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-02",
+   "confirma": true,
+   "nota": "Confirma o julgamento de 23/02/2021 na Quinta Turma, vencido o relator Felix Fischer, com anulação da quebra de sigilo de 95 pessoas físicas e jurídicas por deficiência de fundamentação; a reportagem não informa o placar numérico.",
+   "fonte": {
+    "titulo": "STJ anula quebra de sigilo de Flávio Bolsonaro por rachadinha",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-fev-23/stj-anula-quebra-sigilo-flavio-bolsonaro-rachadinha/",
+    "data": "2021-02-23",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-02",
+   "confirma": true,
+   "nota": "Confirma a anulação por maioria (quatro ministros seguiram a divergência contra o relator), da quebra de sigilo bancário e fiscal, por insuficiência de fundamentação, com divergência aberta por João Otávio de Noronha e relator vencido.",
+   "fonte": {
+    "titulo": "STJ anula quebra de sigilo bancário de Flávio Bolsonaro",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/340746/stj-anula-quebra-de-sigilo-bancario-de-flavio-bolsonaro",
+    "data": "2021-02-23",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-05",
+   "confirma": true,
+   "nota": "Confirma o arquivamento da denúncia pelo Órgão Especial do TJRJ em 16/05/2022, após pedido do MP-RJ, em razão das provas anuladas por STJ e STF, e a possibilidade de reabertura da investigação.",
+   "fonte": {
+    "titulo": "TJ-RJ arquiva denúncia contra Flávio Bolsonaro por rachadinha",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2022-mai-16/tj-rj-arquiva-denuncia-flavio-bolsonaro-rachadinha/",
+    "data": "2022-05-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-05",
+   "confirma": true,
+   "nota": "Confirma a rejeição da denúncia pelo Órgão Especial do TJRJ em 16/05/2022, após pedido de anulação do próprio MP, que apontou possibilidade de reiniciar a investigação.",
+   "fonte": {
+    "titulo": "Justiça rejeita denúncia contra Flávio Bolsonaro no caso das rachadinhas",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/justica-rejeita-denuncia-contra-flavio-bolsonaro-no-caso-das-rachadinhas/",
+    "data": "2022-05-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-03",
+   "confirma": true,
+   "nota": "Confirma o julgamento de 09/11/2021 na Quinta Turma, em embargos de declaração com efeitos infringentes no RHC 135.206, com anulação das cautelares do juiz da 27ª Vara Criminal por incompetência (vencido o relator); a reportagem não detalha buscas nem a prisão de Queiroz.",
+   "fonte": {
+    "titulo": "STJ anula atos de juiz contra Flávio Bolsonaro no caso das rachadinhas",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-nov-09/stj-anula-atos-juiz-flavio-bolsonaro-rachadinhas/",
+    "data": "2021-11-09",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-03",
+   "confirma": true,
+   "nota": "O título e o subtítulo confirmam que a Quinta Turma, por maioria, anulou decisões do juiz e provas contra Flávio; só esse trecho estava visível na página.",
+   "fonte": {
+    "titulo": "STJ anula decisões de juiz e provas contra Flávio Bolsonaro no caso das rachadinhas",
+    "veiculo": "Jota",
+    "url": "https://www.jota.info/legislativo/stj-anula-decisoes-de-juiz-e-provas-contra-flavio-bolsonaro-no-caso-das-rachadinhas",
+    "data": "2021-11-09",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-04",
+   "confirma": true,
+   "nota": "Confirma a sessão de 30/11/2021 da Segunda Turma, o HC 201.965, o placar de 3 a 1 (vencido Fachin) e a anulação de quatro dos cinco RIFs, por terem sido produzidos a pedido do MP-RJ sem supervisão do TJRJ.",
+   "fonte": {
+    "titulo": "Supremo anula relatórios do Coaf sobre Flávio Bolsonaro",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-nov-30/anulados-relatorios-coaf-flavio-bolsonaro-rachadinhas/",
+    "data": "2021-11-30",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-04",
+   "confirma": true,
+   "nota": "Confirma que, na mesma sessão, a Segunda Turma negou a reclamação do MP-RJ e manteve o foro especial de Flávio no TJRJ.",
+   "fonte": {
+    "titulo": "Supremo mantém foro especial de Flávio Bolsonaro",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-nov-30/stf-mantem-foro-especial-flavio-bolsonaro-rachadinhas/",
+    "data": "2021-11-30",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-07",
+   "confirma": true,
+   "nota": "Confirma que Mendonça, em decisão de 22 de julho sob sigilo, a pedido da PF e com concordância da PGR, abriu investigação sobre Flávio no financiamento do Dark Horse por lavagem, evasão de divisas e corrupção; a reportagem não cita o número do inquérito nem indiciamento.",
+   "fonte": {
+    "titulo": "Flávio é investigado no STF sobre Dark Horse e relação com Vorcaro",
+    "veiculo": "CNN Brasil (blog Teo Cury)",
+    "url": "https://www.cnnbrasil.com.br/blogs/teo-cury/politica/flavio-bolsonaro-e-investigado-no-stf-sobre-financiamento-de-dark-horse/",
+    "data": "2026-09-11",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-10",
+   "confirma": true,
+   "nota": "Confirma que Mendonça autorizou pedido da PF de acesso aos dados fiscais, telemáticos e bancários de Fábio Luís Lula da Silva no inquérito do INSS, para apurar suposta sociedade oculta com o Careca do INSS; a reportagem (26/02/2026) não informa a data da decisão nem indica que o presidente seja investigado.",
+   "fonte": {
+    "titulo": "Mendonça autoriza pedido da PF e quebra sigilo de Lulinha",
+    "veiculo": "CNN Brasil (blog Matheus Teixeira)",
+    "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mendonca-autoriza-pedido-da-pf-e-quebra-sigilo-de-lulinha/",
+    "data": "2026-02-26",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-12",
+   "confirma": true,
+   "nota": "Confirma o indiciamento de 48 pessoas no primeiro relatório final da Operação Sem Desconto enviado a Mendonça, entre elas Stefanutto, o ex-procurador-geral Virgílio Antônio Ribeiro Filho e Antônio Camilo Antunes; ressalva que indiciamento não é denúncia.",
+   "fonte": {
+    "titulo": "PF indicia ex-presidente do INSS, Careca e outros em inquérito",
+    "veiculo": "CNN Brasil (blog Elijonas Maia)",
+    "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-indicia-ex-presidente-do-inss-careca-e-outros-em-inquerito/",
+    "data": "2026-07-14",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-01",
+   "confirma": true,
+   "nota": "Confirma o veto integral ao PL 2.162/2023 em 08/01/2026, na cerimônia de três anos dos ataques; a reportagem registra a frase de Lula como \"a democracia exige vigilância constante e não pode ser tratada como uma conquista definitiva\", redação diferente da citada na base.",
+   "fonte": {
+    "titulo": "Sob gritos de sem anistia, Lula veta projeto sobre penas do 8/1",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/447536/sob-gritos-de-sem-anistia--lula-veta-projeto-sobre-penas-do-8-1",
+    "data": "2026-01-08",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-01",
+   "confirma": true,
+   "nota": "Confirma o veto integral de Lula ao PL da Dosimetria e descreve a tramitação seguinte no Congresso.",
+   "fonte": {
+    "titulo": "Veja próximos passos após Lula vetar PL da Dosimetria",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/veja-proximos-passos-apos-lula-vetar-pl-da-dosimetria/",
+    "data": "2026-01-08",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-09",
+   "confirma": true,
+   "nota": "Confirma a nota de 30/07/2025, assinada por Lula, que classificou como inaceitável a interferência dos EUA na Justiça brasileira, prestou solidariedade a Moraes e terminou com \"Justiça não se negocia\"; a reportagem não menciona a Lei de Reciprocidade.",
+   "fonte": {
+    "titulo": "Sem soberania, o Brasil não existiria, diz Lula após tarifaço dos EUA",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/sem-soberania-o-brasil-nao-existiria-diz-lula-apos-tarifaco-dos-eua/",
+    "data": "2025-07-31",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-11",
+   "confirma": true,
+   "nota": "Confirma a entrevista à Rádio Gaúcha em 29/06/2023 e a frase sobre o conceito de democracia ser relativo, no contexto da Venezuela; a reportagem registra também a defesa do respeito aos resultados eleitorais.",
+   "fonte": {
+    "titulo": "Conceito de democracia é relativo para você e para mim, diz Lula ao responder sobre eleições na Venezuela",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/conceito-de-democracia-e-relativo-para-voce-e-para-mim-diz-lula-ao-responder-sobre-eleicoes-na-venezuela/",
+    "data": "2023-06-29",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-lula-19",
+   "confirma": true,
+   "nota": "Confirma a declaração de 29/06/2023 à Rádio Gaúcha e a afirmação de que, sem eleição honesta na Venezuela, o governo brasileiro se manifestaria.",
+   "fonte": {
+    "titulo": "Conceito de democracia é relativo para você e para mim, diz Lula ao responder sobre eleições na Venezuela",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/conceito-de-democracia-e-relativo-para-voce-e-para-mim-diz-lula-ao-responder-sobre-eleicoes-na-venezuela/",
+    "data": "2023-06-29",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-14",
+   "confirma": true,
+   "nota": "Confirma a presença de Lula nas comemorações de 80 anos da vitória sobre o nazismo, a reunião bilateral com Putin em 09/05/2025 e a afirmação de que a posição brasileira sobre a guerra não muda; a reportagem não menciona ocupação territorial nem o termo \"pequenez\".",
+   "fonte": {
+    "titulo": "Lula defende viagem à Rússia e diz que críticas são exploração política",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/internacional/lula-defende-viagem-a-russia-e-diz-que-criticas-sao-exploracao-politica/",
+    "data": "2025-05-10",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-03",
+   "confirma": true,
+   "nota": "Confirma o pedido de impeachment de Moraes apresentado por Flávio em 23/07/2025, motivado pelas cautelares contra Jair Bolsonaro e com alegação de parcialidade e restrição à liberdade de expressão; a reportagem não menciona tornozeleira nem bloqueio de contas de Eduardo.",
+   "fonte": {
+    "titulo": "Flávio Bolsonaro apresenta pedido de impeachment de Moraes ao Senado",
+    "veiculo": "CNN Brasil (blog Caio Junqueira)",
+    "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/flavio-bolsonaro-apresenta-pedido-de-impeachment-de-moraes-ao-senado/",
+    "data": "2025-07-23",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-04",
+   "confirma": true,
+   "nota": "Confirma apenas a segunda parte: em 18/07/2025 Flávio publicou e apagou mensagem sugerindo a Trump suspender a tarifa de 50% e aplicar sanções individuais a autoridades brasileiras; a reportagem não trata da publicação de agradecimento de 09/07.",
+   "fonte": {
+    "titulo": "Flávio Bolsonaro pede fim de tarifa de Trump e apaga post nas redes sociais",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-bolsonaro-pede-fim-de-tarifa-de-trump-e-apaga-post-nas-redes-sociais/",
+    "data": "2025-07-18",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-07",
+   "confirma": true,
+   "nota": "Confirma a aprovação no Senado em 17/12/2025 por 48 a 25 e a declaração de Flávio de que o texto foi o \"possível\" e um \"primeiro degrau\"; a reportagem não contém a expressão \"sacrifício heroico\".",
+   "fonte": {
+    "titulo": "Flávio agradece parlamentares e chama dosimetria de primeiro degrau",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-agradece-parlamentares-e-chama-dosimetria-de-primeiro-degrau/",
+    "data": "2025-12-17",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-10",
+   "confirma": false,
+   "nota": "A reportagem confirma o encontro de 21/07/2026, a menção à Smartmatic, o pedido de observadores e a nota de 22/07 negando questionar o sistema, mas atribui a Flávio referência a relatório sobre as eleições venezuelanas de 2010 (a base indica 2012) e situa o desmentido do TSE em 2020, sem registrar republicação em 22/07/2026.",
+   "fonte": {
+    "titulo": "Flávio Bolsonaro nega questionar sistema eleitoral brasileiro",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-bolsonaro-nega-questionar-sistema-eleitoral-brasileiro/",
+    "data": "2026-07-22",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-13",
+   "confirma": true,
+   "nota": "Confirma a fala de 06/10/2026, em Goiânia, no ato de apoio de Ronaldo Caiado, associando a maioria no Congresso à eleição dos presidentes das Casas \"para a gente mudar a Constituição, para a gente redemocratizar esse país\"; a reportagem não trata da declaração do dia seguinte.",
+   "fonte": {
+    "titulo": "Flávio diz que usará maioria no Congresso para mudar Constituição",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-usara-maioria-no-congresso-para-mudar-constituicao/",
+    "data": "2026-10-06",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-13",
+   "confirma": true,
+   "nota": "Confirma a fala de 06/10/2026 sobre mudar a Constituição e redemocratizar o país e analisa os limites jurídicos de reforma por emenda; não menciona a declaração posterior.",
+   "fonte": {
+    "titulo": "Flávio promete mudar Constituição; entenda caminhos e limites",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/466039/flavio-promete-mudar-constituicao-entenda-caminhos-e-limites",
+    "data": "2026-10-07",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-14",
+   "confirma": true,
+   "nota": "Confirma no plano de governo o fim das competências criminais originárias do STF, a limitação das decisões monocráticas, a quarentena de um ano para ministros de Estado e a vedação de atuação de parentes de magistrados; a reportagem não menciona ADPF, legitimados de ADI e ADC nem a frase citada na base.",
+   "fonte": {
+    "titulo": "Flávio e Zema propõem mudanças no STF em planos de governo",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-zema-propoem-mudancas-no-stf-em-planos-de-governo/",
+    "data": "2026-08-17",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-flavio-09",
+   "confirma": true,
+   "nota": "Confirma que, em 13/08/2026, o sistema Filia passou a indicar filiação de Flávio ao Missão, que Nunes Marques restabeleceu a filiação ao PL, liberou o registro e mandou a PF instaurar inquérito sobre a alteração; a reportagem não trata do julgamento do registro em 02/09.",
+   "fonte": {
+    "titulo": "TSE restabelece filiação de Flávio ao PL e libera registro de candidatura",
+    "veiculo": "CNN Brasil (blog Jussara Soares)",
+    "url": "https://www.cnnbrasil.com.br/blogs/jussara-soares/politica/tse-restabelece-filiacao-de-flavio-ao-pl-e-libera-registro-de-candidatura/",
+    "data": "2026-08-13",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-campanha-lula-03",
+   "confirma": true,
+   "nota": "Confirma que Lula apresentou ao TSE e ao STF documento autorizando a quebra dos sigilos bancário, fiscal e telefônico seus e de familiares (Janja e Lulinha), condicionada a que Flávio faça o mesmo; a reportagem não menciona o período de oito anos.",
+   "fonte": {
+    "titulo": "Para Lula, Flávio não deveria ir a debate sem quebrar sigilo",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-flavio-nao-pode-ir-a-debate-sem-quebrar-sigilo/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-campanha-flavio-09",
+   "confirma": true,
+   "nota": "Confirma a decisão de 19/10/2026 do corregedor Villas Bôas Cueva na AIJE 0603123-40.2026.6.00.0000, da coligação de Lula, vedando a Meta e ao X tratamento privilegiado aos perfis de Nikolas Ferreira e Pablo Marçal e o impulsionamento pago, e os pedidos rejeitados; a reportagem não informa o prazo até 25/10 nem as multas.",
+   "fonte": {
+    "titulo": "TSE proíbe Meta e X de privilegiar perfis de Nikolas e Marçal na campanha",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2026-out-19/tse-proibe-meta-e-x-de-privilegiar-perfis-nikolas-e-marcal-durante-a-campanha/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-campanha-flavio-09",
+   "confirma": true,
+   "nota": "Confirma a decisão de 19/10/2026 de Villas Bôas Cueva, o bloqueio do impulsionamento pago até 23h59 de 25/10 sob multa diária de R$ 500 mil por plataforma e a multa de R$ 50 mil por republicação; registra que a decisão ainda depende de referendo do plenário.",
+   "fonte": {
+    "titulo": "TSE proíbe Nikolas e Marçal de divulgarem conteúdos que já foram removidos",
+    "veiculo": "CNN Brasil (blog Teo Cury)",
+    "url": "https://www.cnnbrasil.com.br/blogs/teo-cury/eleicoes/tse-proibe-nikolas-e-marcal-de-divulgarem-conteudos-que-ja-foram-removidos/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-lula-03",
+   "confirma": true,
+   "nota": "Confirma a liminar de 30/08/2026 da ministra Estela Aranha, a pedido de Flávio, suspendendo a peça do \"currículo\" por associá-lo a organizações criminosas sem dado concreto, com formato documental capaz de induzir em erro e omissão do arquivamento da denúncia da rachadinha, além do pedido de direito de resposta.",
+   "fonte": {
+    "titulo": "TSE suspende propaganda de Lula sobre currículo de Flávio",
+    "veiculo": "CNN Brasil (blog Jussara Soares)",
+    "url": "https://www.cnnbrasil.com.br/blogs/jussara-soares/eleicoes/tse-suspende-propaganda-de-lula-sobre-curriculo-de-flavio/",
+    "data": "2026-08-30",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-lula-04",
+   "confirma": false,
+   "nota": "A reportagem descreve liminar de Nunes Marques contra jingle de rádio de Lula que associava Flávio ao caso Master e à rachadinha, omitindo o arquivamento da denúncia, mas data a decisão em 26/09/2026 (a base indica 22/09), não nomeia o jingle nem informa inserções e emissoras; não é possível afirmar se é a mesma peça.",
+   "fonte": {
+    "titulo": "Nunes Marques suspende jingle de Lula que liga Flávio a Vorcaro",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/nunes-marques-suspende-jingle-de-lula-que-liga-flavio-a-vorcaro/",
+    "data": "2026-09-27",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-lula-06",
+   "confirma": false,
+   "nota": "A reportagem de 15/10/2026 trata de decisão de Mendonça sobre o vídeo de Lula que apresenta Flávio como defensor das milícias, mas descreve proibição de novo impulsionamento e de republicação (com base na vedação de impulsionamento de propaganda negativa), sem mencionar suspensão de peça de TV, multa de R$ 10 mil nem uso de inteligência artificial.",
+   "fonte": {
+    "titulo": "Mendonça segue Plenário e proíbe vídeo de Lula que liga Flávio a milícias",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/mendonca-segue-plenario-e-proibe-video-de-lula-que-liga-flavio-a-milicias/",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-18",
+   "confirma": true,
+   "nota": "Confirma as liminares de 08/10/2026: Mendonça mandou remover em três horas peça de Lula e da coligação que apresentava como certa a extinção de benefícios por um governo Flávio, e Nunes Marques mandou remover vídeo de Janja; ambas dependem de referendo do plenário.",
+   "fonte": {
+    "titulo": "TSE manda remover vídeos de Lula e Janja com ataques a Flávio Bolsonaro",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-remover-videos-de-lula-e-janja-com-ataques-a-flavio-bolsonaro/",
+    "data": "2026-10-08",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-flavio-05",
+   "confirma": true,
+   "nota": "Confirma a decisão de 12/10/2026 de Bellizze determinando a remoção, em 24 horas, das publicações que associavam vídeo de consumo de cocaína ao ato pró-Lula; além de Flávio, a ordem atingiu Carlos Bolsonaro, Pablo Marçal, Nikolas Ferreira, Lucas Pavanato e Rony Gabriel.",
+   "fonte": {
+    "titulo": "TSE manda Flávio remover vídeo fake de consumo de drogas em ato pró-Lula",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-flavio-remover-video-fake-de-consumo-de-drogas-em-ato-pro-lula/",
+    "data": "2026-10-12",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-lula-08",
+   "confirma": true,
+   "nota": "Confirma a ordem de Bellizze de 12/10/2026, a pedido da campanha de Lula, de remoção em 24 horas; a reportagem lista também Nikolas Ferreira e Lucas Pavanato entre os atingidos e não menciona multa.",
+   "fonte": {
+    "titulo": "TSE manda Flávio remover vídeo fake de consumo de drogas em ato pró-Lula",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-flavio-remover-video-fake-de-consumo-de-drogas-em-ato-pro-lula/",
+    "data": "2026-10-12",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-05",
+   "confirma": true,
+   "nota": "Confirma que, na noite de 04/10/2026, Lula comentou o segundo lugar (45,16% contra 47,03%), disse que gostaria de ter vencido no 1º turno e anunciou apelo aos eleitores que não votaram, sem contestar a apuração; a reportagem não traz reconhecimento expresso do resultado.",
+   "fonte": {
+    "titulo": "Lula: Povo gosta que eu dispute 2º turno, sou muito bom no mata-mata",
+    "veiculo": "CNN Brasil (Estadão Conteúdo)",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/o-povo-gosta-que-eu-dispute-o-segundo-turno-e-eu-sou-muito-bom-no-mata-mata-diz-lula/",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-12",
+   "confirma": true,
+   "nota": "Confirma que, em 04/10/2026, Flávio se disse muito feliz com o resultado e falou em \"fim da era do PT\", sem questionar a apuração; a reportagem não menciona a promessa de campanha limpa.",
+   "fonte": {
+    "titulo": "Flávio diz estar feliz com resultado do 1º turno: É o fim da era do PT",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-estar-feliz-com-resultado-do-1o-turno-e-o-fim-da-era-do-pt/",
+    "data": "2026-10-04",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-lula-06",
+   "confirma": true,
+   "nota": "Confirma a nota do Itamaraty de 20/10/2026 que classificou as falas de Milei sobre o Judiciário e o voto eletrônico como \"nova e inaceitável tentativa de ingerência externa no processo democrático brasileiro\" e defendeu a segurança do voto eletrônico.",
+   "fonte": {
+    "titulo": "Itamaraty rebate comentário de Milei sobre fraude em eleição: Inaceitável",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/internacional/itamaraty-rebate-comentario-de-milei-sobre-fraude-em-eleicao-inaceitavel/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-02",
+   "confirma": true,
+   "nota": "Confirma a eleição para a Alerj em 2002 pelo PP, a candidatura derrotada à Prefeitura do Rio em 2016 pelo PSC e a eleição ao Senado em 2018 pelo PSL com mais de quatro milhões de votos; a reportagem não informa o número de mandatos estaduais, a colocação nem os votos de 2016.",
+   "fonte": {
+    "titulo": "Flávio Bolsonaro será oficializado hoje como candidato do PL em convenção",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-flavio-bolsonaro-que-pl-oficializa-candidato-em-convencao-hoje/",
+    "data": "2026-07-25",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-03",
+   "confirma": true,
+   "nota": "O perfil lista apenas disputas legislativas e a candidatura derrotada à Prefeitura do Rio em 2016, sem mencionar cargo executivo exercido.",
+   "fonte": {
+    "titulo": "Flávio Bolsonaro será oficializado hoje como candidato do PL em convenção",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-flavio-bolsonaro-que-pl-oficializa-candidato-em-convencao-hoje/",
+    "data": "2026-07-25",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-06",
+   "confirma": true,
+   "nota": "Confirma a aprovação no Senado, em 20/02/2024, por 62 votos a 2, do projeto que restringe as saídas temporárias, relatado por Flávio, com retorno do texto à Câmara.",
+   "fonte": {
+    "titulo": "Senado aprova fim da saidinha de presos; texto volta à Câmara",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/402164/senado-aprova-fim-da-saidinha-de-presos-texto-volta-a-camara",
+    "data": "2024-02-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-06",
+   "confirma": true,
+   "nota": "Confirma a aprovação do texto-base no Senado com Flávio como relator, que acolheu emenda de Sergio Moro para permitir saídas para estudo.",
+   "fonte": {
+    "titulo": "Senado aprova texto-base de projeto que prevê o fim da saidinha de presos em feriados",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/senado-aprova-texto-base-de-projeto-que-preve-o-fim-da-saidinha-de-presos-em-feriados/",
+    "data": "2024-02-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-06",
+   "confirma": true,
+   "nota": "Confirma a derrubada, em 28/05/2024, do veto de Lula aos trechos da Lei 14.843/2024 que vedavam a saída temporária para visita à família.",
+   "fonte": {
+    "titulo": "Congresso derruba veto de Lula e nega saidinha para visitas à família",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/408308/congresso-derruba-veto-de-lula-e-nega-saidinha-para-visitas-a-familia",
+    "data": "2024-05-28",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-16",
+   "confirma": true,
+   "nota": "Confirma a declaração de Adolfo Sachsida, em vídeo divulgado em 08/10/2026, de que Petrobras, Banco do Brasil e Caixa não serão privatizadas; a reportagem não registra o termo \"boataria\" atribuído a Flávio.",
+   "fonte": {
+    "titulo": "Campanha de Flávio nega privatizações e defende programas sociais",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-flavio-nega-privatizacoes-e-defende-programas-sociais/",
+    "data": "2026-10-08",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-16",
+   "confirma": true,
+   "nota": "Confirma que, em abril de 2026, Flávio poupava a Petrobras de privatização e, segundo auxiliares, se opunha a privatizar segmentos estratégicos, com os Correios no radar; a reportagem não trata da entrevista à Reuters de dezembro de 2025.",
+   "fonte": {
+    "titulo": "Flávio e Zema divergem sobre plano de privatizações",
+    "veiculo": "CNN Brasil (blog Gustavo Uribe)",
+    "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/eleicoes/flavio-e-zema-divergem-sobre-plano-de-privatizacoes/",
+    "data": "2026-04-27",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-lula-02",
+   "confirma": true,
+   "nota": "Confirma que Lula não iria ao debate da Globo de 01/10/2026, daria entrevista a podcast no mesmo horário e também faltara ao primeiro debate, da Band (quando falou à Record); como motivo, a reportagem cita a avaliação de Lula de que o modelo de debate \"caducou\", sem mencionar Zema e Renan Santos nem identificar o podcast.",
+   "fonte": {
+    "titulo": "Lula informa que não vai a debate no 1° turno",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/lula-informa-que-nao-vai-a-debate-no-1-turno/",
+    "data": "2026-09-30",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-lula-14",
+   "confirma": true,
+   "nota": "Confirma que Lula confirmou presença no debate da Band de 18/10 em vídeo gravado para a emissora em 13/10/2026.",
+   "fonte": {
+    "titulo": "Lula anuncia ida a debate e desafia Flávio: Vamos mostrar nossa diferença",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/lula-anuncia-ida-a-debate-e-desafia-flavio-vamos-mostrar-nossa-diferenca/",
+    "data": "2026-10-13",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-flavio-02",
+   "confirma": true,
+   "nota": "Confirma que, em 13/10/2026, Flávio disse que não iria ao debate da Band e, em 14/10, após a confirmação de Lula, publicou vídeo dizendo \"Eu só queria que você confirmasse\"; a reportagem não qualifica o anúncio anterior como estratégia.",
+   "fonte": {
+    "titulo": "Flávio diz que vai ao debate da Band após Lula confirmar presença",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-confirma-ida-ao-debate-da-band/",
+    "data": "2026-10-14",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-lula-10",
+   "confirma": false,
+   "nota": "A reportagem não trata do julgamento de 02/09, mas registra que, em 26/08/2026, o ministro André Mendonça rejeitou, por intempestividade e sem exame de mérito, pedido de um eleitor para impugnar o registro de Lula por suposto vínculo com o PCC, o que diverge da observação da base de que não houve impugnação.",
+   "fonte": {
+    "titulo": "TSE rejeita pedido de impugnação de candidatura de Lula por elo com PCC",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-rejeita-pedido-de-impugnacao-de-candidatura-de-lula-por-elo-com-pcc/",
+    "data": "2026-08-26",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-10",
+   "confirma": true,
+   "nota": "Confirma que o inquérito da PF originado em investigação sobre plataformas de pagamento e apostas foi enviado ao STF em 08/10 e está com Alexandre de Moraes, e cita a conta da Alcazar Holdings em que Flávio constaria como usuário master e o custeio de viagens pela controladora da Rede Loto; esses elementos aparecem como conteúdo do requerimento de CPMI, e a reportagem não informa se Flávio é formalmente investigado.",
+   "fonte": {
+    "titulo": "CPMI para investigar Flávio Bolsonaro e Willer Tomaz reúne 100 assinaturas",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/cpmi-para-investigar-flavio-e-willer-tomaz-reune-100-assinaturas/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-flavio-01",
+   "confirma": true,
+   "nota": "Confirma a indicação de Flávio como usuário master da conta da Alcazar Holdings, o pedido de desvinculação enviado ao banco em 22/05/2025 e a movimentação de cerca de R$ 130 milhões entre março e maio de 2025 em conta ligada a Tomaz; não menciona denúncia.",
+   "fonte": {
+    "titulo": "CPMI para investigar Flávio Bolsonaro e Willer Tomaz reúne 100 assinaturas",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/cpmi-para-investigar-flavio-e-willer-tomaz-reune-100-assinaturas/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  }
+ ],
+ "evidencias": [
+  {
+   "id": "reforco-nacional_instituicoes-flavio-01",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "propaganda que associa Lula a facções",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 08/10/2026, o TSE, com relatoria de André Mendonça (Rp 0600955-65.2026.6.00.0000), a pedido da federação liderada pelo PT, determinou a exclusão de publicações de Flávio no X que associavam Lula ao PCC e ao CV sem base factual mínima, por configurarem grave descontextualização. Uma terceira publicação, montagem feita com inteligência artificial, foi considerada irregular por não identificar o uso da tecnologia.",
+   "data_fato": "2026-10-08",
+   "fontes": [
+    {
+     "titulo": "TSE manda Flávio apagar vídeos com IA que associam Lula a facções",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-flavio-apagar-videos-com-ia-que-associam-lula-a-faccoes/",
+     "data": "2026-10-08",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "TSE manda Flávio apagar posts que ligam Lula à defesa do crime",
+     "veiculo": "Consultor Jurídico (Conjur)",
+     "url": "https://conjur.com.br/2026-out-09/associar-candidato-a-faccoes-sem-fatos-ultrapassa-limite-da-propaganda-politica/",
+     "data": "2026-10-09",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Mendonça muda de posição, e TSE derruba posts de Flávio que associam Lula a crime organizado",
+     "veiculo": "Jota",
+     "url": "https://www.jota.info/eleicoes/eleicoes-2026/mendonca-muda-de-posicao-e-tse-derruba-posts-de-flavio-que-associam-lula-a-crime-organizado",
+     "data": "2026-10",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O relator inicialmente entendia que as publicações poderiam permanecer no ar e mudou de posição após votos divergentes no plenário virtual. As reportagens consultadas não registram manifestação da defesa de Flávio.",
+   "limitacoes": "Os veículos divergem sobre a publicação feita com IA: a CNN Brasil relata ordem de remoção das três publicações em decisão unânime; o Conjur afirma que a montagem não foi removida e que Flávio foi multado pela falta de rotulagem. Do Jota só o título estava visível. Trata-se de propaganda eleitoral, não de imputação penal."
+  },
+  {
+   "id": "reforco-nacional_instituicoes-flavio-02",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "impulsionamento de propaganda negativa",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em decisão divulgada em 05/10/2026, o ministro André Mendonça (TSE), em ação da coligação de Lula, multou Flávio em R$ 5 mil por impulsionar no Instagram, entre 4 e 18/09/2026, vídeo que afirmava que \"Lula abandonou o Brasil\", por ser vedado o impulsionamento pago de propaganda negativa. A publicação foi mantida no ar, e o ministro não reconheceu falsidade nem ofensa à honra de Lula.",
+   "data_fato": "2026-10-05",
+   "fontes": [
+    {
+     "titulo": "Mendonça multa Flávio Bolsonaro por impulsionar propaganda contra Lula",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/mendonca-multa-flavio-bolsonaro-por-impulsionar-propaganda-contra-lula/",
+     "data": "2026-10-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A decisão afirma que as críticas não são ilícitas por si só e podem circular de forma orgânica; foram negados a retirada da postagem e o pedido de proibição genérica de críticas futuras.",
+   "limitacoes": "A sanção decorre da forma de divulgação (impulsionamento pago), não do conteúdo; decisão monocrática, sem informação sobre recurso."
+  },
+  {
+   "id": "reforco-nacional_instituicoes-flavio-03",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "vídeo com crianças contra Lula",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "O ministro Marco Aurélio Bellizze (TSE), em liminar parcialmente deferida na Representação 0602893-95.2026.6.00.0000, a pedido da coligação de Lula, determinou que Nikolas Ferreira e Flávio Bolsonaro removessem em 24 horas vídeo divulgado em 12/10/2026 em que crianças atribuem crimes e problemas econômicos a Lula, por \"exploração inadequada da inocência infantil\". Negou o bloqueio integral dos perfis e a proibição genérica de postagens futuras.",
+   "data_fato": "2026-10-14",
+   "fontes": [
+    {
+     "titulo": "Nikolas e Flávio devem apagar vídeo que usa crianças contra Lula",
+     "veiculo": "Consultor Jurídico (Conjur)",
+     "url": "https://conjur.com.br/2026-out-14/ministro-do-tse-manda-nikolas-e-flavio-apagarem-video-com-criancas-contra-lula/",
+     "data": "2026-10-14",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A reportagem não registra manifestação da defesa de Flávio ou de Nikolas.",
+   "limitacoes": "Liminar submetida ao plenário do TSE, cujo resultado não foi localizado; a reportagem não informa multa."
+  },
+  {
+   "id": "reforco-nacional_instituicoes-flavio-04",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "vídeo sobre garis e propina atribuída a Lulinha",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 15/10/2026, a maioria do TSE, a pedido da coligação de Lula, determinou a remoção de vídeo de Flávio que recortava fala de Lula sobre garis e afirmava que Lulinha é acusado de receber R$ 300 mil de propina do Careca do INSS. Nunes Marques, Dias Toffoli e Estela Aranha votaram pela remoção do trecho sobre a propina, por imputação criminal sem base factual; Floriano de Azevedo Marques e Villas Bôas Cueva, também pela descontextualização da fala sobre garis.",
+   "data_fato": "2026-10-15",
+   "fontes": [
+    {
+     "titulo": "TSE determina remoção de vídeo de Flávio que liga Lula a caso do INSS",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/tse-determina-remocao-de-video-de-flavio-que-liga-lula-a-caso-do-inss/",
+     "data": "2026-10-15",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O relator, André Mendonça, votou contra a remoção, por entender que as críticas integram o debate político e que as referências ao INSS têm respaldo em notícias e apurações.",
+   "limitacoes": "A reportagem não informa o placar formal, prazo ou multa; Fábio Luís Lula da Silva não foi indiciado nem denunciado segundo as fontes da base."
+  },
+  {
+   "id": "reforco-nacional_instituicoes-lula-01",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "impulsionamento de vídeo que liga Flávio ao crime organizado",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em liminar divulgada em 13/10/2026, a ministra Estela Aranha (TSE), a pedido da campanha de Flávio, determinou a suspensão do impulsionamento pago e a remoção, em 24 horas, de vídeo da campanha de Lula no Facebook e no Instagram que dizia que Flávio \"faz parte desse crime organizado\", por ser irregular impulsionar propaganda negativa contra adversário.",
+   "data_fato": "2026-10-13",
+   "fontes": [
+    {
+     "titulo": "TSE manda Lula tirar do ar vídeo que liga Flávio ao crime organizado",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-lula-tirar-do-ar-video-que-liga-flavio-ao-crime-organizado/",
+     "data": "2026-10-13",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A reportagem não registra manifestação da campanha de Lula.",
+   "limitacoes": "Decisão monocrática liminar; a campanha de Flávio alegou 325 impulsionamentos, número não verificado pela reportagem. Não foi possível confirmar se esta peça coincide com alguma das já registradas na base."
+  },
+  {
+   "id": "reforco-nacional_instituicoes-lula-02",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "vídeo sobre tesouraço em programas sociais",
+   "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 13/10/2026, o ministro André Mendonça (TSE) concedeu liminar para retirar vídeo de Lula sobre suposto tesouraço em programas sociais atribuído a Flávio, que classificou como \"sabidamente inverídico\", com multa diária de R$ 10 mil. No plenário virtual, a maioria votou para derrubar a liminar e liberar o vídeo, mas Mendonça pediu destaque em 15/10, interrompendo o julgamento; a liminar permanece em vigor.",
+   "data_fato": "2026-10-15",
+   "fontes": [
+    {
+     "titulo": "Após maioria formada, Mendonça suspende sessão sobre tesouraço de Flávio",
+     "veiculo": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/apos-maioria-formada-mendonca-suspende-sessao-sobre-tesouraco-de-flavio/",
+     "data": "2026-10-15",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A maioria formada no plenário virtual divergiu do relator e votou pela liberação do vídeo; o plano de Flávio prevê um tesouraço com extinção de ministérios (economia-flavio-09).",
+   "limitacoes": "A reportagem não informa o placar nem os votos; o caso aguarda nova pauta definida pelo presidente do TSE, sem prazo."
+  }
+ ],
+ "lacunas": [
+  "Estadão e UOL: domínios inacessíveis à ferramenta de busca (bloqueio ao agente); nenhum reforço desses veículos pôde ser obtido.",
+  "Folha de S.Paulo, O Globo, Valor Econômico, Veja e g1: as buscas restritas a esses domínios não retornaram reportagens sobre os fatos procurados; os reforços vieram de CNN Brasil, Conjur, Migalhas e Jota.",
+  "O limite de buscas da sessão se esgotou antes de cobrir: integridade-flavio-08 (mensagens publicadas pelo Intercept), atualizacao-fatos-flavio-02 (pedido de prorrogação do inquérito Dark Horse), democracia-flavio-02, -09 e trajetoria-flavio-04, -05, -09, -10, -15, -17, -18; e democracia-lula-02, -03, -04, -06, -07, -08, -12, trajetoria-lula-01 a -04, -18 e -21.",
+  "Flávio: não foram localizadas nos veículos indicados as declarações de democracia-flavio-06 (11/09/2025; só se encontrou a fala de \"farsa\" de 09/09/2025, anterior à condenação), democracia-flavio-08 e trajetoria-flavio-17 (\"tenho preço\"), democracia-flavio-11 (Canal Livre) e democracia-flavio-17 (Fiesp).",
+  "Lula: não foram localizadas reportagem sobre a declaração de \"mandato só\" (trajetoria-lula-17), checagem específica da fala no debate da Band de 2022 (integridade-lula-08; a CNN checou a mesma alegação em outras ocasiões) nem reportagem dos veículos indicados sobre o julgamento do registro de 2026 (a CNN localizada trata do registro de 2022).",
+  "Matéria judicial com divergência de estágio ou data registrada como confirma=false: integridade-lula-01 (sessão plenária de 15/04/2021), integridade-flavio-01 (denúncia oferecida em 19/10/2020, valores e período distintos), democracia-flavio-10 (ano do relatório venezuelano e data do desmentido do TSE), campanha-lula-04 e campanha-lula-06 (descrição da decisão divergente) e atualizacao-fatos-lula-10 (impugnação intempestiva rejeitada em 26/08/2026)."
+ ]
+}

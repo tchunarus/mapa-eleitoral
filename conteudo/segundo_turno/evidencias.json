@@ -90,6 +90,20 @@
     "url": "https://conjur.com.br/2026-out-20/lula-autoriza-ao-tse-quebra-dos-proprios-sigilos-se-flavio-fizer-o-mesmo/",
     "data": "2026-10-20",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula challenges Bolsonaro to release personal records before election",
+    "veiculo": "Al Jazeera (com Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Para Lula, Flávio não deveria ir a debate sem quebrar sigilo",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-flavio-nao-pode-ir-a-debate-sem-quebrar-sigilo/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Aliados de Flávio classificam a iniciativa como 'factóide' e 'armadilha' eleitoral (ver evidência atualizacao-campanha-flavio-08).",
@@ -126,6 +140,13 @@
     "veiculo": "Agência Brasil",
     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-confirma-pec-da-tarifa-zero-flavio-tem-apoio-de-sertanejos",
     "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Free Bus Rides, Cash Back: Lula, Bolsonaro Court Brazil Voters With Costly Promises",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-21/free-bus-rides-cash-back-lula-bolsonaro-court-brazil-voters-ahead-of-election",
+    "data": "2026-10-21",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -246,6 +267,13 @@
     "veiculo": "Metrópoles (coluna Igor Gadelha)",
     "url": "https://www.metropoles.com/colunas/igor-gadelha/aliados-de-flavio-criticam-fala-de-daniella-marques-sobre-bolsa-familia",
     "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's Lula announces welfare increases ahead of presidential election",
+    "veiculo": "Al Jazeera (com Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/9/17/brazils-lula-announces-welfare-increases-ahead-of-presidential-election",
+    "data": "2026-09-17",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -598,6 +626,20 @@
     "url": "https://www.cartacapital.com.br/justica/tse-proibe-nikolas-e-marcal-de-republicar-conteudos-falsos-sobre-lula-e-restringe-impulsionamento/",
     "data": "2026-10-19",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE proíbe Meta e X de privilegiar perfis de Nikolas e Marçal na campanha",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2026-out-19/tse-proibe-meta-e-x-de-privilegiar-perfis-nikolas-e-marcal-durante-a-campanha/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE proíbe Nikolas e Marçal de divulgarem conteúdos que já foram removidos",
+    "veiculo": "CNN Brasil (blog Teo Cury)",
+    "url": "https://www.cnnbrasil.com.br/blogs/teo-cury/eleicoes/tse-proibe-nikolas-e-marcal-de-divulgarem-conteudos-que-ja-foram-removidos/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A acusação sustenta que Nikolas e Marçal seriam os principais difusores da campanha de Flávio fora dos canais oficiais. Cueva negou suspender a monetização, exigir relatórios diários e emitir ordem genérica sobre oferta de prêmios por propaganda.",
@@ -831,6 +873,13 @@
     "url": "https://revistaforum.com.br/politica/lula-sanciona-aumento-teto-perdao-dividas-mei/",
     "data": "2026-10-21",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Senado aprova aumento do teto do MEI e perdão de dívidas: veja quando começa a valer",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/senado-aprova-aumento-do-teto-do-mei-e-perdao-de-dividas-veja-quando-comeca-a-valer/",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A aprovação foi praticamente unânime nas duas Casas, inclusive com voto favorável de Flávio no Senado. Não se localizou, no período, avaliação independente (IFI ou consultoria) sobre o custo da remissão nem crítica nomeada ao projeto.",
@@ -859,6 +908,27 @@
     "titulo": "Itamaraty reage a Milei e o acusa de tentar interferir nas eleições brasileiras",
     "veiculo": "Estado de Minas",
     "url": "https://www.em.com.br/politica/2026/10/7524505-itamaraty-reage-a-milei-e-o-acusa-de-tentar-interferir-nas-eleicoes-brasileiras.html",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brasil denuncia un intento de \"injerencia\" en el balotaje tras unos comentarios de Milei",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20261021-brasil-denuncia-un-intento-de-injerencia-en-el-balotaje-tras-unos-comentarios-de-milei",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil Accuses Milei of Election Meddling Over Attack on Lula",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-accuses-milei-of-election-meddling-for-calling-lula-thief-ahead-of-vote",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Itamaraty rebate comentário de Milei sobre fraude em eleição: Inaceitável",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/internacional/itamaraty-rebate-comentario-de-milei-sobre-fraude-em-eleicao-inaceitavel/",
     "data": "2026-10-20",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -891,6 +961,13 @@
     "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais",
     "data": "2026-10-21",
     "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-19102026/",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A mediana do IPCA de 2026 recuou marginalmente em relação à edição anterior (de 5,2245% para 5,2190%), e a da Selic se manteve. Não se localizou manifestação do governo sobre esta edição.",
@@ -972,6 +1049,13 @@
     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-sao-os-novos-senadores-e-como-fica-composicao-do-senado",
     "data": "2026-10",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "PL amplia bancada e terá 121 deputados; veja a nova composição da Câmara",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/pl-amplia-bancada-e-tera-121-deputados-veja-a-nova-composicao-da-camara/",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A composição do Senado pode mudar com o 2º turno de governadores no Acre, Amazonas e Tocantins e com o julgamento de registros sub judice; a soma divulgada pela Rádio Senado é de 80 cadeiras.",
@@ -986,7 +1070,7 @@
   "tipo": "DECISAO_JUDICIAL_DEFINITIVA",
   "sentido": "CONTEXTO",
   "peso_probatorio": "MEDIO",
-  "afirmacao": "O plenário virtual do TSE aprovou por unanimidade, em 02/09/2026, o registro da chapa Luiz Inácio Lula da Silva e Geraldo Alckmin (coligação de PT e PSB), relatado pelo ministro André Mendonça. As reportagens consultadas não mencionam impugnação ao registro.",
+  "afirmacao": "O plenário virtual do TSE aprovou por unanimidade, em 02/09/2026, o registro da chapa Luiz Inácio Lula da Silva e Geraldo Alckmin (coligação de PT e PSB), relatado pelo ministro André Mendonça. Antes, em 26/08/2026, o relator rejeitou, por intempestividade e sem exame de mérito, pedido de impugnação apresentado por um eleitor.",
   "data_fato": "2026-09-02",
   "fontes": [
    {
@@ -1001,6 +1085,13 @@
     "veiculo": "Correio da Manhã",
     "url": "https://www.correiodamanha.com.br/politica/2026/08/315354-tse-comeca-a-julgar-registros-de-lula-flavio-bolsonaro-e-zema.html",
     "data": "2026-08-31",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE rejeita pedido de impugnação de candidatura de Lula por elo com PCC",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-rejeita-pedido-de-impugnacao-de-candidatura-de-lula-por-elo-com-pcc/",
+    "data": "2026-08-26",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -1037,6 +1128,13 @@
     "titulo": "PF e Moraes ampliam pressão sobre Flávio a poucos dias do 2º turno",
     "veiculo": "Gazeta do Povo",
     "url": "https://www.gazetadopovo.com.br/republica/pf-e-moraes-ampliam-pressao-sobre-flavio-a-poucos-dias-do-2o-turno/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "CPMI para investigar Flávio Bolsonaro e Willer Tomaz reúne 100 assinaturas",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/cpmi-para-investigar-flavio-e-willer-tomaz-reune-100-assinaturas/",
     "data": "2026-10-20",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -1226,6 +1324,20 @@
     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-sao-os-novos-senadores-e-como-fica-composicao-do-senado",
     "data": "2026-10",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Bolsonaro favourite to win: What Brazil's first round of elections tells us",
+    "veiculo": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "PL amplia bancada e terá 121 deputados; veja a nova composição da Câmara",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/pl-amplia-bancada-e-tera-121-deputados-veja-a-nova-composicao-da-camara/",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A composição do Senado pode mudar com o 2º turno de governadores no Acre, Amazonas e Tocantins e com registros sub judice; a soma divulgada pela Rádio Senado é de 80 cadeiras.",
@@ -1262,6 +1374,13 @@
     "veiculo": "Brasil de Fato",
     "url": "https://www.brasildefato.com.br/2026/08/14/tse-suspende-sistema-de-filiacao-partidaria-e-flavio-bolsonaro-pl-tem-candidatura-a-presidencia-registrada-apos-problema-com-o-partido-missao/",
     "data": "2026-08-14",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE restabelece filiação de Flávio ao PL e libera registro de candidatura",
+    "veiculo": "CNN Brasil (blog Jussara Soares)",
+    "url": "https://www.cnnbrasil.com.br/blogs/jussara-soares/politica/tse-restabelece-filiacao-de-flavio-ao-pl-e-libera-registro-de-candidatura/",
+    "data": "2026-08-13",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -1323,6 +1442,20 @@
     "url": "https://www.metropoles.com/brasil/globo-band-record-debates-flavio",
     "data": "2026-10-06",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's leading presidential candidates snub TV debate ahead of Sunday's election",
+    "veiculo": "The Washington Post (AP)",
+    "url": "https://www.washingtonpost.com/world/2026/10/01/brazil-election-president-debate-lula-bolsonaro/62dfbfa2-be0e-11f1-81fc-9b76f8343b6c_story.html",
+    "data": "2026-10-01",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula informa que não vai a debate no 1° turno",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/lula-informa-que-nao-vai-a-debate-no-1-turno/",
+    "data": "2026-09-30",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Flávio Bolsonaro também não participou de debate televisionado no 1º turno, condicionando sua presença à de Lula (ver campanha-flavio-02).",
@@ -1346,6 +1479,13 @@
     "url": "https://static.poder360.com.br/uploads/2026/08/Decisao_TSE_suspende_comercial_de_Lula_criticando_curriculo_Flavio.pdf",
     "data": "2026-08-30",
     "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "TSE suspende propaganda de Lula sobre currículo de Flávio",
+    "veiculo": "CNN Brasil (blog Jussara Soares)",
+    "url": "https://www.cnnbrasil.com.br/blogs/jussara-soares/eleicoes/tse-suspende-propaganda-de-lula-sobre-curriculo-de-flavio/",
+    "data": "2026-08-30",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Segundo a cobertura, a própria decisão ressalvou que não julga a veracidade histórica de cada episódio, e sim a forma de apresentação; mencionar fatos pretéritos é lícito na crítica política.",
@@ -1369,9 +1509,16 @@
     "url": "https://www.dgabc.com.br/Noticia/4349322/nunes-marques-suspende-propaganda-de-lula-que-associa-flavio-bolsonaro-a-rachadinha-e-master",
     "data": "2026-09-27",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Nunes Marques suspende jingle de Lula que liga Flávio a Vorcaro",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/nunes-marques-suspende-jingle-de-lula-que-liga-flavio-a-vorcaro/",
+    "data": "2026-09-27",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
-  "contraponto": "A decisão será submetida ao plenário após a defesa da campanha de Lula e manifestação do Ministério Público Eleitoral; a campanha não havia se manifestado até a publicação.",
+  "contraponto": "A decisão será submetida ao plenário após a defesa da campanha de Lula e manifestação do Ministério Público Eleitoral; a campanha não havia se manifestado até a publicação. A CNN Brasil noticiou liminar de Nunes Marques, datada de 26/09/2026, contra jingle de rádio de Lula que associava Flávio ao caso Master e à rachadinha; não foi possível confirmar se é a mesma peça.",
   "limitacoes": "Decisão provisória; não foi localizado o julgamento de mérito.",
   "frente": "campanha"
  },
@@ -1415,9 +1562,16 @@
     "url": "https://www.oliberal.com/politica/andre-mendonca-suspende-propaganda-de-lula-que-vincula-flavio-bolsonaro-as-milicias-1.1183272",
     "data": "2026-10-16",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Mendonça segue Plenário e proíbe vídeo de Lula que liga Flávio a milícias",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/mendonca-segue-plenario-e-proibe-video-de-lula-que-liga-flavio-a-milicias/",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
-  "contraponto": "O ministro invocou, por isonomia, decisão anterior do TSE que suspendeu propaganda associando Lula ao crime organizado sem provas. A assessoria de Lula não respondeu à reportagem.",
+  "contraponto": "O ministro invocou, por isonomia, decisão anterior do TSE que suspendeu propaganda associando Lula ao crime organizado sem provas. A assessoria de Lula não respondeu à reportagem. Segundo a CNN Brasil, a decisão de Mendonça proibiu novo impulsionamento e republicação do vídeo, com base na vedação de impulsionamento de propaganda negativa, sem mencionar multa nem uso de inteligência artificial.",
   "limitacoes": "Liminar sujeita a referendo do plenário.",
   "frente": "campanha"
  },
@@ -1460,6 +1614,13 @@
     "veiculo": "Portal de Prefeitura",
     "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/tse-determina-remocao-de-publicacao-falsa-sobre-uso-de-drogas-ato-lula/633961/",
     "data": "2026-10-13",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE manda Flávio remover vídeo fake de consumo de drogas em ato pró-Lula",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-flavio-remover-video-fake-de-consumo-de-drogas-em-ato-pro-lula/",
+    "data": "2026-10-12",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -1648,6 +1809,27 @@
     "url": "https://www.congressoemfoco.com.br/noticia/123232/flavio-diz-enganou-lula-e-que-ira-ao-debate-para-esfregar-verdade",
     "data": "2026-10-14",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula and Bolsonaro spar in Brazil's fiery first presidential run-off debate",
+    "veiculo": "Al Jazeera (com AFP, AP e Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil poll debate",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20261018-lula-bolsonaro-set-for-first-debate-showdown-in-bitter-election-race",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula anuncia ida a debate e desafia Flávio: Vamos mostrar nossa diferença",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/lula-anuncia-ida-a-debate-e-desafia-flavio-vamos-mostrar-nossa-diferenca/",
+    "data": "2026-10-13",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Le Monde e Al Jazeera descreveram o debate como dominado por acusações mútuas, mais que por propostas.",
@@ -1745,6 +1927,27 @@
     "url": "https://www.dgabc.com.br/Noticia/4350013/lula-diz-a-globo-que-nao-ira-a-ultimo-debate-do-1-turno-presidente-participara-de-podcast",
     "data": "2026-09-30",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula and Bolsonaro spar in Brazil's fiery first presidential run-off debate",
+    "veiculo": "Al Jazeera (com AFP, AP e Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's leading presidential candidates snub TV debate ahead of Sunday's election",
+    "veiculo": "The Washington Post (AP)",
+    "url": "https://www.washingtonpost.com/world/2026/10/01/brazil-election-president-debate-lula-bolsonaro/62dfbfa2-be0e-11f1-81fc-9b76f8343b6c_story.html",
+    "data": "2026-10-01",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio diz que vai ao debate da Band após Lula confirmar presença",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-confirma-ida-ao-debate-da-band/",
+    "data": "2026-10-14",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A campanha apresenta a manobra como tática para forçar o confronto que Lula evitara no 1º turno.",
@@ -1820,6 +2023,13 @@
     "veiculo": "Portal de Prefeitura",
     "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/tse-determina-remocao-de-publicacao-falsa-sobre-uso-de-drogas-ato-lula/633961/",
     "data": "2026-10-13",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE manda Flávio remover vídeo fake de consumo de drogas em ato pró-Lula",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-flavio-remover-video-fake-de-consumo-de-drogas-em-ato-pro-lula/",
+    "data": "2026-10-12",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -2181,6 +2391,27 @@
     "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/em-ato-do-8-de-janeiro-lula-veta-dosimetria-oposicao-articula-reacao/",
     "data": "2026-01-09",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's President Lula vetoes bill to trim Bolsonaro prison sentence",
+    "veiculo": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/1/9/brazils-president-lula-vetoes-bill-to-trim-bolsonaro-prison-sentence",
+    "data": "2026-01-09",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Sob gritos de sem anistia, Lula veta projeto sobre penas do 8/1",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/447536/sob-gritos-de-sem-anistia--lula-veta-projeto-sobre-penas-do-8-1",
+    "data": "2026-01-08",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Veja próximos passos após Lula vetar PL da Dosimetria",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/veja-proximos-passos-apos-lula-vetar-pl-da-dosimetria/",
+    "data": "2026-01-08",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "O Jornal de Brasília destacou o caráter eleitoral da cerimônia e a ausência dos presidentes da Câmara e do Senado. O Congresso derrubou o veto em 30/04/2026 (Câmara 318 x 144; Senado 49 x 24), e a base do governo anunciou que recorreria ao STF.",
@@ -2293,6 +2524,20 @@
     "veiculo": "Movimento Econômico",
     "url": "https://movimentoeconomico.com.br/politica/2026/10/04/lula-admite-surpresa-e-flavio-celebra-resultado-comeca-a-batalha-do-segundo-turno/",
     "data": "2026-10-04",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Bolsonaro rides right-wing surge into Brazil's election runoff",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20261005-bolsonaro-rides-right-wing-surge-into-brazil-s-election-runoff",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula: Povo gosta que eu dispute 2º turno, sou muito bom no mata-mata",
+    "veiculo": "CNN Brasil (Estadão Conteúdo)",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/o-povo-gosta-que-eu-dispute-o-segundo-turno-e-eu-sou-muito-bom-no-mata-mata-diz-lula/",
+    "data": "2026-10-05",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -2449,6 +2694,13 @@
     "url": "https://www.nbcnews.com/politics/trump-administration/trump-brazilian-products-tariffs-bolsonaro-rcna222534",
     "data": "2025-07-30",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Sem soberania, o Brasil não existiria, diz Lula após tarifaço dos EUA",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/sem-soberania-o-brasil-nao-existiria-diz-lula-apos-tarifaco-dos-eua/",
+    "data": "2025-07-31",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Oposicionistas acusaram o governo de usar a crise para fins eleitorais; Lula, por sua vez, atribuiu as medidas a políticos brasileiros que, segundo ele, \"traem o país\", acusação contestada pela família Bolsonaro.",
@@ -2486,6 +2738,20 @@
     "url": "https://www.gazetadopovo.com.br/mundo/imprensa-internacional-repercute-decisao-dos-eua-de-retirar-sancao-magnitsky-contra-moraes/",
     "data": "2025-12-12",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Trump meets Brazil's Lula at ASEAN summit, touts 'pretty good deals'",
+    "veiculo": "Al Jazeera (com agências)",
+    "url": "https://www.aljazeera.com/news/2025/10/26/trump-meets-brazils-lula-at-asean-summit-touts-pretty-good-deals",
+    "data": "2025-10-26",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Trump lifts sanctions on Brazilian judge targeted over Bolsonaro case",
+    "veiculo": "The Washington Post",
+    "url": "https://www.washingtonpost.com/national-security/2025/12/12/brazil-sanctions-lifted-trump-moraes-bolsonaro/",
+    "data": "2025-12-12",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Em 01/06/2026 o governo americano anunciou nova sobretaxa de 25% sobre produtos brasileiros; Lula atribuiu a medida à atuação da família Bolsonaro, o que Flávio negou (ver evidência de Flávio sobre o encontro com Trump).",
@@ -2515,6 +2781,13 @@
     "veiculo": "Poder360",
     "url": "https://www.poder360.com.br/justica/conceito-de-democracia-nao-e-relativo-diz-gilmar-mendes/",
     "data": "2023-07-02",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Conceito de democracia é relativo para você e para mim, diz Lula ao responder sobre eleições na Venezuela",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/conceito-de-democracia-e-relativo-para-voce-e-para-mim-diz-lula-ao-responder-sobre-eleicoes-na-venezuela/",
+    "data": "2023-06-29",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -2583,6 +2856,13 @@
     "url": "https://www.elheraldo.hn/mundo/lula-da-silva-afirma-captura-nicolas-maduro-parte-estados-unidos-cruza-linea-inaceptable-AC28803311",
     "data": "2026-01-03",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "World reacts to US bombing of Venezuela, 'capture' of Maduro",
+    "veiculo": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/1/3/world-reacts-to-reported-us-bombing-of-venezuela",
+    "data": "2026-01-03",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A oposição, inclusive Flávio Bolsonaro, celebrou a ação como \"libertação\" e passou a explorar a associação entre Lula e Maduro (coluna do Correio Braziliense de 06/01/2026). O programa de Flávio afirma que o governo Lula recebeu Maduro \"com honras\".",
@@ -2620,6 +2900,13 @@
     "url": "https://www.revistaoeste.com/mundo/lula-vai-a-russia-para-participar-de-desfile-que-putin-usa-como-propaganda-de-seu-regime/",
     "data": "2025-05",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula defende viagem à Rússia e diz que críticas são exploração política",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/internacional/lula-defende-viagem-a-russia-e-diz-que-criticas-sao-exploracao-politica/",
+    "data": "2025-05-10",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Críticos (oposição, imprensa internacional, Revista Oeste, Estadão) apontaram que o desfile é usado como propaganda pelo Kremlin e que Lula estava entre poucos líderes eleitos democraticamente presentes; Zelensky recusou contatos de Lula nos meses seguintes. Em junho de 2026, no G7 de Évian, Lula e Zelensky se reuniram e Kiev aceitou a oferta brasileira de ajuda para negociar a paz.",
@@ -2656,6 +2943,13 @@
     "veiculo": "Diario de Pernambuco (Estadão Conteúdo)",
     "url": "https://www.diariodepernambuco.com.br/politica/2026/01/11706161-netanyahu-da-boas-vindas-a-filhos-de-bolsonaro-e-deseja-sorte-a-flavio-na-eleicao.html",
     "data": "2026-01",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's Lula compares Israel's war on Gaza with the Holocaust",
+    "veiculo": "Al Jazeera (agências)",
+    "url": "https://www.aljazeera.com/news/2024/2/18/brazils-lula-compares-israels-war-on-gaza-with-the-holocaust",
+    "data": "2024-02-18",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -2761,6 +3055,13 @@
     "url": "https://mais.opovo.com.br/jornal/politica/2026/10/10/tse-ministros-ordenam-que-lula-e-janja-removam-videos-contra-flavio.html",
     "data": "2026-10-10",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE manda remover vídeos de Lula e Janja com ataques a Flávio Bolsonaro",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-remover-videos-de-lula-e-janja-com-ataques-a-flavio-bolsonaro/",
+    "data": "2026-10-08",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Os ministros distinguiram crítica política legítima de atribuição de propostas sem respaldo; aliados de Lula sustentam que se tratava de projeção política. As decisões serão submetidas ao plenário do TSE.",
@@ -2837,6 +3138,13 @@
     "url": "https://jovempan.com.br/noticias/politica/flavio-bolsonaro-protocola-pedido-de-impeachment-de-moraes-no-senado.html",
     "data": "2025-07-23",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio Bolsonaro apresenta pedido de impeachment de Moraes ao Senado",
+    "veiculo": "CNN Brasil (blog Caio Junqueira)",
+    "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/flavio-bolsonaro-apresenta-pedido-de-impeachment-de-moraes-ao-senado/",
+    "data": "2025-07-23",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "O processo por crime de responsabilidade de ministro do STF é instrumento previsto na ordem jurídica; havia mais de 50 pedidos parados no Senado e nunca um ministro foi afastado por essa via. Críticos apontam conflito de interesse por o pedido reagir a decisões contra o pai e o irmão.",
@@ -2873,6 +3181,13 @@
     "veiculo": "NBC News",
     "url": "https://www.nbcnews.com/politics/trump-administration/trump-brazilian-products-tariffs-bolsonaro-rcna222534",
     "data": "2025-07-30",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio Bolsonaro pede fim de tarifa de Trump e apaga post nas redes sociais",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-bolsonaro-pede-fim-de-tarifa-de-trump-e-apaga-post-nas-redes-sociais/",
+    "data": "2025-07-18",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -2985,6 +3300,13 @@
     "url": "https://www.congressoemfoco.com.br/noticia/118503/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria",
     "data": "2026-04-30",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio agradece parlamentares e chama dosimetria de primeiro degrau",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-agradece-parlamentares-e-chama-dosimetria-de-primeiro-degrau/",
+    "data": "2025-12-17",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Defensores argumentam que a lei corrige penas desproporcionais e falta de individualização; críticos e o ministro da Justiça Ricardo Lewandowski sustentam que crimes contra o Estado Democrático de Direito são insuscetíveis de anistia. A base do governo anunciou ação no STF contra a derrubada do veto.",
@@ -3038,6 +3360,13 @@
     "url": "https://acritica.net/eleicoes-2026/flavio-bolsonaro-critica-atuacao-no-caso-lulinha-e-promete-anistia-ao-pai/",
     "data": "2026-08-04",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Bolsonaro rides right-wing surge into Brazil's election runoff",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20261005-bolsonaro-rides-right-wing-surge-into-brazil-s-election-runoff",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Flávio sustenta que anistia é competência do Congresso e instrumento constitucional; críticos sustentam que crimes contra o Estado Democrático de Direito não admitem anistia ou indulto, questão que dependeria do STF. Especialistas apontam que, mesmo perdoado, Bolsonaro seguiria inelegível.",
@@ -3075,9 +3404,23 @@
     "url": "https://www.jornalopcao.com.br/ultimas-noticias/caiado-critica-flavio-bolsonaro-por-reuniao-com-embaixadores-para-atacar-as-urnas-eletronicas-849607/",
     "data": "2026-07",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio Bolsonaro cuestiona la fiabilidad del sistema de votación brasileño",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20260722-fl%C3%A1vio-bolsonaro-cuestiona-la-fiabilidad-del-sistema-de-votaci%C3%B3n-brasile%C3%B1o",
+    "data": "2026-07-22",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio Bolsonaro nega questionar sistema eleitoral brasileiro",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-bolsonaro-nega-questionar-sistema-eleitoral-brasileiro/",
+    "data": "2026-07-22",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
-  "contraponto": "Flávio reconheceu o erro em 02/08/2026 (ver evidência seguinte). O ex-governador Ronaldo Caiado criticou a reunião; a imprensa comparou o episódio à reunião de Jair Bolsonaro com embaixadores em 2022, que levou à sua inelegibilidade pelo TSE em 2023.",
+  "contraponto": "Flávio reconheceu o erro em 02/08/2026 (ver evidência seguinte). O ex-governador Ronaldo Caiado criticou a reunião; a imprensa comparou o episódio à reunião de Jair Bolsonaro com embaixadores em 2022, que levou à sua inelegibilidade pelo TSE em 2023. A CNN Brasil confirma o encontro, a menção à Smartmatic e a nota de 22/07 em que Flávio negou questionar o sistema eleitoral, mas atribui a ele referência a relatório sobre as eleições venezuelanas de 2010.",
   "limitacoes": "Pedido de observadores internacionais é prática admitida; o caráter falso refere-se à afirmação sobre a Smartmatic.",
   "frente": "democracia"
  },
@@ -3142,6 +3485,27 @@
     "url": "https://movimentoeconomico.com.br/politica/2026/10/04/lula-admite-surpresa-e-flavio-celebra-resultado-comeca-a-batalha-do-segundo-turno/",
     "data": "2026-10-04",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Bolsonaro rides right-wing surge into Brazil's election runoff",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20261005-bolsonaro-rides-right-wing-surge-into-brazil-s-election-runoff",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's presidential race: Three key takeaways from the first round",
+    "veiculo": "Al Jazeera (com AFP, Reuters e AP)",
+    "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio diz estar feliz com resultado do 1º turno: É o fim da era do PT",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-estar-feliz-com-resultado-do-1o-turno-e-o-fim-da-era-do-pt/",
+    "data": "2026-10-04",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A ausência de contestação ocorreu em cenário de vitória parcial do candidato.",
@@ -3177,6 +3541,20 @@
     "titulo": "Flávio Bolsonaro quer usar maioria no Congresso para mudar a Constituição e 'redemocratizar' o Brasil",
     "veiculo": "RTP (Portugal)",
     "url": "https://www.rtp.pt/noticias/mundo/flavio-bolsonaro-quer-usar-maioria-no-congresso-para-mudar-a-constituicao-e-redemocratizar-o-brasil_n1769995",
+    "data": "2026-10-07",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio diz que usará maioria no Congresso para mudar Constituição",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-usara-maioria-no-congresso-para-mudar-constituicao/",
+    "data": "2026-10-06",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio promete mudar Constituição; entenda caminhos e limites",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/466039/flavio-promete-mudar-constituicao-entenda-caminhos-e-limites",
     "data": "2026-10-07",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -3215,6 +3593,13 @@
     "veiculo": "SBT News (Coluna do Iander)",
     "url": "https://sbtnews.sbt.com.br/colunas/coluna-do-iander/plano-de-governo-de-flavio-bolsonaro-propoe-reforma-do-stf",
     "data": "2026-08",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio e Zema propõem mudanças no STF em planos de governo",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-zema-propoem-mudancas-no-stf-em-planos-de-governo/",
+    "data": "2026-08-17",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -3329,6 +3714,13 @@
     "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pre-candidatos-a-presidencia-do-brasil-repercutem-ataque-a-venezuela-e-captura-de-maduro/",
     "data": "2026-01-03",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's police open a probe into presidential candidate Flavio Bolsonaro",
+    "veiculo": "Al Jazeera (com AFP)",
+    "url": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro",
+    "data": "2026-04-15",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Defensores veem apoio à queda de um regime acusado de fraude eleitoral; críticos apontam endosso ao uso unilateral da força e à violação de soberania. Em 05/01/2026 a deputada Erika Hilton (PSOL) apresentou representação à PGR contra Flávio e Nikolas Ferreira por publicações que, segundo ela, sugeriam ação semelhante contra Lula (sem decisão localizada).",
@@ -3366,6 +3758,13 @@
     "url": "https://divulgacandcontas.tse.jus.br/",
     "data": "2026-08",
     "tipo_fonte": "CAMPANHA"
+   },
+   {
+    "titulo": "Netanyahu invita al candidato presidencial brasileño Flávio Bolsonaro a Israel",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20261009-netanyahu-invita-al-candidato-presidencial-brasile%C3%B1o-fl%C3%A1vio-bolsonaro-a-israel",
+    "data": "2026-10-09",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A transferência foi anunciada por Jair Bolsonaro em 2019 e não implementada; a mudança tem implicações para a relação com países árabes, mercados de exportação, que as fontes não detalham.",
@@ -3395,6 +3794,20 @@
     "veiculo": "Money Times",
     "url": "https://www.moneytimes.com.br/flavio-bolsonaro-viaja-aos-eua-para-encontro-com-trump-e-avisa-senado/",
     "data": "2026-05-25",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's Flavio Bolsonaro meets with Trump amid troubled presidential bid",
+    "veiculo": "Al Jazeera (Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/5/27/brazils-flavio-bolsonaro-meets-with-trump-amid-troubled-presidential-bid",
+    "data": "2026-05-27",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Trump, Flávio Bolsonaro Meet Ahead of Brazil's Presidential Election",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/trump-meets-brazil-s-flavio-bolsonaro-at-white-house",
+    "data": "2026-05-26",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -3592,6 +4005,13 @@
     "url": "https://www.bemparana.com.br/noticias/economia/pib-do-brasil-fecha-2025-com-alta-de-23-mas-com-ritmo-abaixo-dos-anos-anteriores/",
     "data": "2026-03-03",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Com desempenho do agro, economia brasileira cresce 2,3% em 2025, diz IBGE",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/economia-brasileira-cresce-23-em-2025-diz-ibge/",
+    "data": "2026-03-03",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A agropecuária respondeu por cerca de um terço do crescimento de 2025 (safras recordes), fator só parcialmente ligado à política econômica.",
@@ -3606,26 +4026,40 @@
   "tipo": "DADO_OFICIAL",
   "sentido": "FAVORAVEL",
   "peso_probatorio": "ALTO",
-  "afirmacao": "A PNAD Contínua registrou desocupação de 5,4% no trimestre encerrado em janeiro de 2026, a menor da série comparável iniciada em 2012, igualando o trimestre agosto-outubro de 2025.",
-  "data_fato": "2026-03-05",
+  "afirmacao": "A PNAD Contínua registrou desocupação de 5,1% no trimestre encerrado em dezembro de 2025, a menor da série iniciada em 2012, e taxa média de 5,6% em 2025, ante 6,6% em 2024. No trimestre encerrado em março de 2026, a taxa subiu para 6,1%, movimento sazonal habitual no início do ano.",
+  "data_fato": "2025-12",
   "fontes": [
    {
-    "titulo": "Desemprego fica em 5,4% no trimestre encerrado em janeiro de 2026 (Agência Brasil)",
-    "veiculo": "CUT (reprodução da Agência Brasil)",
-    "url": "https://www.cut.org.br/noticias/desemprego-fica-em-5-4-no-trimestre-encerrado-em-janeiro-de-2026-9a19/amp",
-    "data": "2026-03-05",
+    "titulo": "Desocupação cai para 5,1% em dezembro, e 2025 tem melhores resultados da série histórica",
+    "veiculo": "IBGE, Agência de Notícias",
+    "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/45761-desocupacao-cai-para-5-1-em-dezembro-e-2025-tem-melhores-resultados-da-serie-historica",
+    "data": "2026-01-30",
+    "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "PNAD Contínua: taxa de desocupação é de 6,1% e taxa de subutilização é de 14,3% no trimestre encerrado em março",
+    "veiculo": "IBGE, Agência de Notícias",
+    "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46502-pnad-continua-taxa-de-desocupacao-e-de-6-1-e-taxa-de-subutilizacao-e-de-14-3-no-trimestre-encerrado-em-marco",
+    "data": "2026-04",
+    "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "Desemprego cai para 5,1% no tri até dezembro, recorde da série histórica",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/desemprego-cai-para-51-no-trimestre-ate-dezembro-mostra-ibge/",
+    "data": "2026-01-30",
     "tipo_fonte": "JORNALISTICA"
    },
    {
-    "titulo": "Fitch mantém nota BB para o Brasil, estável, porém longe do grau de investimento",
-    "veiculo": "Forbes Brasil",
-    "url": "https://forbes.com.br/forbes-money/2026/06/fitch-mantem-nota-bb-para-o-brasil-estavel-porem-longe-do-grau-de-investimento/",
-    "data": "2026-06-16",
+    "titulo": "Taxa de desemprego fica em 5,4% no trimestre encerrado em janeiro, diz IBGE",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/taxa-de-desemprego-fica-em-54-no-trimestre-encerrado-em-janeiro-diz-ibge/",
+    "data": "2026-03-05",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "O Copom, em setembro de 2026, descreveu o mercado de trabalho como aquecido, o que também pressiona a inflação de serviços.",
-  "limitacoes": "O release oficial do IBGE não foi aberto diretamente; a taxa do 1º trimestre de 2026 subiu para 6,1% por sazonalidade, segundo a imprensa.",
+  "limitacoes": "O dado mais recente da série não foi conferido diretamente no IBGE nesta revisão; a taxa varia sazonalmente ao longo do ano.",
   "frente": "economia"
  },
  {
@@ -3651,6 +4085,13 @@
     "veiculo": "Poder360",
     "url": "https://www.poder360.com.br/poder-economia/brasil-crescera-24-em-2026-e-divida-se-aproxima-de-100-do-pib/",
     "data": "2026-07-23",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "IPCA: inflação sobe 0,82% em setembro, acima do esperado",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/economia/ipca-inflacao-setembro-2026-dados-ibge/",
+    "data": "2026-10-09",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -3682,6 +4123,27 @@
     "url": "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748",
     "data": "2026-09-16",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil Cuts Interest Rates to 13.75% Before Tight Presidential Election",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-16/brazil-cuts-interest-rates-to-13-75-before-tight-presidential-election",
+    "data": "2026-09-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "BC corta Selic em 0,25 ponto, para 13,75% ao ano, e deixa próximos passos em aberto",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-16092026/",
+    "data": "2026-09-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "BC corta a Selic pela 5ª vez seguida e taxa de juros no Brasil cai para 13,75%",
+    "veiculo": "Exame",
+    "url": "https://exame.com/economia/bc-corta-a-selic-pela-5a-vez-seguida-e-taxa-de-juros-no-brasil-cai-para-1375/",
+    "data": "2026-09-16",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "O Banco Central tem autonomia legal; a taxa reflete decisão do Copom, não do Executivo.",
@@ -3711,6 +4173,13 @@
     "veiculo": "Poder360",
     "url": "https://www.poder360.com.br/poder-eleicoes/o-que-se-sabe-sobre-o-plano-economico-de-flavio-bolsonaro/",
     "data": "2026-10-13",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "BC: Dívida bruta do governo geral avança para 82,9% do PIB em agosto",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-divida-bruta-do-governo-geral-avanca-para-829-do-pib-em-agosto/",
+    "data": "2026-09-30",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -3765,6 +4234,13 @@
     "url": "https://borainvestir.b3.com.br/noticias/deficit-primario-do-governo-central-totaliza-r-617-bilhoes-em-2025/",
     "data": "2026-01-29",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Tesouro: déficit primário após deduções é de 0,1%, acima do limite inferior da meta",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/tesouro-deficit-primario-apos-deducoes-e-de-010-do-pib-acima-do-limite-inferior-da-meta/",
+    "data": "2026-01-29",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "O resultado de 2025 veio melhor que o esperado pelo mercado (Prisma Fiscal: déficit de R$ 68,2 bi).",
@@ -3795,9 +4271,16 @@
     "url": "https://www.poder360.com.br/poder-congresso/instituicao-do-senado-diz-que-ajuste-fiscal-sera-inevitavel/",
     "data": "2025-12-18",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Governo Lula deve fechar 2026 com R$ 148 bi fora do limite fiscal, diz IFI",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-lula-deve-fechar-2026-com-r-148-bi-fora-do-limite-fiscal-diz-ifi/",
+    "data": "2025-12-08",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
-  "contraponto": "A ministra Simone Tebet afirmou que a alternativa seria criar impostos e que o núcleo do arcabouço (despesa limitada a 70% da receita) foi preservado.",
+  "contraponto": "A ministra Simone Tebet afirmou que a alternativa seria criar impostos e que o núcleo do arcabouço (despesa limitada a 70% da receita) foi preservado. Com dados da IFI, a CNN registra exceções aos limites de gastos de R$ 147,7 bilhões em 2024-2026 e de R$ 389,0 bilhões em 2023-2026, medida distinta da soma das exclusões da meta.",
   "limitacoes": "A IFI é órgão técnico do Senado; sua avaliação é interpretação técnica, não decisão.",
   "frente": "economia"
  },
@@ -3871,6 +4354,13 @@
     "url": "https://forbes.com.br/forbes-money/2026/06/fitch-mantem-nota-bb-para-o-brasil-estavel-porem-longe-do-grau-de-investimento/",
     "data": "2026-06-16",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Análise: Redução da perspectiva de rating do Brasil é recado para governo",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/analise-reducao-da-perspectiva-de-rating-do-brasil-e-recado-para-governo/",
+    "data": "2025-05-31",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A Fazenda atribuiu as elevações ao trabalho conjunto com o Congresso, citando a reforma tributária.",
@@ -3900,6 +4390,13 @@
     "veiculo": "Correio Braziliense",
     "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/12/19/124874/pdf/A07-ECO-1912-DIG.pdf",
     "data": "2024-12-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Dólar dispara e fecha a R$ 6,26, nova máxima histórica; bolsa cai mais de 3%",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/mercado/mercado-hoje-ibovespa-dolar-18-dezembro-2024/",
+    "data": "2024-12-18",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -3931,6 +4428,13 @@
     "url": "https://www.bloomberglinea.com.br/mercados/ibovespa-cai-24-e-dolar-sobe-apos-pesquisa-eleitoral-indicar-vantagem-de-lula/",
     "data": "2026-10",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Ibovespa tem nova alta forte e renova máxima histórica; dólar cai a R$ 4,98",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09102026/",
+    "data": "2026-10-09",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "O ministro Durigan chamou a euforia de \"ilusão barata\"; preços de mercado refletem expectativas, não resultados.",
@@ -3961,6 +4465,13 @@
     "url": "https://www.congressoemfoco.com.br/noticia/113601/senado-aprova-isencao-de-ir-ate-r-5-mil-e-projeto-segue-para-sancao",
     "data": "2025-11-05",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula sanciona isenção do IR para quem ganha até R$ 5 mil",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/lula-sanciona-isencao-do-ir-para-quem-ganha-ate-r-5-mil/",
+    "data": "2025-11-26",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A Fazenda estima renúncia de cerca de R$ 25 bilhões ao ano compensada pelo imposto mínimo; há alerta do TCU e dúvidas de analistas sobre a neutralidade fiscal.",
@@ -3990,6 +4501,13 @@
     "veiculo": "Poder360",
     "url": "https://www.poder360.com.br/economia/governo-fecha-2022-com-superavit-de-r-54-bi-o-maior-em-9-anos/",
     "data": "2023-01-27",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio pede direito de resposta ao TSE por fala de Lula no Jornal Nacional",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/flavio-pede-direito-de-resposta-ao-tse-por-fala-de-lula-no-jornal-nacional/",
+    "data": "2026-08-28",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -4051,6 +4569,13 @@
     "url": "https://jovempan.com.br/noticias/brasil/mais-de-86-milhoes-de-brasileiros-deixaram-pobreza-em-2024-aponta-ibge.html",
     "data": "2025-12-03",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "IBGE: Em um ano, 8,6 mi de brasileiros deixaram a pobreza, e 1,9 mi saíram da miséria",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/economia/ibge-em-um-ano-86-mi-de-brasileiros-deixaram-a-pobreza-e-19-mi-sairam-da-miseria/",
+    "data": "2025-12-03",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "O IBGE atribui o resultado à combinação de mercado de trabalho aquecido e benefícios de maior valor; parte do efeito não decorre de política federal.",
@@ -4079,6 +4604,13 @@
     "titulo": "Desigualdade volta a crescer no Brasil em 2025, mostra IBGE",
     "veiculo": "Revista Oeste",
     "url": "https://revistaoeste.com/economia/desigualdade-volta-a-crescer-no-brasil-em-2025-mostra-ibge/",
+    "data": "2026-05-08",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "IBGE: Renda per capita tem recorde em 2025, mas ganho dos ricos eleva desigualdade",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/economia/ibge-renda-per-capita-tem-recorde-em-2025-mas-ganho-dos-ricos-eleva-desigualdade/",
     "data": "2026-05-08",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -4215,6 +4747,13 @@
     "url": "https://www.poder360.com.br/governo/governo-anuncia-reducao-de-22-de-desmatamento-na-amazonia/",
     "data": "2023-11-09",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Desmatamento na Amazônia cai 11,08% em 2025, menor taxa em 11 anos",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/df/desmatamento-na-amazonia-cai-1108-em-2025-menor-taxa-em-11-anos/",
+    "data": "2026-02-12",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Ambientalistas observaram que o patamar ainda está distante da meta de desmatamento zero até 2030.",
@@ -4245,6 +4784,20 @@
     "url": "https://eixos.com.br/newsletters/dialogos-da-transicao/nova-fronteira-da-foz-do-amazonas-sera-nos-tribunais/",
     "data": "2025-10",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Petrobras recebe aval para explorar petróleo na Foz do Amazonas",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-20/petrobras-recebe-aval-para-explorar-petroleo-na-foz-do-amazonas",
+    "data": "2025-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Petrobras precisará cumprir 29 condições específicas para perfurar Foz do Amazonas",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/mercados/petrobras-precisara-cumprir-29-condicoes-especificas-para-perfurar-foz-do-amazonas/",
+    "data": "2025-10-21",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "O governo defende a exploração como fonte de receita e de soberania energética; a Petrobras afirma ter atendido às exigências do Ibama.",
@@ -4273,6 +4826,13 @@
     "titulo": "Leia os principais vetos presidenciais derrubados pelo Congresso",
     "veiculo": "Poder360",
     "url": "https://www.poder360.com.br/poder-congresso/leia-os-principais-vetos-presidenciais-derrubados-pelo-congresso/",
+    "data": "2025-11-27",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Congresso derruba vetos do licenciamento e retoma licença autodeclaratória",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/congresso-derruba-vetos-do-licenciamento-e-retoma-licenca-autodeclaratoria/",
     "data": "2025-11-27",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -4328,6 +4888,13 @@
     "url": "https://www.congressoemfoco.com.br/area/congresso-nacional/senado-analisa-pec-da-transicao/",
     "data": "2022-12-07",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Senado aprova texto-base da PEC da Transição em dois turnos; texto vai à Câmara",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/senado-aprova-pec-da-transicao-texto-alarga-teto-de-gastos-em-r-145-bilhoes-por-2-anos/",
+    "data": "2022-12-07",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "O voto contrário é coerente com a crítica à expansão de gastos, mas a votação também era de oposição ao governo eleito.",
@@ -4349,6 +4916,13 @@
     "titulo": "Arcabouço fiscal: veja como votou cada senador",
     "veiculo": "Congresso em Foco",
     "url": "https://www.congressoemfoco.com.br/noticia/9640/arcabouco-fiscal-veja-como-votou-cada-senador",
+    "data": "2023-06-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Senado aprova texto-base do novo arcabouço fiscal por 57 votos a 17; projeto precisará voltar à Câmara",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/senado-aprova-texto-base-do-novo-arcabouco-fiscal-por-57-votos-a-17-projeto-precisara-voltar-a-camara/",
     "data": "2023-06-21",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -4379,6 +4953,20 @@
     "titulo": "Flávio votou contra reforma tributária, mas promete enviar ao Congresso uma nova regulamentação",
     "veiculo": "Folha de Pernambuco (Estadão Conteúdo)",
     "url": "https://www.folhape.com.br/politica/flavio-votou-contra-reforma-tributaria-mas-promete-enviar-ao/507786/",
+    "data": "2026-08-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Reforma Tributária: veja como votou cada senador",
+    "veiculo": "Exame",
+    "url": "https://exame.com/economia/reforma-tributaria-veja-como-votou-cada-senador/",
+    "data": "2023-11-09",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio votou contra reforma tributária, mas promete enviar nova regulamentação",
+    "veiculo": "InfoMoney (Estadão Conteúdo)",
+    "url": "https://www.infomoney.com.br/politica/flavio-votou-contra-reforma-tributaria-mas-promete-enviar-nova-regulamentacao/",
     "data": "2026-08-20",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -4441,6 +5029,13 @@
     "url": "https://oespecialista.safra.com.br/deficit-primario-precatorios/",
     "data": "2024-01",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "PEC dos Precatórios é aprovada em dois turnos pelo Senado; texto retorna à Câmara",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/senado-aprova-texto-base-da-pec-dos-precatorios-em-primeiro-turno/",
+    "data": "2021-12-02",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Defensores sustentaram que a medida viabilizou a transferência de renda sem romper o teto de gastos.",
@@ -4463,6 +5058,20 @@
     "veiculo": "O Liberal (Estadão Conteúdo)",
     "url": "https://www.oliberal.com/politica/flavio-bolsonaro-fala-em-regra-fiscal-para-cortar-gastos-quando-divida-pib-atingir-certo-nivel-1.1152711",
     "data": "2026-08-02",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's Flavio Bolsonaro to institute debt ceiling if elected president",
+    "veiculo": "Al Jazeera (com Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/8/26/brazils-flavio-bolsonaro-to-institute-debt-ceiling-if-elected-president",
+    "data": "2026-08-26",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio prepara regra fiscal com aperto maior de gastos em caso de dívida alta",
+    "veiculo": "InfoMoney (Reuters)",
+    "url": "https://www.infomoney.com.br/politica/campanha-de-flavio-prepara-regra-com-aperto-maior-de-gastos-em-caso-de-divida-alta/",
+    "data": "2026-08-11",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -4494,6 +5103,13 @@
     "url": "https://www.poder360.com.br/poder-eleicoes/sem-guedes-flavio-quer-manter-espinha-dorsal-na-economia/",
     "data": "2026",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Campanha de Flávio Bolsonaro anuncia sete novos integrantes da área econômica",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/campanha-de-flavio-bolsonaro-anuncia-sete-novos-integrantes-da-area-economica/",
+    "data": "2026-08-21",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Zeina Latif avaliou que não surgiu nome de peso político na área econômica.",
@@ -4516,6 +5132,20 @@
     "veiculo": "Poder360",
     "url": "https://www.poder360.com.br/poder-eleicoes/o-que-se-sabe-sobre-o-plano-economico-de-flavio-bolsonaro/",
     "data": "2026-10-13",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos?",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/propostas-lula-flavio-ajuste-fiscal/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Menos ministérios e corte de gastos: qual o plano de Flávio Bolsonaro na economia",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/enxugamento-de-ministerios-e-de-gastos-publicos-ditam-planos-economicos-de-flavio-bolsonaro/",
+    "data": "2026-08-29",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -4546,6 +5176,13 @@
     "veiculo": "Times Brasil (CNBC)",
     "url": "https://timesbrasil.com.br/brasil/se-eleito-flavio-bolsonaro-preve-pec-de-transicao-com-corte-de-gastos-de-15-do-pib-diz-luiz-fernando-figueiredo/",
     "data": "2026-10-04",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Cotada para vice, Daniella Marques detalha plano de Flávio com corte de 1,5% do PIB",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/cotada-para-vice-daniella-marques-detalha-plano-de-flavio-com-corte-de-15-do-pib/",
+    "data": "2026-08-03",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -4636,6 +5273,13 @@
     "veiculo": "Forbes Brasil",
     "url": "https://forbes.com.br/forbes-money/2026/06/fitch-mantem-nota-bb-para-o-brasil-estavel-porem-longe-do-grau-de-investimento/",
     "data": "2026-06-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Ibovespa tem nova alta forte e renova máxima histórica; dólar cai a R$ 4,98",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09102026/",
+    "data": "2026-10-09",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -4750,6 +5394,13 @@
     "url": "https://www.bemparana.com.br/noticias/economia/pib-do-brasil-fecha-2025-com-alta-de-23-mas-com-ritmo-abaixo-dos-anos-anteriores/",
     "data": "2026-03-03",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio pede direito de resposta ao TSE por fala de Lula no Jornal Nacional",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/flavio-pede-direito-de-resposta-ao-tse-por-fala-de-lula-no-jornal-nacional/",
+    "data": "2026-08-28",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "",
@@ -4780,6 +5431,13 @@
     "url": "https://www.dgabc.com.br/Noticia/4351994/euforia-do-mercado-com-flavio-esbarra-na-falta-de-compromissos-concretos-com-cenario-fiscal",
     "data": "2026-10-10",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Bolsa Família é um 'direito adquirido', diz Flávio Bolsonaro",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/bolsa-familia-e-um-direito-adquirido-diz-flavio-bolsonaro/",
+    "data": "2026-06-15",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "",
@@ -4809,6 +5467,13 @@
     "veiculo": "ICL Notícias",
     "url": "https://iclnoticias.com.br/emendas-flavio-bolsonaro-fiscalizacao-ambiental/",
     "data": "2026-07-31",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Novas regras sobre licenciamento ambiental: veja como votou cada senador",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/novas-regras-sobre-licenciamento-ambiental-veja-como-votou-cada-senador/",
+    "data": "2025-05-22",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -4891,8 +5556,8 @@
   "tipo": "DECISAO_JUDICIAL_DEFINITIVA",
   "sentido": "MISTO",
   "peso_probatorio": "ALTO",
-  "afirmacao": "Em 08/03/2021, o ministro Edson Fachin (STF), no HC 193726, declarou a incompetência da 13ª Vara Federal de Curitiba para quatro ações penais contra Lula (triplex do Guarujá, sítio de Atibaia, sede e doações do Instituto Lula) e anulou os atos decisórios, com remessa à Justiça Federal do DF. Em 14/04/2021, o Plenário do STF rejeitou, por 8 votos a 3, o agravo da PGR e confirmou a decisão. A decisão tratou de competência, sem exame do mérito das acusações.",
-  "data_fato": "2021-04-14",
+  "afirmacao": "Em 08/03/2021, o ministro Edson Fachin (STF), no HC 193726, declarou a incompetência da 13ª Vara Federal de Curitiba para quatro ações penais contra Lula (triplex do Guarujá, sítio de Atibaia, sede e doações do Instituto Lula) e anulou os atos decisórios, com remessa à Justiça Federal do DF. Em 15/04/2021, o Plenário do STF rejeitou, por 8 votos a 3, os agravos contra essa decisão e a confirmou (no dia anterior, havia fixado a própria competência para julgar o caso). A decisão tratou de competência, sem exame do mérito das acusações.",
+  "data_fato": "2021-04-15",
   "fontes": [
    {
     "titulo": "STF confirma anulação de condenações do ex-presidente Lula na Lava Jato",
@@ -4905,6 +5570,20 @@
     "titulo": "Fachin anula todas as condenações de Lula na Lava Jato",
     "veiculo": "CartaCapital",
     "url": "https://www.cartacapital.com.br/politica/fachin-anula-todas-as-condenacoes-de-lula-na-lava-jato/",
+    "data": "2021-03-08",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula and Bolsonaro spar in Brazil's fiery first presidential run-off debate",
+    "veiculo": "Al Jazeera (com AFP, AP e Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Ministro Fachin anula condenações de Lula e ex-presidente se torna elegível",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/ministro-fachin-anula-condenacoes-de-lula/",
     "data": "2021-03-08",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -4930,6 +5609,13 @@
     "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=468086&ori=1",
     "data": "2021-06-23",
     "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "Moro é suspeito para julgar Lula, decide STF por 7 votos a 4",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-jun-23/moro-suspeito-julgar-lula-decide-stf-votos/",
+    "data": "2021-06-23",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Ficaram vencidos Fachin, Barroso, Marco Aurélio e Fux, que entendiam que a Turma não poderia julgar a suspeição após o arquivamento do HC pelo relator; Fux e Marco Aurélio também questionaram o uso de mensagens obtidas por meio ilícito. A defesa de Lula sustentou desde o início a parcialidade do magistrado.",
@@ -4959,6 +5645,27 @@
     "veiculo": "Gazeta do Povo",
     "url": "https://www.gazetadopovo.com.br/republica/breves/mpf-reconhece-prescricao-e-pede-arquivamento-de-acao-contra-lula-por-triplex-no-guaruja/",
     "data": "2021-12",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Justiça do DF arquiva caso do tríplex envolvendo o ex-presidente Lula",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/justica-do-df-arquiva-caso-do-triplex-envolvendo-o-ex-presidente-lula/",
+    "data": "2022-01-28",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Justiça do DF declara prescrição e arquiva ação do tríplex do Guarujá",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2022-jan-28/justica-df-declara-prescricao-arquiva-acao-triplex-guaruja/",
+    "data": "2022-01-28",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Juíza do DF arquiva processo contra Lula no caso do tríplex do Guarujá",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/358845/juiza-do-df-arquiva-processo-contra-lula-no-caso-do-triplex-do-guaruja",
+    "data": "2022-01-28",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -4990,6 +5697,20 @@
     "url": "https://www.poder360.com.br/justica/justica-do-df-volta-a-negar-denuncia-contra-lula-no-caso-do-sitio-de-atibaia/",
     "data": "2021-09-29",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Juíza de Brasília rejeita denúncia contra Lula no caso do sítio de Atibaia",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/juiza-de-brasilia-rejeita-denuncia-contra-lula-sobre-sitio-de-atibaia/",
+    "data": "2021-08-22",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Juíza recusa novamente denúncia contra Lula em caso do sítio",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-set-29/juiza-recusa-novamente-denuncia-lula-sitio-2/",
+    "data": "2021-09-29",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "O MPF contestou o entendimento sobre a prescrição. A defesa afirmou que a decisão encerrou mais um caso usado pela Lava Jato e lembrou os 580 dias de prisão de Lula.",
@@ -5019,6 +5740,20 @@
     "veiculo": "Poder360",
     "url": "https://www.poder360.com.br/justica/lewandowski-encerra-3-investigacoes-contra-lula/",
     "data": "2023-02",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lewandowski tranca três investigações sobre Lula da extinta Lava Jato e da Zelotes",
+    "veiculo": "CNN Brasil (Estadão Conteúdo)",
+    "url": "https://www.cnnbrasil.com.br/politica/lewandowski-tranca-3-investigacoes-sobre-lula-da-extinta-lava-jato-e-da-zelotes/",
+    "data": "2023-02-18",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Por contaminação de provas, STF tranca três ações contra Lula",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2023-fev-18/contaminacao-provas-stf-tranca-tres-acoes-lula/",
+    "data": "2023-02-18",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -5119,6 +5854,13 @@
     "url": "https://www.metropoles.com/brasil/por-58-votos-a-18-senado-aprova-indicacao-de-zanin-para-o-stf",
     "data": "2023-06-21",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Aprovação de Cristiano Zanin é celebrada por ministros do Supremo",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2023-jun-21/aprovacao-cristiano-zanin-celebrada-ministros-supremo/",
+    "data": "2023-06-21",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Na sabatina, Zanin afirmou que não seria subordinado ao presidente e que eventuais impedimentos seguiriam os critérios legais. A indicação é prerrogativa constitucional do presidente e foi aprovada pela maioria absoluta do Senado.",
@@ -5148,6 +5890,20 @@
     "veiculo": "Gazeta do Povo",
     "url": "https://www.gazetadopovo.com.br/republica/por-que-a-investigacao-sobre-o-careca-do-inss-e-lulinha-esta-travada-na-pf/",
     "data": "2026-07-02",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's Flavio Bolsonaro names Alfredo Gaspar as running mate",
+    "veiculo": "Al Jazeera (com Reuters e AP)",
+    "url": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate",
+    "data": "2026-08-05",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Mendonça autoriza pedido da PF e quebra sigilo de Lulinha",
+    "veiculo": "CNN Brasil (blog Matheus Teixeira)",
+    "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mendonca-autoriza-pedido-da-pf-e-quebra-sigilo-de-lulinha/",
+    "data": "2026-02-26",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -5179,6 +5935,13 @@
     "url": "https://www.camara.leg.br/noticias/1212823-cpmi-do-inss-rejeita-convocacao-de-frei-chico-irmao-de-lula",
     "data": "2025-10-16",
     "tipo_fonte": "PRIMARIA"
+   },
+   {
+    "titulo": "CPMI do INSS rejeita pedido para convocar irmão de Lula",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/cpmi-do-inss-rejeito-pedido-para-convocar-frei-chico-irmao-de-lula/",
+    "data": "2025-10-16",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A oposição classificou a rejeição como blindagem; a base governista argumentou que Frei Chico não tem atuação administrativa ou financeira na entidade e não é alvo da PF. O sindicato declarou apoiar a apuração.",
@@ -5200,6 +5963,13 @@
     "titulo": "PF indicia Careca do INSS e mais 47 pessoas em inquérito sobre fraudes",
     "veiculo": "Correio Braziliense",
     "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+    "data": "2026-07-14",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "PF indicia ex-presidente do INSS, Careca e outros em inquérito",
+    "veiculo": "CNN Brasil (blog Elijonas Maia)",
+    "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-indicia-ex-presidente-do-inss-careca-e-outros-em-inquerito/",
     "data": "2026-07-14",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -5262,14 +6032,28 @@
   "tipo": "INVESTIGACAO_OU_DENUNCIA",
   "sentido": "CONTEXTO",
   "peso_probatorio": "MEDIO",
-  "afirmacao": "Em novembro de 2020, o MP-RJ denunciou Flávio Bolsonaro, Fabrício Queiroz e outras 15 pessoas por peculato, lavagem de dinheiro e organização criminosa, sustentando que o então deputado estadual se apropriou de parte dos salários de servidores do gabinete na Alerj e usou cerca de R$ 1 milhão, entre 2010 e 2014, em despesas pessoais e compra de imóveis.",
-  "data_fato": "2020-11",
+  "afirmacao": "Em denúncia apresentada em 19/10/2020 e divulgada em novembro, o MP-RJ acusou Flávio Bolsonaro, Fabrício Queiroz e outras 15 pessoas por peculato, lavagem de dinheiro e organização criminosa, sustentando que o então deputado estadual se apropriou de parte dos salários de servidores do gabinete na Alerj e usou cerca de R$ 1 milhão, entre 2010 e 2014, em despesas pessoais e compra de imóveis.",
+  "data_fato": "2020-10-19",
   "fontes": [
    {
     "titulo": "STJ anula quebra de sigilo bancário e fiscal de Flávio Bolsonaro no caso das 'rachadinhas'",
     "veiculo": "Diário do Nordeste (conteúdo Folhapress)",
     "url": "https://diariodonordeste.verdesmares.com.br/politica/stj-anula-quebra-de-sigilo-bancario-e-fiscal-de-flavio-bolsonaro-no-caso-das-rachadinhas-1.3051176",
     "data": "2021-02-23",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "MP denuncia Flávio Bolsonaro por esquema de rachadinha na Alerj",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2020-nov-04/mp-denuncia-flavio-bolsonaro-esquema-rachadinha-alerj/",
+    "data": "2020-11-04",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Imputan por corrupción al senador Flávio Bolsonaro, hijo del presidente de Brasil",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20201104-imputan-por-corrupci%C3%B3n-al-senador-fl%C3%A1vio-bolsonaro-hijo-del-presidente-de-brasil",
+    "data": "2020-11-04",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -5299,6 +6083,20 @@
     "titulo": "Rachadinhas: STJ anula quebra de sigilo fiscal de Flávio Bolsonaro",
     "veiculo": "Congresso em Foco",
     "url": "https://www.congressoemfoco.com.br/corrupcao/rachadinhas-stj-anula-quebra-de-sigilo-fiscal-de-flavio-bolsonaro/",
+    "data": "2021-02-23",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "STJ anula quebra de sigilo de Flávio Bolsonaro por rachadinha",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-fev-23/stj-anula-quebra-sigilo-flavio-bolsonaro-rachadinha/",
+    "data": "2021-02-23",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "STJ anula quebra de sigilo bancário de Flávio Bolsonaro",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/340746/stj-anula-quebra-de-sigilo-bancario-de-flavio-bolsonaro",
     "data": "2021-02-23",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -5331,6 +6129,20 @@
     "url": "https://www.folhavitoria.com.br/politica/stj-anula-todas-as-decisoes-de-1-instancia-sobre-rachadinhas-de-flavio-bolsonaro/",
     "data": "2021-11-09",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "STJ anula atos de juiz contra Flávio Bolsonaro no caso das rachadinhas",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-nov-09/stj-anula-atos-juiz-flavio-bolsonaro-rachadinhas/",
+    "data": "2021-11-09",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "STJ anula decisões de juiz e provas contra Flávio Bolsonaro no caso das rachadinhas",
+    "veiculo": "Jota",
+    "url": "https://www.jota.info/legislativo/stj-anula-decisoes-de-juiz-e-provas-contra-flavio-bolsonaro-no-caso-das-rachadinhas",
+    "data": "2021-11-09",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Flávio declarou que a investigação foi ilegal e fruto de perseguição. O MP-RJ ficou com a opção de renovar pedidos de quebra de sigilo.",
@@ -5361,6 +6173,20 @@
     "url": "https://www.metropoles.com/brasil/stf-mantem-foro-de-flavio-bolsonaro-no-caso-das-rachadinhas",
     "data": "2021-11-30",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Supremo anula relatórios do Coaf sobre Flávio Bolsonaro",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-nov-30/anulados-relatorios-coaf-flavio-bolsonaro-rachadinhas/",
+    "data": "2021-11-30",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Supremo mantém foro especial de Flávio Bolsonaro",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2021-nov-30/stf-mantem-foro-especial-flavio-bolsonaro-rachadinhas/",
+    "data": "2021-11-30",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Fachin entendeu que a 27ª Vara Criminal era competente. O relator Gilmar Mendes qualificou o procedimento como investigação disfarçada, e a maioria assinalou que o MP-RJ perdeu o prazo da via recursal própria quanto ao foro.",
@@ -5389,6 +6215,27 @@
     "titulo": "Tribunal de Justiça do Rio arquiva denúncia por 'rachadinhas' contra Flávio Bolsonaro",
     "veiculo": "Folha de Pernambuco",
     "url": "https://www.folhape.com.br/politica/tribunal-de-justica-do-rio-arquiva-denuncia-por-rachadinhas-contra/227033/",
+    "data": "2022-05-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flavio Bolsonaro: political heir in his father's shadow",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260928-flavio-bolsonaro-political-heir-in-his-father-s-shadow",
+    "data": "2026-09-28",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TJ-RJ arquiva denúncia contra Flávio Bolsonaro por rachadinha",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2022-mai-16/tj-rj-arquiva-denuncia-flavio-bolsonaro-rachadinha/",
+    "data": "2022-05-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Justiça rejeita denúncia contra Flávio Bolsonaro no caso das rachadinhas",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/justica-rejeita-denuncia-contra-flavio-bolsonaro-no-caso-das-rachadinhas/",
     "data": "2022-05-16",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -5451,6 +6298,20 @@
     "url": "https://www.poder360.com.br/poder-justica/flavio-e-investigado-no-stf-por-financiamento-do-dark-horse/",
     "data": "2026-09-11",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Corruption probe targets Brazil presidential candidate Flavio Bolsonaro",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260911-brazil-president-candidate-flavio-bolsonaro-targeted-in-corruption-probe",
+    "data": "2026-09-11",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio é investigado no STF sobre Dark Horse e relação com Vorcaro",
+    "veiculo": "CNN Brasil (blog Teo Cury)",
+    "url": "https://www.cnnbrasil.com.br/blogs/teo-cury/politica/flavio-bolsonaro-e-investigado-no-stf-sobre-financiamento-de-dark-horse/",
+    "data": "2026-09-11",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Flávio nega irregularidade e afirma tratar-se de patrocínio privado para um filme privado, sem recursos públicos nem contrapartida ligada ao mandato; não negou a autenticidade dos áudios.",
@@ -5481,6 +6342,13 @@
     "url": "https://www.oliberal.com/politica/flavio-diz-que-e-mentira-financiamento-de-vorcaro-para-filme-de-bolsonaro-e-dinheiro-privado-1.1120869",
     "data": "2026-05-13",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flavio Bolsonaro: political heir in his father's shadow",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260928-flavio-bolsonaro-political-heir-in-his-father-s-shadow",
+    "data": "2026-09-28",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Antes da publicação, Flávio disse que a informação era mentira e que se tratava de dinheiro privado; segundo a Agência Brasil, não negou a autenticidade do áudio.",
@@ -5510,6 +6378,13 @@
     "veiculo": "O Liberal / Estadão Conteúdo",
     "url": "https://www.oliberal.com/politica/flavio-diz-que-e-mentira-financiamento-de-vorcaro-para-filme-de-bolsonaro-e-dinheiro-privado-1.1120869",
     "data": "2026-05-13",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flavio Bolsonaro: political heir in his father's shadow",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260928-flavio-bolsonaro-political-heir-in-his-father-s-shadow",
+    "data": "2026-09-28",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -5547,6 +6422,13 @@
     "veiculo": "ND Mais",
     "url": "https://ndmais.com.br/justica/novo-inquerito-contra-flavio-bolsonaro-chega-ao-stf/",
     "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "CPMI para investigar Flávio Bolsonaro e Willer Tomaz reúne 100 assinaturas",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/cpmi-para-investigar-flavio-e-willer-tomaz-reune-100-assinaturas/",
+    "data": "2026-10-20",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -5677,9 +6559,16 @@
     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-de-governo-lula-economia/",
     "data": "2026-08-17",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos?",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/propostas-lula-flavio-ajuste-fiscal/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
-  "contraponto": "A campanha sustenta que o arcabouço fiscal limita o crescimento das despesas e que o déficit primário de 2026 deve ficar perto de 0,4% do PIB.",
+  "contraponto": "A campanha sustenta que o arcabouço fiscal limita o crescimento das despesas e que o déficit primário de 2026 deve ficar perto de 0,4% do PIB. O InfoMoney atribui à campanha de Lula a meta de superávit primário de 1,3% do PIB até 2030, na trajetória da LDO, ressalvando que não se trata de proposta definitiva e que não há valores de corte.",
   "limitacoes": "Ausência de custeio no plano não implica, por si, que as medidas sejam inviáveis; muitas são continuidade de despesas já orçadas.",
   "frente": "propostas"
  },
@@ -5723,9 +6612,23 @@
     "url": "https://www.em.com.br/politica/2026/10/7522889-pacote-eleitoral-de-lula-atinge-rs-290-bi-e-pressiona-a-divida-publica.html",
     "data": "2026-10-18",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "\"Pacote de bondades\" de Lula soma quase R$ 300 bi às vésperas do 2º turno",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-de-bondades-de-lula-soma-quase-r-290-bi-as-vesperas-do-2o-turno/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/com-eleicoes-beneficios-anunciados-por-lula-ja-mobilizam-r-300-bilhoes-em-2026/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
-  "contraponto": "O Ministério do Planejamento afirma que as medidas têm naturezas, fontes e prazos distintos e não deveriam ser somadas; a Fazenda diz que os ajustes ao PLOA 2027 respeitarão a meta e o arcabouço.",
+  "contraponto": "O Ministério do Planejamento afirma que as medidas têm naturezas, fontes e prazos distintos e não deveriam ser somadas; a Fazenda diz que os ajustes ao PLOA 2027 respeitarão a meta e o arcabouço. Cálculo próprio da IFI, divulgado por CNN Brasil e InfoMoney, aponta R$ 298,4 bilhões mobilizados em 2026 (R$ 93,8 bilhões de impacto primário), com metodologia diferente da do levantamento da Folhapress.",
   "limitacoes": "Trata de medidas de governo, não do programa eleitoral; a soma reúne itens de naturezas diferentes, como subsídios emergenciais a combustíveis.",
   "frente": "propostas"
  },
@@ -5775,6 +6678,13 @@
     "veiculo": "SBT News",
     "url": "https://sbtnews.sbt.com.br/colunas/coluna-da-victoria/governo-estima-custo-de-ate-r-6-bilhoes-por-ano-com-passe-livre",
     "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "A dez dias da eleição, Lula propõe tarifa zero no transporte público",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/a-dez-dias-da-eleicao-lula-propoe-tarifa-zero-no-transporte-publico/",
+    "data": "2026-10-15",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -5836,6 +6746,34 @@
     "url": "https://www.bahianoticias.com.br/noticia/322453-senado-aprova-pec-do-fim-da-escala-6x1-em-primeiro-turno-com-75-votos-favoraveis-e-1-contra",
     "data": "2026-10-14",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "El Congreso de Brasil aprueba la reducción de la semana laboral, promesa de Lula antes del balotaje",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20261015-el-congreso-de-brasil-aprueba-la-reducci%C3%B3n-de-la-semana-laboral-promesa-de-lula-antes-del-balotaje",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil Election: Senate Approves Bill to Shorten Workweek in Boost to Lula",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/brazil-election-senate-approves-bill-to-shorten-workweek-in-boost-to-lula",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Senado aprova fim da escala 6x1",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/senado-aprova-fim-da-escala-6x1/",
+    "data": "2026-10-14",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Congresso promulga PEC que acaba com a escala 6x1; acompanhe ao vivo",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/congresso-promulga-pec-que-acaba-com-a-escala-6x1/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A PEC tramitava desde 2019 e foi aprovada com apoio de quase todas as bancadas, inclusive da oposição; a autoria e o mérito não são exclusivos do governo.",
@@ -5858,6 +6796,13 @@
     "veiculo": "Diario de Pernambuco",
     "url": "https://www.diariodepernambuco.com.br/economia/2026/04/11713101-fim-da-escala-6x1-estudos-divergem-sobre-impactos-no-pib-e-inflacao.html",
     "data": "2026-04",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "CNI: Redução de jornada a 40h elevaria custo na economia em até R$ 267,2 bi por ano",
+    "veiculo": "InfoMoney (Estadão Conteúdo)",
+    "url": "https://www.infomoney.com.br/politica/cni-reducao-de-jornada-a-40h-elevaria-custo-na-economia-em-ate-r-2672-bi-por-ano/",
+    "data": "2026-02-23",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -5887,6 +6832,13 @@
     "titulo": "TCU determina 120 dias para governo tomar providências para incluir Pé-de-Meia no Orçamento",
     "veiculo": "Diário do Grande ABC",
     "url": "https://www.dgabc.com.br/Noticia/4203307/tcu-determina-120-dias-para-governo-tomar-providencias-para-incluir-pe-de-meia-no-orcamento",
+    "data": "2025-02-12",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TCU dá 120 dias para governo tomar providências para incluir Pé-de-Meia no Orçamento",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/tcu-da-120-dias-para-governo-tomar-providencias-para-incluir-pe-de-meia-no-orcamento/",
     "data": "2025-02-12",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -6039,6 +6991,13 @@
     "url": "https://forbes.com.br/forbes-money/2026/10/tesouraco-flavio-bolsonaro-plano-economico/",
     "data": "2026-10-05",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos?",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/propostas-lula-flavio-ajuste-fiscal/",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A coordenação econômica afirma que o 'tesouraço' na despesa e a securitização de ativos financiariam o conjunto.",
@@ -6060,6 +7019,13 @@
     "titulo": "Daniella Marques diz que plano de Flávio Bolsonaro prevê corte de R$ 190 bi em gastos",
     "veiculo": "Gazeta do Povo",
     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/daniella-marques-diz-que-plano-de-flavio-bolsonaro-preve-corte-de-r-190-bi-em-gastos/",
+    "data": "2026-08-03",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Cotada para vice, Daniella Marques detalha plano de Flávio com corte de 1,5% do PIB",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/cotada-para-vice-daniella-marques-detalha-plano-de-flavio-com-corte-de-15-do-pib/",
     "data": "2026-08-03",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -6138,6 +7104,20 @@
     "url": "https://www.poder360.com.br/poder-eleicoes/o-que-se-sabe-sobre-o-plano-economico-de-flavio-bolsonaro/",
     "data": "2026-10-13",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio defende aumento real do salário mínimo e não revisar escala 6x1",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-defende-aumento-real-do-salario-minimo-e-nao-revisar-escala-6x1/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio diz que não vai desvincular reajuste do mínimo e nem alterar pisos de saúde",
+    "veiculo": "InfoMoney (Estadão Conteúdo)",
+    "url": "https://www.infomoney.com.br/politica/flavio-diz-que-nao-vai-desvincular-reajuste-do-minimo-e-nem-alterar-pisos-de-saude/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A campanha nega que os estudos relatados sejam posição oficial; Sachsida disse em setembro que a equipe preparou medidas para manter a vinculação.",
@@ -6166,6 +7146,20 @@
     "titulo": "Flávio e Lula trocam ataques e citam Luchsinger, Vorcaro e SUS no 1º debate",
     "veiculo": "CNN Brasil",
     "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-chegam-para-primeiro-debate-presidencial-neste-domingo-18/",
+    "data": "2026-10-18",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Proposta de Flávio de comprar dívidas provocaria calote geral, diz Durigan",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/proposta-de-flavio-de-comprar-dividas-provocaria-calote-geral-diz-durigan/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-tem-ataques-acusacoes-e-propostas-economicas-veja-resumo/",
     "data": "2026-10-18",
     "tipo_fonte": "JORNALISTICA"
    }
@@ -6205,6 +7199,20 @@
     "url": "https://www.bahianoticias.com.br/noticia/322453-senado-aprova-pec-do-fim-da-escala-6x1-em-primeiro-turno-com-75-votos-favoraveis-e-1-contra",
     "data": "2026-10-14",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio Bolsonaro vota à distância pelo fim da escala 6x1",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-vota-a-distancia-pelo-fim-da-escala-6x1/",
+    "data": "2026-10-14",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio defende aumento real do salário mínimo e não revisar escala 6x1",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-defende-aumento-real-do-salario-minimo-e-nao-revisar-escala-6x1/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Flávio afirmou que o grupo defende proposta 'ainda melhor', com liberdade para o trabalhador montar a própria escala, e atribuiu ao governo a compensação a empresários.",
@@ -6241,6 +7249,13 @@
     "veiculo": "Poder360",
     "url": "https://www.poder360.com.br/poder-eleicoes/o-que-se-sabe-sobre-o-plano-economico-de-flavio-bolsonaro/",
     "data": "2026-10-13",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio quer suspender reforma tributária por um ano e rever exceções",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-quer-suspender-reforma-tributaria-por-um-ano-e-rever-excecoes/",
+    "data": "2026-05-20",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -6355,11 +7370,741 @@
     "url": "https://forbes.com.br/forbes-money/2026/10/tesouraco-flavio-bolsonaro-plano-economico/",
     "data": "2026-10-05",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-tem-ataques-acusacoes-e-propostas-economicas-veja-resumo/",
+    "data": "2026-10-18",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A criação de uma pasta pode estar contida no saldo líquido de cortes; Sachsida mencionou redução de 39 para 25 ministérios em projeto próprio, distinto do plano.",
   "limitacoes": "Não há documento que detalhe a nova estrutura ministerial.",
   "frente": "propostas"
+ },
+ {
+  "id": "reforco-internacional-lula-01",
+  "candidato": "lula",
+  "criterio": "economia_fiscal",
+  "tema": "editorial do Financial Times",
+  "tipo": "OPINIAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Em editorial de 05/10/2026, segundo a Gazeta do Povo, o Financial Times atribuiu o resultado do 1º turno mais às falhas de Lula do que aos méritos do adversário, citou dificuldade de resposta às facções e a \"política fiscal frouxa\" como fator de juros altos, e reconheceu o desemprego historicamente baixo.",
+  "data_fato": "2026-10-05",
+  "fontes": [
+   {
+    "titulo": "Vitória de Flávio no primeiro turno expõe fraquezas de Lula, diz FT (reproduz editorial do Financial Times de 05/10/2026)",
+    "veiculo": "Financial Times (reproduzido pela Gazeta do Povo)",
+    "url": "https://www.gazetadopovo.com.br/mundo/vitoria-flavio-primeiro-turno-expoe-fraquezas-lula-diz-maior-jornal-economico-mundo/",
+    "data": "2026-10-06",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Financial Times vê vitória de Flávio como retorno notável da família Bolsonaro",
+    "veiculo": "Financial Times (reproduzido pelo Brasil em Folhas)",
+    "url": "https://www.brasilemfolhas.com.br/2026/10/financial-times-ve-vitoria-de-flavio-como-retorno-notavel-da-familia-bolsonaro/",
+    "data": "2026-10",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "O mesmo editorial, segundo as reproduções, afirma que Lula não teve ligação direta com o caso Banco Master e que não se pode descartar sua recuperação.",
+  "limitacoes": "Opinião editorial, lida apenas em tradução de veículos brasileiros; as reproduções divergem sobre a quem o FT aplicou o adjetivo 'medíocre' (Gazeta: a Flávio; Brasil em Folhas: à campanha de Lula). Não prova desempenho fiscal.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-lula-02",
+  "candidato": "lula",
+  "criterio": "experiencia",
+  "tema": "editorial da The Economist sobre a candidatura",
+  "tipo": "OPINIAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Em editorial de 30/12/2025, segundo a CNN Brasil, The Economist sustentou que Lula não deveria disputar a reeleição por causa da idade (80 anos), afirmou que os brasileiros \"merecem opções melhores\" e qualificou de medíocres suas políticas econômicas.",
+  "data_fato": "2025-12-30",
+  "fontes": [
+   {
+    "titulo": "Lula não deveria concorrer à reeleição em 2026, avalia The Economist (reproduz editorial de 30/12/2025)",
+    "veiculo": "The Economist (reproduzido pela CNN Brasil)",
+    "url": "https://www.cnnbrasil.com.br/politica/lula-nao-deveria-concorrer-a-reeleicao-em-2026-avalia-the-economist/",
+    "data": "2025-12-31",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A revista reconheceu, segundo a reprodução, bons resultados da economia; Lula declara estar em ótima forma física.",
+  "limitacoes": "Editorial anterior à campanha e ao 2º turno, lido apenas na reprodução da CNN Brasil. Avaliação sobre idade não constitui fato sobre capacidade.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-lula-03",
+  "candidato": "lula",
+  "criterio": "experiencia",
+  "tema": "coluna Bloomberg Opinion",
+  "tipo": "OPINIAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Coluna de Juan Pablo Spinetto na Bloomberg Opinion (26/03/2026), intitulada 'Lula Should Not Repeat Joe Biden's Mistake', comparou a insistência de Lula na reeleição à de Biden e citou pesquisa AtlasIntel em que ele perderia o 2º turno por um ponto.",
+  "data_fato": "2026-03-26",
+  "fontes": [
+   {
+    "titulo": "As Brazil's Election Nears, Lula Should Not Repeat Joe Biden's Mistake",
+    "veiculo": "Bloomberg Opinion (coluna de Juan Pablo Spinetto)",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-03-26/as-brazil-s-election-nears-lula-should-not-repeat-joe-biden-s-mistake",
+    "data": "2026-03-26",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Coluna assinada, não editorial institucional; conteúdo visto apenas no resultado de busca (título e trecho inicial). Anterior ao 1º turno.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-lula-04",
+  "candidato": "lula",
+  "criterio": "governabilidade",
+  "tema": "análise Al Jazeera pós-1º turno",
+  "tipo": "INTERPRETACAO",
+  "sentido": "MISTO",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Em análise da Al Jazeera (06/10/2026), Andre Pagliarini (Louisiana State University) apontou a percepção de que o governo não entrega o suficiente em economia e segurança, mas chamou Lula de \"an extremely powerful communicator\"; a reportagem lista desemprego recorde baixo, queda da desigualdade e inflação em desaceleração.",
+  "data_fato": "2026-10-06",
+  "fontes": [
+   {
+    "titulo": "Why Flavio Bolsonaro outperformed the polls in Brazil's election",
+    "veiculo": "Al Jazeera (com Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election",
+    "data": "2026-10-06",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Carlos Pereira (FGV) atribuiu parte do resultado a uma consolidação tardia do voto de direita.",
+  "limitacoes": "Avaliação de analistas ouvidos, não posição editorial do veículo.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-lula-05",
+  "candidato": "lula",
+  "criterio": "democracia",
+  "tema": "análise Al Jazeera sobre a onda de direita",
+  "tipo": "INTERPRETACAO",
+  "sentido": "FAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Em explicativo da Al Jazeera (04/10/2026), Andre Pagliarini afirmou que Lula passou a encarnar a institucionalização e a consolidação da democracia brasileira; o texto registra também que o governo ainda enfrenta frustração com o custo de vida e crescente isolamento no hemisfério.",
+  "data_fato": "2026-10-04",
+  "fontes": [
+   {
+    "titulo": "Will Brazil's Lula halt the right-wing wave sweeping Latin America?",
+    "veiculo": "Al Jazeera (com Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america",
+    "data": "2026-10-04",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Interpretação de analista; não mede compromisso democrático por atos concretos.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-lula-06",
+  "candidato": "lula",
+  "criterio": "economia_fiscal",
+  "tema": "síntese da AFP sobre o 3º mandato",
+  "tipo": "INTERPRETACAO",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "A AFP (05/10/2026) registrou que, no terceiro mandato, a inflação foi controlada e o desemprego chegou a mínimas históricas, mas há queixas de perda de poder de compra e endividamento; o analista Thomas Traumann falou em \"tsunami of anti-PT sentiment\", e analistas não identificados viram possível erro de cálculo na ênfase na soberania.",
+  "data_fato": "2026-10-05",
+  "fontes": [
+   {
+    "titulo": "Bolsonaro rides right-wing surge into Brazil's election runoff",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20261005-bolsonaro-rides-right-wing-surge-into-brazil-s-election-runoff",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Reportagem de agência com avaliação de analistas; não traz números próprios.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-lula-07",
+  "candidato": "lula",
+  "criterio": "integridade",
+  "tema": "caso Banco Master (análise)",
+  "tipo": "INTERPRETACAO",
+  "sentido": "FAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Reportagem especial da Al Jazeera (02/10/2026) registrou que Lula não foi diretamente ligado ao escândalo do Banco Master; Anthony Pereira (Tulane) avaliou que parte dos eleitores associa Lula ao ministro Alexandre de Moraes.",
+  "data_fato": "2026-10-02",
+  "fontes": [
+   {
+    "titulo": "How the Banco Master scandal injected chaos into Brazil's presidential race",
+    "veiculo": "Al Jazeera",
+    "url": "https://www.aljazeera.com/features/longform/2026/10/2/how-the-banco-master-scandal-injected-chaos-into-brazils-presidential-race",
+    "data": "2026-10-02",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Pesquisa Datafolha citada no texto: 34% associavam o escândalo principalmente à esquerda e 27% à direita.",
+  "limitacoes": "Ausência de vínculo direto refere-se ao que era público em 02/10/2026.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-lula-08",
+  "candidato": "lula",
+  "criterio": "coerencia",
+  "tema": "discurso de soberania (análise)",
+  "tipo": "INTERPRETACAO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Na cobertura do lançamento da candidatura (02/08/2026), a Al Jazeera citou Leonardo Paz (FGV), para quem \"The sovereignty message comes at the perfect time for Lula\" por permitir apontar um inimigo externo; o texto credita ao governo crescimento, emprego alto e programas sociais e aponta custo de vida e déficit como fraquezas.",
+  "data_fato": "2026-08-02",
+  "fontes": [
+   {
+    "titulo": "Brazil's Lula launches fourth-term bid, focuses on national sovereignty",
+    "veiculo": "Al Jazeera (com AFP e AP)",
+    "url": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty",
+    "data": "2026-08-02",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Interpretação sobre estratégia de campanha, não sobre resultados.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-lula-09",
+  "candidato": "lula",
+  "criterio": "democracia",
+  "tema": "encontro com Trump na Casa Branca",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Lula reuniu-se com Donald Trump na Casa Branca em 07/05/2026, por cerca de três horas, em meio a esforços para evitar novas tarifas; Trump escreveu que a reunião \"went very well\" e Lula disse sair \"very, very satisfied\", sem anúncio de acordo.",
+  "data_fato": "2026-05-07",
+  "fontes": [
+   {
+    "titulo": "Brazil's Lula meets Trump amid efforts to avert new US trade tariffs",
+    "veiculo": "Al Jazeera (Reuters)",
+    "url": "https://www.aljazeera.com/amp/news/2026/5/7/brazils-lula-meets-trump-amid-efforts-to-avert-new-us-trade-tariffs",
+    "data": "2026-05-07",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "A reportagem não informa compromissos nem mudanças tarifárias decorrentes do encontro.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-lula-10",
+  "candidato": "lula",
+  "criterio": "impactos",
+  "tema": "desmatamento 2025-2026 (Prodes)",
+  "tipo": "DADO_OFICIAL",
+  "sentido": "FAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Segundo o Prodes/INPE, divulgado em 16/10/2026, o desmatamento na Amazônia entre agosto de 2025 e julho de 2026 foi de 3.335 km², queda de quase 42% e menor nível desde o início da série, em 1988; no Cerrado, 5.517 km² (queda de quase 24%).",
+  "data_fato": "2026-10-16",
+  "fontes": [
+   {
+    "titulo": "Deforestation in Brazil Amazon hits nearly four-decade low",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20261016-deforestation-in-brazil-amazon-hits-nearly-four-decade-low",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Desmatamento cai na Amazônia e no Cerrado em 2026",
+    "veiculo": "Poder360",
+    "url": "https://www.poder360.com.br/poder-sustentavel/desmatamento-cai-na-amazonia-e-no-cerrado-em-2026/",
+    "data": "2026-10-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Flávio Bolsonaro promete acabar com o desmatamento ilegal até 2029 e tratar o meio ambiente como 'ativo estratégico'.",
+  "limitacoes": "Dado oficial relatado por agência; não isola o efeito de políticas federais de fatores climáticos ou econômicos.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-lula-11",
+  "candidato": "lula",
+  "criterio": "democracia",
+  "tema": "pedido de cassação de Flávio (Meta)",
+  "tipo": "ALEGACAO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 20/10/2026, a campanha de Lula anunciou que pediria ao TSE, em 21/10, a cassação da candidatura de Flávio Bolsonaro por suposta 'manipulação algorítmica' da Meta em seu favor; antes, o TSE dera 24 horas à Meta para comprovar tratamento igualitário, e a empresa disse ter cumprido a decisão.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
+    "veiculo": "Al Jazeera (com AFP)",
+    "url": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula's campaign seeks to disqualify Bolsonoro from Brazil presidential vote over Meta 'interference'",
+    "veiculo": "France 24 (com AFP)",
+    "url": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A Meta nega favorecer qualquer lado e atribui desativação de anúncios de Lula a erros técnicos.",
+  "limitacoes": "Pedido anunciado, não julgado; não prova a interferência alegada.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-flavio-01",
+  "candidato": "flavio",
+  "criterio": "experiencia",
+  "tema": "editorial do Financial Times",
+  "tipo": "OPINIAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Em editorial de 05/10/2026, segundo a Gazeta do Povo, o Financial Times afirmou que o retorno do clã Bolsonaro \"reside menos nas realizações de Flávio Bolsonaro\" e mais no fracasso de Lula; reproduções em outros veículos atribuem ao jornal alerta de nova crise institucional se Flávio tentar libertar o pai sem apoio decisivo do Congresso.",
+  "data_fato": "2026-10-05",
+  "fontes": [
+   {
+    "titulo": "Vitória de Flávio no primeiro turno expõe fraquezas de Lula, diz FT (reproduz editorial do Financial Times de 05/10/2026)",
+    "veiculo": "Financial Times (reproduzido pela Gazeta do Povo)",
+    "url": "https://www.gazetadopovo.com.br/mundo/vitoria-flavio-primeiro-turno-expoe-fraquezas-lula-diz-maior-jornal-economico-mundo/",
+    "data": "2026-10-06",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Financial Times vê vitória de Flávio como retorno notável da família Bolsonaro",
+    "veiculo": "Financial Times (reproduzido pelo Brasil em Folhas)",
+    "url": "https://www.brasilemfolhas.com.br/2026/10/financial-times-ve-vitoria-de-flavio-como-retorno-notavel-da-familia-bolsonaro/",
+    "data": "2026-10",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "O editorial, segundo as reproduções, trata Flávio como favorito e vê sua ascensão como parte da onda de direita na região.",
+  "limitacoes": "Opinião editorial, lida apenas em tradução; o alerta de crise institucional foi visto só em resumos de busca de terceiros; as reproduções divergem sobre o adjetivo 'medíocre'.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-flavio-02",
+  "candidato": "flavio",
+  "criterio": "experiencia",
+  "tema": "editorial da The Economist sobre a candidatura",
+  "tipo": "OPINIAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "No editorial de 30/12/2025, segundo a CNN Brasil, The Economist classificou Flávio Bolsonaro como \"impopular\" e \"ineficaz\", com poucas chances, e apontou Tarcísio de Freitas como alternativa da direita.",
+  "data_fato": "2025-12-30",
+  "fontes": [
+   {
+    "titulo": "Lula não deveria concorrer à reeleição em 2026, avalia The Economist (reproduz editorial de 30/12/2025)",
+    "veiculo": "The Economist (reproduzido pela CNN Brasil)",
+    "url": "https://www.cnnbrasil.com.br/politica/lula-nao-deveria-concorrer-a-reeleicao-em-2026-avalia-the-economist/",
+    "data": "2025-12-31",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "O resultado do 1º turno (47,03%) contrariou a previsão de poucas chances.",
+  "limitacoes": "Editorial anterior à campanha, lido apenas na reprodução da CNN Brasil.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-flavio-03",
+  "candidato": "flavio",
+  "criterio": "governabilidade",
+  "tema": "coluna Bloomberg Opinion",
+  "tipo": "OPINIAO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Coluna de Juan Pablo Spinetto na Bloomberg Opinion (05/10/2026), 'Bolsonaro's Strong Showing Leaves Brazil's Left on the Ropes', interpretou o resultado como guinada mais ampla do país à direita e registrou que o PL deve ter a maior bancada no Senado no início de uma legislatura desde 1988.",
+  "data_fato": "2026-10-05",
+  "fontes": [
+   {
+    "titulo": "Bolsonaro's Strong Showing Leaves Brazil's Left on the Ropes",
+    "veiculo": "Bloomberg Opinion (coluna de Juan Pablo Spinetto)",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-10-05/bolsonaro-s-strong-showing-leaves-brazil-s-left-on-the-ropes",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Coluna assinada; conteúdo visto apenas no resultado de busca (trecho inicial).",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-flavio-04",
+  "candidato": "flavio",
+  "criterio": "integridade",
+  "tema": "análise Al Jazeera pós-1º turno",
+  "tipo": "INTERPRETACAO",
+  "sentido": "MISTO",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Na análise da Al Jazeera (06/10/2026), Andre Pagliarini atribuiu a Flávio imagem de \"anti-institutional insurgent\" e um ambiente informacional favorável, e afirmou que ele está \"directly implicated\" no caso Banco Master, mais do que Lula.",
+  "data_fato": "2026-10-06",
+  "fontes": [
+   {
+    "titulo": "Why Flavio Bolsonaro outperformed the polls in Brazil's election",
+    "veiculo": "Al Jazeera (com Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election",
+    "data": "2026-10-06",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Flávio nega irregularidades e diz que buscava investimento privado para o filme.",
+  "limitacoes": "Avaliação de analista; 'implicado' não equivale a acusação formal.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-flavio-05",
+  "candidato": "flavio",
+  "criterio": "democracia",
+  "tema": "análise Al Jazeera sobre a onda de direita",
+  "tipo": "INTERPRETACAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "No explicativo da Al Jazeera (04/10/2026), Andre Pagliarini descreveu o discurso da família Bolsonaro como retrato das instituições pós-ditadura como \"rotten and unresponsive\", com proposta de ruptura com o status quo.",
+  "data_fato": "2026-10-04",
+  "fontes": [
+   {
+    "titulo": "Will Brazil's Lula halt the right-wing wave sweeping Latin America?",
+    "veiculo": "Al Jazeera (com Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america",
+    "data": "2026-10-04",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Flávio afirma que respeitará a Constituição e o resultado das eleições.",
+  "limitacoes": "Interpretação de analista sobre o discurso, não sobre atos.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-flavio-06",
+  "candidato": "flavio",
+  "criterio": "coerencia",
+  "tema": "perfil da AFP",
+  "tipo": "INTERPRETACAO",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Perfil da AFP (28/09/2026) afirmou que Flávio luta para sair da sombra do pai, que se apresenta como 'Bolsonaro mais moderado' com o pai como 'bússola'; Thomas Traumann o achou mais afável, o que \"doesn't mean he isn't ideologically far-right\". O texto registra o elogio a Bukele.",
+  "data_fato": "2026-09-28",
+  "fontes": [
+   {
+    "titulo": "Flavio Bolsonaro: political heir in his father's shadow",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260928-flavio-bolsonaro-political-heir-in-his-father-s-shadow",
+    "data": "2026-09-28",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Perfil jornalístico com avaliação de um analista.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-flavio-07",
+  "candidato": "flavio",
+  "criterio": "integridade",
+  "tema": "caso Banco Master (análise)",
+  "tipo": "INTERPRETACAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Na reportagem especial da Al Jazeera (02/10/2026), Anthony Pereira (Tulane) disse que Flávio \"is far more implicated\" no escândalo, e Leonardo Paz (FGV) avaliou que o caso envolve predominantemente a direita.",
+  "data_fato": "2026-10-02",
+  "fontes": [
+   {
+    "titulo": "How the Banco Master scandal injected chaos into Brazil's presidential race",
+    "veiculo": "Al Jazeera",
+    "url": "https://www.aljazeera.com/features/longform/2026/10/2/how-the-banco-master-scandal-injected-chaos-into-brazils-presidential-race",
+    "data": "2026-10-02",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Flávio descreve a relação com Vorcaro como patrocínio privado sem ligação com o Banco Master.",
+  "limitacoes": "Opinião de analistas; a investigação não tem denúncia.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-flavio-08",
+  "candidato": "flavio",
+  "criterio": "propostas",
+  "tema": "coluna Reuters Breakingviews",
+  "tipo": "OPINIAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Coluna da Reuters Breakingviews (05/10/2026), 'Brazil's right-wing return fuels a fiscal mirage', avaliou que a liderança de Flávio reavivou esperança de ajuste pró-mercado, mas que os cortes possíveis são limitados porque a maior parte do gasto é vinculada por lei, com dívida de 83% do PIB.",
+  "data_fato": "2026-10-05",
+  "fontes": [
+   {
+    "titulo": "Brazil's right-wing return fuels a fiscal mirage",
+    "veiculo": "Reuters Breakingviews (coluna de opinião)",
+    "url": "https://www.breakingviews.com/columns/breaking-view/brazils-right-wing-return-fuels-fiscal-mirage-2026-10-05/",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A campanha estima corte de despesas de 1,5% do PIB.",
+  "limitacoes": "Coluna de opinião; conteúdo visto apenas no resultado de busca (página exige assinatura).",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-flavio-09",
+  "candidato": "flavio",
+  "criterio": "democracia",
+  "tema": "pedido de adiamento de tarifas ao USTR",
+  "tipo": "FATO_COMPROVADO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Segundo a Reuters, Flávio enviou ao Escritório do Representante Comercial dos EUA manifestação pedindo adiamento de 180 dias das tarifas de 25% propostas em junho de 2026, argumentando que elas dariam ao governo brasileiro \"precisely the political victory it has been engineering\".",
+  "data_fato": "2026-07-06",
+  "fontes": [
+   {
+    "titulo": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
+    "veiculo": "Al Jazeera (com Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election",
+    "data": "2026-07-06",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Lula acusou a família Bolsonaro de originar as tarifas e chamou o pedido de traição à pátria; Flávio nega ter incentivado as sanções.",
+  "limitacoes": "Não prova influência de Flávio sobre a decisão americana.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-flavio-10",
+  "candidato": "flavio",
+  "criterio": "integridade",
+  "tema": "inquérito por calúnia contra Lula",
+  "tipo": "INVESTIGACAO_OU_DENUNCIA",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em abril de 2026, o ministro Alexandre de Moraes (STF), a pedido do Ministério da Justiça, autorizou a PF a investigar Flávio por calúnia, por postagem de janeiro que ligava Lula a narcotráfico, lavagem e fraude eleitoral; a PF teria 60 dias para a apuração inicial.",
+  "data_fato": "2026-04-15",
+  "fontes": [
+   {
+    "titulo": "Brazil Supreme Court orders probe into Flavio Bolsonaro for 'slander' of Lula",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260415-brazil-supreme-court-orders-probe-into-flavio-bolsonaro-for-slander-of-lula",
+    "data": "2026-04-15",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's police open a probe into presidential candidate Flavio Bolsonaro",
+    "veiculo": "Al Jazeera (com AFP)",
+    "url": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro",
+    "data": "2026-04-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Flávio chamou o inquérito de tentativa de restringir a liberdade de expressão; sua assessoria disse que ele apenas relatou fatos.",
+  "limitacoes": "Estágio atual (arquivamento, denúncia ou curso) não consta das fontes; investigação não é culpa.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-internacional-flavio-11",
+  "candidato": "flavio",
+  "criterio": "democracia",
+  "tema": "pedido de inelegibilidade de Lula",
+  "tipo": "ALEGACAO",
+  "sentido": "CONTEXTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 20/10/2026, advogados de Flávio pediram ao TSE que Lula e o ministro Sidônio Palmeira sejam declarados inelegíveis por oito anos, por suposto abuso de poder na difusão em massa de mensagens do governo por WhatsApp durante a campanha.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
+    "veiculo": "Al Jazeera (com AFP)",
+    "url": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Lula's campaign seeks to disqualify Bolsonoro from Brazil presidential vote over Meta 'interference'",
+    "veiculo": "France 24 (com AFP)",
+    "url": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "",
+  "limitacoes": "Pedido não julgado até a publicação; não prova o abuso alegado.",
+  "frente": "reforco_internacional"
+ },
+ {
+  "id": "reforco-nacional_economia-flavio-01",
+  "candidato": "flavio",
+  "criterio": "economia_fiscal",
+  "tema": "reação do mercado e credibilidade do ajuste",
+  "tipo": "OPINIAO",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Gestores ouvidos pelo InfoMoney em 21/10/2026 condicionaram a manutenção da alta dos ativos a uma entrega fiscal concreta de eventual governo Flávio. Luiz Cesario (Asset1) considerou mais realista um ajuste de cerca de 1 p.p. do PIB que o de 1,5 p.p. citado pela campanha, e Roberto Motta (Genial) afirmou que, sem PEC fiscal, a lua de mel do mercado pode durar pouco.",
+  "data_fato": "2026-10-21",
+  "fontes": [
+   {
+    "titulo": "De \"lua de mel\" a \"piora intensa\": como gestores veem a reação do mercado ao 2º turno",
+    "veiculo": "InfoMoney",
+    "url": "https://infomoney.com.br/onde-investir/expectativa-mercado-segundo-turno-eleicoes-2026",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "Os mesmos gestores registram expectativa positiva do mercado com a candidatura e a promessa de corte de R$ 200 bilhões em gastos.",
+  "limitacoes": "Trata-se de opiniões de agentes de mercado, sem estimativa própria do efeito fiscal das propostas.",
+  "frente": "reforco_nacional_economia"
+ },
+ {
+  "id": "reforco-nacional_economia-flavio-02",
+  "candidato": "flavio",
+  "criterio": "propostas",
+  "tema": "compra de dívidas das famílias",
+  "tipo": "ALEGACAO",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "BAIXO",
+  "afirmacao": "Em 20/10/2026, o ministro da Fazenda, Dario Durigan, afirmou que a proposta de Flávio de comprar dívidas bancárias com carência de seis meses (pessoas físicas) e um ano (empresas) provocaria um calote geral e travaria o crédito, e que os juros continuariam a incidir durante a suspensão. Flávio havia citado abertura de mais de R$ 200 bilhões no Orçamento, sem detalhar a operacionalização.",
+  "data_fato": "2026-10-20",
+  "fontes": [
+   {
+    "titulo": "Proposta de Flávio de comprar dívidas provocaria calote geral, diz Durigan",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/proposta-de-flavio-de-comprar-dividas-provocaria-calote-geral-diz-durigan/",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A crítica parte de integrante do governo adversário; a CNN procurou a campanha de Flávio, que não respondeu até a publicação.",
+  "limitacoes": "Não há estimativa técnica independente do custo ou do efeito da medida sobre o crédito.",
+  "frente": "reforco_nacional_economia"
+ },
+ {
+  "id": "reforco-nacional_instituicoes-flavio-01",
+  "candidato": "flavio",
+  "criterio": "democracia",
+  "tema": "propaganda que associa Lula a facções",
+  "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 08/10/2026, o TSE, com relatoria de André Mendonça (Rp 0600955-65.2026.6.00.0000), a pedido da federação liderada pelo PT, determinou a exclusão de publicações de Flávio no X que associavam Lula ao PCC e ao CV sem base factual mínima, por configurarem grave descontextualização. Uma terceira publicação, montagem feita com inteligência artificial, foi considerada irregular por não identificar o uso da tecnologia.",
+  "data_fato": "2026-10-08",
+  "fontes": [
+   {
+    "titulo": "TSE manda Flávio apagar vídeos com IA que associam Lula a facções",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-flavio-apagar-videos-com-ia-que-associam-lula-a-faccoes/",
+    "data": "2026-10-08",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "TSE manda Flávio apagar posts que ligam Lula à defesa do crime",
+    "veiculo": "Consultor Jurídico (Conjur)",
+    "url": "https://conjur.com.br/2026-out-09/associar-candidato-a-faccoes-sem-fatos-ultrapassa-limite-da-propaganda-politica/",
+    "data": "2026-10-09",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Mendonça muda de posição, e TSE derruba posts de Flávio que associam Lula a crime organizado",
+    "veiculo": "Jota",
+    "url": "https://www.jota.info/eleicoes/eleicoes-2026/mendonca-muda-de-posicao-e-tse-derruba-posts-de-flavio-que-associam-lula-a-crime-organizado",
+    "data": "2026-10",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "O relator inicialmente entendia que as publicações poderiam permanecer no ar e mudou de posição após votos divergentes no plenário virtual. As reportagens consultadas não registram manifestação da defesa de Flávio.",
+  "limitacoes": "Os veículos divergem sobre a publicação feita com IA: a CNN Brasil relata ordem de remoção das três publicações em decisão unânime; o Conjur afirma que a montagem não foi removida e que Flávio foi multado pela falta de rotulagem. Do Jota só o título estava visível. Trata-se de propaganda eleitoral, não de imputação penal.",
+  "frente": "reforco_nacional_instituicoes"
+ },
+ {
+  "id": "reforco-nacional_instituicoes-flavio-02",
+  "candidato": "flavio",
+  "criterio": "democracia",
+  "tema": "impulsionamento de propaganda negativa",
+  "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em decisão divulgada em 05/10/2026, o ministro André Mendonça (TSE), em ação da coligação de Lula, multou Flávio em R$ 5 mil por impulsionar no Instagram, entre 4 e 18/09/2026, vídeo que afirmava que \"Lula abandonou o Brasil\", por ser vedado o impulsionamento pago de propaganda negativa. A publicação foi mantida no ar, e o ministro não reconheceu falsidade nem ofensa à honra de Lula.",
+  "data_fato": "2026-10-05",
+  "fontes": [
+   {
+    "titulo": "Mendonça multa Flávio Bolsonaro por impulsionar propaganda contra Lula",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/mendonca-multa-flavio-bolsonaro-por-impulsionar-propaganda-contra-lula/",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A decisão afirma que as críticas não são ilícitas por si só e podem circular de forma orgânica; foram negados a retirada da postagem e o pedido de proibição genérica de críticas futuras.",
+  "limitacoes": "A sanção decorre da forma de divulgação (impulsionamento pago), não do conteúdo; decisão monocrática, sem informação sobre recurso.",
+  "frente": "reforco_nacional_instituicoes"
+ },
+ {
+  "id": "reforco-nacional_instituicoes-flavio-04",
+  "candidato": "flavio",
+  "criterio": "democracia",
+  "tema": "vídeo sobre garis e propina atribuída a Lulinha",
+  "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 15/10/2026, a maioria do TSE, a pedido da coligação de Lula, determinou a remoção de vídeo de Flávio que recortava fala de Lula sobre garis e afirmava que Lulinha é acusado de receber R$ 300 mil de propina do Careca do INSS. Nunes Marques, Dias Toffoli e Estela Aranha votaram pela remoção do trecho sobre a propina, por imputação criminal sem base factual; Floriano de Azevedo Marques e Villas Bôas Cueva, também pela descontextualização da fala sobre garis.",
+  "data_fato": "2026-10-15",
+  "fontes": [
+   {
+    "titulo": "TSE determina remoção de vídeo de Flávio que liga Lula a caso do INSS",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-determina-remocao-de-video-de-flavio-que-liga-lula-a-caso-do-inss/",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "O relator, André Mendonça, votou contra a remoção, por entender que as críticas integram o debate político e que as referências ao INSS têm respaldo em notícias e apurações.",
+  "limitacoes": "A reportagem não informa o placar formal, prazo ou multa; Fábio Luís Lula da Silva não foi indiciado nem denunciado segundo as fontes da base.",
+  "frente": "reforco_nacional_instituicoes"
+ },
+ {
+  "id": "reforco-nacional_instituicoes-lula-01",
+  "candidato": "lula",
+  "criterio": "democracia",
+  "tema": "impulsionamento de vídeo que liga Flávio ao crime organizado",
+  "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+  "sentido": "DESFAVORAVEL",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em liminar divulgada em 13/10/2026, a ministra Estela Aranha (TSE), a pedido da campanha de Flávio, determinou a suspensão do impulsionamento pago e a remoção, em 24 horas, de vídeo da campanha de Lula no Facebook e no Instagram que dizia que Flávio \"faz parte desse crime organizado\", por ser irregular impulsionar propaganda negativa contra adversário.",
+  "data_fato": "2026-10-13",
+  "fontes": [
+   {
+    "titulo": "TSE manda Lula tirar do ar vídeo que liga Flávio ao crime organizado",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-lula-tirar-do-ar-video-que-liga-flavio-ao-crime-organizado/",
+    "data": "2026-10-13",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A reportagem não registra manifestação da campanha de Lula.",
+  "limitacoes": "Decisão monocrática liminar; a campanha de Flávio alegou 325 impulsionamentos, número não verificado pela reportagem. Não foi possível confirmar se esta peça coincide com alguma das já registradas na base.",
+  "frente": "reforco_nacional_instituicoes"
+ },
+ {
+  "id": "reforco-nacional_instituicoes-lula-02",
+  "candidato": "lula",
+  "criterio": "democracia",
+  "tema": "vídeo sobre tesouraço em programas sociais",
+  "tipo": "DECISAO_JUDICIAL_NAO_DEFINITIVA",
+  "sentido": "MISTO",
+  "peso_probatorio": "MEDIO",
+  "afirmacao": "Em 13/10/2026, o ministro André Mendonça (TSE) concedeu liminar para retirar vídeo de Lula sobre suposto tesouraço em programas sociais atribuído a Flávio, que classificou como \"sabidamente inverídico\", com multa diária de R$ 10 mil. No plenário virtual, a maioria votou para derrubar a liminar e liberar o vídeo, mas Mendonça pediu destaque em 15/10, interrompendo o julgamento; a liminar permanece em vigor.",
+  "data_fato": "2026-10-15",
+  "fontes": [
+   {
+    "titulo": "Após maioria formada, Mendonça suspende sessão sobre tesouraço de Flávio",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/apos-maioria-formada-mendonca-suspende-sessao-sobre-tesouraco-de-flavio/",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  ],
+  "contraponto": "A maioria formada no plenário virtual divergiu do relator e votou pela liberação do vídeo; o plano de Flávio prevê um tesouraço com extinção de ministérios (economia-flavio-09).",
+  "limitacoes": "A reportagem não informa o placar nem os votos; o caso aguarda nova pauta definida pelo presidente do TSE, sem prazo.",
+  "frente": "reforco_nacional_instituicoes"
  },
  {
   "id": "trajetoria-lula-01",
@@ -6544,6 +8289,13 @@
     "url": "https://documentacao.senior.com.br/exigenciaslegais/noticias/trabalhista-previdenciaria/2025/2025-11-27-trabalhista-lei-15-270-2025-sancionada-lei-que-amplia-isenção-do-imposto-de-renda-para-quem-ganha-ate-5-mil",
     "data": "2025-11-27",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's Lula sanctions an increase in tax exemptions for low-income people",
+    "veiculo": "The Washington Post (AP)",
+    "url": "https://www.washingtonpost.com/world/2025/11/26/lula-brazil-income-tax/7c948e98-caf1-11f0-ac2a-e98510180900_story.html",
+    "data": "2025-11-26",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A sanção ocorreu sem a presença dos presidentes da Câmara e do Senado, o que parte da imprensa leu como sinal de desgaste com o Legislativo (resultado de busca).",
@@ -6657,6 +8409,27 @@
     "url": "https://www.congressoemfoco.com.br/noticia/118501/de-messias-a-dosimetria-as-10-maiores-derrotas-de-lula-no-congresso",
     "data": "2026-04-30",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's Senate blocks Lula's Supreme Court nominee, first rejection in 132 years",
+    "veiculo": "The Washington Post (AP)",
+    "url": "https://www.washingtonpost.com/world/2026/04/29/brazil-supreme-court-justice-messias-lula/def5bf4e-441d-11f1-b19d-32431046b5b4_story.html",
+    "data": "2026-04-29",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Senado rejeita Messias e impõe derrota histórica do governo Lula",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/senado-rejeita-messias-e-impoe-derrota-historica-do-governo-lula/",
+    "data": "2026-04-29",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Por 42 votos a 34, Jorge Messias é rejeitado pelo Senado para ocupar vaga no STF",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/jorge-messias-e-rejeitado-pelo-senado-para-ocupar-vaga-no-stf/",
+    "data": "2026-04-29",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Reportagens atribuem a derrota, em parte, à preferência do presidente do Senado, Davi Alcolumbre, por Rodrigo Pacheco, o que é relato de bastidores e não decisão formal.",
@@ -6679,6 +8452,27 @@
     "veiculo": "Congresso em Foco",
     "url": "https://www.congressoemfoco.com.br/noticia/118501/de-messias-a-dosimetria-as-10-maiores-derrotas-de-lula-no-congresso",
     "data": "2026-04-30",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Congresso derruba veto de Lula para reduzir pena de Bolsonaro",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-30/congresso-derruba-veto-de-lula-para-reduzir-pena-de-bolsonaro",
+    "data": "2026-04-30",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Em derrota para governo, Câmara derruba aumento do IOF; Senado ainda votará",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/com-plenario-esvaziado-camara-aprova-derrubar-alta-do-iof/",
+    "data": "2025-06-25",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Câmara aprova retirada de MP da pauta por 251 a 193; veja como votou cada deputado",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/camara-aprova-retirada-de-mp-da-pauta-por-251-a-193-veja-como-votou-cada-deputado/",
+    "data": "2025-10-08",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -6763,6 +8557,13 @@
     "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/8/lula-x-flavio-bolsonaro-veja-quais-partidos-ja-declararam-apoio-no-segundo-turno",
     "data": "2026-10-08",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "MDB se divide sobre 2º turno: 17 diretórios apoiam Flávio, 10 respaldam Lula",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/mdb-se-divide-sobre-2o-turno-ao-menos-17-diretorios-apoiam-flavio-10-respaldam-lula/",
+    "data": "2026-10-13",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "",
@@ -6792,6 +8593,13 @@
     "veiculo": "Gazeta do Povo",
     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-avanca-segundo-turno-apoio-governadores/",
     "data": "2026-10-06",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio tem apoio de 12 governadores eleitos; Lula reúne cinco para o 2º turno",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/flavio-tem-apoio-de-12-governadores-eleitos-lula-reune-cinco-para-o-2o-turno/",
+    "data": "2026-10-14",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -6889,6 +8697,13 @@
     "veiculo": "Poder360",
     "url": "https://www.poder360.com.br/poder-governo/brasil-enviara-embaixadora-a-posse-de-maduro/",
     "data": "2025-01",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Conceito de democracia é relativo para você e para mim, diz Lula ao responder sobre eleições na Venezuela",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/conceito-de-democracia-e-relativo-para-voce-e-para-mim-diz-lula-ao-responder-sobre-eleicoes-na-venezuela/",
+    "data": "2023-06-29",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -6989,6 +8804,20 @@
     "url": "https://www.congressoemfoco.com.br/noticia/123248/o-que-lula-e-flavio-fizeram-no-congresso-antes-de-disputar-o-planalto",
     "data": "2026-10",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flavio Bolsonaro: political heir in his father's shadow",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260928-flavio-bolsonaro-political-heir-in-his-father-s-shadow",
+    "data": "2026-09-28",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio Bolsonaro será oficializado hoje como candidato do PL em convenção",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-flavio-bolsonaro-que-pl-oficializa-candidato-em-convencao-hoje/",
+    "data": "2026-07-25",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "",
@@ -7018,6 +8847,13 @@
     "veiculo": "Itatiaia",
     "url": "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-flavio-bolsonaro-pre-candidato-a-presidencia/",
     "data": "2026-06-18",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio Bolsonaro será oficializado hoje como candidato do PL em convenção",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-flavio-bolsonaro-que-pl-oficializa-candidato-em-convencao-hoje/",
+    "data": "2026-07-25",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -7122,6 +8958,27 @@
     "veiculo": "Revista Oeste",
     "url": "https://revistaoeste.com/politica/senado-aprova-texto-base-de-projeto-que-acaba-com-saidinhas-em-datas-comemorativas/",
     "data": "2024-02-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Senado aprova fim da saidinha de presos; texto volta à Câmara",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/402164/senado-aprova-fim-da-saidinha-de-presos-texto-volta-a-camara",
+    "data": "2024-02-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Senado aprova texto-base de projeto que prevê o fim da saidinha de presos em feriados",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/senado-aprova-texto-base-de-projeto-que-preve-o-fim-da-saidinha-de-presos-em-feriados/",
+    "data": "2024-02-20",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Congresso derruba veto de Lula e nega saidinha para visitas à família",
+    "veiculo": "Migalhas",
+    "url": "https://www.migalhas.com.br/quentes/408308/congresso-derruba-veto-de-lula-e-nega-saidinha-para-visitas-a-familia",
+    "data": "2024-05-28",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -7266,6 +9123,20 @@
     "url": "https://bpmoney.com.br/politica/tse-comeca-a-julgar-registros-de-lula-flavio-bolsonaro-e-zema-nesta-segunda-feira/",
     "data": "2026-08-31",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's Flavio Bolsonaro names Alfredo Gaspar as running mate",
+    "veiculo": "Al Jazeera (com Reuters e AP)",
+    "url": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate",
+    "data": "2026-08-05",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Após impasse, Flávio anuncia Alfredo Gaspar como vice em chapa \"puro-sangue\" do PL",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/apos-semanas-de-impasse-flavio-anuncia-alfredo-gaspar-em-chapa-puro-sangue-do-pl/",
+    "data": "2026-08-05",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "Flávio afirmou que lideranças de outras siglas (como Tarcísio de Freitas e Ricardo Nunes) apoiariam a candidatura informalmente.",
@@ -7295,6 +9166,27 @@
     "veiculo": "O Tempo",
     "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/8/lula-x-flavio-bolsonaro-veja-quais-partidos-ja-declararam-apoio-no-segundo-turno",
     "data": "2026-10-08",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Brazil's Flavio Bolsonaro wins support of third-place candidate in presidential race",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/americas/20261009-brazil-flavio-bolsonaro-third-place-candidate-lula",
+    "data": "2026-10-09",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Podemos declara apoio a Flávio Bolsonaro no segundo turno",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/podemos-declara-apoio-a-flavio-bolsonaro-no-segundo-turno/",
+    "data": "2026-10-08",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "MDB se divide sobre 2º turno: 17 diretórios apoiam Flávio, 10 respaldam Lula",
+    "veiculo": "Exame",
+    "url": "https://exame.com/brasil/mdb-se-divide-sobre-2o-turno-ao-menos-17-diretorios-apoiam-flavio-10-respaldam-lula/",
+    "data": "2026-10-13",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -7326,6 +9218,13 @@
     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-avanca-segundo-turno-apoio-governadores/",
     "data": "2026-10-06",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio tem apoio de 12 governadores eleitos; Lula reúne cinco para o 2º turno",
+    "veiculo": "InfoMoney",
+    "url": "https://www.infomoney.com.br/politica/flavio-tem-apoio-de-12-governadores-eleitos-lula-reune-cinco-para-o-2o-turno/",
+    "data": "2026-10-14",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A Gazeta do Povo contava 10 governadores em 06/10/2026; a diferença reflete anúncios posteriores (Daniel Vilela, GO, entre outros).",
@@ -7356,9 +9255,16 @@
     "url": "https://www.congressoemfoco.com.br/noticia/118501/de-messias-a-dosimetria-as-10-maiores-derrotas-de-lula-no-congresso",
     "data": "2026-04-30",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio agradece parlamentares e chama dosimetria de primeiro degrau",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-agradece-parlamentares-e-chama-dosimetria-de-primeiro-degrau/",
+    "data": "2025-12-17",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
-  "contraponto": "O relator foi Esperidião Amin (PP-SC); a matéria não informa o voto de Flávio nem atribui a ele a articulação.",
+  "contraponto": "O relator foi Esperidião Amin (PP-SC); a matéria não informa o voto de Flávio nem atribui a ele a articulação. Segundo a CNN Brasil, Flávio atribuiu os limites do texto à interferência de forças externas no Legislativo e chamou a dosimetria de primeiro degrau.",
   "limitacoes": "Mostra a participação da oposição numa vitória legislativa, mas não isola o papel pessoal de Flávio.",
   "frente": "trajetoria"
  },
@@ -7385,6 +9291,13 @@
     "veiculo": "O Liberal",
     "url": "https://www.oliberal.com/politica/apos-mudar-de-ideia-flavio-bolsonaro-vota-a-favor-da-pec-do-fim-da-escala-6x1-1.1182711",
     "data": "2026-10-14",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "El Congreso de Brasil aprueba la reducción de la semana laboral, promesa de Lula antes del balotaje",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20261015-el-congreso-de-brasil-aprueba-la-reducci%C3%B3n-de-la-semana-laboral-promesa-de-lula-antes-del-balotaje",
+    "data": "2026-10-15",
     "tipo_fonte": "JORNALISTICA"
    }
   ],
@@ -7416,6 +9329,20 @@
     "url": "https://diariodocomercio.com.br/politica/flavio-bolsonaro-descarta-privatizacao-petrobras/",
     "data": "2026-10-10",
     "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Campanha de Flávio nega privatizações e defende programas sociais",
+    "veiculo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-flavio-nega-privatizacoes-e-defende-programas-sociais/",
+    "data": "2026-10-08",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flávio e Zema divergem sobre plano de privatizações",
+    "veiculo": "CNN Brasil (blog Gustavo Uribe)",
+    "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/eleicoes/flavio-e-zema-divergem-sobre-plano-de-privatizacoes/",
+    "data": "2026-04-27",
+    "tipo_fonte": "JORNALISTICA"
    }
   ],
   "contraponto": "A campanha sustenta que sempre se tratou de avaliar a eficiência das estatais; o coordenador de energia Adriano Pires admitiu discutir capitalização, não prevista no plano.",
@@ -7445,6 +9372,13 @@
     "veiculo": "Congresso em Foco",
     "url": "https://www.congressoemfoco.com.br/noticia/114678/flavio-bolsonaro-diz-que-pre-candidatura-a-presidencia-e-irreversivel",
     "data": "2025-12-09",
+    "tipo_fonte": "JORNALISTICA"
+   },
+   {
+    "titulo": "Flavio Bolsonaro retracts suggestion of a 'price' to end 2026 election bid",
+    "veiculo": "Al Jazeera (agências)",
+    "url": "https://www.aljazeera.com/news/2025/12/10/flavio-bolsonaro-retracts-suggestion-of-a-price-to-end-2026-election-bid",
+    "data": "2025-12-10",
     "tipo_fonte": "JORNALISTICA"
    }
   ],

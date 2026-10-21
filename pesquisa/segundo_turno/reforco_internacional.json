@@ -1,0 +1,1088 @@
+{
+ "frente": "internacional",
+ "reforcos": [
+  {
+   "evidencia_id": "democracia-flavio-12",
+   "confirma": true,
+   "nota": "A AFP registra a frase de Flávio na noite de 04/10 sobre o fim da era do PT, sem contestação do resultado.",
+   "fonte": {
+    "titulo": "Bolsonaro rides right-wing surge into Brazil's election runoff",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20261005-bolsonaro-rides-right-wing-surge-into-brazil-s-election-runoff",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-12",
+   "confirma": true,
+   "nota": "Confirma a declaração de que o resultado mostra desejo de mudança; os percentuais citados (47% e 44,9%) são de apuração parcial, com cerca de 99% das urnas.",
+   "fonte": {
+    "titulo": "Brazil's presidential race: Three key takeaways from the first round",
+    "veiculo": "Al Jazeera (com AFP, Reuters e AP)",
+    "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-17",
+   "confirma": true,
+   "nota": "Registra a frase do 'preço' (dita no domingo, 07/12/2025) e a retratação de 09/12 ('Bolsonaro livre e nas urnas', candidatura 'irreversível').",
+   "fonte": {
+    "titulo": "Flavio Bolsonaro retracts suggestion of a 'price' to end 2026 election bid",
+    "veiculo": "Al Jazeera (agências)",
+    "url": "https://www.aljazeera.com/news/2025/12/10/flavio-bolsonaro-retracts-suggestion-of-a-price-to-end-2026-election-bid",
+    "data": "2025-12-10",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-07",
+   "confirma": true,
+   "nota": "Confirma investigação desde julho por corrupção e lavagem ligada ao financiamento do filme Dark Horse; não identifica o ministro relator nem a PGR.",
+   "fonte": {
+    "titulo": "Corruption probe targets Brazil presidential candidate Flavio Bolsonaro",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260911-brazil-president-candidate-flavio-bolsonaro-targeted-in-corruption-probe",
+    "data": "2026-09-11",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-08",
+   "confirma": true,
+   "nota": "A AFP confirma o vazamento, em maio, de áudio em que Flávio pede a Vorcaro financiamento do filme; não detalha a mensagem de 16/11/2025.",
+   "fonte": {
+    "titulo": "Flavio Bolsonaro: political heir in his father's shadow",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260928-flavio-bolsonaro-political-heir-in-his-father-s-shadow",
+    "data": "2026-09-28",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-09",
+   "confirma": true,
+   "nota": "A AFP registra que Flávio negou inicialmente contato com Vorcaro e voos no jatinho dele e admitiu ambos após vazamentos da investigação.",
+   "fonte": {
+    "titulo": "Flavio Bolsonaro: political heir in his father's shadow",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260928-flavio-bolsonaro-political-heir-in-his-father-s-shadow",
+    "data": "2026-09-28",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-01",
+   "confirma": true,
+   "nota": "Confirma a denúncia do MP-RJ (04/11/2020) por organização criminosa, lavagem, peculato e apropriação indébita, com Queiroz e outras 15 pessoas, por fatos de 2007 a 2018; Flávio negou ilegalidade.",
+   "fonte": {
+    "titulo": "Imputan por corrupción al senador Flávio Bolsonaro, hijo del presidente de Brasil",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20201104-imputan-por-corrupci%C3%B3n-al-senador-fl%C3%A1vio-bolsonaro-hijo-del-presidente-de-brasil",
+    "data": "2020-11-04",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-flavio-05",
+   "confirma": true,
+   "nota": "A AFP registra apenas que o caso da 'rachadinha' foi arquivado ('dismissed'), sem indicar o fundamento.",
+   "fonte": {
+    "titulo": "Flavio Bolsonaro: political heir in his father's shadow",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260928-flavio-bolsonaro-political-heir-in-his-father-s-shadow",
+    "data": "2026-09-28",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-02",
+   "confirma": true,
+   "nota": "A AFP confirma que Flávio foi eleito deputado estadual no Rio aos 21 anos e senador aos 37.",
+   "fonte": {
+    "titulo": "Flavio Bolsonaro: political heir in his father's shadow",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20260928-flavio-bolsonaro-political-heir-in-his-father-s-shadow",
+    "data": "2026-09-28",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-11",
+   "confirma": true,
+   "nota": "Confirma a escolha de Alfredo Gaspar, a dificuldade de alianças fora do PL e a sondagem frustrada de Tereza Cristina (PP).",
+   "fonte": {
+    "titulo": "Brazil's Flavio Bolsonaro names Alfredo Gaspar as running mate",
+    "veiculo": "Al Jazeera (com Reuters e AP)",
+    "url": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate",
+    "data": "2026-08-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-12",
+   "confirma": true,
+   "nota": "Confirma o apoio de Augusto Cury, terceiro colocado, anunciado em 08/10/2026, com a ressalva de que não era 'cheque em branco'.",
+   "fonte": {
+    "titulo": "Brazil's Flavio Bolsonaro wins support of third-place candidate in presidential race",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/americas/20261009-brazil-flavio-bolsonaro-third-place-candidate-lula",
+    "data": "2026-10-09",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-10",
+   "confirma": true,
+   "nota": "Confirma a associação das urnas à Smartmatic perante diplomatas (evento privado na noite de terça, 21/07), a negativa de questionar o sistema e a nota do TSE classificando a alegação como falsa.",
+   "fonte": {
+    "titulo": "Flávio Bolsonaro cuestiona la fiabilidad del sistema de votación brasileño",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20260722-fl%C3%A1vio-bolsonaro-cuestiona-la-fiabilidad-del-sistema-de-votaci%C3%B3n-brasile%C3%B1o",
+    "data": "2026-07-22",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-19",
+   "confirma": true,
+   "nota": "Confirma telefonema de Netanyahu a Flávio na noite de 08/10/2026, com convites recíprocos de visita e participação de Eduardo Bolsonaro, segundo o gabinete israelense.",
+   "fonte": {
+    "titulo": "Netanyahu invita al candidato presidencial brasileño Flávio Bolsonaro a Israel",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20261009-netanyahu-invita-al-candidato-presidencial-brasile%C3%B1o-fl%C3%A1vio-bolsonaro-a-israel",
+    "data": "2026-10-09",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-20",
+   "confirma": true,
+   "nota": "A Reuters confirma o encontro no Salão Oval com base em foto publicada por Flávio; não registra os pedidos feitos a Trump.",
+   "fonte": {
+    "titulo": "Brazil's Flavio Bolsonaro meets with Trump amid troubled presidential bid",
+    "veiculo": "Al Jazeera (Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/5/27/brazils-flavio-bolsonaro-meets-with-trump-amid-troubled-presidential-bid",
+    "data": "2026-05-27",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-20",
+   "confirma": true,
+   "nota": "A Bloomberg confirma que Trump recebeu Flávio na Casa Branca em 26/05/2026. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Trump, Flávio Bolsonaro Meet Ahead of Brazil's Presidential Election",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/trump-meets-brazil-s-flavio-bolsonaro-at-white-house",
+    "data": "2026-05-26",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-flavio-15",
+   "confirma": true,
+   "nota": "Confirma a mudança de posição e o voto favorável; a AFP descreve a crítica inicial como 'oportunista', e não com a expressão 'inoportuna e eleitoreira' registrada na base.",
+   "fonte": {
+    "titulo": "El Congreso de Brasil aprueba la reducción de la semana laboral, promesa de Lula antes del balotaje",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20261015-el-congreso-de-brasil-aprueba-la-reducci%C3%B3n-de-la-semana-laboral-promesa-de-lula-antes-del-balotaje",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-flavio-02",
+   "confirma": true,
+   "nota": "Confirma a participação de Flávio no primeiro debate do 2º turno, em 18/10/2026.",
+   "fonte": {
+    "titulo": "Lula and Bolsonaro spar in Brazil's fiery first presidential run-off debate",
+    "veiculo": "Al Jazeera (com AFP, AP e Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-flavio-02",
+   "confirma": true,
+   "nota": "A manchete da AP confirma que os dois principais candidatos faltaram ao debate de TV às vésperas do 1º turno. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Brazil's leading presidential candidates snub TV debate ahead of Sunday's election",
+    "veiculo": "The Washington Post (AP)",
+    "url": "https://www.washingtonpost.com/world/2026/10/01/brazil-election-president-debate-lula-bolsonaro/62dfbfa2-be0e-11f1-81fc-9b76f8343b6c_story.html",
+    "data": "2026-10-01",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-09",
+   "confirma": true,
+   "nota": "A AFP registra que Flávio disse que buscará anistia para Jair Bolsonaro se eleito.",
+   "fonte": {
+    "titulo": "Bolsonaro rides right-wing surge into Brazil's election runoff",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20261005-bolsonaro-rides-right-wing-surge-into-brazil-s-election-runoff",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-flavio-18",
+   "confirma": true,
+   "nota": "Confirma apenas a publicação de janeiro de 2026 com fotos de Maduro algemado e a frase 'Lula will be exposed'; não trata da comemoração da operação.",
+   "fonte": {
+    "titulo": "Brazil's police open a probe into presidential candidate Flavio Bolsonaro",
+    "veiculo": "Al Jazeera (com AFP)",
+    "url": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro",
+    "data": "2026-04-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-flavio-08",
+   "confirma": true,
+   "nota": "Confirma 121 cadeiras do PL e 70 do PT na Câmara; a qualificação de maior bancada de um partido desde 1990 não consta da reportagem.",
+   "fonte": {
+    "titulo": "Bolsonaro favourite to win: What Brazil's first round of elections tells us",
+    "veiculo": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-flavio-07",
+   "confirma": true,
+   "nota": "Confirma a promessa de teto da dívida com gatilho de gastos sem patamar definido pela campanha; registra que Sachsida, antes de integrar a campanha, citara gatilho de 65% do PIB.",
+   "fonte": {
+    "titulo": "Brazil's Flavio Bolsonaro to institute debt ceiling if elected president",
+    "veiculo": "Al Jazeera (com Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/8/26/brazils-flavio-bolsonaro-to-institute-debt-ceiling-if-elected-president",
+    "data": "2026-08-26",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-05",
+   "confirma": true,
+   "nota": "A AFP registra que Lula admitiu estar convencido de que venceria no 1º turno e anunciou a disputa do 2º turno.",
+   "fonte": {
+    "titulo": "Bolsonaro rides right-wing surge into Brazil's election runoff",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20261005-bolsonaro-rides-right-wing-surge-into-brazil-s-election-runoff",
+    "data": "2026-10-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-01",
+   "confirma": true,
+   "nota": "Confirma que Lula ficou 580 dias preso em 2018 e 2019 por condenação depois anulada por falhas na investigação e no processo; não detalha a decisão de Fachin.",
+   "fonte": {
+    "titulo": "Lula and Bolsonaro spar in Brazil's fiery first presidential run-off debate",
+    "veiculo": "Al Jazeera (com AFP, AP e Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-01",
+   "confirma": true,
+   "nota": "Confirma o veto em 08/01/2026, no aniversário dos ataques, e a frase de que a democracia não é conquista inabalável; não especifica se o veto foi integral.",
+   "fonte": {
+    "titulo": "Brazil's President Lula vetoes bill to trim Bolsonaro prison sentence",
+    "veiculo": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/1/9/brazils-president-lula-vetoes-bill-to-trim-bolsonaro-prison-sentence",
+    "data": "2026-01-09",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-lula-12",
+   "confirma": true,
+   "nota": "Confirma a derrubada do veto em 30/04/2026 por 318 a 144 na Câmara e 49 a 24 no Senado. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Congresso derruba veto de Lula para reduzir pena de Bolsonaro",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-30/congresso-derruba-veto-de-lula-para-reduzir-pena-de-bolsonaro",
+    "data": "2026-04-30",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-lula-11",
+   "confirma": true,
+   "nota": "Confirma a rejeição de Jorge Messias por 42 a 34 em 29/04/2026, a primeira em 132 anos. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Brazil's Senate blocks Lula's Supreme Court nominee, first rejection in 132 years",
+    "veiculo": "The Washington Post (AP)",
+    "url": "https://www.washingtonpost.com/world/2026/04/29/brazil-supreme-court-justice-messias-lula/def5bf4e-441d-11f1-b19d-32431046b5b4_story.html",
+    "data": "2026-04-29",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "trajetoria-lula-07",
+   "confirma": true,
+   "nota": "Confirma a sanção, em 26/11/2025, da isenção do IR até R$ 5 mil e a aprovação unânime na Câmara. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Brazil's Lula sanctions an increase in tax exemptions for low-income people",
+    "veiculo": "The Washington Post (AP)",
+    "url": "https://www.washingtonpost.com/world/2025/11/26/lula-brazil-income-tax/7c948e98-caf1-11f0-ac2a-e98510180900_story.html",
+    "data": "2025-11-26",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-lula-08",
+   "confirma": true,
+   "nota": "Confirma aprovação no Senado por 75 a 1 (14/10/2026), limite de 40 horas, dois dias de descanso e transição de 14 meses; não menciona a promulgação de 16/10.",
+   "fonte": {
+    "titulo": "El Congreso de Brasil aprueba la reducción de la semana laboral, promesa de Lula antes del balotaje",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20261015-el-congreso-de-brasil-aprueba-la-reducci%C3%B3n-de-la-semana-laboral-promesa-de-lula-antes-del-balotaje",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "propostas-lula-08",
+   "confirma": true,
+   "nota": "Confirma a aprovação no Senado por 75 a 1 da redução da jornada. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Brazil Election: Senate Approves Bill to Shorten Workweek in Boost to Lula",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/brazil-election-senate-approves-bill-to-shorten-workweek-in-boost-to-lula",
+    "data": "2026-10-15",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-13",
+   "confirma": true,
+   "nota": "Confirma que Lula disse que os bombardeios e a captura de Maduro ultrapassam 'an unacceptable line' e pediu reação vigorosa da ONU.",
+   "fonte": {
+    "titulo": "World reacts to US bombing of Venezuela, 'capture' of Maduro",
+    "veiculo": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/1/3/world-reacts-to-reported-us-bombing-of-venezuela",
+    "data": "2026-01-03",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-15",
+   "confirma": true,
+   "nota": "Confirma a fala em Adis Abeba sobre genocídio e a comparação com Hitler, e a reação de Netanyahu e Israel Katz.",
+   "fonte": {
+    "titulo": "Brazil's Lula compares Israel's war on Gaza with the Holocaust",
+    "veiculo": "Al Jazeera (agências)",
+    "url": "https://www.aljazeera.com/news/2024/2/18/brazils-lula-compares-israels-war-on-gaza-with-the-holocaust",
+    "data": "2024-02-18",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-10",
+   "confirma": true,
+   "nota": "Confirma o encontro de Kuala Lumpur (26/10/2025) e a busca de soluções para 'as tarifas e sanções'; a reportagem não cita a Lei Magnitsky nominalmente.",
+   "fonte": {
+    "titulo": "Trump meets Brazil's Lula at ASEAN summit, touts 'pretty good deals'",
+    "veiculo": "Al Jazeera (com agências)",
+    "url": "https://www.aljazeera.com/news/2025/10/26/trump-meets-brazils-lula-at-asean-summit-touts-pretty-good-deals",
+    "data": "2025-10-26",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "democracia-lula-10",
+   "confirma": true,
+   "nota": "Confirma a retirada das sanções contra Alexandre de Moraes em 12/12/2025. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Trump lifts sanctions on Brazilian judge targeted over Bolsonaro case",
+    "veiculo": "The Washington Post",
+    "url": "https://www.washingtonpost.com/national-security/2025/12/12/brazil-sanctions-lifted-trump-moraes-bolsonaro/",
+    "data": "2025-12-12",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-28",
+   "confirma": true,
+   "nota": "Confirma a autorização à Petrobras para perfurar poço exploratório na Foz do Amazonas em 20/10/2025. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Petrobras recebe aval para explorar petróleo na Foz do Amazonas",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-20/petrobras-recebe-aval-para-explorar-petroleo-na-foz-do-amazonas",
+    "data": "2025-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "economia-lula-09",
+   "confirma": true,
+   "nota": "Confirma o corte da Selic para 13,75% em 16/09/2026, quinto consecutivo. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Brazil Cuts Interest Rates to 13.75% Before Tight Presidential Election",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-16/brazil-cuts-interest-rates-to-13-75-before-tight-presidential-election",
+    "data": "2026-09-16",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-lula-06",
+   "confirma": true,
+   "nota": "Confirma a nota da chancelaria sobre 'nuevo e inaceptable intento de injerencia externa' e a postagem de Milei sobre 'robarse la elección'.",
+   "fonte": {
+    "titulo": "Brasil denuncia un intento de \"injerencia\" en el balotaje tras unos comentarios de Milei",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/es/minuto-a-minuto/20261021-brasil-denuncia-un-intento-de-injerencia-en-el-balotaje-tras-unos-comentarios-de-milei",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-fatos-lula-06",
+   "confirma": true,
+   "nota": "Confirma que o Brasil acusou Milei de interferência eleitoral em 20/10/2026. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Brazil Accuses Milei of Election Meddling Over Attack on Lula",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-accuses-milei-of-election-meddling-for-calling-lula-thief-ahead-of-vote",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-campanha-lula-03",
+   "confirma": true,
+   "nota": "Confirma a oferta de abrir sigilos bancário, fiscal e telefônico de Lula e familiares condicionada a Flávio fazer o mesmo, mas a descreve como declaração em ato no Maranhão, sem mencionar o protocolo no TSE nem o período de oito anos.",
+   "fonte": {
+    "titulo": "Lula challenges Bolsonaro to release personal records before election",
+    "veiculo": "Al Jazeera (com Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election",
+    "data": "2026-10-20",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-lula-14",
+   "confirma": true,
+   "nota": "Confirma que Lula chamou Flávio de 'habitual liar', 'thug' e aludiu a 'militiaman'.",
+   "fonte": {
+    "titulo": "Lula and Bolsonaro spar in Brazil's fiery first presidential run-off debate",
+    "veiculo": "Al Jazeera (com AFP, AP e Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-lula-14",
+   "confirma": true,
+   "nota": "A AFP confirma os insultos e os pedidos de Lula para que os espectadores pesquisassem no Google.",
+   "fonte": {
+    "titulo": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil poll debate",
+    "veiculo": "AFP (via France 24)",
+    "url": "https://www.france24.com/en/live-news/20261018-lula-bolsonaro-set-for-first-debate-showdown-in-bitter-election-race",
+    "data": "2026-10-19",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "campanha-lula-02",
+   "confirma": true,
+   "nota": "A manchete da AP confirma que os dois principais candidatos faltaram ao debate de TV às vésperas do 1º turno. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Brazil's leading presidential candidates snub TV debate ahead of Sunday's election",
+    "veiculo": "The Washington Post (AP)",
+    "url": "https://www.washingtonpost.com/world/2026/10/01/brazil-election-president-debate-lula-bolsonaro/62dfbfa2-be0e-11f1-81fc-9b76f8343b6c_story.html",
+    "data": "2026-10-01",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "integridade-lula-10",
+   "confirma": true,
+   "nota": "Confirma que Fábio Luís é investigado por supostos pagamentos ligados à fraude do INSS; não trata da quebra de sigilos nem do relator.",
+   "fonte": {
+    "titulo": "Brazil's Flavio Bolsonaro names Alfredo Gaspar as running mate",
+    "veiculo": "Al Jazeera (com Reuters e AP)",
+    "url": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate",
+    "data": "2026-08-05",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-campanha-lula-09",
+   "confirma": true,
+   "nota": "Confirma o reajuste do piso do Bolsa Família de R$ 600 para R$ 691 a partir de outubro de 2026; não trata da antecipação do calendário.",
+   "fonte": {
+    "titulo": "Brazil's Lula announces welfare increases ahead of presidential election",
+    "veiculo": "Al Jazeera (com Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/9/17/brazils-lula-announces-welfare-increases-ahead-of-presidential-election",
+    "data": "2026-09-17",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  },
+  {
+   "evidencia_id": "atualizacao-campanha-lula-05",
+   "confirma": true,
+   "nota": "Confirma que, em São Luís, em 20/10/2026, Lula disse que enviará ao Congresso emenda de transporte gratuito nos fins de semana. Conteúdo visto apenas no resultado de busca (página bloqueada para leitura automatizada).",
+   "fonte": {
+    "titulo": "Free Bus Rides, Cash Back: Lula, Bolsonaro Court Brazil Voters With Costly Promises",
+    "veiculo": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-21/free-bus-rides-cash-back-lula-bolsonaro-court-brazil-voters-ahead-of-election",
+    "data": "2026-10-21",
+    "tipo_fonte": "JORNALISTICA"
+   }
+  }
+ ],
+ "evidencias": [
+  {
+   "id": "reforco-internacional-lula-01",
+   "candidato": "lula",
+   "criterio": "economia_fiscal",
+   "tema": "editorial do Financial Times",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Em editorial de 05/10/2026, segundo a Gazeta do Povo, o Financial Times atribuiu o resultado do 1º turno mais às falhas de Lula do que aos méritos do adversário, citou dificuldade de resposta às facções e a \"política fiscal frouxa\" como fator de juros altos, e reconheceu o desemprego historicamente baixo.",
+   "data_fato": "2026-10-05",
+   "fontes": [
+    {
+     "titulo": "Vitória de Flávio no primeiro turno expõe fraquezas de Lula, diz FT (reproduz editorial do Financial Times de 05/10/2026)",
+     "veiculo": "Financial Times (reproduzido pela Gazeta do Povo)",
+     "url": "https://www.gazetadopovo.com.br/mundo/vitoria-flavio-primeiro-turno-expoe-fraquezas-lula-diz-maior-jornal-economico-mundo/",
+     "data": "2026-10-06",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Financial Times vê vitória de Flávio como retorno notável da família Bolsonaro",
+     "veiculo": "Financial Times (reproduzido pelo Brasil em Folhas)",
+     "url": "https://www.brasilemfolhas.com.br/2026/10/financial-times-ve-vitoria-de-flavio-como-retorno-notavel-da-familia-bolsonaro/",
+     "data": "2026-10",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O mesmo editorial, segundo as reproduções, afirma que Lula não teve ligação direta com o caso Banco Master e que não se pode descartar sua recuperação.",
+   "limitacoes": "Opinião editorial, lida apenas em tradução de veículos brasileiros; as reproduções divergem sobre a quem o FT aplicou o adjetivo 'medíocre' (Gazeta: a Flávio; Brasil em Folhas: à campanha de Lula). Não prova desempenho fiscal."
+  },
+  {
+   "id": "reforco-internacional-lula-02",
+   "candidato": "lula",
+   "criterio": "experiencia",
+   "tema": "editorial da The Economist sobre a candidatura",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Em editorial de 30/12/2025, segundo a CNN Brasil, The Economist sustentou que Lula não deveria disputar a reeleição por causa da idade (80 anos), afirmou que os brasileiros \"merecem opções melhores\" e qualificou de medíocres suas políticas econômicas.",
+   "data_fato": "2025-12-30",
+   "fontes": [
+    {
+     "titulo": "Lula não deveria concorrer à reeleição em 2026, avalia The Economist (reproduz editorial de 30/12/2025)",
+     "veiculo": "The Economist (reproduzido pela CNN Brasil)",
+     "url": "https://www.cnnbrasil.com.br/politica/lula-nao-deveria-concorrer-a-reeleicao-em-2026-avalia-the-economist/",
+     "data": "2025-12-31",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A revista reconheceu, segundo a reprodução, bons resultados da economia; Lula declara estar em ótima forma física.",
+   "limitacoes": "Editorial anterior à campanha e ao 2º turno, lido apenas na reprodução da CNN Brasil. Avaliação sobre idade não constitui fato sobre capacidade."
+  },
+  {
+   "id": "reforco-internacional-lula-03",
+   "candidato": "lula",
+   "criterio": "experiencia",
+   "tema": "coluna Bloomberg Opinion",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Coluna de Juan Pablo Spinetto na Bloomberg Opinion (26/03/2026), intitulada 'Lula Should Not Repeat Joe Biden's Mistake', comparou a insistência de Lula na reeleição à de Biden e citou pesquisa AtlasIntel em que ele perderia o 2º turno por um ponto.",
+   "data_fato": "2026-03-26",
+   "fontes": [
+    {
+     "titulo": "As Brazil's Election Nears, Lula Should Not Repeat Joe Biden's Mistake",
+     "veiculo": "Bloomberg Opinion (coluna de Juan Pablo Spinetto)",
+     "url": "https://www.bloomberg.com/opinion/articles/2026-03-26/as-brazil-s-election-nears-lula-should-not-repeat-joe-biden-s-mistake",
+     "data": "2026-03-26",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "",
+   "limitacoes": "Coluna assinada, não editorial institucional; conteúdo visto apenas no resultado de busca (título e trecho inicial). Anterior ao 1º turno."
+  },
+  {
+   "id": "reforco-internacional-lula-04",
+   "candidato": "lula",
+   "criterio": "governabilidade",
+   "tema": "análise Al Jazeera pós-1º turno",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Em análise da Al Jazeera (06/10/2026), Andre Pagliarini (Louisiana State University) apontou a percepção de que o governo não entrega o suficiente em economia e segurança, mas chamou Lula de \"an extremely powerful communicator\"; a reportagem lista desemprego recorde baixo, queda da desigualdade e inflação em desaceleração.",
+   "data_fato": "2026-10-06",
+   "fontes": [
+    {
+     "titulo": "Why Flavio Bolsonaro outperformed the polls in Brazil's election",
+     "veiculo": "Al Jazeera (com Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election",
+     "data": "2026-10-06",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Carlos Pereira (FGV) atribuiu parte do resultado a uma consolidação tardia do voto de direita.",
+   "limitacoes": "Avaliação de analistas ouvidos, não posição editorial do veículo."
+  },
+  {
+   "id": "reforco-internacional-lula-05",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "análise Al Jazeera sobre a onda de direita",
+   "tipo": "INTERPRETACAO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Em explicativo da Al Jazeera (04/10/2026), Andre Pagliarini afirmou que Lula passou a encarnar a institucionalização e a consolidação da democracia brasileira; o texto registra também que o governo ainda enfrenta frustração com o custo de vida e crescente isolamento no hemisfério.",
+   "data_fato": "2026-10-04",
+   "fontes": [
+    {
+     "titulo": "Will Brazil's Lula halt the right-wing wave sweeping Latin America?",
+     "veiculo": "Al Jazeera (com Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america",
+     "data": "2026-10-04",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "",
+   "limitacoes": "Interpretação de analista; não mede compromisso democrático por atos concretos."
+  },
+  {
+   "id": "reforco-internacional-lula-06",
+   "candidato": "lula",
+   "criterio": "economia_fiscal",
+   "tema": "síntese da AFP sobre o 3º mandato",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "A AFP (05/10/2026) registrou que, no terceiro mandato, a inflação foi controlada e o desemprego chegou a mínimas históricas, mas há queixas de perda de poder de compra e endividamento; o analista Thomas Traumann falou em \"tsunami of anti-PT sentiment\", e analistas não identificados viram possível erro de cálculo na ênfase na soberania.",
+   "data_fato": "2026-10-05",
+   "fontes": [
+    {
+     "titulo": "Bolsonaro rides right-wing surge into Brazil's election runoff",
+     "veiculo": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261005-bolsonaro-rides-right-wing-surge-into-brazil-s-election-runoff",
+     "data": "2026-10-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "",
+   "limitacoes": "Reportagem de agência com avaliação de analistas; não traz números próprios."
+  },
+  {
+   "id": "reforco-internacional-lula-07",
+   "candidato": "lula",
+   "criterio": "integridade",
+   "tema": "caso Banco Master (análise)",
+   "tipo": "INTERPRETACAO",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Reportagem especial da Al Jazeera (02/10/2026) registrou que Lula não foi diretamente ligado ao escândalo do Banco Master; Anthony Pereira (Tulane) avaliou que parte dos eleitores associa Lula ao ministro Alexandre de Moraes.",
+   "data_fato": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "How the Banco Master scandal injected chaos into Brazil's presidential race",
+     "veiculo": "Al Jazeera",
+     "url": "https://www.aljazeera.com/features/longform/2026/10/2/how-the-banco-master-scandal-injected-chaos-into-brazils-presidential-race",
+     "data": "2026-10-02",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Pesquisa Datafolha citada no texto: 34% associavam o escândalo principalmente à esquerda e 27% à direita.",
+   "limitacoes": "Ausência de vínculo direto refere-se ao que era público em 02/10/2026."
+  },
+  {
+   "id": "reforco-internacional-lula-08",
+   "candidato": "lula",
+   "criterio": "coerencia",
+   "tema": "discurso de soberania (análise)",
+   "tipo": "INTERPRETACAO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Na cobertura do lançamento da candidatura (02/08/2026), a Al Jazeera citou Leonardo Paz (FGV), para quem \"The sovereignty message comes at the perfect time for Lula\" por permitir apontar um inimigo externo; o texto credita ao governo crescimento, emprego alto e programas sociais e aponta custo de vida e déficit como fraquezas.",
+   "data_fato": "2026-08-02",
+   "fontes": [
+    {
+     "titulo": "Brazil's Lula launches fourth-term bid, focuses on national sovereignty",
+     "veiculo": "Al Jazeera (com AFP e AP)",
+     "url": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty",
+     "data": "2026-08-02",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "",
+   "limitacoes": "Interpretação sobre estratégia de campanha, não sobre resultados."
+  },
+  {
+   "id": "reforco-internacional-lula-09",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "encontro com Trump na Casa Branca",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Lula reuniu-se com Donald Trump na Casa Branca em 07/05/2026, por cerca de três horas, em meio a esforços para evitar novas tarifas; Trump escreveu que a reunião \"went very well\" e Lula disse sair \"very, very satisfied\", sem anúncio de acordo.",
+   "data_fato": "2026-05-07",
+   "fontes": [
+    {
+     "titulo": "Brazil's Lula meets Trump amid efforts to avert new US trade tariffs",
+     "veiculo": "Al Jazeera (Reuters)",
+     "url": "https://www.aljazeera.com/amp/news/2026/5/7/brazils-lula-meets-trump-amid-efforts-to-avert-new-us-trade-tariffs",
+     "data": "2026-05-07",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "",
+   "limitacoes": "A reportagem não informa compromissos nem mudanças tarifárias decorrentes do encontro."
+  },
+  {
+   "id": "reforco-internacional-lula-10",
+   "candidato": "lula",
+   "criterio": "impactos",
+   "tema": "desmatamento 2025-2026 (Prodes)",
+   "tipo": "DADO_OFICIAL",
+   "sentido": "FAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Segundo o Prodes/INPE, divulgado em 16/10/2026, o desmatamento na Amazônia entre agosto de 2025 e julho de 2026 foi de 3.335 km², queda de quase 42% e menor nível desde o início da série, em 1988; no Cerrado, 5.517 km² (queda de quase 24%).",
+   "data_fato": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "Deforestation in Brazil Amazon hits nearly four-decade low",
+     "veiculo": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261016-deforestation-in-brazil-amazon-hits-nearly-four-decade-low",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Desmatamento cai na Amazônia e no Cerrado em 2026",
+     "veiculo": "Poder360",
+     "url": "https://www.poder360.com.br/poder-sustentavel/desmatamento-cai-na-amazonia-e-no-cerrado-em-2026/",
+     "data": "2026-10-16",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio Bolsonaro promete acabar com o desmatamento ilegal até 2029 e tratar o meio ambiente como 'ativo estratégico'.",
+   "limitacoes": "Dado oficial relatado por agência; não isola o efeito de políticas federais de fatores climáticos ou econômicos."
+  },
+  {
+   "id": "reforco-internacional-lula-11",
+   "candidato": "lula",
+   "criterio": "democracia",
+   "tema": "pedido de cassação de Flávio (Meta)",
+   "tipo": "ALEGACAO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 20/10/2026, a campanha de Lula anunciou que pediria ao TSE, em 21/10, a cassação da candidatura de Flávio Bolsonaro por suposta 'manipulação algorítmica' da Meta em seu favor; antes, o TSE dera 24 horas à Meta para comprovar tratamento igualitário, e a empresa disse ter cumprido a decisão.",
+   "data_fato": "2026-10-20",
+   "fontes": [
+    {
+     "titulo": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
+     "veiculo": "Al Jazeera (com AFP)",
+     "url": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff",
+     "data": "2026-10-21",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula's campaign seeks to disqualify Bolsonoro from Brazil presidential vote over Meta 'interference'",
+     "veiculo": "France 24 (com AFP)",
+     "url": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference",
+     "data": "2026-10-20",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A Meta nega favorecer qualquer lado e atribui desativação de anúncios de Lula a erros técnicos.",
+   "limitacoes": "Pedido anunciado, não julgado; não prova a interferência alegada."
+  },
+  {
+   "id": "reforco-internacional-flavio-01",
+   "candidato": "flavio",
+   "criterio": "experiencia",
+   "tema": "editorial do Financial Times",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Em editorial de 05/10/2026, segundo a Gazeta do Povo, o Financial Times afirmou que o retorno do clã Bolsonaro \"reside menos nas realizações de Flávio Bolsonaro\" e mais no fracasso de Lula; reproduções em outros veículos atribuem ao jornal alerta de nova crise institucional se Flávio tentar libertar o pai sem apoio decisivo do Congresso.",
+   "data_fato": "2026-10-05",
+   "fontes": [
+    {
+     "titulo": "Vitória de Flávio no primeiro turno expõe fraquezas de Lula, diz FT (reproduz editorial do Financial Times de 05/10/2026)",
+     "veiculo": "Financial Times (reproduzido pela Gazeta do Povo)",
+     "url": "https://www.gazetadopovo.com.br/mundo/vitoria-flavio-primeiro-turno-expoe-fraquezas-lula-diz-maior-jornal-economico-mundo/",
+     "data": "2026-10-06",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Financial Times vê vitória de Flávio como retorno notável da família Bolsonaro",
+     "veiculo": "Financial Times (reproduzido pelo Brasil em Folhas)",
+     "url": "https://www.brasilemfolhas.com.br/2026/10/financial-times-ve-vitoria-de-flavio-como-retorno-notavel-da-familia-bolsonaro/",
+     "data": "2026-10",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O editorial, segundo as reproduções, trata Flávio como favorito e vê sua ascensão como parte da onda de direita na região.",
+   "limitacoes": "Opinião editorial, lida apenas em tradução; o alerta de crise institucional foi visto só em resumos de busca de terceiros; as reproduções divergem sobre o adjetivo 'medíocre'."
+  },
+  {
+   "id": "reforco-internacional-flavio-02",
+   "candidato": "flavio",
+   "criterio": "experiencia",
+   "tema": "editorial da The Economist sobre a candidatura",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "No editorial de 30/12/2025, segundo a CNN Brasil, The Economist classificou Flávio Bolsonaro como \"impopular\" e \"ineficaz\", com poucas chances, e apontou Tarcísio de Freitas como alternativa da direita.",
+   "data_fato": "2025-12-30",
+   "fontes": [
+    {
+     "titulo": "Lula não deveria concorrer à reeleição em 2026, avalia The Economist (reproduz editorial de 30/12/2025)",
+     "veiculo": "The Economist (reproduzido pela CNN Brasil)",
+     "url": "https://www.cnnbrasil.com.br/politica/lula-nao-deveria-concorrer-a-reeleicao-em-2026-avalia-the-economist/",
+     "data": "2025-12-31",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "O resultado do 1º turno (47,03%) contrariou a previsão de poucas chances.",
+   "limitacoes": "Editorial anterior à campanha, lido apenas na reprodução da CNN Brasil."
+  },
+  {
+   "id": "reforco-internacional-flavio-03",
+   "candidato": "flavio",
+   "criterio": "governabilidade",
+   "tema": "coluna Bloomberg Opinion",
+   "tipo": "OPINIAO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Coluna de Juan Pablo Spinetto na Bloomberg Opinion (05/10/2026), 'Bolsonaro's Strong Showing Leaves Brazil's Left on the Ropes', interpretou o resultado como guinada mais ampla do país à direita e registrou que o PL deve ter a maior bancada no Senado no início de uma legislatura desde 1988.",
+   "data_fato": "2026-10-05",
+   "fontes": [
+    {
+     "titulo": "Bolsonaro's Strong Showing Leaves Brazil's Left on the Ropes",
+     "veiculo": "Bloomberg Opinion (coluna de Juan Pablo Spinetto)",
+     "url": "https://www.bloomberg.com/opinion/articles/2026-10-05/bolsonaro-s-strong-showing-leaves-brazil-s-left-on-the-ropes",
+     "data": "2026-10-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "",
+   "limitacoes": "Coluna assinada; conteúdo visto apenas no resultado de busca (trecho inicial)."
+  },
+  {
+   "id": "reforco-internacional-flavio-04",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "análise Al Jazeera pós-1º turno",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Na análise da Al Jazeera (06/10/2026), Andre Pagliarini atribuiu a Flávio imagem de \"anti-institutional insurgent\" e um ambiente informacional favorável, e afirmou que ele está \"directly implicated\" no caso Banco Master, mais do que Lula.",
+   "data_fato": "2026-10-06",
+   "fontes": [
+    {
+     "titulo": "Why Flavio Bolsonaro outperformed the polls in Brazil's election",
+     "veiculo": "Al Jazeera (com Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election",
+     "data": "2026-10-06",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio nega irregularidades e diz que buscava investimento privado para o filme.",
+   "limitacoes": "Avaliação de analista; 'implicado' não equivale a acusação formal."
+  },
+  {
+   "id": "reforco-internacional-flavio-05",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "análise Al Jazeera sobre a onda de direita",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "No explicativo da Al Jazeera (04/10/2026), Andre Pagliarini descreveu o discurso da família Bolsonaro como retrato das instituições pós-ditadura como \"rotten and unresponsive\", com proposta de ruptura com o status quo.",
+   "data_fato": "2026-10-04",
+   "fontes": [
+    {
+     "titulo": "Will Brazil's Lula halt the right-wing wave sweeping Latin America?",
+     "veiculo": "Al Jazeera (com Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america",
+     "data": "2026-10-04",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio afirma que respeitará a Constituição e o resultado das eleições.",
+   "limitacoes": "Interpretação de analista sobre o discurso, não sobre atos."
+  },
+  {
+   "id": "reforco-internacional-flavio-06",
+   "candidato": "flavio",
+   "criterio": "coerencia",
+   "tema": "perfil da AFP",
+   "tipo": "INTERPRETACAO",
+   "sentido": "MISTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Perfil da AFP (28/09/2026) afirmou que Flávio luta para sair da sombra do pai, que se apresenta como 'Bolsonaro mais moderado' com o pai como 'bússola'; Thomas Traumann o achou mais afável, o que \"doesn't mean he isn't ideologically far-right\". O texto registra o elogio a Bukele.",
+   "data_fato": "2026-09-28",
+   "fontes": [
+    {
+     "titulo": "Flavio Bolsonaro: political heir in his father's shadow",
+     "veiculo": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20260928-flavio-bolsonaro-political-heir-in-his-father-s-shadow",
+     "data": "2026-09-28",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "",
+   "limitacoes": "Perfil jornalístico com avaliação de um analista."
+  },
+  {
+   "id": "reforco-internacional-flavio-07",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "caso Banco Master (análise)",
+   "tipo": "INTERPRETACAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Na reportagem especial da Al Jazeera (02/10/2026), Anthony Pereira (Tulane) disse que Flávio \"is far more implicated\" no escândalo, e Leonardo Paz (FGV) avaliou que o caso envolve predominantemente a direita.",
+   "data_fato": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "How the Banco Master scandal injected chaos into Brazil's presidential race",
+     "veiculo": "Al Jazeera",
+     "url": "https://www.aljazeera.com/features/longform/2026/10/2/how-the-banco-master-scandal-injected-chaos-into-brazils-presidential-race",
+     "data": "2026-10-02",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio descreve a relação com Vorcaro como patrocínio privado sem ligação com o Banco Master.",
+   "limitacoes": "Opinião de analistas; a investigação não tem denúncia."
+  },
+  {
+   "id": "reforco-internacional-flavio-08",
+   "candidato": "flavio",
+   "criterio": "propostas",
+   "tema": "coluna Reuters Breakingviews",
+   "tipo": "OPINIAO",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "BAIXO",
+   "afirmacao": "Coluna da Reuters Breakingviews (05/10/2026), 'Brazil's right-wing return fuels a fiscal mirage', avaliou que a liderança de Flávio reavivou esperança de ajuste pró-mercado, mas que os cortes possíveis são limitados porque a maior parte do gasto é vinculada por lei, com dívida de 83% do PIB.",
+   "data_fato": "2026-10-05",
+   "fontes": [
+    {
+     "titulo": "Brazil's right-wing return fuels a fiscal mirage",
+     "veiculo": "Reuters Breakingviews (coluna de opinião)",
+     "url": "https://www.breakingviews.com/columns/breaking-view/brazils-right-wing-return-fuels-fiscal-mirage-2026-10-05/",
+     "data": "2026-10-05",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "A campanha estima corte de despesas de 1,5% do PIB.",
+   "limitacoes": "Coluna de opinião; conteúdo visto apenas no resultado de busca (página exige assinatura)."
+  },
+  {
+   "id": "reforco-internacional-flavio-09",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "pedido de adiamento de tarifas ao USTR",
+   "tipo": "FATO_COMPROVADO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Segundo a Reuters, Flávio enviou ao Escritório do Representante Comercial dos EUA manifestação pedindo adiamento de 180 dias das tarifas de 25% propostas em junho de 2026, argumentando que elas dariam ao governo brasileiro \"precisely the political victory it has been engineering\".",
+   "data_fato": "2026-07-06",
+   "fontes": [
+    {
+     "titulo": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
+     "veiculo": "Al Jazeera (com Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election",
+     "data": "2026-07-06",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Lula acusou a família Bolsonaro de originar as tarifas e chamou o pedido de traição à pátria; Flávio nega ter incentivado as sanções.",
+   "limitacoes": "Não prova influência de Flávio sobre a decisão americana."
+  },
+  {
+   "id": "reforco-internacional-flavio-10",
+   "candidato": "flavio",
+   "criterio": "integridade",
+   "tema": "inquérito por calúnia contra Lula",
+   "tipo": "INVESTIGACAO_OU_DENUNCIA",
+   "sentido": "DESFAVORAVEL",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em abril de 2026, o ministro Alexandre de Moraes (STF), a pedido do Ministério da Justiça, autorizou a PF a investigar Flávio por calúnia, por postagem de janeiro que ligava Lula a narcotráfico, lavagem e fraude eleitoral; a PF teria 60 dias para a apuração inicial.",
+   "data_fato": "2026-04-15",
+   "fontes": [
+    {
+     "titulo": "Brazil Supreme Court orders probe into Flavio Bolsonaro for 'slander' of Lula",
+     "veiculo": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20260415-brazil-supreme-court-orders-probe-into-flavio-bolsonaro-for-slander-of-lula",
+     "data": "2026-04-15",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Brazil's police open a probe into presidential candidate Flavio Bolsonaro",
+     "veiculo": "Al Jazeera (com AFP)",
+     "url": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro",
+     "data": "2026-04-15",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "Flávio chamou o inquérito de tentativa de restringir a liberdade de expressão; sua assessoria disse que ele apenas relatou fatos.",
+   "limitacoes": "Estágio atual (arquivamento, denúncia ou curso) não consta das fontes; investigação não é culpa."
+  },
+  {
+   "id": "reforco-internacional-flavio-11",
+   "candidato": "flavio",
+   "criterio": "democracia",
+   "tema": "pedido de inelegibilidade de Lula",
+   "tipo": "ALEGACAO",
+   "sentido": "CONTEXTO",
+   "peso_probatorio": "MEDIO",
+   "afirmacao": "Em 20/10/2026, advogados de Flávio pediram ao TSE que Lula e o ministro Sidônio Palmeira sejam declarados inelegíveis por oito anos, por suposto abuso de poder na difusão em massa de mensagens do governo por WhatsApp durante a campanha.",
+   "data_fato": "2026-10-20",
+   "fontes": [
+    {
+     "titulo": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
+     "veiculo": "Al Jazeera (com AFP)",
+     "url": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff",
+     "data": "2026-10-21",
+     "tipo_fonte": "JORNALISTICA"
+    },
+    {
+     "titulo": "Lula's campaign seeks to disqualify Bolsonoro from Brazil presidential vote over Meta 'interference'",
+     "veiculo": "France 24 (com AFP)",
+     "url": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference",
+     "data": "2026-10-20",
+     "tipo_fonte": "JORNALISTICA"
+    }
+   ],
+   "contraponto": "",
+   "limitacoes": "Pedido não julgado até a publicação; não prova o abuso alegado."
+  }
+ ],
+ "lacunas": [
+  "Acesso: Reuters, Associated Press, BBC (inclusive BBC News Brasil), The Guardian, The New York Times, The Wall Street Journal, El País, Le Monde, Deutsche Welle, Financial Times e The Economist recusaram leitura e busca automatizadas (política de bloqueio ao agente). Não houve tentativa de contornar o bloqueio. Reuters e AP só foram usadas quando republicadas (Al Jazeera, Washington Post); FT e Economist só por reprodução em veículos brasileiros; Bloomberg e Washington Post só pelo resultado de busca (HTTP 403 na leitura).",
+  "Ambos: o limite de buscas da rodada foi atingido; parte do roteiro ficou sem verificação nos veículos indicados.",
+  "Ambos: nenhum conteúdo de BBC News Brasil, Deutsche Welle, Le Monde, The Wall Street Journal ou El País sobre fatos da base pôde ser lido diretamente.",
+  "Tarefa 2, simetria: foram feitas 9 buscas espelhadas por candidato (Economist, FT em inglês, FT em português, Bloomberg Opinion, coluna Bloomberg específica, Washington Post, Guardian/NYT, El País/Le Monde, Al Jazeera opinião).",
+  "Tarefa 2, ambos: não foi localizado editorial do conselho editorial do Washington Post, do New York Times, do Guardian, do El País ou do Le Monde sobre nenhum dos dois candidatos; resumos de terceiros (Times Brasil, Brasil 247) mencionam análises de NYT, Guardian e El País sobre o 1º turno, não registradas por falta de leitura do original.",
+  "Tarefa 2, Lula: a Reuters Breakingviews publicou coluna sobre a agenda fiscal de Flávio (05/10/2026); não foi encontrada coluna equivalente sobre Lula no período, com a ressalva do limite de buscas.",
+  "Tarefa 2, ambos: as reproduções do editorial do FT de 05/10/2026 divergem sobre a quem se aplicou o adjetivo 'medíocre'; o termo não foi registrado.",
+  "Flávio: a entrevista de dezembro de 2025 à Reuters (trajetoria-flavio-16) só foi vista em reproduções brasileiras; o original não foi lido.",
+  "Flávio: anulações do STJ (2021) e do STF (HC 201965) no caso da rachadinha não foram encontradas nos veículos acessíveis; a AFP só registra o arquivamento.",
+  "Lula: a declaração de suspeição de Moro (2021) e o placar da aprovação de Zanin não foram lidos em veículo da lista.",
+  "Ambos: o recorde do Ibovespa de 09/10/2026 (209.067 pontos) não foi confirmado; AFP e Bloomberg registram recorde intradiário em 05/10/2026, após o 1º turno, fato distinto.",
+  "Lula: a mínima de desocupação de 5,4% (economia-lula-07) diverge de AFP (5,1% no 4º trimestre de 2025) e Bloomberg (5,2% no trimestre até novembro de 2025); recomenda-se conferir a PNAD Contínua.",
+  "Flávio: a AJ/Reuters lista 'tax evasion' entre os crimes apurados no INQ ligado a Vorcaro, enquanto a base registra evasão de divisas; recomenda-se conferir a decisão do STF."
+ ]
+}
